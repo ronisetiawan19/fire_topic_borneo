@@ -7,7 +7,7 @@ program
   .option("-o, --output <path>", "output directory", "output/googlemaps")
   .option("--format <csv|json>", "output format", "json")
   .option("--headless <true|false>", "run headless", "true")
-  .option("--max-reviews <n>", "max reviews per place (0 = all)", String(DEFAULT_MAX_REVIEWS))
+  .option("--max-reviews <n>", "max reviews per place (0 = all)", "0")
   .option("--sort <newest|oldest|relevance>", "review sort order", "newest")
   .option("--since <YYYY-MM-DD>", "only reviews after this date")
   .option("--until <YYYY-MM-DD>", "only reviews before this date");
