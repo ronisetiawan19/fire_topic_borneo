@@ -1,4 +1,5 @@
 #!/usr/bin/env bun
+import { program } from "commander";
 program
   .name("gm")
   .description("Google Maps scraper")
