@@ -1,0 +1,77 @@
+{
+  "source": "urls",
+  "scraped_at": "2026-09-10T15:05:25.451Z",
+  "total_videos": 1,
+  "total_comments": 1,
+  "total_replies": 1,
+  "total_records": 2,
+  "comments": [
+    {
+      "comment_id": "Ugzge340dBgB75hWBm54AaABAg",
+      "author": "UCBR8-60-B28hp2BmDPdntcQ",
+      "nickname": "YouTube",
+      "text": "can confirm: he never gave us up",
+      "likes": 313000,
+      "replies": 963,
+      "time": 1757495766,
+      "video_id": "dQw4w9WgXcQ",
+      "type": "comment",
+      "parent_comment_id": ""
+    },
+    {
+      "comment_id": "Ugzge340dBgB75hWBm54AaABAg.AHE8_QAWJx9AHKUhQwxI28",
+      "author": "UCJJH26dHgztHGDwFxtS5Y3A",
+      "nickname": "jrozlie",
+      "text": "Remove ads from this video so we can rickroll",
+      "likes": 4200,
+      "replies": 0,
+      "time": 1757495767,
+      "video_id": "dQw4w9WgXcQ",
+      "type": "reply",
+      "parent_comment_id": "Ugzge340dBgB75hWBm54AaABAg"
+    }
+  ],
+  "videos": [
+    {
+      "video_id": "dQw4w9WgXcQ",
+      "title": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
+      "author": "",
+      "nickname": "Rick Astley",
+      "channel_id": "",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "views": 1814049741,
+      "stats": {
+        "play": 1814049741,
+        "like": 0,
+        "share": 0,
+        "comment": null
+      },
+      "comments": [
+        {
+          "comment_id": "Ugzge340dBgB75hWBm54AaABAg",
+          "author": "UCBR8-60-B28hp2BmDPdntcQ",
+          "nickname": "YouTube",
+          "text": "can confirm: he never gave us up",
+          "likes": 313000,
+          "replies": 963,
+          "time": 1757495766,
+          "video_id": "dQw4w9WgXcQ",
+          "type": "comment",
+          "parent_comment_id": ""
+        },
+        {
+          "comment_id": "Ugzge340dBgB75hWBm54AaABAg.AHE8_QAWJx9AHKUhQwxI28",
+          "author": "UCJJH26dHgztHGDwFxtS5Y3A",
+          "nickname": "jrozlie",
+          "text": "Remove ads from this video so we can rickroll",
+          "likes": 4200,
+          "replies": 0,
+          "time": 1757495767,
+          "video_id": "dQw4w9WgXcQ",
+          "type": "reply",
+          "parent_comment_id": "Ugzge340dBgB75hWBm54AaABAg"
+        }
+      ]
+    }
+  ]
+}

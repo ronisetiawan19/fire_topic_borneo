@@ -1,0 +1,2934 @@
+{
+  "query": [
+    "https://maps.app.goo.gl/G4QWpLkVSS5onAdr8"
+  ],
+  "mode": "browser",
+  "date_range": {
+    "since": "2025-09-11",
+    "until": null
+  },
+  "sort": "relevant",
+  "scraped_at": "2026-09-11T00:15:35.044Z",
+  "total_places": 1,
+  "total_reviews": 315,
+  "places": [
+    {
+      "place_id": "0x2e69ef1b5dd52f1b:0xc22193616cb36b55",
+      "name": "0x2e69ef1b5dd52f1b:0xc22193616cb36b55",
+      "address": "",
+      "rating": 0,
+      "reviews_count": 315,
+      "link": "https://www.google.com/maps/place/hoz+pasta/@-6.3650748,106.7246347,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69ef1b5dd52f1b:0xc22193616cb36b55!8m2!3d-6.3650748!4d106.7246347!16s%2Fg%2F11xyh64j2r?entry=ttu&g_ep=EgoyMDI2MDkwOC4wIKXMDSoASAFQAw%3D%3D",
+      "reviews": [
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214a01WUXlVSGRDT1Y5RWEwTTVUamxPT0hreWRXYxAB",
+          "author": "Maya A Hapsari",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Beberapa kali makan Hoz Pasta di cabang pamulang 2, suka bangetttt. Ehhh tiba2 buka cabang baru yg lebih deket dr rumah. Rasanya sama, gak ada bedanya. Fav aku: lasagna!!! Best dehhh\n\nNasgor nya juga enak, sadly nasinya terlalu kering. Tp rasanya tetep enakkk. Baked penne pesto nya jg enak.",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoeU9HeFZXV1oxYW1SeFJXbGFWMVZGVWpSWVExRRAB",
+          "author": "Dimana bob",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Biasa yg di benda baru pulang, kali ini yang di pondok petir. Wow parkiran luas! Mobil bisa 4-5, di samping nya juga ada lagi.\n\nTempat duduk luas, ada indoor ada outdoor.\n\nSeperti biasa anak anak pasti mac n cheese top banget. Minum strawberry tea mint nya juga seger bukan yg teh doang rasanya.\n\nBurger oke, sauce nya enak.\n\nHarga masuk akal dan masih ramah 👍👍",
+          "time": 1783728775,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sTE5raEdVVFo0ZDNCMWIycFpWRGgxUVZkS1VsRRAB",
+          "author": "Sekar Arum Dyah Galuh Pitaloka",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Pertama kali kesini waktu itu emang mau hunting Pasta, eh ketemu HOZ Pasta dan overall semua makanannya enak gaada yg gagal, terutama Aglio Olio, Zuppa Soup, sama Matcha Strawberry nya enak banget. Selalu datang siang, kali ini dateng malem dan suasananya syahdu, bikin betah.",
+          "time": 1783728775,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pabmFrWkNXbnBTVEZsSmMwSmZjbXN4TW5FelpIYxAB",
+          "author": "Alhamdy",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "Tempat makan pasta + ngopi seputaran pondok petir, vibes industrial suasana aesthetic santai, cocok buat wfc, port listrik tersedia,  menu varian makanannya banyak, cita rasanya autentik dan harga terjangkau, rasa kopi cappucino pas dan konsisten, selalu jadi tempat favorit anak2. Ruangan outdoor dan indoor, area parkir luas",
+          "time": 1773187975,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCRFdXdDViRkJNV2tsaFpFeHNVVWhDU0VScFpIYxAB",
+          "author": "Mariany Melati",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Tempat yang cocok buat kamu yang suka nyari cafe buat ngerjain tugas kamu di laptop, di tempat duduk ada colokan buat charge laptop dan hp, ac nya dingin, tempatnya tenang.. aku pesan pizza large dan kopi susu aren, rasanya enak dan topping pizzanya banyak, kopi arennya manisnya pas. Rekomen buat kamu nongki sore disini",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sM1NYVTBYemd0YWpOSVlYWTNTMEpVTVRsR01FRRAB",
+          "author": "F. R.",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Sudah 3x makan disini Sama keluarga. Tempatnya nyaman, pemiliknya ramah. Makanannya juga enak kok. Pertama x nyoba hoz pasta malah yang di pamulang, trus kebetulan banget buka di pondok petir, dekat dengan rumah.",
+          "time": 1783728775,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poRGExbGpUMFJ0TTNaTlV6VnZWV3RsWXpGNFZrRRAB",
+          "author": "Bima Satrya",
+          "rating": 3,
+          "time_label": "Diedit sebulan lalu",
+          "text": "Tidak worth it, lasagna bikin eneg dan gak ada dagingnya, gak berasa, full saos dan asin bet. Beefnya juga asin pol, kayak mau muntah makan air laut langsung, pizza roti instan yg sudah jadi tinggal kasih toping dan saus, dengan harga 70rb, Pizza Box lebih ok, sama2 tipis tapi rotinya bukan frozen. Tidak akan saya ulangi lagi. Makan saos dan semua frozen. Thanks. Review jujur.",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GMFVISlVOVFpZY21NNGVERnNTSFpLUjNsMlpFRRAB",
+          "author": "Kirlando Nartapela",
+          "rating": 4,
+          "time_label": "3 bulan lalu",
+          "text": "Untuk tempat dan service sangat baik, tapi untuk rasa khususnya Nasi Gorengnya jujur ini kurang sih mungkin bisa di perbaiki soalnya pesan nasi goreng hoz pasta kita pikir spesial dishnya tapi ternyata kurang yah huhu\n\nPizzanya soso ini enak masih dibilang ini oke banget\n\nTapi Lasagnanya jujur masih jauh dari harapan",
+          "time": 1781136775,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Kck5GcDBMVVpvTkdGNlQwMTJhSFI0WVVRdGFGRRAB",
+          "author": "Dyah Tika",
+          "rating": 5,
+          "time_label": "3 bulan lalu",
+          "text": "First time, I ate at Hoz Pasta! Sebelumnya pernah makan pastanya sih tapi ga pernah makan langsung dan pesannya di cabang Pamulang 2. Jujur steak & hamburg enak, lalu saus bbq terlalu manis di lidahku walaupun udah tambah chilli flake. Untuk saus bolognese di beef lasagna juga manis tapi masih enak kok dimakan. Pelayanannya ramah dan informatif. Please tambahin pilihan saus creamy mushroom.",
+          "time": 1781136775,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wQmEzSkpUWE5YYkZkUmVuWXRVVmhLY201dk5HYxAB",
+          "author": "Iwan Sarbiyantoro",
+          "rating": 5,
+          "time_label": "11 bulan lalu",
+          "text": "Makan malam disini sangat memenuhi ekspektasi. Makanan enak, tempat nyaman saat malam dan pelayanan sangat ramah. Harga sangat sepadan dengan rasa yang disajikan. Akan kembali ke tempat ini pastinya..",
+          "time": 1760141575,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxWFRURnJjMGhoTmxCMmFtOTFOVWRNWlZSMVFWRRAB",
+          "author": "Pratiwi Maa",
+          "rating": 5,
+          "time_label": "3 bulan lalu",
+          "text": "Masyaallah first time ke restaurant ini sangat Amazed dengan menu yg bervariasi dan enak\" bgt. Pelayanan nya juga ramah sekali terutama Oma nya. Tempat nya juga sangat Instagramable bgt. Oke deh bintang 🌟🌟🌟🌟 …",
+          "time": 1781136775,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoa1IwcDRTMnRqV1hJd2VGQlhhRXRRY1RWZlpGRRAB",
+          "author": "Rafa Raditya",
+          "rating": 5,
+          "time_label": "5 bulan lalu",
+          "text": "Sempat terjadi miskom antar kita as customer and pihak admin Hoz Pasta terkait reservasi untuk bukber, namun saya dan rekan2 berterima kasih banyak kepada Manajer dan staff yang sudah tulus dan bertanggung jawab memberikan pelayanan serta …",
+          "time": 1775866375,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsbU1FSkhaMHhrUWpGR2NrRTVVVUpWWWtOdGVuYxAB",
+          "author": "naluri dee",
+          "rating": 4,
+          "time_label": "3 bulan lalu",
+          "text": "Harga terjangkau, makanannya lumayan enak, minumannya juga, parkir luas, cuma kl pas datang ga dapet ruangan yg AC karna mejanya terbatas, terpaksa harus duduk di outdoor",
+          "time": 1781136775,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSVFNuUkZaa1JOVGs1dkxWUXRaamRhVlhsbFZYYxAB",
+          "author": "fikroh zakiyah",
+          "rating": 4,
+          "time_label": "3 bulan lalu",
+          "text": "Rasa pastanya oke untuk harga yang masih affordable banget. Sesuai juga dengan porsinya yang banyak. Jd kenyang juga. Klo lg pengen pasta, bisa kesini. Cobain yang cabang ini karena yg di pamulang 2 biasanya lebih rame",
+          "time": 1781136775,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aV1kzUkRYM1pCU1hab2QydEdPR1ZwU1ZadExWRRAB",
+          "author": "Satrio Anp",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Mari kita review makannya, btw aku udah beberapa kali makan di Resto Hoz Pasta dari di Pamulang, Depok sama Pondok Petir rasanya konsisten. Kita review untuk makannya, untuk makannya ini sesuai dugaan otentik iya otentik dan kalau lihat di …",
+          "time": 1768090375,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201cmVIWnRja2hJVG1sWmIzcGxVMkZCUzFaVmRFRRAB",
+          "author": "Aliya Izetti",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Cabang Hoz Pasta dekat rumah, estetik-industrial. Gak terlalu luas tapi fasilitas lengkap: indoor, semi outdoor, outdoor, toilet & musholla. Overall oke!! …",
+          "time": 1768090375,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xVlkyRlFUbnBLUTFsWFpGbERRelp1YkdSbVozYxAB",
+          "author": "Putri Rhageel",
+          "rating": 5,
+          "time_label": "4 bulan lalu",
+          "text": "Makanannya enakk enakk, tempatnyaa jg cakepp buat foto foto, dan yg paling penting pelayanannya bintang 5⭐⭐⭐⭐⭐ baik baikk bgt, panjang umurr, sehat sehat yaa semua pelayannya ❤",
+          "time": 1778458375,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21semFIbGxRMlp4UmxObmFUWm5PR2RaZGtOalNXYxAB",
+          "author": "Anisa Sulistiawati",
+          "rating": 5,
+          "time_label": "5 bulan lalu",
+          "text": "Pertama nyobain resto western, menu makanan Italian food, nyobain Hamburg steak enak daging empuk lembut, saos mushroom gurih asin seporsi 41rb, mac & cheese, spaghetti carbonara harga 25-35k creamy gurih enak, resto estetik cozy ada taman jg.. So far enak 🥰🤤👍 harga masih terjangkau …",
+          "time": 1775866375,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wUVVtZDFkVTV1WlRSU05Xd3pXbXBsTW5sVVQwRRAB",
+          "author": "Nelly Widyawati",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "harga kaki lima rasa bener bener bintang 5, service top bgt 💯 selalu mastiin kenyamanan customer di jam jam crowded... pokoknya best 🤩 …",
+          "time": 1783728775,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KTlRqTnFSa1pzZFhWMGJIUjZTSFJMVVZSallrRRAB",
+          "author": "Miss Erlina Krisnawati",
+          "rating": 5,
+          "time_label": "10 bulan lalu",
+          "text": "Vibes nya nyaman. Suasananya enak gak terlalu rame. Harga makanannya menurutku masih terjangkau ya. Yang pasti rasa makanannya cocok banget dilidahku. Enak. Pelayanannya juga baik sekali.",
+          "time": 1762819975,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSSmRVcHpXamd0Y1V0WVdEbFZaRmRvTUZaNVRtYxAB",
+          "author": "Visca Vanny",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Makanan nya enak2, staff nya ramah dan helpfull, saya kesini merayakan ultah suami, dan kami dapat complimentary. Ini sudah ke dua kalinya ke hoz pasta, dan pasti akan kembali lagi 🥰❤️ …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvdGEyZHVlVEl5VUVjNU5sVTVkVkJyZUZsVVNHYxAB",
+          "author": "Sasqia Khaliza",
+          "rating": 4,
+          "time_label": "setahun lalu",
+          "text": "Vibesnya enak klo sore2 adem sepoi2, pelayanannya ramah, makanan keluarnya relatif cepat. …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xabWFWUnZOMTlVWDBzNVJXRnlRblpQZFZkTFFWRRAB",
+          "author": "Coky Pratomo",
+          "rating": 5,
+          "time_label": "4 bulan lalu",
+          "text": "makanannya enak semua pizza,pasta ice cream .tempatnya juga bagus",
+          "time": 1778458380,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FMlNrZzBPVm8zZUdnMVJGWXdTbWwyZUROclYzYxAB",
+          "author": "Mega Rahmah Yulistri",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "Akhirnyaa kesini juga setelah lama penasaran😂\nPesen spaghetti Aglio olio, chicken steak & es kopi gula aren. gak ada yg fail woy enak semuaa. …",
+          "time": 1773187980,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KSldEaFNWVmxOVmxWWE5GWnpjbE5RYjFsbldXYxAB",
+          "author": "Petualangan Zainab",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "MasyaAllah makannya lezat nasi goreng hoz pastanya mantab, nasi goreng sepesial, pizza hoz nya lembut rotinya, zuppa sup nya juga Waah lezat rasanya, pokoknya kamu harus cobain makanan dan minuman nya.",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204NWJEZHZjWG8xY201dVkza3lYM2RWWW1ONmRsRRAB",
+          "author": "Trie Erisa Kurniati",
+          "rating": 5,
+          "time_label": "3 bulan lalu",
+          "text": "terima kasih kak atas service dan all the menu yang memuaskan.\nkita review Hoz Pasta Pondok Petir di Instagram dan YouTube juga, lho. Bisa dicheck di IG : maknarasaofficial dan YouTube: Makna Rasa Official ya kak. Thank youuu :)",
+          "time": 1781136780,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prNFRIcFVWelEwWms1MVFrdEhZV2hqVWpkR1RWRRAB",
+          "author": "Rawzan Fikri",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Sore2 pacaran sama istri sambil WFC, pesan nasgor hoz pasta dan chicken cordon blue. Rasanya enak, ga mengecewakan. Stafnya juga ramah dan helpful banget.",
+          "time": 1783728780,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201SE4yaEhhMlpEWjBOTmRERlFXUzFDUXkxNGFXYxAB",
+          "author": "Muhammad Mahatir",
+          "rating": 5,
+          "time_label": "9 bulan lalu",
+          "text": "\"Nikmati Sensasi Makan Pasta Rasa Bintang 5\"\nAsli bukan sekedar tagline, beneran enak makanannya. Sirlion steak boack pepper, enak beneran. Macaroni schotel enak, gak bikin enek.\nTop deh.",
+          "time": 1765411980,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaS2REaHhYek5sTVZsV1h6SlBXbUZZV0d0T1ZIYxAB",
+          "author": "QMusic Seven",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Mantap nih, baru pesan Sirloinnya. Medium well. Yummy",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zMlRrZHhjRlZvZFRoM05tMTRlbXMzVUd0M2NYYxAB",
+          "author": "Henny Damayanti",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Makanannya enak, terjangkau, cocok dilidah aku… next mau kesini lagi.\nPelayanannya ramah, trimss hoz pasta 🥰 …",
+          "time": 1768090380,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CclVGSnNTbkl6TlVwRmNFMHdjVzlTWTNONU1IYxAB",
+          "author": "Nita Setianingrum",
+          "rating": 4,
+          "time_label": "9 bulan lalu",
+          "text": "Ketiga kalinya kesini. Saat pertama dan kedua rasa makanannya enak tp pas balik ketiga kali sorry bgt rasa makanannya kurang enak. Lasagna too salty, chicken salad kurang fresh sayurannya, saucenya jg ga seenak pertama. Strawberry teanya jg …",
+          "time": 1765411985,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVNU5YSkxOM2RFTVd0NGNGbExSbFpHTUhWaVQxRRAB",
+          "author": "Belajar Bersama",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Aku udah 2 kali makan disini, pelayanannya ramah dan enggak terlalu lama nunggu, makanannya enak, saus steaknya enak,,, menu nya cocok buat bumil dan anak aku yg usianya 2 tahun suka banget makanannya,",
+          "time": 1768090385,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xORlJUZFRZMHBMZDI5ZmR5MVdXQzFzYXkxTWNuYxAB",
+          "author": "Adz Breenz",
+          "rating": 5,
+          "time_label": "11 bulan lalu",
+          "text": "Makanannya enak banget, untuk tempatnya nyaman dan aesthetic. Cocok buat nongkrong sama foto-foto bareng temen-temen, ap lg buat yg suka bikin konten soalnya Instagram able tempatnya. Sukses terus deh untuk team nya dan pertahankan rasa dan kualitasnya",
+          "time": 1760141585,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RNVVWVkdiWFZrV0U5d09ERlZNMGhtZVhwQmFFRRAB",
+          "author": "Ditha Andhika",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Tempatnya asik, makanan enak2 deket rumah pula, rekomen sih buat yg mau nongkrong, saya coba macaroni cheese dan pizza ok juga, minuman enak nyobain kopinya, bisa indoor dan outdoor tempatnya yg outdoor luas",
+          "time": 1768090385,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xseU5VVnpSR0ZaWTJab2N6WkVYMUpMT0ZKcFdVRRAB",
+          "author": "Vera puutri rahmadini",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Makanan nya enak, minuman nya enak\nHarga nya pun standard, dekat dengan jalan raya …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNNFZuUlBSV0pDTUhKRGFsVkZhMjlWUVhGUlJuYxAB",
+          "author": "mutmainah",
+          "rating": 1,
+          "time_label": "6 bulan lalu",
+          "text": "menunggu 1 jam untuk 1 porsi lasagna\n\ngak paham sedang ada trouble apa antara antara div service & product …",
+          "time": 1773187985,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swd1F6UnFWbGx6ZEVveWFtdFFXRGxJVTBaamVWRRAB",
+          "author": "Tuffahati nazhifah",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Makanannya overall enak semua, seasoningnya pass, porsinyakenyang bgt. Buat harga juga worht to buy bgt! Tempatnya jd nyaman. Recomend bgt buat yg lg pgn pasta2 sm nongkrong cantik!🫶🏼 …",
+          "time": 1768090385,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GeFNXdGxORk5pVDNSMlVreDJSVGxMWVZNME9VRRAB",
+          "author": "arini ulfa",
+          "rating": 2,
+          "time_label": "6 bulan lalu",
+          "text": "Lasagnanya ASINNNNNNN bgt allahu🥲 layernya tebel dan masih keras + bolognese setiap layernya sedikit bgt huft …",
+          "time": 1773187985,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Ga05tdEZiRzQxVkdKbGMwNVdWa2N4TkdrelNYYxAB",
+          "author": "iljae ftw",
+          "rating": 4,
+          "time_label": "2 bulan lalu",
+          "text": "Platting Ok, kebersihan Ok, pelayanan Ok, rasa Ok, harga Ok.\n\nDeket rumah sih plusnya hehe",
+          "time": 1783728785,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sM1dVUXpjbDlCZWxoUWVYUkJNSFJEZUVOeFpGRRAB",
+          "author": "Nur Khofifah",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "tempatnya nyaman dingin dan deket rumah\nmakanan okeyy dan murah\"",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsaVVqaDBWalZ3UjJWWFpWbDBRVmhrVm1oMk5sRRAB",
+          "author": "putri puu",
+          "rating": 4,
+          "time_label": "8 bulan lalu",
+          "text": "The real surga-Nya pasta. Tempatnya nyaman, ada indoor dan outdoor. Prakiraan motor dan mobil luas. Staff nya ramah sekali. Pizza nya dan American burger nya enak. Saya suka ❤ Lalu sy pesan fetucini creamy rasanya kurang gurih buat sy. Tp dr penampilan hidangan nya juara. Menggugah selera banget. Worth to try.",
+          "time": 1768090390,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paTE5GSnhRbUV5UVhWa1ptbDZXbVUwVGpkNFZVRRAB",
+          "author": "Lia kartika Setiawan",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Pertama datang dengan tetangga, nyobain kok enak. Tidak lama setelah itu, ajak suami ke sini. Suami suka banget makan di sini. Makanan wajib suami ku chicken salad. Kalo anakku cheesy pizza. Hampir seminggu sekali mampir ke sini",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCd00yMWFlSFZ3VUVwdWFHWktNa3BzVTFKWFoxRRAB",
+          "author": "Dicky Januar Arisyah Bahar",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "Makanan enak pelayanan nya juga bagus ramah juga pokonya recomend bgt",
+          "time": 1773187990,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ScldVcElZMHRNVFRsUFNUSnpPSGh4WkhOelNuYxAB",
+          "author": "Puspitasari Diatningtyas",
+          "rating": 5,
+          "time_label": "7 bulan lalu",
+          "text": "Akhirnya ke sini juga.\nPadahal dekat dari rumah, tp baru sempat 😅\nSpaghetti Aglio olio dan grilled chicken steaknya enak. …",
+          "time": 1770768790,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkdlFqUjFSRWcwYlMwelNETTFSM0JVUzBGNVQzYxAB",
+          "author": "Elgawati",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Rasa enak,untuk porsi cukup banyak yah apa lagi nasi goreng nya bisa untuk 2 orang..untuk harga nya standart sesuai dengan rasa dan porsi . Hanya saja tempatnya agak panas Klo siang .di sarankan d table yg di ruangan kasir.  Enak di sore hari dan malam..",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWbVRGaHJkalpKY1VWMFNGRTNlVmxNWlY4eWExRRAB",
+          "author": "Aditya RH",
+          "rating": 3,
+          "time_label": "11 bulan lalu",
+          "text": "Not bad, could be better.\n\nFettuccine alfredo seafood: saosnya enak, fettuccine agak keras, seafoodnya …",
+          "time": 1760141590,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205UGRXb3RWWEZTV1RZeGNHWm1RVUoxU2xOSWNtYxAB",
+          "author": "Khairunisa Dajjdah",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "untuk rasa makananya jangan di ragukan lagi superr enak,untuk tempatnya nyaman,toiletnya bersih dan wangi,pelayanannya memuaskan sekali🤩👍🏻 …",
+          "time": 1773187990,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSNVdtZFVibGczWnkwd0xYVnhVelJXYmpSSk5rRRAB",
+          "author": "Susilo Prasetyo",
+          "rating": 1,
+          "time_label": "2 bulan lalu",
+          "text": "Pesan pizza cheesy. Ketika datang, pizza sudah dingin. Kayak udah dibuat lama tinggal disajikan.\nPesan steak dan lasagna. Kaget jg kok cepet bgt datang nya. Masaknya kapan? Dan …",
+          "time": 1783728790,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0bk5EWlhabWxFZWtGeE4zVTRSa3czUVRGVGJHYxAB",
+          "author": "Hujan_Dini",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Makanannya oke semua pelayanannya juga oke, rekomended deg di hoz pasta pondok petir",
+          "time": 1783728790,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsNE9VcFdlSHBQWlhOS1dHdFlTV3BQUW5sd2IxRRAB",
+          "author": "Eka Putri",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Tempatnya estetik, nyaman. Makanannya enak-enak dan murah. Mantep.",
+          "time": 1783728790,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKemJuRnFiaTFIY2pKVk1YTmhWSEk1Y3pCamJVRRAB",
+          "author": "Lili Salia",
+          "rating": 5,
+          "time_label": "9 bulan lalu",
+          "text": "pertama kali ke sini dan baru pertama kali juga merasakan masakannya ternyata se enak ituu ,dan pas lah sama kantong  anak kuliah seperti aku the best banget dah ,apa lagi pelayanan nya bener bener humble dan asik banget orang² nya",
+          "time": 1765411995,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKdU1YZFhVRE5MTWpGbVNtdDJlalZNTUc5WVQzYxAB",
+          "author": "Desy Susanti",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Makanannya endulssss.. tempatnya juga nyaman.. pelayannya ramah.. rekomen banget buat ajak temen2..",
+          "time": 1783728795,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VM2RFSk9XV2xFVVhoS2FYWTRSR1ZrU21sQlMwRRAB",
+          "author": "Perdy nsah",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Overall makanan nya enak dan buat harga juga masih terjangkau",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xYU1VUTVSMVpWWVdOb016RmFjbEo2TldzdGNYYxAB",
+          "author": "pipit balben",
+          "rating": 5,
+          "time_label": "4 bulan lalu",
+          "text": "Pizza enak, lasagna enak. Pelayanan ramah. Nyaman buat santai chill",
+          "time": 1778458395,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKQ1pEUkhiV2xQYjFkclRpMXliSE5xVFVkQlZYYxAB",
+          "author": "Malvino Setiagama",
+          "rating": 5,
+          "time_label": "4 bulan lalu",
+          "text": "Menu nya banyak dan enak2...anak2 saya happy d ajak makan d sana..minumannya jg enak2... saya sdh coba yg d pamulang jg.recomend bngt pokoknya bawa anak2 makan k sini.  Toilet pun bersih dn ada musholahnya..kalau ketemu ownernya ramah bngt..thx hoz pasta",
+          "time": 1778458395,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25STVkwWjZSVk0xTlRWMmRXbHhWelk1VVVnNFYzYxAB",
+          "author": "Fini Adiba",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Pasta sama pizza nya enaak,\nHarga nya juga ramah di kantong,\nNext bakalan kesini lagi sih ini mah ..",
+          "time": 1768090395,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaZlFWaFZhVVZWYlRRM1JISXpTa3h6U0dwdmEyYxAB",
+          "author": "Ramdan Sucito",
+          "rating": 5,
+          "time_label": "7 bulan lalu",
+          "text": "Udah berapa x Kesini karena emang deket rumah.. karena emang spageti dan pizza nya seenak ituhhhhh!! …",
+          "time": 1770768795,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCRVFsZEtTa1Z6YUVkaVkxaEhNM1pqU1dsWE0wRRAB",
+          "author": "faunia khoirunnisa",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "nyamann banget tempat nya bersihh jugaa, ademm, luas jugaa tempatt nya kebetulan ini acara sekelass kapasitas nya cukup banget buat acara sekelas gini, staff staff nya juga fast respon bgtt, overall good, makasii juga untuk ka gannis uda fast respon dngn cepatt, COCOK BGT BUAT NGUMPUL² SEKELAS!",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VMVFucDFWMVZYVjJSWGFtY3ljMUZyY0VKRGRVRRAB",
+          "author": "irma yanti",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Pas bari dateng liat tempatnya nyaman sekali & pegawainya ramahramah sekali , cocok buat bawa keluarga ini siihh tempatnya luas 🥰 …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OaFpXOUZMUzFRTVhGTVNEUkRVMnhhWW1SelFsRRAB",
+          "author": "Arina Dzilly m",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "YUMMYYY ENAK RECOMMEND BANGETT tempat kesukaan buat hangout💙🫶🏻 …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JNGVsTTNhVTVCYUU1cGIzVkVRVlpJTFhWd1ZWRRAB",
+          "author": "Ena Qadarsih",
+          "rating": 3,
+          "time_label": "Diedit 9 bulan lalu",
+          "text": "Sangat disayangkan padahal rasa makanan nya enak2 (wlaupun ada bbrp menu ttp lbh enak yg dipamulang ya) tp semua itu dirusak oleh pelayanan salah satu waitress yg kurang baik. Tolong ditatar kembali cara org tersebut menjawab apa yg …",
+          "time": 1765412000,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SdWNHOTRMVzE1UWxGRFdFcFpNMGd4WlZOdFZHYxAB",
+          "author": "hizkia Harjito",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Mungkin karena musim panas, udara agak panas juga di dalam, tapi makanan nya sih enak, porsinya aja agak kurang sesuai kampung tengah sini....udah lumayan lah bisa nyaingin merk sebelah dikit",
+          "time": 1783728800,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KRWRsVk9VWGRoVDBZMmVISmFiM0JUWXpVeGQxRRAB",
+          "author": "Aditya Putrie",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Aduh makanan dan suasananya enak bgt. Paling suka sama spagheti carbonara, aglio olio, pizza carbonara, strawberry mint tea. …",
+          "time": 1768090400,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNelltSnBXbmgxTjB4SmMzZERhWEpXUVVKMmRuYxAB",
+          "author": "Arya Natanael TT",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Hari ini coba beberapa menu bareng saudara review nya positif. Makanan enak dan tempat nyaman sekali",
+          "time": 1768090400,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKQk5sSk1iWHBQT1djdFVIUjFlSEk1VG01NWVtYxAB",
+          "author": "Khalis Ardyanto",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "big thx to owner sudh menciptakan resto harga murah tapi rasa ga murahan,selain makanan nya yang enak pelayanan nya juga ramah banget care banget ke customer",
+          "time": 1783728800,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kd2IxcEROemhJZGs1M2VGTmFTelJ1YjNSVmIxRRAB",
+          "author": "Anggun ayu Safuati",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Murah bersih , tempat nya nyaman  adem",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKNGFHVnZZME52VVV3MlJIQnhZMmxNYVV0Q2IyYxAB",
+          "author": "Thessa Puspitasari",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Pertama kali kesini, pesen pasta aglio olio seafood nya enak dan rasanya pas banget, pizzanya juga enak banget aku suka kejunya melimpah,smoothie stroberi nya best banget. Sukaaaa",
+          "time": 1783728800,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSUWRHdE5hMTkyVWtSVGVUZEtjVlptZWtoeFVsRRAB",
+          "author": "Nur Wigati",
+          "rating": 5,
+          "time_label": "9 bulan lalu",
+          "text": "Pelayanan cepat, ramah, makanan enak, ga mahal lah ya.\nTapi tempat yang indoor AC sempit banget.",
+          "time": 1765412000,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWSWVVVjFTVUU1UTA1ZldqbG5NVE5oWVVsa2JXYxAB",
+          "author": "Antonius Prabowojati",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "Makanannya enak sekali, servisnya sangat baik. Lokasinya pun mudah diakses serta tersapat tempat parkir yang memadahi. Tapi kenapa harus ada tukang parkirnya kalau tidak membantu sama sekali.",
+          "time": 1773188000,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKV09IY3dkVU5KTlVoNlFXaGhXbkYzUVdoZldVRRAB",
+          "author": "Riskya Khairunisa",
+          "rating": 3,
+          "time_label": "6 bulan lalu",
+          "text": "kemarin bukber disini, pelayanannya lama cuy makanan baru keluar jam 18.30, terus jg ada ibu ibu (maybe leader?) yg ngasih arahan tp suaranya kedengeran customer, doi bilang \"ini makanannya diganti, ada lalernya\" i was like... …",
+          "time": 1773188000,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psNE9GQXliR3RzTlZaVmNHOXJaWEU1YnpCbU0yYxAB",
+          "author": "Ahmad Hudhori",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Tempatnya sangat nyaman makananya enak\nRekomen bgd ajak kelurga kesini 🤗 …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1d1pYUmpTRkZ1TUZSZlMxTmFSbmhYVEhka1NsRRAB",
+          "author": "viola angelina",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "pastanya enak bgt dan harganya pas di kantong untuk semua kalangngan, jgn lupa coba guys🫶🏻 …",
+          "time": 1768090405,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGVmJFRnpkWGxrWVZKUldsQTVjVXcxVldoMVprRRAB",
+          "author": "Irfan Herdiansyah",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Rekomendasi tempat nongkrong terbaik di pondok petir",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjeWRYWmxUeloxVkVKQ2JFMDFVVGs1ZVdoTVlsRRAB",
+          "author": "Elya Aleb",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Semuanya enak  semoga sukses lalu",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOVlVIVkRhMGxUWVZOM2RrTkJhR0pFY0dWTVprRRAB",
+          "author": "anita fauziah",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Lokasinya strategis.. Makanan nya juga cepat  penyajiannya. Parkiran juga oke.",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kMFJsRnFlRXd5V1ZOaFQzWTBiblZoTW10cFgwRRAB",
+          "author": "Lia Wahyuni",
+          "rating": 2,
+          "time_label": "6 bulan lalu",
+          "text": "Beli dine in dan take away beda pembayaran, awalnya beli dine ini dlu msh oke,slsai mkn mau take away beli carbonara katanya harga 35rbu tp ga dksh struk pembayaran,uangnya 100rbu dibalikin 65rb dengan kembalian sobek dan saya baru engeh …",
+          "time": 1773188005,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0ek5XbENRMGhNVlRWa056SkpjM2x4VEcxdFNVRRAB",
+          "author": "Renny Alfariza",
+          "rating": 4,
+          "time_label": "5 bulan lalu",
+          "text": "Makanannya enak2 n byk pilihan tp ruangan yg di dlm sempit klo lg penuh pengap jg.",
+          "time": 1775866405,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwWFVHWkxNbDh5YW1OV1IwOVRVVFZwT1VRNFExRRAB",
+          "author": "heny agustin",
+          "rating": 5,
+          "time_label": "4 bulan lalu",
+          "text": "Enak semua makanannya.",
+          "time": 1778458405,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1a1ZIcFRUR0ZaTTBOdVMwc3RVMVkyUTFObFQxRRAB",
+          "author": "marita tobing",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Sudah berkunjung bbrp kali, makanan enak, service ramah dan dekat rumah.. sukses ya Hoz Pasta",
+          "time": 1783728805,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NM1NsVk1kek5GYjJOUlFsSjZUa05RTFd4ZlMzYxAB",
+          "author": "dwi rahayuningtias",
+          "rating": 5,
+          "time_label": "5 bulan lalu",
+          "text": "Tmptnya nyaman,,harga makanan nya terjangkau,, rasanya jg enak. Bakal balik lg sih 👍🥰 …",
+          "time": 1775866405,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SaGJucDJObU41VUY5SWRtcEVlWEZVTVdseVVGRRAB",
+          "author": "alya nisrina handoyo",
+          "rating": 5,
+          "time_label": "4 bulan lalu",
+          "text": "Tempatnya oke, pelayanannya ramah banget, makanannya jg enak, harga pun cukup murah,, …",
+          "time": 1778458409,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wSFRYVjFVa2h0UnpWTVJUaHpWakF0UTJjeFMxRRAB",
+          "author": "Yuanita dwi anggraini",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Sumpahhh worth it banget sirloin steak,terus juga side dish nya freshh,rekomended dah pokoknyaaaaaa",
+          "time": 1783728809,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwMlpVcFJSelptTW5acVRURnZOV0pJUVhocVZrRRAB",
+          "author": "Sabina Pasha",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Tiramisu nya enak banget, pelayanannya jg ramah..kalo utk nongkrong enak dan cozy bgt",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sdFVGQTJUMk5mZG1zMU9XWm9ibFZwTW1kQlZHYxAB",
+          "author": "Corry H.F",
+          "rating": 5,
+          "time_label": "7 bulan lalu",
+          "text": "Makanannya enak, harganya sesuai kantong,cocok untuk kumpul bareng teman, pelayanannya best,mbakny cantik n ramah2..makasinya hoz pasta,,sukses selalu",
+          "time": 1770768809,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJd05HTXhjRkZWWWt0NmNXeHljbGhQVjE5TU0wRRAB",
+          "author": "Ila Juniar",
+          "rating": 5,
+          "time_label": "9 bulan lalu",
+          "text": "Excellent service🫶, semua makanannya enak sangat autentik italian food dengan harga yg sangat affordable. Sayang tempat dan kapasitas tablenya kurang banyak. Di weekend lumayan ramai tp waitersnya sangat ramah2. I’ll back😊👌 …",
+          "time": 1765412009,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213dFFtaGZRMDlMYmxSMWNUVkxlR2xXVjBKQk0xRRAB",
+          "author": "CHOIRUL RIZKI",
+          "rating": 5,
+          "time_label": "11 bulan lalu",
+          "text": "tempat nya instagramable banget,untuk harga nya jg masih affordable,cocok untuk family time ataupun nongkrong2",
+          "time": 1760141609,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaalEwcDJRMGxNTlVGaE9ERldZMFJ2WmxselEyYxAB",
+          "author": "Nurlela Rizmawati",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "pastanya sangat enak dan pelayanannya cepat dan ramah jg",
+          "time": 1783728809,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Oc2JYQk9ZemRPT1hoWVRXaGpWR0psVDFsNVUwRRAB",
+          "author": "Roy Syaiputra p.",
+          "rating": 1,
+          "time_label": "6 bulan lalu",
+          "text": "gimana ya kak, udah reservasi dari kemaren buat bukber tapi udah mau jam 7 makanan belum nyampe semua,trs gunanya saya reservasi apa klo makanan ga nyampe, tolong tingkatin lagi",
+          "time": 1773188009,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21nNGRWVXlSV2RCZWtVemVEaDVaM2xtUjNOdlpuYxAB",
+          "author": "Ismat Musyaffak",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "suasana sore sangat syahdu tanpa suara bising, cocok untuk yang mencari ketenganan",
+          "time": 1783728809,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taYVEwMVZUVU5rTVROUlNFNXFPRkJ0V1RoRVdHYxAB",
+          "author": "Reynaldi Nurfaizin",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "untuk tempatnya nyaman dan makanannya juga enak apalagi untuk harganya terjangkau",
+          "time": 1783728809,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210YVNucFJaRTV3VVU1RmJEbElialpXYzJjeWFHYxAB",
+          "author": "M Yunus Hikmatulloh",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Pengalaman yang menyenangkan untuk pelayanannya ramah dsn services yang dilakukan sangat totalitas",
+          "time": 1783728815,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OVE5WYzNSRjkyWmxsclNYWnZOMjFZWW5jeWVrRRAB",
+          "author": "Muhammad Alif Wizdaniar",
+          "rating": 5,
+          "time_label": "11 bulan lalu",
+          "text": "tempat nya sangat cozy cocok untuk wfc karna area indoor nya dingin dan arsitektur nya aesthetic, dan banyak spot’ yg cocok instagramable. Makanan nya otentik italia sekali dan ada sentuhan indonesia nya",
+          "time": 1760141615,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjdGNuUjVVaTF4TkZSQ2FqVTBURXg0Y0RsUGNXYxAB",
+          "author": "Link property",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Tempat nya enak untuk ngongki pasangan muda, makanan nya juga enak the best",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sa1YwbG5aemhHVG1adU0weE9PSEpsV1hNeGNXYxAB",
+          "author": "Rama Odon",
+          "rating": 4,
+          "time_label": "8 bulan lalu",
+          "text": "Saking lapernya sampe lupa mau foto, tempatnya oke, warm ambiance, untuk food nya creamy pesto penne nya enak, kematangan pasta nya pas, spagetthi aglio olio rasanya jg enak tapi terlalu kering karena kematangan pasta nya kurang lama dikit, …",
+          "time": 1768090415,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKeFkwTldTMDVqYm5vM1VIaGZObTVmYTB3M1pYYxAB",
+          "author": "Aldy Mohamad",
+          "rating": 5,
+          "time_label": "7 bulan lalu",
+          "text": "Enak-enak makanannya, harganya masih terjangkau",
+          "time": 1770768815,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25acldWRlBWVGhpZW1wTVRqSjZPVVl3YzBOa05sRRAB",
+          "author": "kathrina amelia",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "chiken caesar salad nya enak banget,fresh gitu semua bahannya,dresing salad nya juga enak",
+          "time": 1783728815,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKbWFYQXRRbG8yZVUwd2RWOTVTR00xTmpkRmIxRRAB",
+          "author": "Bamz Kurniawan",
+          "rating": 1,
+          "time_label": "8 bulan lalu",
+          "text": "Pelayanan kurang ramah, nunggu lama bgt. 20 menit baru dianterin minum air mineral, minuman yg laen blm jadi. Malah antrian yg belakang yg didahuluin makanannya. Padahal pesan dg bill lebih dari minimal pesanan buat bisa pake vip room. Manajemen antriannya perlu diperbaiki. Rasa makanannya juga biasa, harga standar.",
+          "time": 1768090415,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOWVJtcFNaMWRWVVVZdFVrY3dPRkJMUlhOQmVFRRAB",
+          "author": "annida",
+          "rating": 5,
+          "time_label": "5 bulan lalu",
+          "text": "enakkk betulannn… PORSI NYAA GOKIELLLL😭😭😭 enakk semuanyaa, creamy dari carbonara nya jugaa katcawww …",
+          "time": 1775866415,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VeFdFZG1kRkpzTnpadFduQXpiMmhoVFRKTVVGRRAB",
+          "author": "Adlha Lia",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Makanan cepat datang, rasanya enak, macha strawberrynya enak, unionenya kriuknya pas",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOd2MxY3RRVXhRUkdzMFFWcG9UbEZvUVZOZk5tYxAB",
+          "author": "Aziza ibnu batavia",
+          "rating": 5,
+          "time_label": "11 bulan lalu",
+          "text": "nyamannn bgtttt tempatnya overall bersih dan fasilitas lengkap makanannya juga best bgtttt",
+          "time": 1760141615,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaaGJsVjVWbTVIV2tOT2JIaHBaMjQ1TTNsb2FuYxAB",
+          "author": "Muhammad Hayyical",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "Enak enak makanan nya sama nyaman tempat nya pelayanan bagus cepat",
+          "time": 1773188020,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NdE5HMHlWakJUYVROcVYxSnllVXhVUjIxVE1IYxAB",
+          "author": "danisa ramadina",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Cafe cozy. Pasta enak. Strawberry matcha latte nya the best! Kalo buka 24 jam, bakal jadi tempat wfc terenak.",
+          "time": 1768090420,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsc1NuZFpOM1pxVVZweFNreHRlV2hCUjJONVprRRAB",
+          "author": "Keyzia Vla vania Van maryam",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "pelayanan nya bagus banget,makanan nya juga enak bangettt!!!",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ob1l6VjRRbTFXV1Vwd2NHWlJkR1JoZW5Cc1ozYxAB",
+          "author": "Melinda P",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Makanannya enak\" ❤️‍🔥 …",
+          "time": 1768090420,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aVFpFeDRTek55V21sNFpUUmpSSE53V0dKMWJVRRAB",
+          "author": "sayyid azmi",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Layanannya Ramah dan baik",
+          "time": 1783728820,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4eE0yRjJTRmhVZWpoMVNGUlZjelZTVjBoSVpWRRAB",
+          "author": "Ridha Cindra Oktian",
+          "rating": 4,
+          "time_label": "5 bulan lalu",
+          "text": "Makanan enak, cuman kebanyakan pesen jadi rada eneg.",
+          "time": 1775866420,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1MWQyaGpjbUZaTUVOclJHTkJSbkJOUlhoRFZIYxAB",
+          "author": "Reva Ratnasari",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Makanan nya yumy dan pelayanan nya ramah 🥰 …",
+          "time": 1783728820,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKUFluZG1ObmROYjJSRGVsZFpOVVZ5YVZOd1lWRRAB",
+          "author": "Hardian Nur",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Makanan nya enak dan tempatnya nyaman",
+          "time": 1783728820,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwaU5ucExlV1ZrYlhaMmJFeEtZblY2WVVveFVuYxAB",
+          "author": "ilham dengkok",
+          "rating": 5,
+          "time_label": "11 bulan lalu",
+          "text": "tempat nya bagus,sangat recomended sekalii",
+          "time": 1760141620,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kT1NtSnBUM2h0VG5jeWRWUXpTV2x2Y0VzeGVsRRAB",
+          "author": "Alissa Wonka",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "besttttttt, enak semuanyaaa, worth to buy",
+          "time": 1783728820,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WNFRGZE9YMHBsTFROR09EWkxaa1IzV0hab1MzYxAB",
+          "author": "khoirunnisasajdah khoirunnisasajdah",
+          "rating": 5,
+          "time_label": "7 bulan lalu",
+          "text": "makananya sangat memuaskan,suasananya bikin nyaman,pelayananya bagus😍 …",
+          "time": 1770768825,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tscE5HdElhV28xTW5wWU0yZHFXRFpUTlhvMlNuYxAB",
+          "author": "Aisya Aulia",
+          "rating": 5,
+          "time_label": "9 bulan lalu",
+          "text": "Ga sangka ternyata pastanya enak banget dan terasa premium dengan harga yang cukup terjangkau, porsi besar, bahkan es tehnya aja enak🤤 Tempatnya oke tapi emang area indoornya cukup kecil, overall suka dan bakal balik lagi …",
+          "time": 1765412025,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WWGJrMDBXVnBzWW00MUxVSklVVEJaTjJ0RGRIYxAB",
+          "author": "Putri Athalya Nurrizki",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Tempatnya nyaman, pelayanannya sangat baik, staf sangat ramah",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toT2EzcE9MVTVoWkdWdllYbE1kR0Y1VERSbWQxRRAB",
+          "author": "Fairuz Soraya",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "enak dan harga affordable, nunggunya juga ga lama",
+          "time": 1783728825,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wdGRsVTVkalZCUzFKVk1raHNiVlZvU0VGWmMzYxAB",
+          "author": "Akbar Rifansyah",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "makanannya enak banget asli wajib cobain deh",
+          "time": 1768090425,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NMGNFRnFRMUZ6VEc5a1NqQkhkVEIwU2tOTVRWRRAB",
+          "author": "Cut Zahara",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "tempatnya bagus dan makanan nya enak, untuk stafny ramah",
+          "time": 1768090425,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsNGIyVjRhbnA0Ym1WVk0xVTJOMWN0U1RZeGFFRRAB",
+          "author": "Nur Sholihah",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Selalu jadi pilihan pertama pasukan kalau mau makan pasta",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCcFNrUlRjMGN3WVd4c1V6WkNVV3BsYUdkTmEyYxAB",
+          "author": "Rian Apriyani",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "Lumayan deket dari rumah,enak loh rasanya.gpp lah agak mahal kalau rasanya enak...",
+          "time": 1773188025,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wdFQwSnBNWEZ4YzB4S1dqaDJSRmt3U1VabFZYYxAB",
+          "author": "Ika Via",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Tempatnya aesthetic\nMakanan dan minumannya recomend 🤍 …",
+          "time": 1768090425,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SV2JsUjJZV3RNYURobVgxRkxUWFJIUTJkNFkwRRAB",
+          "author": "Isya witri",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Baru coba via gosend krn blm ada gofood di cabang pd. Petir..\nPengemasan baik, rasanya.. enaaaakk 👍😄 …",
+          "time": 1768090425,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paSFVXZHNVME5NVVhwUGNVNVJSRlJvWm5wNVJGRRAB",
+          "author": "Intan Nurul ilmi",
+          "rating": 5,
+          "time_label": "5 bulan lalu",
+          "text": "pelayanan nya oke bangettt pegawainya ramah ramahh top bgttttt😭❤️👍🏻 …",
+          "time": 1775866429,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzdGRETk1XVGhEWkhSaFJFZEpTelZLTVhkVmFYYxAB",
+          "author": "Imba Ambarsari",
+          "rating": 3,
+          "time_label": "11 bulan lalu",
+          "text": "Sebelumnya suka makan hoz pasta yg di pamulang, rasanya the best lah. Baru tau ada juga di pondok petir, iseng nyobain. Utk rasa makanan \"kurang\" ya..\nSpecially tekstur pastanya, ini terlalu keras utk saya. Saya pesan marinara …",
+          "time": 1760141629,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4TVNFRjNUSE5SWm01SVRVNWhiVXB4VXpZNU1WRRAB",
+          "author": "Gilang Tri Sukmawardana",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "tempatnya asik, makanannya enakk, cocok lah buat santai",
+          "time": 1773188029,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wMlpHdFRSVVpHYTJsVGEybGlNVkpuYmpBemRYYxAB",
+          "author": "Dhita Haryani",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Cozy banget tempatnya dan pelayanannya juga bagus",
+          "time": 1768090429,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kZllpMUJWbE56UkhCWFVrZHJaRk5EY0hoTlJFRRAB",
+          "author": "Nuril Erlinda",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "suasananya cozy, makanannya enak enak",
+          "time": 1783728829,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RMGMzcExXbEptVEZOeVNGaDJjR2gzTWxaM2FGRRAB",
+          "author": "Rahadian Pasha",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Rekomended banget buat bawa keluaraha",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxR1pWRTBUR0pSYTFab2NWRllaM1JhYWpKMFYwRRAB",
+          "author": "Hera Strong",
+          "rating": 5,
+          "time_label": "9 bulan lalu",
+          "text": "Kmrn rayain ultah tmn disini,pelayanannya best, tmptnya nyaman..mba nya mau diajak kerja sama bantuin bikinin suprise untuk tmnku.. trimakasih 💃💃💃 …",
+          "time": 1765412029,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214SlJUWlpkRUo2Y2pZNFJqRlVXSFZDUkUxYVRGRRAB",
+          "author": "Deden Fathurrahman",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Lasagna-nya approved by anak saya 3 tahun. Chicken stroganoff nikmat bagi pecinta jamur",
+          "time": 1768090429,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WRGRXWjZkMTl5YW5WSlZ6aEdWM04yUkMxQ2QwRRAB",
+          "author": "Yulianti",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Senang berkunjung kesini karena kids friendly",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjd1JsQk1jemRFWkRreldtczRZMU5MTVVoQ2VIYxAB",
+          "author": "Apip Ramadhan",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "tempat nya nyaman pelayanan bagus, enak poll dah pokoknya",
+          "time": 1773188029,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xVk5VdEZUSFJUYmpsSFFWWnNTR3hIUkdwNVExRRAB",
+          "author": "Sayito Rachel",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "makanannya best enak banget",
+          "time": 1768090433,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psb2FYVkZXbFJ0WDI1b1VHVkJRak5EYmpjeVNWRRAB",
+          "author": "asslaapril 1718",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "makananya enak semua, pelayanannya ramah'",
+          "time": 1768090433,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaRlN5MWhWME5DWDNoRlJGaGtPSGwwUVhwaVlVRRAB",
+          "author": "dini anggreani",
+          "rating": 5,
+          "time_label": "7 bulan lalu",
+          "text": "semua oke, nyaman dan pelayanan sangat baik juga ramah kakak\"nya",
+          "time": 1770768833,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZeWNqbFJZMUJ4Tkd0clp6bHlSMmREVlVoUVJtYxAB",
+          "author": "Phidha Bee",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Kak mau tanya disini disediakan baby chair gak??? Mau ksana tp takut gak ada baby chair nya .",
+          "time": 1768090433,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NM1NWOVlVMkZrWlhSYVNESnJjR2N0T1RoeldrRRAB",
+          "author": "dull dulee",
+          "rating": 5,
+          "time_label": "9 bulan lalu",
+          "text": "waiters cantik' dan ramah, tempat nya nyaman menu makanan nya enak enak, dan coffe nya jga enak sekali",
+          "time": 1765412033,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CSGMyUjVSMDR4T1ZSWVJrZHlNVjlyZDJ4SVdWRRAB",
+          "author": "pebrina handini",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "Makanan nya enak, recomended poko nya",
+          "time": 1773188033,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsa2JsY3pjMlpwWWpkdVJUWnRVVXB0TlVvMk5GRRAB",
+          "author": "Rabiyah Lubis",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "spageti carbonara nya enak cremy\nstrawberry tea nya enak manis nya pas menurutku",
+          "time": 1768090433,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xRFRuUlJielZDVkZJMWRWYzRMVkpwYlZKVExWRRAB",
+          "author": "khoirunnisa sajdah",
+          "rating": 5,
+          "time_label": "7 bulan lalu",
+          "text": "makanan sangatt enak, pelayananya topp🤩👏🏽 …",
+          "time": 1770768833,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsRU9GVkxORFpYUms4NVozVkNiMG8wYmxSR1VrRRAB",
+          "author": "rohaniaty widyapasha",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "pizzanya enak, tempatnyaa nyamaan💛 …",
+          "time": 1773188033,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wMFJGZFFRVFkwVnpkWmVYbFNVR0Z4ZVZwdlRVRRAB",
+          "author": "Vachel Hy",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Pelayanan cepat karyawan ny ramah",
+          "time": 1783728833,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21nMWVXZDJhSFZCTTAxQlpXNVZjV2h1TkRNd1RsRRAB",
+          "author": "Mohammad Rangga Kumara",
+          "rating": 5,
+          "time_label": "11 bulan lalu",
+          "text": "bnyak varian dan sangat enak",
+          "time": 1760141639,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZek9VbE5PSGh5YkVSa1RFVnlOMHB2TFZkUlJYYxAB",
+          "author": "Dhoni Sukma",
+          "rating": 5,
+          "time_label": "9 bulan lalu",
+          "text": "Makanan nya enak 👍 …",
+          "time": 1765412039,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOVlIySTNTbmxxWWkweWVWbHVWRE5YWW5kSldrRRAB",
+          "author": "SuciNurAini",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Enakk banget rasanya, vibes tempat makan juga bikin enjoy",
+          "time": 1768090439,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oM1JWTnBPVmd5ZDJwMGExbEtTMmR0VlVkUVoyYxAB",
+          "author": "Eva",
+          "rating": 5,
+          "time_label": "7 bulan lalu",
+          "text": "Mkn nya enak , tempatnya enak utk nongkrong ..",
+          "time": 1770768839,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oYU1XcGhVVmhIVWxkeVVUUnBSR1l5WldsdllWRRAB",
+          "author": "Muhammad Taufan",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Sangat di rekomandilam, tempat nyaman",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGelRqUnNNRzFuYUZCVmFDMUpOak5EYkhVd1RsRRAB",
+          "author": "Haura Rumy",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "pelayanan nya ramah , makanan nya yumy dan ramah dikantong",
+          "time": 1783728839,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGYU5VbHZSRVF5TkVwcmJFbFVSekU1WDNaTWJuYxAB",
+          "author": "Yusuf Yulianto",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Makanan nya enak enak bikin nagih pokok nya gk nyesel deh klo ke sini",
+          "time": 1768090439,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GQ2QwNDFSMlJuTmpOaGRVTkJTMU42VGpKU1psRRAB",
+          "author": "Bella Sabrina",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Makanan enak . Minuman juga enak . Pelayanan sangat ramah .",
+          "time": 1768090439,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnM0xYVkxWa0ZYU1ZCWFVHTm5jbFpIY21jeVFYYxAB",
+          "author": "Milku Enjoy",
+          "rating": 5,
+          "time_label": "9 bulan lalu",
+          "text": "tempatnya bersih cozy wangi, pelayanan cukup ramah dan cepat",
+          "time": 1765412039,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkbWRXNWtNM3B2VTJ0NVZtZFpNR0Y1UkdkeFdYYxAB",
+          "author": "Dwi Satya Putra",
+          "rating": 5,
+          "time_label": "4 bulan lalu",
+          "text": "Ngobatin kangen makanan PH.",
+          "time": 1778458439,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKcmVHdGxha3BOVmtZMk9VSTNRbGxDUTFoUFpsRRAB",
+          "author": "Danur Rizky",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Menyenangkan.",
+          "time": 1783728844,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wMGRHdGtVVmwxUmt0S2FUaFNRbFZpYm01elpWRRAB",
+          "author": "Nur Fitriana",
+          "rating": 5,
+          "time_label": "7 bulan lalu",
+          "text": "10/10",
+          "time": 1770768844,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0d016RjJhMVpRTVUxa1ZWQmxWMnhYWWxoc01GRRAB",
+          "author": "Pandu Adi Heriyoto",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Dekat dari rumah, dan pastanya enak",
+          "time": 1783728844,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOblRHZFhkM2RoVEdsRFppMU5lR1pIV0RGdVIwRRAB",
+          "author": "irvan sadewo",
+          "rating": 5,
+          "time_label": "11 bulan lalu",
+          "text": "Variasi menunya banyak dan enak, worth to try!",
+          "time": 1760141644,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSblJHdFphMGhNUlRFeWRuWTNNRzkyYm1oR09XYxAB",
+          "author": "Safira Nur Azkiya",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Seru",
+          "time": 1768090444,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKd1ZUQkJVSGRIYjFWUVpGSmZPRFpKVEZoeGRIYxAB",
+          "author": "Hendrik Hendrik",
+          "rating": 5,
+          "time_label": "9 bulan lalu",
+          "text": "Ok enak spagheti  next coba pizza nya",
+          "time": 1765412044,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wWlpISmZYM1pPZVhOSlJ6azNiMHBNTldjemJIYxAB",
+          "author": "King Abdul aziz",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Pelayanan nya baik",
+          "time": 1783728844,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSeVJGb3pSbkZxTUVoME1IUnJlRVZEUkZvMFkwRRAB",
+          "author": "mulyawati aldilah",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "Enak 😍🫶 …",
+          "time": 1773188044,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSelkwaEthVUZMUzBsMmRURnhOVlpwWkZwUmEwRRAB",
+          "author": "Rezi Rambe",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "makanan enak tempat nga cozy",
+          "time": 1768090444,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkVWVreFFkMVpMZFVVd1gzbExXRmQxVTE5RE1rRRAB",
+          "author": "Maya Rista",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Enak semua",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2premF6WjBVMnBMYURsVFZIUm5iVEkyYm5KUE1IYxAB",
+          "author": "Relia",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "Pizza nya enaaaaaaaaak",
+          "time": 1773188049,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210QlJHRktjMk54U2sxaFJVSTBPV05mU2psV1pHYxAB",
+          "author": "Ruli Mardani",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Bagus",
+          "time": 1783728849,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4eFVsSm9VbTlsUkZaR1ZFWjNhaTFHTmxoWFVFRRAB",
+          "author": "Rhamda Gumilar",
+          "rating": 5,
+          "time_label": "9 bulan lalu",
+          "text": "hidangan cepat, enak, murah",
+          "time": 1765412049,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21nelZWaHhhbGxRUTJoWWNuUXplV0Z6YTJkbmRVRRAB",
+          "author": "ikrim adam",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "tempatny bagus",
+          "time": 1783728849,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZeU9ETjBhWEo0TW1NNFFXbEZVVkJyTmpCTVExRRAB",
+          "author": "Angel Lina",
+          "rating": 1,
+          "time_label": "4 bulan lalu",
+          "text": "Gaenak",
+          "time": 1778458449,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214RGNHWjRNazU2VDFwTGNFSnVWMnAxZEZoRU1uYxAB",
+          "author": "Rawa Kalong",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "Tempatnya nyaman",
+          "time": 1773188049,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200MGRqVkNaM1JXTm1kaVh6aFNVR1JZZFZrdFFWRRAB",
+          "author": "Gustiana Ningsih",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "GRM\nEnak enak enak 😂 …",
+          "time": 1773188049,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OYWFVMUdVVkV6YVc5dVMwaHlWMDVHYTJoSVkyYxAB",
+          "author": "Yeni Fauziyah",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Sempurna.....",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JdE4yNUdibVpGWVV4Uk0yWmtNVWxzV2pCU2FXYxAB",
+          "author": "Naufal Thariq",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "enak bangett brow",
+          "time": 1768090449,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pndGNsaGZTalpOVlhoNVEwVnVNbUV5YlZacWQyYxAB",
+          "author": "Ahmad Afrza",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "enakk",
+          "time": 1768090449,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214TVNFWTVWMjlTWlhneFpVUmtSVmxsZDJGd1ozYxAB",
+          "author": "Dede Budianto",
+          "rating": 3,
+          "time_label": "9 bulan lalu",
+          "text": "Lumayan bagus",
+          "time": 1765412054,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNNVVsZDJhbkJ0YUZKbVMwSlZNSFpyYUd4Q1JtYxAB",
+          "author": "fahran adi",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "pelayanan baik👍 …",
+          "time": 1768090454,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWaGFtOVJkVFpGZWxKQlFXMW5OV05yWlhJNFRGRRAB",
+          "author": "Febian Vivaldha",
+          "rating": 5,
+          "time_label": "11 bulan lalu",
+          "text": "Mantapp",
+          "time": 1760141654,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGM1F6VjRaVzVhVVZOU1VURnhkRmhpVVVack9WRRAB",
+          "author": "Indra Palebangan",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "nyaman dan endullll",
+          "time": 1768090454,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKNVozQXdUWHB4TkVaS1RGQnZla2hKY0RseWExRRAB",
+          "author": "ADIL",
+          "rating": 5,
+          "time_label": "9 bulan lalu",
+          "text": "Hospitality juara 👍 …",
+          "time": 1765412054,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKeGFYSXphUzFrY0RaM04zSlNMVGhvUzFvM2VuYxAB",
+          "author": "abdu karim taba",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Tempat mantabb",
+          "time": 1768090454,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkNVlWSlpPRFpXVEVocWNGcHVUMnQwVGxOT1RrRRAB",
+          "author": "Andika Wisnu Widodo",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Mantapp",
+          "time": 1768090454,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKR1ZIbHJNa3BwU0VwRVgwZEdNVE14Y1hWcFluYxAB",
+          "author": "Hendika Aprl",
+          "rating": 5,
+          "time_label": "3 bulan lalu",
+          "text": "",
+          "time": 1781136854,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205cVZFRmZTMkZ3UkVveVZWSldha2hXWkdKVlRuYxAB",
+          "author": "fuji nur alia",
+          "rating": 5,
+          "time_label": "seminggu lalu",
+          "text": "guys ih , rekomen bangettttt staf nya ramah2 murah senyumm bangettttt makanannya enak banget suasana enak adem bersih pol 😍😍😍😍🥹 …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvMmVIcE9aVGRwYkZodFVsUlNRMm93VjBNeWRuYxAB",
+          "author": "Agnies Bahrul Adiyan",
+          "rating": 5,
+          "time_label": "3 minggu lalu",
+          "text": "makanan dan service nya keren",
+          "time": 1787271254,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSMWNXWkllV1p5ZDBsSFRXNVdOVmROT0ZOcE5IYxAB",
+          "author": "Putri Astari (Magali)",
+          "rating": 4,
+          "time_label": "Diedit 3 minggu lalu",
+          "text": "Beautiful place, good service, comfortable food.. waitressnya ramah2 bgt. Tp buat pastanya yg creamy kureng rasa yg aku pesen agak hambar. Tp waitress  dan suasanya udah okeeeee bgt. Suamiku pesen aglio olio itu rasanya better drpd yg pasta creamy2",
+          "time": 1787271259,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCcVFXSlhkVVJVVldkYVExWnpVa3hFT0dsTFNGRRAB",
+          "author": "mata kia",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Asik lah pokoknya.",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCYWVIRkVSR2h6YlRkTFh6TnlaVXhsUm5KcGFsRRAB",
+          "author": "08. Asniati Nasution",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "pelayanan nya sangat baik, harga terjangkau dan makanan nya enak, terimakasih hoz pasta pondok petir😊 …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NNWFtRnpXbFIyVDJrMGRFZGZTVGg1VFVsUVdWRRAB",
+          "author": "Sabrina",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "pelayanannya ramah, makannya dateng sangat cepat dan enakkk. cocok buat tempat nyantai gtusihhh. semangat terus buat kakak' nyaaa⭐️⭐️⭐️⭐️⭐️",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KRldqSnlhRzFaYzBOQlNsSlRMV0pGVTBzeFRuYxAB",
+          "author": "cloudy pink",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "jujurr tempatnya baguss bangetttt, pelayanannya jugaa mantepp⭐️⭐️⭐️",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taV01GUnJTRXBaV0hadVRGRndTVkIyUTBabVZFRRAB",
+          "author": "vinny",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Entah udah berapa kali ke Hoz Pasta Pondok Petir, karena dekat juga dari rumah. Tempatnya nyaman, makanannya enak, pelayanannya baik dan ramah. Cocok banget buat jadiin tempat kumpul bersama keluarga.",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aMFRYWlhjRFJGVGtsTWNuUTNNMk5FVFUxcVNsRRAB",
+          "author": "Eki Rahmatullah",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Nyaman, Dan recommended bangett makanannya",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZelRTMUNWSEV5TVRsU1ozQk1VRTA0UTJSdGVuYxAB",
+          "author": "Daniel hery setiawan",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Pengalaman pertama makan di sini. Makanan cukup enak dan tempatnya nyaman. Recommended.",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wTlVWVlFSVlJIUTJObmJFbHZlR2x3UzNCYVZGRRAB",
+          "author": "Veronica Putri",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Sejauh ini Pasta terenak di Pamulang dan sekitarnya... Hampir tiap weekend selalu kesini...\nThanks yaaaa Hoz Pasta...",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvM1NtOUhTVkp0UkdWaVYxVXhiVFJrWVRaYU1XYxAB",
+          "author": "ms.a Wibisono",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Menu yg ada di cafe ini the best semua..gak bakalan kecewa..pasti kepengen balik lg..hrg nya jg terjangkau..gak terlalu nguras dompet...recommended bgt",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNNFZHTXpXalZJT1U5SFRtWkNXRmRTZG1oYWQyYxAB",
+          "author": "Andy Anggara",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "tempatnya nyamann",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWVmFWcEJWR1psWWpaQ2RIcHNOalF6VldwMGVXYxAB",
+          "author": "Iin (Bunda Rifki)",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Enak ,nyaman",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tod1NXRjFVRkZRYnpGT1VWbDBNbnBPUkRsYWJYYxAB",
+          "author": "lina maryati",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Makanajya masya allah enak..tempatnya sekali..mba baik baik",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGclFUaFpiMWc0TVV3d09HNUxZVkEyVjFoSGFWRRAB",
+          "author": "Fatimah Putri Ristyan",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "tempatnya comfy banget, cocok buat nugas atau nongkrong bareng temeen. makanannya juga enak trs pelayanannnya beeesstt 🤩🫰🏻 …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wNlYxSnVkMmwzYTFjeWNGTjZUMFJ6VFZadFFrRRAB",
+          "author": "Yufa Hayu",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Menunya super duper enakkk dan porsinya juga ngebuat kenyang",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjMVF6Rm1WbGRHU0hkUVdUaG1MVGhKTW14bVVFRRAB",
+          "author": "Rizky Lestari",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "nyaman banget tempat makannya dan enak makanan",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOUWVXeHNZVWMzYWpWd2IxcDZWRWh2TTIwMmJuYxAB",
+          "author": "Riszky azzahra putri",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "tempat cozy, harga affordable, pelayanannya oke bangettt, semua ramah",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKck1sSmhWRk42UlZSWFUyUkZjVFJIY1ZKaWVsRRAB",
+          "author": "Sila Sitti Romlah",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "recomended bgt buat yang mau wfc dewekan",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2padlVrUTBZVWw2UTBWaVVHTmZiamROZHpZeFdWRRAB",
+          "author": "Nadya Kharima",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Tempat yang seru dengan makanan yang mewah tapi murah.. 💜 …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNd1UxSmhTM1JMVEhOSVp5MWlNM05QYjNreldWRRAB",
+          "author": "Pangeranuuk",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Sangat rekomendasi",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1SVgwcGljRkYzWTNwWUxWUm1aa1ZWYVdOclZYYxAB",
+          "author": "Zaki Amaniy",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Nasi goreng nya n Mac n Cheese nya enaaak...",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poR1drUlBOM0oxZVhCM1YzYzJkM055ZDI5a1VWRRAB",
+          "author": "Muhammad Mawahib",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Sempurna ... mantapp ... pasta nya asli enak ...",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOcFRVcE1hVWQzTUZGdFJtRlNkM2xKVmxSNlYyYxAB",
+          "author": "MusiQ Creative",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Favorit ku dan keluarga Oglio olio. Ada Nasi goreng juga. Mantap",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0T2RXVk9VRlkzZW1KalNEVmtTRFJRT1d0UlpuYxAB",
+          "author": "eliska huwa",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Pasta sm kopinya langganan terus kl kesini. Ok bgt",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwaWRqSTBibll6ZW1ZM0xUZHZaM1paY2tSSGIyYxAB",
+          "author": "Bobi Setiawan",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "suasana nyaman, pelayanannya sangat ramah bintang ⭐️⭐️⭐️⭐️⭐️",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFMVIxcGZMV3BXV2sxSFRtbDBPR2xIVURkM09GRRAB",
+          "author": "Ervina",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Tempatnya cozy, aesthetic, makanannya juga enak. Recommended🤌 …",
+          "time": 1783728869,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5NVZXVXdibkpGWkdsaVVFRTNORFJWYkUxdVZHYxAB",
+          "author": "Caritas Cindy",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Mix berry dan strawberry matcha lattenya enak..Sirloin steaknya juga enak.  Spaghetti carbonara enak tapi sedikit asin. Pelayanan juga ok",
+          "time": 1783728869,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkVVIwaGthbmxZUVUwM1pIRllkM05FUVZaek5IYxAB",
+          "author": "Ferdy Marsalino",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Vibes tempat OK, makanan dan minum juga OK serta pelayanan petugas juga good. Mantap pokoknya",
+          "time": 1783728869,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSNFUzbzFhbnBtZVV0aE1XVlJTalEzZVVodWFXYxAB",
+          "author": "Yenti Afrina",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Makanannya enak, tempatnya bersih\nDekat dari rumah dan pelayanannya sangat baik",
+          "time": 1783728869,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paUlNsWkNRVGRJYjAxTWNYVk1MV1Y2UWtSYU0wRRAB",
+          "author": "Andreas Agp",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Makanannya enak, minumannya enak",
+          "time": 1783728869,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OeGJsOXFWRWRGY2t4RmFXUlNNemw1UVdGMFVuYxAB",
+          "author": "Akwila Ekaristi",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Tempatnya enakk dan nyaman, pelayanan nya juga oke. Best pokoknya",
+          "time": 1783728874,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWTVJVVlBVMmRSYW1kS1YxVnFaRmxpWjJKMU4yYxAB",
+          "author": "Dedek Antony",
+          "rating": 5,
+          "time_label": "4 bulan lalu",
+          "text": "Saya sudah beberapa kali makan di sini, dan tidak pernah mengecewakan.\n\nHari ini saya memesan nasi goreng spesial mereka dan meminta agar tidak …",
+          "time": 1778458474,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJemN6Um5Obk5SUXpjeVQwZDBObnBKUjBwT1NYYxAB",
+          "author": "17_Mustika tria Wulandari",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Saya memiliki pengalaman bersantap yang luar biasa. Pasta-nya benar-benar lezat, dengan cita rasa yang kaya dan dimasak dengan sempurna. Setiap gigitan terasa memuaskan, dan Anda bisa tahu bahwa bahan-bahan yang digunakan segar. …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213Mk1tRkhSVzVOWm10MGFtZExYMFJtV1ZGdExXYxAB",
+          "author": "Kristina Violeta",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Harga wajar dan rasa pasta yang enak. Saya mencoba pasta pesto dan latte mereka untuk makan siang. Porsinya pas, meskipun secara pribadi saya lebih suka pesto-nya sedikit lebih creamy. Saya selalu suka cara mereka menyajikan roti panggang …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsR1ZHOVFaRkJVUldkNlZ6RlFVbWxsUlcwMFowRRAB",
+          "author": "gradhito",
+          "rating": 4,
+          "time_label": "3 bulan lalu",
+          "text": "Sangat sepadan dengan harganya! Pizza dan pasta sangat lezat, jusnya menyegarkan, dan es krimnya sempurna untuk mengakhiri santapan di siang hari yang panas dan lembap. Karena lokasinya semi-terbuka, tempat itu sangat panas selama kunjungan kami, dan kami beruntung memilih ruang pribadi dengan AC.",
+          "time": 1781136874,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pORVl6QXdla3R2U0RWS1dVNXZXRmw0WkhGalVsRRAB",
+          "author": "Umar Sahid",
+          "rating": 5,
+          "time_label": "4 bulan lalu",
+          "text": "Makanannya sangat lezat dan harganya cukup terjangkau untuk pasta berkualitas bintang 5! Pemiliknya, Oma, sangat ceria dan senang menyapa pelanggannya, terutama keluarga dengan balita. Benar-benar permata tersembunyi di Pamulang. Sangat direkomendasikan untuk dicoba!",
+          "time": 1778458474,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsbVpIa3hURk5pWTJ4YVptVnJTemxITm5kNlVuYxAB",
+          "author": "Marc Shuliga",
+          "rating": 2,
+          "time_label": "Diedit 8 bulan lalu",
+          "text": "Pasta dan pizza yang cukup enak (gambar disertakan) dengan menu minuman yang lumayan. Harganya bagus. Koki di Sky Pasta bisa datang ke sini dan belajar cara membuat makanan Italia. …",
+          "time": 1768090474,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5bk9URkxkalpwVmtKc1JVWmFhV1ppYzFGM2IwRRAB",
+          "author": "Yuniar Haryo (Miss Niar)",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Ini adalah tempat yang bagus untuk berkumpul dengan orang-orang terkasih, teman, dan komunitas. Tempatnya, makanannya, minumannya, dan suasananya sempurna.\nPara staf melayani pelanggan dengan ramah dan hangat.",
+          "time": 1768090474,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5NFJ6QkxSRTEyZEZKNFMxSjFXRVpSTmtWZk9XYxAB",
+          "author": "Zakiyya Nafisah Ambari",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Saya makan pasta di restoran ini, saya suka pesto pollo e fungi creamy di sini karena rasanya creamy dan tidak berminyak. Saya juga memesan segelas teh stroberi mint dan saya menyukainya, karena teh stroberi mint ini sangat menyegarkan. …",
+          "time": 1783728874,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJMmQzQk5PRk5yY1c5UVoxQTJWRTlGVjFWWVUwRRAB",
+          "author": "Kalliste",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Makanannya enak dan harganya terjangkau. Pelayanannya luar biasa. Layak untuk dikunjungi kembali.",
+          "time": 1783728874,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210clFsUk5VMVF6UXpRMlZrVk1kMFIwTnpWb1pHYxAB",
+          "author": "Aji Suryo",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Tempat favorit saya di Pontir. Makanannya lumayan, dan pelayanannya selalu luar biasa.",
+          "time": 1783728879,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZMFRGOXhTblIxYzFWTWVXazFUSGxoZUZBeloyYxAB",
+          "author": "Revi Adikharisma",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Tempat yang bagus, makanan yang enak.",
+          "time": 1783728879,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWdk5WWTBiVVpOWHpKdmRIYzFZVU53TFZKa2JYYxAB",
+          "author": "DennyMan GA-BSI",
+          "rating": 4,
+          "time_label": "11 bulan lalu",
+          "text": "Tempat nyaman, makanan enak, perlu musik live untuk peningkatan lebih lanjut\n\nSemuanya bagus🫰 …",
+          "time": 1760141679,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWclkzZ3lVV0pCTTBkTVpVdEtRVVpvTjB4eGJuYxAB",
+          "author": "Edda Mutia",
+          "rating": 5,
+          "time_label": "9 bulan lalu",
+          "text": "Nasi goreng pesto, moccacino, dan tiramisu yang lezat",
+          "time": 1765412079,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrelNUWnFkVmt0U0hsRU5UZEtlWEZJUkVWSU4wRRAB",
+          "author": "Robert Langdon",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Tempat yang menyenangkan untuk bersantai dengan makanan yang enak.",
+          "time": 1768090479,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GVVZsWkdUbmhZUVZGNE5rNVVSM0p6YjNSeGRFRRAB",
+          "author": "Fishy",
+          "rating": 5,
+          "time_label": "7 bulan lalu",
+          "text": "kalo ngidam pasta selalu order takeout dari hoz pasta hehe",
+          "time": 1770768879,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xST1pIbG9MVk5YZUdSWFVFbzJRWG8xYkhseVIyYxAB",
+          "author": "Nurhayati Putri Yassin",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "Tempat yang bagus, dan rasanya enak",
+          "time": 1773188079,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paclprcG1jRTFEUlZkVlZGZExkRTFzY2tWa0xXYxAB",
+          "author": "Santi Endah",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "",
+          "time": 1773188079,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tacFFXdDZOMng2YkZGc1kwZHRkbGRTTUc1bmNVRRAB",
+          "author": "Surya Wibowo",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Lezat ....",
+          "time": 1768090479,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paZlJWVkhkMmx3WmxCS1RGWk5aSGxtVGpsdGFYYxAB",
+          "author": "Nur Azizah",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "",
+          "time": 1768090479,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjeFkyMDVSbmx6VmtKWGNYTnlhV3QwYjBGTFMxRRAB",
+          "author": "Fikri Hil",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200NGQySm5ZMDFsTmtKVGNYVTJhalZaV1c5MlluYxAB",
+          "author": "Riskiana Sari",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CcmJpMWxRWFpQV1dGUVFraFpaVFEwTm5CM1NGRRAB",
+          "author": "Firda Fadhilah",
+          "rating": 5,
+          "time_label": "11 bulan lalu",
+          "text": "Datang untuk mencicipi pastanya, dan saya setuju!",
+          "time": 1760141683,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oUU5GRnVSSEpSU2xoM1R6QlBTV2hrWXpBM1QzYxAB",
+          "author": "Firdha Maul",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "",
+          "time": 1768090483,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KdVNGOXpTRk5IZUU1dldEaFhPV3N3WkVwS1lsRRAB",
+          "author": "Agus Mulyadi",
+          "rating": 5,
+          "time_label": "9 bulan lalu",
+          "text": "",
+          "time": 1765412083,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkVWFGcHRka05HYkcxcU9GRlJVVTkzV0ZnMFNrRRAB",
+          "author": "Mega Astari",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5SmJFdGlXRzFvYmxRMlpqWXpiRFpSVDNCeE5sRRAB",
+          "author": "Rere Rea",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "",
+          "time": 1783728883,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oTWEwMURWelZVWjNGMFNrRmlOMFo0WVhwbU4yYxAB",
+          "author": "Aris Martiadi",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xMmFESjRjMnRFVVVoYU5uVnJTMFpZZDBOaldVRRAB",
+          "author": "Nurul Isna",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "",
+          "time": 1783728883,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGYWJsWnpZWFpyWkZGb1NEZzRVVUpzTUU5SE1HYxAB",
+          "author": "Belvandhika Jeremia",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5bVNYaEVXVGgxYkRkV2FsaHBabTUzVGpCRlFuYxAB",
+          "author": "lala gituloh",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFdFFXaE5TRU0zYmtaaU1rUTFlVVJtYzBSb1IyYxAB",
+          "author": "Katarina Katarina",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "",
+          "time": 1783728888,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRemNYVmFlRVZmVFhkV1RVUkJUWEV6ZW1Ga2NHYxAB",
+          "author": "Qorlya Rania",
+          "rating": 4,
+          "time_label": "2 bulan lalu",
+          "text": "",
+          "time": 1783728888,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsRGEyeGtRWFpXYmxneVgzWXhkbUozZEhGRFdWRRAB",
+          "author": "aradfby",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "",
+          "time": 1783728888,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxM1ZETkhOa1JHV1dSTVExaGhjbFl3VG1sdmVYYxAB",
+          "author": "Novianti Perdianingsih",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "",
+          "time": 1783728888,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkVlduZHlaMHBtTmkxYU5uTTRTbTVOYUdSaVZsRRAB",
+          "author": "Aanthusiast",
+          "rating": 4,
+          "time_label": "3 bulan lalu",
+          "text": "",
+          "time": 1781136888,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwM2F6bFpjRkI2YmpJd2NFNWhVWGhVUmxaV2QwRRAB",
+          "author": "alzena sahda h.",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "",
+          "time": 1783728888,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200NE4wTkpRVEJxU1VOWFJIcDJNRlYwVEVSNVkxRRAB",
+          "author": "Darren Fachry",
+          "rating": 5,
+          "time_label": "3 bulan lalu",
+          "text": "",
+          "time": 1781136888,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SdVJETTBRMjlETlVzMWNsSllVVWN4YVMxQlIwRRAB",
+          "author": "Nda",
+          "rating": 5,
+          "time_label": "3 bulan lalu",
+          "text": "",
+          "time": 1781136888,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCclVVODBObXBCUjNwa1RXeEhZM0pCVHpGellrRRAB",
+          "author": "Nur Ahdiani",
+          "rating": 5,
+          "time_label": "9 bulan lalu",
+          "text": "",
+          "time": 1765412088,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25weVFVdDFlVk5vTFRrM2RGUTNUVlpCTURCeGRsRRAB",
+          "author": "farid alaqsa",
+          "rating": 5,
+          "time_label": "4 bulan lalu",
+          "text": "",
+          "time": 1778458493,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5cVJqUnlUMkZpVkhSSmJtZFhRVmhIY21vd1VIYxAB",
+          "author": "Arif Saladin",
+          "rating": 5,
+          "time_label": "4 bulan lalu",
+          "text": "",
+          "time": 1778458493,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWS2VsaFhPRFp2UzNjelV6ZG9ORXhFVTNObE9IYxAB",
+          "author": "riezka ppdb",
+          "rating": 5,
+          "time_label": "5 bulan lalu",
+          "text": "",
+          "time": 1775866493,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KblRqZE9VVkF6TVZSSVVrcHJUVVYzZGxWYVVuYxAB",
+          "author": "Dzikril Hakim",
+          "rating": 5,
+          "time_label": "5 bulan lalu",
+          "text": "",
+          "time": 1775866493,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psek1qVTROVXBUZGxFeVZGUmFORkZJUjNKdllVRRAB",
+          "author": "istirika hadi saputro (Hadi)",
+          "rating": 4,
+          "time_label": "6 bulan lalu",
+          "text": "",
+          "time": 1773188093,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxT01GbEdkbXN0Vm1OWWRXVmhURXc1TVVKT01XYxAB",
+          "author": "Nur Aisyah RS",
+          "rating": 4,
+          "time_label": "5 bulan lalu",
+          "text": "",
+          "time": 1775866493,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oRWRGQnhTRlF5UlMxTGIwMXFUemROVjFaQ2RVRRAB",
+          "author": "Ely Paryanti",
+          "rating": 5,
+          "time_label": "7 bulan lalu",
+          "text": "",
+          "time": 1770768893,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kMFptSm9jMU55TkhOcVYzcEtRbE0xZGpOamNHYxAB",
+          "author": "Fst_Filza Desri S.",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "",
+          "time": 1773188093,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oTlMwZFdhbVJHUkZWRWRuVkNabEp2YmpORlFYYxAB",
+          "author": "a",
+          "rating": 5,
+          "time_label": "7 bulan lalu",
+          "text": "",
+          "time": 1770768893,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWb04zTktTM0ZXVEU5VVNIZENjRFJ5WVY4NVlWRRAB",
+          "author": "Anggara Pralambang",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "",
+          "time": 1773188093,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JemRucG9lWEZQUTJ4VlZXcEdSM2xKY0UwdGNWRRAB",
+          "author": "Nino Goeritno",
+          "rating": 5,
+          "time_label": "7 bulan lalu",
+          "text": "",
+          "time": 1770768899,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkS2NWTTVWblpTV1RaRVdWaHpVek50TTNaSE9WRRAB",
+          "author": "Lidya Aquarista",
+          "rating": 4,
+          "time_label": "7 bulan lalu",
+          "text": "",
+          "time": 1770768899,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wM1oyZEVaMGhtV0ZCbmJWcGhaR2N6TjBOTFEzYxAB",
+          "author": "Averrous Saloom",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "",
+          "time": 1768090499,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkWVZtZG5Salp4Y204MWFrNDBTMlY1WW1VeFZtYxAB",
+          "author": "Nugi Suwito",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "",
+          "time": 1773188099,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsVU1scG1UM1JKZEVoWk1HTm9TRVoxZFRSMk1sRRAB",
+          "author": "ismi arsys",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "",
+          "time": 1768090499,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZNVFVaDBiRjlUVDBGSGVEVjZhMGxZUmxnd09XYxAB",
+          "author": "Nur Aropah",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "",
+          "time": 1773188099,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wdlpISlBaMHh2UlVsRVlpMXJRbWhRYVhWblJFRRAB",
+          "author": "naufal zhorif",
+          "rating": 5,
+          "time_label": "7 bulan lalu",
+          "text": "",
+          "time": 1770768899,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOWlpVVm5RMFZNT0dka05XWnZaSFpoVlhKa1lXYxAB",
+          "author": "Yunas Fatchurahman",
+          "rating": 5,
+          "time_label": "7 bulan lalu",
+          "text": "",
+          "time": 1770768899,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wdlJYaDVkRFExU2tGek9YRkhWVUpvWkhkVFFXYxAB",
+          "author": "Sofie Yani",
+          "rating": 5,
+          "time_label": "7 bulan lalu",
+          "text": "",
+          "time": 1770768899,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOZmF6aGhXVWN0T0ZCQldERklaMFpoYkhkeFNsRRAB",
+          "author": "Maria Christela",
+          "rating": 5,
+          "time_label": "7 bulan lalu",
+          "text": "",
+          "time": 1770768899,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GUFRXbFpNWHAxTTNwWmVYbGlVVkpxYld4bVowRRAB",
+          "author": "Sasmita Junia",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "",
+          "time": 1768090504,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214MWVXeHNOWEJhZDE5UU9EZ3lUa2RIZURaYWEwRRAB",
+          "author": "Antonius Dwi",
+          "rating": 5,
+          "time_label": "7 bulan lalu",
+          "text": "",
+          "time": 1770768904,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201blJUaE1TSG8zUkUxNWFXcFJXR3hhWWpScmFVRRAB",
+          "author": "Harry Siahaan",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "",
+          "time": 1768090504,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWRWNuWkVWbUYzU0U1S1YxVldMWFU0WlVWS1dIYxAB",
+          "author": "ajeng bi",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "",
+          "time": 1768090504,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tabmNVUkpjakppV1dVMk1sOVRVRzVuUTNWWU5IYxAB",
+          "author": "devina ratnasari",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "",
+          "time": 1768090504,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210M1pWTklNRTFCY1VSRVIweEZWVU5OT0dORlNrRRAB",
+          "author": "Oky I. Lesmana",
+          "rating": 4,
+          "time_label": "8 bulan lalu",
+          "text": "",
+          "time": 1768090504,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jemJGZEdNVXBMU1c5M2NYUjBaVmQxTWkxMlkxRRAB",
+          "author": "Rizky Fauzi",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "",
+          "time": 1768090504,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OaE9FTkZWWGRmVG5aR2JGVTJjR3RXZDNGYVFrRRAB",
+          "author": "Aulia Erka",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "",
+          "time": 1768090504,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFelNuZEtOVTh6WVVSbVZqZzBjSG8yYjJaZk9XYxAB",
+          "author": "BIZA NISCALA PROPERTY",
+          "rating": 4,
+          "time_label": "9 bulan lalu",
+          "text": "",
+          "time": 1765412104,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SbGNreHJUMWx2Wm5kT1gxWkhVbkp5TURoeFdYYxAB",
+          "author": "Pandu Ngrh",
+          "rating": 5,
+          "time_label": "10 bulan lalu",
+          "text": "",
+          "time": 1762820104,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRNU5WSnhZa2xMYUZaa2VsWmFaMGxqVWxadVEyYxAB",
+          "author": "Gerry Garibaldi",
+          "rating": 4,
+          "time_label": "10 bulan lalu",
+          "text": "",
+          "time": 1762820109,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25waVNHbGxRMTk0VjBGVVJYRlllVGhYY1VWS1VrRRAB",
+          "author": "Arnidha Suryadi",
+          "rating": 5,
+          "time_label": "10 bulan lalu",
+          "text": "",
+          "time": 1762820109,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOWE4xZEphbGxyYXpsc2FXSnNXWEI1TjIxM1dsRRAB",
+          "author": "Bella Agustin",
+          "rating": 5,
+          "time_label": "11 bulan lalu",
+          "text": "",
+          "time": 1760141709,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGNVpXcEVSbUpsZEZKQlVrNXRTVEpEZVdNd2MyYxAB",
+          "author": "Resmajuliana Putri",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "masisseoyoo 👍🏻👍🏻👍🏻👍🏻👍🏻 …",
+          "time": 1768090509,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twQlpXSXpUMUkyT0MxWmVpMVFTRzlDZGtOWWFGRRAB",
+          "author": "Jamal -",
+          "rating": 5,
+          "time_label": "3 hari lalu",
+          "text": "",
+          "time": 1788826509,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGWVZGZG1aMDE2YTBacE5VeDVNRUYxT1MxRlIwRRAB",
+          "author": "Rifky Pramana Hady",
+          "rating": 5,
+          "time_label": "seminggu lalu",
+          "text": "",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWWVR6SjVTbGR3WW5oUFNXWTVSRXRsU21aNk9GRRAB",
+          "author": "I_ikaanggiani_ PKMBendabaru",
+          "rating": 5,
+          "time_label": "3 minggu lalu",
+          "text": "",
+          "time": 1787271309,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KTExUQkVUa28zUkRGNFFXUlNSRVZ5ZWtOR1VYYxAB",
+          "author": "chiko jhico",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sSFUwb3ROMUJZUW1kNFJqZDFkVFJDYWtoZkxWRRAB",
+          "author": "ziola",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "SUMPAAHHH SII KAYAA WAWWW BGTT TERIMA KASIH BANYAK MAS DAN MBAA DISINII RAMAH TAMAH, semangat yaa mba dan mas keryanyaaaq",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSclYzbFNSR3BITlhSWlQxaEJVakpFTTBNeGVWRRAB",
+          "author": "Savira Andin",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SRFVGUnBWbll6WlhNNFVHMDNZVVZHYUhKbU0zYxAB",
+          "author": "Shaqeef Almer",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Tempat dan makanannya enak banget... direkomendasikan banget deh",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKbVgxZG5ORzVTVGxsM1pXUlZiV3hCWjFsTlJYYxAB",
+          "author": "Tantri Wijayanti",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SS2VEVlBhbmhzWVRFM0xVY3pYMHBoYTBOUVZuYxAB",
+          "author": "frelina daniel graciarishanti",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SU2JFdFJTMjFxYzJ4SlExQnZRVmxMWW5OcmIxRRAB",
+          "author": "Raihan Raziq",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "luar biasa",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKU2FYWjVkbW93WjFWQlRYZGZSMTk1YjJOTWRrRRAB",
+          "author": "Riska",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Pasta dan minumannya enak sekali.\nPelayanannya ramah.",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNemExOXhUbTVPVVdGclpsRklSWGRNYzFreVIwRRAB",
+          "author": "Dikasatya 7777",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "",
+          "time": 1783728914,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210VFkwOUViR281Y21SVll6Tm1WVVpUY0dkTmJtYxAB",
+          "author": "Maha Rani",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "",
+          "time": 1783728914,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213MWRqVTFOMGwyTkZFMk1HVnpXRVprZG5SNlFYYxAB",
+          "author": "Jelita",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "",
+          "time": 1783728914,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rMU1ucE5aa2hNY1RKdVdUWmphRUp6WDI5eFJFRRAB",
+          "author": "Sabrina putri elsarah",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "",
+          "time": 1783728914,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWTFRrbFZaWEZvTWw5elJIbEVSbUV4UzBwdlMwRRAB",
+          "author": "Farida Ariyanti",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "",
+          "time": 1783728914,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkdmFra3dORE5MUjBGNldrNWtWMFYxYkVKclRXYxAB",
+          "author": "Annisa A. Sya alitsyah",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "",
+          "time": 1783728919,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pod1ZtOWlSVkJRYjJRdGFVcEpaVUl3UTJacVZYYxAB",
+          "author": "Boy Boim",
+          "rating": 4,
+          "time_label": "2 bulan lalu",
+          "text": "",
+          "time": 1783728919,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKTE9XcG9jR0o1VTBaNVJFSm5ZbFo1U0RsS1RsRRAB",
+          "author": "Anwar Jayalas",
+          "rating": 5,
+          "time_label": "3 bulan lalu",
+          "text": "",
+          "time": 1781136919,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kcU5FaFphelZaTFRCd2VWVjZPVEIyUzI5eGEyYxAB",
+          "author": "Mulhadi Jabar 5.2",
+          "rating": 5,
+          "time_label": "3 bulan lalu",
+          "text": "",
+          "time": 1781136919,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OdVlYWmxWRU0wUlVkb2RqRnNXSFJSTkVSMFptYxAB",
+          "author": "Endang Isamu",
+          "rating": 5,
+          "time_label": "4 bulan lalu",
+          "text": "",
+          "time": 1778458519,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aRldtOXZOVFJDUWpKVlQyOTZOazQ0ZEZObFpFRRAB",
+          "author": "Disya Shaliha",
+          "rating": 5,
+          "time_label": "5 bulan lalu",
+          "text": "",
+          "time": 1775866519,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kRE1UTkdjSEprYXpVM2MwTjVSMEpJWTFkMmJuYxAB",
+          "author": "Nurul Diaz",
+          "rating": 4,
+          "time_label": "5 bulan lalu",
+          "text": "",
+          "time": 1775866519,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taTGNtb3pRbXBYZVdGdFNtUTFVVmg2TVRaMlEwRRAB",
+          "author": "widiyono slamet",
+          "rating": 5,
+          "time_label": "5 bulan lalu",
+          "text": "",
+          "time": 1775866519,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZd2NWOVlVbkpTU3pWeWFGSXpjSE41VTJNMFVIYxAB",
+          "author": "Atharizz Qb",
+          "rating": 4,
+          "time_label": "5 bulan lalu",
+          "text": "",
+          "time": 1775866519,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tscWRUTTBaa2h0U2pCbk5FRXlOMHM0Y1RsSlIwRRAB",
+          "author": "beti rianti",
+          "rating": 5,
+          "time_label": "7 bulan lalu",
+          "text": "",
+          "time": 1770768919,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzMWMxUk9abTl3VGs1YVJuSjBhVTFmU0RSM1NHYxAB",
+          "author": "Julangjulung Ulung",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "",
+          "time": 1768090525,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGeU9GOVFSMUZPVWtVMVdWUnVjSHBXYkhacFZVRRAB",
+          "author": "Lusy Chian",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "",
+          "time": 1768090525,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKVlIyaFBUVGswY1dkdFZtNW5kMmxmWkU5QmNWRRAB",
+          "author": "lithaa putrii",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "",
+          "time": 1768090525,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swNFVUVXpNSGxFZDJRNVEyWldlRXgxWlZvelUzYxAB",
+          "author": "Keizya Jois Frandesta",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "",
+          "time": 1768090525,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VMFFucG1lbVZhUjJsTVpVVnZUR3h5ZUdoM1ZXYxAB",
+          "author": "Sintya Dwi Rosady",
+          "rating": 5,
+          "time_label": "11 bulan lalu",
+          "text": "",
+          "time": 1760141725,
+          "source": "dom"
+        }
+      ]
+    }
+  ]
+}

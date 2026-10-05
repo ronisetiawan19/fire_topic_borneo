@@ -1,0 +1,67 @@
+{
+  "elements": [
+    {
+      "tag": "DIV",
+      "type": null,
+      "role": "combobox",
+      "placeholder": null,
+      "aria": null,
+      "id": "",
+      "text": "",
+      "cls": "ant-select-selection\n            ant-select-selection--single"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "role": null,
+      "placeholder": "Detecting your current location",
+      "aria": null,
+      "id": "location-input",
+      "disabled": true,
+      "text": "",
+      "cls": "ant-input ant-input-disabled"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "role": null,
+      "placeholder": null,
+      "aria": null,
+      "id": "",
+      "disabled": false,
+      "text": "Search",
+      "cls": "ant-btn submitBtn___2roqB ant-btn-primary"
+    },
+    {
+      "tag": "BUTTON",
+      "type": "button",
+      "role": null,
+      "placeholder": null,
+      "aria": null,
+      "id": "",
+      "disabled": false,
+      "text": "Read More",
+      "cls": "ant-btn readMore___1HEqB ant-btn-block"
+    }
+  ],
+  "searchTarget": {
+    "tag": "DIV",
+    "placeholder": null,
+    "id": "",
+    "outer": "<div class=\"ant-select-selection\n            ant-select-selection--single\" role=\"combobox\" aria-autocomplete=\"list\" aria-haspopup=\"true\" aria-controls=\"827fe43a-c051-496f-8b3d-da39b61deb33\" aria-expanded=\"false\"><div class=\"ant-select-selection__rendered\"><ul><li class=\"ant-select-search ant-select-"
+  },
+  "calls": [
+    {
+      "method": "GET",
+      "url": "https://portal.grab.com/foodweb/guest/v2/category?latlng=-6.1767352,106.826504&categoryShortcutID=11512&offset=0&pageSize=8"
+    },
+    {
+      "method": "POST",
+      "url": "https://mcd-gateway.grabtaxi.com/v2/web/track"
+    },
+    {
+      "method": "POST",
+      "url": "https://mcd-gateway.grabtaxi.com/v2/web/track"
+    }
+  ]
+}

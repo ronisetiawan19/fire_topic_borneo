@@ -1,0 +1,106 @@
+{
+  "users": [
+    {
+      "user_id": "",
+      "username": "worksfess",
+      "nickname": "",
+      "bio": "",
+      "followers": 0,
+      "following": 0,
+      "tweets_count": 0,
+      "verified": false,
+      "blue_verified": false,
+      "location": "",
+      "joined": "",
+      "profile_image": "",
+      "url": "https://x.com/worksfess"
+    }
+  ],
+  "mode": "browser",
+  "scraped_at": "2026-09-10T12:21:13.308Z",
+  "total_tweets": 3,
+  "total_replies": 0,
+  "total_records": 3,
+  "tweets": [
+    {
+      "tweet_id": "2090752617815351394",
+      "text": "[PENGUMUMAN] \n\nSlot paid promote untuk SEPTEMBER 2026 telah dibuka.\n\nUntuk informasi syarat & ketentuan, jadwal, serta rate card, silakan hubungi:\n• X: \n@magnitvde\n\n• Telegram: \nhttp://\nt.me/miminworksfess\n• Email & Google Chat: worksfess@gmail.com",
+      "author": "worksfess",
+      "nickname": "WORK",
+      "user_id": "",
+      "created_at": "2026-08-21T10:47:23.000Z",
+      "likes": 8,
+      "retweets": 6,
+      "replies": 0,
+      "quotes": 0,
+      "views": 0,
+      "is_retweet": false,
+      "retweeted": false,
+      "is_quote": false,
+      "quoted_text": "",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HQPXmIsakAAD-5W?format=jpg&name=small"
+        }
+      ],
+      "in_reply_to": "",
+      "url": "https://x.com/worksfess/status/2090752617815351394",
+      "lang": "",
+      "type": "tweet",
+      "source": "dom"
+    },
+    {
+      "tweet_id": "2098021285750079749",
+      "text": "work! ini legit ga ya? interview online cmn sekali, ktnya mau dikasi offering letter tp baru dikirim video kantornya (ruko gada palang nama), dan bisa masuk kerja senin. pas aku cari di gugel ga keluar nama PT nya, cara ceknya bisa dmn lg ya guys? aku dari jogja soalnya",
+      "author": "worksfess",
+      "nickname": "WORK",
+      "user_id": "",
+      "created_at": "2026-09-10T12:10:28.000Z",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "views": 0,
+      "is_retweet": false,
+      "retweeted": false,
+      "is_quote": false,
+      "quoted_text": "",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HR2rPdHXoAA3o1O?format=jpg&name=small"
+        }
+      ],
+      "in_reply_to": "",
+      "url": "https://x.com/worksfess/status/2098021285750079749",
+      "lang": "",
+      "type": "tweet",
+      "source": "dom"
+    },
+    {
+      "tweet_id": "2098018796753592455",
+      "text": "work! mau tanya maganghub itu kalo keterima gajinya bisa bank apa aja? bank digital bisa kah? :3",
+      "author": "worksfess",
+      "nickname": "WORK",
+      "user_id": "",
+      "created_at": "2026-09-10T12:00:35.000Z",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0,
+      "views": 0,
+      "is_retweet": false,
+      "retweeted": false,
+      "is_quote": false,
+      "quoted_text": "",
+      "media": [],
+      "in_reply_to": "",
+      "url": "https://x.com/worksfess/status/2098018796753592455",
+      "lang": "",
+      "type": "tweet",
+      "source": "dom"
+    }
+  ],
+  "replies": []
+}

@@ -1,0 +1,792 @@
+{
+  "query": [
+    "https://maps.app.goo.gl/doxEuNku2u2v9FgC9"
+  ],
+  "mode": "browser",
+  "date_range": {
+    "since": "2025-09-11",
+    "until": null
+  },
+  "sort": "relevant",
+  "scraped_at": "2026-09-11T00:10:47.512Z",
+  "total_places": 1,
+  "total_reviews": 80,
+  "places": [
+    {
+      "place_id": "0x2e69f3833a0f0acb:0xf7ebe17ae45d0e36",
+      "name": "0x2e69f3833a0f0acb:0xf7ebe17ae45d0e36",
+      "address": "",
+      "rating": 0,
+      "reviews_count": 95,
+      "link": "https://www.google.com/maps/place/Barraci+Steak+%26+Pasta+Pamulang/@-6.336702,106.7393124,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69f3833a0f0acb:0xf7ebe17ae45d0e36!8m2!3d-6.336702!4d106.7393124!16s%2Fg%2F11r_vntxs3?entry=ttu&g_ep=EgoyMDI2MDkwOC4wIKXMDSoASAFQAw%3D%3D",
+      "reviews": [
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OVmVuQmhWakpuWkVsUVVIZFNYMmRHYTIxalZXYxAB",
+          "author": "Reyzamasie Dara Prayista",
+          "rating": 5,
+          "time_label": "5 bulan lalu",
+          "text": "Makanannya enak enak banget, platingannya proper ga asal, pelayanannya bagus, ramah dan baik banget. Harga terjangkau, worth it. Sayang banget tempatnya kurang rame, padahal dengan makanan seenak ini harusnya bisa lebih rame pembeli. Next time pasti bakal balik lagii karna puass bangettt🤍",
+          "time": 1775866199,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KVVkwbzRkRkpDYkVwaGFFNDJNR2hNTXpaR04yYxAB",
+          "author": "SHN Official",
+          "rating": 4,
+          "time_label": "3 bulan lalu",
+          "text": "Rasa lebih baik dibanding steak tenda yg dipinggir jalan walaupun harga mirip.\nTapi karena harga yg terjangkau jadi wajar lah mengurangi suasana ruangan yg agak pengap (hanya kipas atap) dan banyak nyamuk di malam hari.",
+          "time": 1781136599,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SQlZGaEVlRlI0TWkwNWRURm9TekJDVUdnMmVrRRAB",
+          "author": "Jhozy Kurnia Pradana",
+          "rating": 5,
+          "time_label": "5 bulan lalu",
+          "text": "Harga affordable dan rasa worth it steaknya fresh enak meskipun ramenya bumbunya kurang nonjok but overrall its very good. Kualitasnya ngga kaleng kaleng",
+          "time": 1775866199,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGS1oyTmZTa0ZYVmpsTUxUUktVelpRYzJwSlJtYxAB",
+          "author": "Ms_Mejustsaying",
+          "rating": 5,
+          "time_label": "10 bulan lalu",
+          "text": "Nyari steak yang daging beneran, harga terjangkau, dan enak di Pamulang, ke sini aja. Awal nyoba via grabfood, ga expect to much karena emang belum nemu steak enak di Pamulang. Tapi ternyata enak, sampe sering beli. Pokoknya two thumbs up buat rasanya 👌\n\nSelalu order tenderloin steak 180gr (ga ada yg 200gr, tp ada yg 150gr), medium, saus mushroom dan blackpepper. Side dish kentang goreng sama salad. Tingkat kematangan pas, ngunyahnya ga pake usaha, dan yang paling penting ini daging beneran bukan meltique.\n\nMakan langsung di restonya udah 2x, dan pastinya harganya lebih murah makan langsung di resto dibanding pesen online karena harganya beda sampai 30rb lebih. Appetizernya juga enak2. Udah nyoba potato wedges dan bitterbalen. Servicenya juga okay, pegawainya ramah2 semua.\n\nEnak dan recommended!",
+          "time": 1762819799,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrdFVtSkVVMGhWY0Uxdk9EY3dkemxzVlhoMFpHYxAB",
+          "author": "26 Rakha alvina putra",
+          "rating": 5,
+          "time_label": "5 bulan lalu",
+          "text": "Pelayanan keren terbaik , restonya harus rame karena overall steaknya good. Emang tempatnya agak hidden aja. Pokonya worth to price bgt",
+          "time": 1775866199,
+          "source": "dom"
+        },
+        {
+          "review_id": "ChdDSUhNMG9nS0VNLWhwNGFka1BYWG53RRAB",
+          "author": "Surya Wedi",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Makan di Barraci Steak & Pasta Pamulang tuh bener-bener puas! Tempatnya cozy, bersih, dan nyaman banget buat makan bareng keluarga, pacar, atau bestie. Suasananya santai, nggak berisik, jadi makin betah nongkrong lama-lama.\n\nMenu-nya lengkap, dari steak sampai pasta, semuanya enak dan porsinya pas banget. Dagingnya empuk, bumbunya ngena, dan pastanya juga creamy parah! Harganya juga masih masuk akal buat rasa dan kualitas kayak gini.\n\nLokasinya strategis, gampang ditemuin dan parkiran juga cukup oke. Pelayanannya ramah dan cepat. Fix sih, ini salah satu spot makan favorit di Pamulang!",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205RE1HNDRWblIxYVVaaWJYbDVXR3BrY2poWVJtYxAB",
+          "author": "Ashari P",
+          "rating": 5,
+          "time_label": "4 bulan lalu",
+          "text": "Engga expect disini makanannya enak pelayanan juga super ramah dan sopan banget vibes disini bener2 dilayanin jadi tempatnya berasa lebih hangat lively, steaknya juicy dengan tingkat medium engga lupa cobain bitter ballen nya wajib dicoba sebagai cemilan sebelum main course",
+          "time": 1778458199,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poaGRraHZiMlZPYTNZeVRUUk1XVkJEWVhWb1JGRRAB",
+          "author": "Euis Safitri Mustika",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "steak harga terjangkau di Pamulang sudah 2x ke sini tapi tidak terlalu ramai.\nsteak enak, menu lain juga beragam",
+          "time": 1773187799,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSR1lVRmZZVmh4U0dJMU9UQnVXVGRmWTJjeWRFRRAB",
+          "author": "Ridzky Ferrarian Wibisono",
+          "rating": 4,
+          "time_label": "11 bulan lalu",
+          "text": "Harga terjangkau dengan rasa yang tergolong enak sesuai harganya.\nSayangnya saya kurang cocok dengan spaghetti aglio olio-nya.\nUntuk minuman, bolehlah, tapi bukan yang diharapkan.\nYang pasti, dengan kematangan medium daging steaknya empuk walau kurang juicy.\nSaya sekeluarga dilayani dengan ramah.",
+          "time": 1760141399,
+          "source": "dom"
+        },
+        {
+          "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3bDhta3N3RRAB",
+          "author": "Alma",
+          "rating": 5,
+          "time_label": "Diedit setahun lalu",
+          "text": "Semua orang harus tau ini tempat! Rugi kalau gak pernah ngerasain makan di sini! Solusi mkan steak enak sekelas hotel gak pake mahal.\n\nAslinya udah lama simpan resto ini di Google Maps, dapat dari medsos kelihatannya enak dan super terjangkau, akhirnya hari ini (Maret 2025) keturutan.\n\nPelayananan ⭐⭐⭐⭐⭐ keren hospitality nya. Ramah dan sangat membantu. Waktu ditanya menu rekomendasi juga paham mana yang best seller, informatif juga. Reto bersih dan nyaman meskipun hanya dengan kipas di lantai bawah.\n\nAkhirnya pesan Tenderloin Steak sesuai rekomendasi dan minta tingkat kematangan Medium Rare.\n\nAwalnya agak ragu, takut fail rasanya dengan kematangan nanggung gitu. Ternyata begitu datang dan dicoba... ENAK!\n\nSebetulnya pengen mashed potato, kayak yg di foto-foto di Google Maps, tapi ternyata cuma bisa pakai frech fries. Tapi tenang, tetap enak dan fresh. Seasoning pas 👌🏼\n\nTerima kasih atas pelayanannya. Semoga tambah rame\n\n[Update] 22/08/2025\n\nMampir lagi karena info promo Tenderloin Steak 120gram harga Rp42.000. Rasa dan kualitas masih sama meskipun di masa promo. Konsisten 👍🏼",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psdGQwOTBVMmRPUWpGVFJtWkJRa3hSTVZGcmNtYxAB",
+          "author": "herr zaga",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Jauh jauh dari Bekasi, habis jemput istri dari Uni, laper cari makan.\nKetemu resto ini. …",
+          "time": 1768090199,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsNk0zTnlRMGhHUlVKdk1tTjVOVVpJYld0VlVYYxAB",
+          "author": "Tasha Taliya",
+          "rating": 5,
+          "time_label": "11 bulan lalu",
+          "text": "Pesan sirloin aus200gr, tenderloin 180gr &120gr, kematangan req medium, harga terjangkau, saus nya enak hanya saja yg 180gr saus nya kurang banyak,mayo di salad juga terlalu sedikit, french fries nya porsinya banyak👍 hanya saja masukan kl french fries bisa diganti pakai potato wedges.. …",
+          "time": 1760141399,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOMmVYWm5WMUpMVXpWUWN6bDZkVU4zUzIxemJWRRAB",
+          "author": "Critical Geeks Indonesia (Dicky)",
+          "rating": 5,
+          "time_label": "5 bulan lalu",
+          "text": "Steak terworth it sepamulang, enak bahan bahan fresh dan pelayanan top markotop. Harganya cukup ramah dikantong",
+          "time": 1775866199,
+          "source": "dom"
+        },
+        {
+          "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuazRLa1dREAE",
+          "author": "vivi dwijayanty",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Pertama kali makan steak ini, karena emang lagi kepengen steak nyobain yg dipamulang. Untuk pembuka coba mix salad dan onions ring nya enak, trus kita pesen pasta carbonara nya mungkin sedikit kurang matang.tapi mungkin penyajian supaya ga …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmeDdIeGx3RRAB",
+          "author": "Rizky Akbar",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Pesan paket Ang ang ang dan sangat puas dengan rasa makanannya yg sangat sesuai dengan harga yg di patok (110rb sudah termasuk tax dll). Pelayanan sangat friendly dan suasana resto yg cukup baik. Overall sangat puas makan disini dan akan …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJOEl6ZFN3EAE",
+          "author": "Attina Triningsih",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Variasi makanan nya banyak, rasanya enak, harga sangat terjangkau. Pelayanan nya jg ramah dan cepat tanggap. Sukses trs!!",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25saVkzRkdWWFp4ZWsxcE4ybzVVMWx0Y0hkRlRuYxAB",
+          "author": "Mimi Ati",
+          "rating": 5,
+          "time_label": "9 bulan lalu",
+          "text": "Uda beberapa kali kesini selalu favorit dengan menu steaknya, dan ternyata sekarang barraci ada menu ramen, awalnya aga underestimate palingan ramen yang ala ala gtu secara kan barraci ini lebih ke steak and pasta, tapi ya penasaran jadi …",
+          "time": 1765411799,
+          "source": "dom"
+        },
+        {
+          "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvaHByclBREAE",
+          "author": "Putri",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Baru tau kl di pamulang ada steak enakkk! Aku pesen tenderloin steak medium niqmat sekali🤤 tampilannya juga cantik buat di foto2, cocok buat makan setak bareng keluarga …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNneFBmTE5BEAE",
+          "author": "Ika Krisnawardhani",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Udah gatau ke berapa kali makan disini, bener2 harganya affordable buanget utk rasa, kualitas & kebersihan yg terjaga.\nSetiap beli dine in maupun via ojol, ngga pernah ada yg failed. …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "ChdDSUhNMG9nS0VJN1R6OUNaXzVyNXp3RRAB",
+          "author": "Ade Nia",
+          "rating": 5,
+          "time_label": "Diedit 8 bulan lalu",
+          "text": "UPDATE!\n[ada menu baru, ramen, nyoba yang ramen miso, rasanya enak banget mo nangiss 😭 harganya juga masih so so, lumayan terjangkau 👌🏻 tersedia tempat parkir yang …",
+          "time": 1768090199,
+          "source": "dom"
+        },
+        {
+          "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2dTUtUGd3RRAB",
+          "author": "Rayyan hrs",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "steak daging lokal kayanya, tapi sangat worth dengan harga under 100rb, daging dimasak proper ga alot …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "ChZDSUhNMG9nS0VMU25zUEt2d01tU2V3EAE",
+          "author": "Bondan Suryo",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Makanannya enak, harganya muraaah, mas²nya ramaaah ! Toppp pake banget.\nMungkin utk yg well done jangan sampai overcooked yo mas. Selebihnya worth it bangeet. …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwTWN6Um9WakppU21weU0yZ3haSEJHWVcxcGRuYxAB",
+          "author": "Inhouse Studio",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Puaaaaassss. Enaaak. Makan steak ramah di kantong. Cocok utk keluarga kecil. Akan ke sini lagi 🩷 …",
+          "time": 1768090203,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GNVZtUjVlWHByTFhKRGNscENlRW8zVFVOVWNsRRAB",
+          "author": "Daniel Tobing",
+          "rating": 5,
+          "time_label": "11 bulan lalu",
+          "text": "Cukup puas dengan kualitas makanan ( rasa, porsi dan penyajian) dan sangat worth it. Tidak menunggu dan pelayanan yg sangat ramah. Semoga bisa bertahan terus dan mengembangkan menu2 agar lebih mantab lagi.",
+          "time": 1760141403,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214emRubFBaVkYyUnpaeGIxbDRRMGt3Vm1abWNsRRAB",
+          "author": "Jack Caspian KDP94",
+          "rating": 4,
+          "time_label": "setahun lalu",
+          "text": "Tempat nongkrong yang lumayan. Menu variatif, harga standar, wifi tersedia, pelayanan ramah. Daging fresh. Disarankan datang sore - malam, suasananya lebih syahdu. Saat kami datang ada bonus minuman gratis jika belanja sampai nominal tertentu. Sepertinya tempat ini akan jadi pilihan pertama jika ingin makan steak.",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "ChdDSUhNMG9nS0VOLWR1TTNQb3ZxY2xnRRAB",
+          "author": "Rifqi Muhammad Fatkhi",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Enak semua. Ludes tak tersisa\nPelayanannya sangat bagus …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwTFppMXZORzVUZUVaTk5YVXRjM00yVEdGbWFsRRAB",
+          "author": "Irfan Wahyudi",
+          "rating": 5,
+          "time_label": "10 bulan lalu",
+          "text": "Sudah langganan yang di cipete. Akhirnya buka cabang di pamulang. Makanan enak, pelayanan nya sangat ramah.",
+          "time": 1762819803,
+          "source": "dom"
+        },
+        {
+          "review_id": "ChZDSUhNMG9nS0VMekJ3czNIN19Yb2JBEAE",
+          "author": "Firma Lany",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Dengan harga yg murah ga expect bakal se enak ini, ternyata enak pake banget. Dengan cara penyajiannya yg ga murahan, benar2 memperhatikan detail rasa dan presentasi menu 👍👍👍 …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvMVpLdzRnRRAB",
+          "author": "Tri Wahyuni",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Terbaik. Steak dan pastanya enak, harga tdk terlalu mahal. Pelayanannya super ramah sekali.",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOcVZrWnNlRVJJU0cxcmIyczBVWGRYVjFOdVduYxAB",
+          "author": "Andre Aditya",
+          "rating": 5,
+          "time_label": "11 bulan lalu",
+          "text": "untuk harga yang super murah sangat worth it untuk dicoba.pelayanan super ramah",
+          "time": 1760141403,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214RVptTktXREp5YzNCdlgzb3liVU4wWjFaVmFYYxAB",
+          "author": "Ridwan Ubaedullah",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Restoran steak pinggir jalan raya, dekat kampus, posisi strategis, sepertinya enak, belom pernah nyoba, semoga sukses selalu..",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3MGFtVmF3EAE",
+          "author": "Teh Evien",
+          "rating": 4,
+          "time_label": "Diedit setahun lalu",
+          "text": "Sudah sering makan disini,  makanannya enak dan pelayanannya ramah, cuma tempatnya agak ketutup jadi g begitu kelihatan",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xc1YxRlJjV3BwWDBWM1ZreHhNRTA1ZUhCd1pIYxAB",
+          "author": "zona mariska",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Udah lama mau cobain makan disini bermodal cari random scroll di google maps.\n\nMakan ber4 late lunch jadi tempatnya kosong, tempatnya biasa tapi nyaman, ada …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNudzdHamd3RRAB",
+          "author": "Jiron Jump",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Tempat nya oke.. cukup nyaman dan lega, untuk makanan nya pun rasa nya enak.. saus nya oke dan porsi nya sesuai.. cukup recommend untuk yang bingung mau makan steak di pamulang bisa ke Barraci",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNudzViY0J3EAE",
+          "author": "Ursula Devi Octora",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Krn sering lewat, trus liat di go food, jd penasaran mau coba.\nFirst impression, tempatnya rapi, bersih, terang. Walau ga AC tp ga tll panas.\nPelayanan jg baik, sopan dan gercep. …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuazd1c3JBRRAB",
+          "author": "Diandra Faiza",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Steaknya enaak sangat amat worth it dengan harganya, tempatnya bersih dan rapih, pegawainya juga ramah & cekatan. Bintang 5 pokoknyaaa!!🤩 …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xWFRXbGxlVTgxTW5sNVJEZFFVREJWWHpKNVEyYxAB",
+          "author": "zola",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "gak sempet foto krn terlalu terkesima sama makanannya!\ndefinisi makan enak tapi harganya sangat bersahabat, dan bukan yang enak untuk harga segitu tapi emang enak beneran. gak ngerti gimana cara ngitungnya ini …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKaldFRTVkR05PZWpSQlp6WnBOVmRxU0ZRMmJuYxAB",
+          "author": "Merry xtine",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Cari digoegle ratting paling tinggi di barraci mampir donk .... Ngak disangka tidak mengecewakan enak sekali daging beneran nih ngak kaleng kaleng ini mah . Yok ah cuzzz yg mau makan steak silahkan deh mampir",
+          "time": 1768090208,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzMWFIRm9Oa0ZEUlVGbFYzWjVSWGczUXpobGNXYxAB",
+          "author": "Kapten Polri",
+          "rating": 5,
+          "time_label": "9 bulan lalu",
+          "text": "Steak, rasa yang mewah! 🥩🔥 Daging yang juicy, bumbu yang pas, dan sajian yang elegan... Makan pakai kentang atau sayuran, WAH! 😋👌 Pas banget buat makan malam spesial atau acara romantis! 🌟👍 Steak, pilihan tepat! 😄 #SteakLover …",
+          "time": 1765411808,
+          "source": "dom"
+        },
+        {
+          "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQX01yOTh3RRAB",
+          "author": "Hartono Wibowo",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Wagyu meltique nya beneran empuk dan enak. Yg kurang rasa saus nya aja. Tp daging nya udah enak.",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SVFNqWnBaV0ZpWlhwTmMxbHhRVEZ0U21wNWRGRRAB",
+          "author": "Claudio VK",
+          "rating": 1,
+          "time_label": "5 bulan lalu",
+          "text": "Grilled chicken breast with blackpepper sauce, ayam nya kurang mateng ga kemakan dr pada sakit perut 🙏 …",
+          "time": 1775866213,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrNWNuZFhNMWh2YWxSYWVUaFFOVEpXVjBkRlVYYxAB",
+          "author": "Darkasoem",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Coba wiener sama steak emang enak. Apalagi dapat banyak saladnya yang memang saya suka sayur. Recomended bagi yang suka steak tapi pengen dapat salad yang banyak",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCMmNHTkxkVFpEUW5wYU16aHdlUzA1U1VkUVUwRRAB",
+          "author": "Faisal Bey",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Makanan ok, penyajian ok, pelayanan ok, harga ok. Nga ada yg failed. Recomended banget deh, cocok buat makan sendiri atau rame-rame. Terima kasih atas crew Barraci atas pelayanannya yg ramah, semoga Barraci makin sukses dan maju.",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNueHVhX1pnEAE",
+          "author": "Salt Lake",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "First time cobain tempat makan ini dekat rumah. Pelayannya ramah dan yang penting makanannya enak, harganya ramah banget di kantong untuk ukuran makan steak dengan harga segitu sangat amat worth it. …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfX1l5VHlBRRAB",
+          "author": "Hadeye1053 -",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Barraci Steak & Pasta..\nMenunya ada salat, chicken steak nya. Yg tdk suka daging bisa milih ayam tuh. Enak dan tdk mahal. Saladnya juga enak.\nTempatnya lumayan enak apalagi dekat rumah hehehe..",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GYVMzZE5lbDlyV1ZkcWREazRWVUp6WDBscGVYYxAB",
+          "author": "holeecrabstuff",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Steak Pasta enak sekitaran pamulang 1/unpam yang menurutku enak di kelasnya. Servicenya ok, makanannya enak, sayangnya tempatnya rada kebelakang banget jadi jarang yang tau.",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGS2NrdzFkRmRPWTJOVWIyWlRWbTh0TlMxUk1YYxAB",
+          "author": "Kiku Lovea",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Kalo sore agak sepi..tp enak2 makananannya,pelayanannya juga ramahh..dpt diskon jugaa👍👍👍 …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2cGFPc0ZREAE",
+          "author": "Vidette. co",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Steak n pasta terenak di Pamulang!!!\nDan harganya murahh 🥹🥹 …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KbVNsZHdRaTFzV1Vnek9VZzRjV0pXV1d4RWFXYxAB",
+          "author": "Lydia Tomasoa",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Chicken Gordon Blue nya enak. Chicken Black Papper juga enak.",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzaUt1OHFRRRAB",
+          "author": "Ardia Khairunnisa",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Ok rasanya untuk harganya. Porsi pastinya lumayan besar",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aUFprcDZTbTFZZERaME1YRklUVUpDVkVsRmJWRRAB",
+          "author": "Dina Rosiana",
+          "rating": 5,
+          "time_label": "5 bulan lalu",
+          "text": "Sering sering promooo dong min",
+          "time": 1775866218,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205VFNGSTNZV3h0VEdsWk1rNXRiVjl3TVd0NWMxRRAB",
+          "author": "abdu karim taba",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "Makanan,rasa dan porsi mantabbb\nPuas",
+          "time": 1768090218,
+          "source": "dom"
+        },
+        {
+          "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuaHUzVUlREAE",
+          "author": "Tina Agustina tina",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Pelayanan cepat,makanan enak,mantull dh",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuemFuY2hBRRAB",
+          "author": "Ryan Rizky",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "enak udha 3x makan disini mantap",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxUVVHTlVUVlZCYlZWcU5HcDFWMnhtWlZSbVltYxAB",
+          "author": "Alex Kho",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "harga pas service luar biasa",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBaGVISFVnEAE",
+          "author": "Prayudha Wisnu",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Enak dan pelayanan sangat jempol. Salutt",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNud3VLSUl3EAE",
+          "author": "Dikin Love",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Mantul steaknya enak poll",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmNy03SkV3EAE",
+          "author": "Agus Gunawan",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Steak termantap di pamulang",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBaWRUYlZ3EAE",
+          "author": "MUHAMAD HAKIM",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "🔥🔥🔥💯 …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNud3VMS1J3EAE",
+          "author": "Mila Hidayat",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Mantab 👍 …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCWlYxTllZWFJ3V1hRMlprMUVVVVZoWVdwNFRVRRAB",
+          "author": "Dody Hadi Purnomo",
+          "rating": 5,
+          "time_label": "2 minggu lalu",
+          "text": "Steak enak gk harus mahal... Udah bener banget ada di sini. Rasa dan plattingnya bener² proper gak asal²an. Fettucini nya enak. Pelayanan nya ramah banget. Pasti balik lagi... Gk kalah sama brand² terkenal.\nPertahankan ya utk rasa, pelayanan dan ambiance nya.",
+          "time": 1787875827,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pod2VrUllZWHBIWlRocldHUlFkRVF5Y0cxQkxYYxAB",
+          "author": "Nuryanto Cayo",
+          "rating": 5,
+          "time_label": "2 minggu lalu",
+          "text": "mantap sih ini murah tapi enak , lumayan buat jadi langganan , pertahankan service nya",
+          "time": 1787875827,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vMVJXNWliRmR2V0ZaalpuRnRlV0ZHU1dkclVFRRAB",
+          "author": "Satria Eko Setiawan",
+          "rating": 5,
+          "time_label": "Diedit sebulan lalu",
+          "text": "Makanannya enak-enak, harganya sangat terjangkau, dagingnya empuk, saus nya enak, mix salad nya enak! Rekomen bgt buat nyari steak yg affordable & rasa yang enak! Alternatif bgt sih dibanding \"ws\"",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRelpUTkhhbXR3TkhKTVZVVnFURTFuVDB3ek1VRRAB",
+          "author": "Diva Nadia",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Selalu Take away atau grab . Harga afordable. Fish n chips sm grill nya 35ribuan . Enak. Proper. Sesuai harga. Burger nya juga oke . Tipe yg promo ga brisik  tapi enak",
+          "time": 1783728627,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WWFIxSXhNbXhDY21selFtazVTMGRVVTIxSmNGRRAB",
+          "author": "sayya.chaira",
+          "rating": 5,
+          "time_label": "3 bulan lalu",
+          "text": "Ini adalah tempat favorit kami sepanjang masa. Tempat ini benar-benar diremehkan dibandingkan dengan restoran steak lainnya, tetapi rasanya enak dan harganya sangat terjangkau. Tips: ambil paket bundling untuk mencoba berbagai hidangan. Jangan lewatkan bitterballen dan steak ayam mereka!",
+          "time": 1781136627,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkeVJucEhhek5XU2pKa2JteHhlVll6WmpndGJXYxAB",
+          "author": "farah bere",
+          "rating": 5,
+          "time_label": "7 bulan lalu",
+          "text": "Menurut saya tempat ini sangat diremehkan dan perlu lebih banyak promosi.\n\nSaya datang ke sini Oktober lalu dan makanannya tidak mengecewakan. Kami memesan …",
+          "time": 1770768627,
+          "source": "dom"
+        },
+        {
+          "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNueHVtbWdRRRAB",
+          "author": "Bagus Suryo",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Semua makanannya enak banget! Suasananya bagus, rasanya enak, porsinya pas, sausnya juga enak, dan camilannya juga enak. …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJNExYUndhMlpvUWs5VVdUaElialkyZVV3elJXYxAB",
+          "author": "Mas Farid",
+          "rating": 5,
+          "time_label": "10 bulan lalu",
+          "text": "Enak, sangat layak dicoba.",
+          "time": 1762819827,
+          "source": "dom"
+        },
+        {
+          "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBdTh2Vi1RRRAB",
+          "author": "tri utomo ramadhani putra",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "Sepadan!",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tweFltcGplUzF0V21RemVFNURjVjlzVGpKZk1YYxAB",
+          "author": "Azmi Ziqra",
+          "rating": 5,
+          "time_label": "3 bulan lalu",
+          "text": "",
+          "time": 1781136627,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OVWIwZGxNSFpzU2xweU1uaFNZVzlyTW5oUmJuYxAB",
+          "author": "Buceh",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "",
+          "time": 1773187832,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SMmQzbFBibmxEZUMxcmVYTkJNRk5CZG5obVJuYxAB",
+          "author": "Defan ChaneL",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "",
+          "time": 1773187832,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210QlJqaGFPRFpDVlU1UGJHOVlZMjlPYjJaUmFHYxAB",
+          "author": "Syihab Muchsin",
+          "rating": 5,
+          "time_label": "6 bulan lalu",
+          "text": "",
+          "time": 1773187832,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kQ1ZGbFFYM1l3TldoMVYzTktaWFJwVG5SellsRRAB",
+          "author": "Maryusviana Vivi",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "",
+          "time": 1768090232,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oMlpGZHhRMk5IVURGVFdVNVZXbU00YWxaMFgxRRAB",
+          "author": "Langgeng Sudrajat",
+          "rating": 3,
+          "time_label": "setahun lalu",
+          "text": "",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taamJGOUxUa3BUWlhGQmNrTk9hVEkzTW5kbFVVRRAB",
+          "author": "erwin syah",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KeFgzVkJkM3B3TlRKRU1XTmxkblZzYTFSdlIyYxAB",
+          "author": "gile lundro",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfNy0tdElnEAE",
+          "author": "Cheria Pratigina",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ORVVXRnNka3h0WHpWRmFXMXdOM2xyUlVwdWJGRRAB",
+          "author": "channel candaan ketawa",
+          "rating": 4,
+          "time_label": "6 bulan lalu",
+          "text": "",
+          "time": 1773187837,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKd1YxZEphMnhXVkVsc1RXUkpUV2xMTVd4ME0xRRAB",
+          "author": "Coffee Tetangga",
+          "rating": 4,
+          "time_label": "setahun lalu",
+          "text": "",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        }
+      ]
+    }
+  ]
+}

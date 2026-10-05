@@ -1,0 +1,118 @@
+{
+  "query": [
+    "https://www.google.com/maps/place/Seblak+Pasta+Taman+Siswa/data=!4m7!3m6!1s0x2e7a57e4ce21cead:0xf510a3841fdfed51!8m2!3d-7.8155168!4d110.375934!16s%2Fg%2F11l3bn5h11!19sChIJrc4hzuRXei4RUe3fH4SjEPU?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1"
+  ],
+  "mode": "browser",
+  "date_range": {
+    "since": "2025-09-23",
+    "until": null
+  },
+  "sort": "relevant",
+  "scraped_at": "2026-09-23T11:10:49.426Z",
+  "total_places": 1,
+  "total_reviews": 10,
+  "places": [
+    {
+      "place_id": "0x2e7a57e4ce21cead:0xf510a3841fdfed51",
+      "name": "Seblak Pasta Taman Siswa",
+      "address": "Jl. Taman Siswa, Wirogunan, Kec. Mergangsan, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55151",
+      "rating": 0,
+      "reviews_count": 2422,
+      "link": "https://www.google.com/maps/place/Seblak+Pasta+Taman+Siswa/data=!4m7!3m6!1s0x2e7a57e4ce21cead:0xf510a3841fdfed51!8m2!3d-7.8155168!4d110.375934!16s%2Fg%2F11l3bn5h11!19sChIJrc4hzuRXei4RUe3fH4SjEPU?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "reviews": [
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21veVYycDVkVVo0VVhWNFZIWjRVbE51VkZWS1YyYxAB",
+          "author": "Jimmy Santoso",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Salah satu tempat makan seblak di Jogja yang punya varian menu cukup banyak. Ada seblak khas jawa barat hingga seblak yang fusion. Harganya bisa dibilang masih terjangkau, bisa pilih level pedasnya juga sesuai selera. Tempatnya cukup nyaman ada ruangan AC. Hanya saja parkir cukup terbatas, karna terletak disudut traffic light. Lebih baik naik motor atau transum untuk kesini. Yang suka seblak wajib cobain makan disini!!!",
+          "time": 1784804986,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5VWFYUk1Tbko2Y0ZaYU5WZ3liRmhxVlRGNFgzYxAB",
+          "author": "niiaaa19",
+          "rating": 5,
+          "time_label": "3 bulan lalu",
+          "text": "Seblaknya dikenal memiliki cita rasa yang konsisten, tidak terlalu berlebihan dalam bumbu, dan cocok bagi pecinta makanan pedas. Banyak pelanggan menyebut rasanya enak dan sering merekomendasikannya. Pilihan menu cukup beragam, mulai dari Seblak Garut, Seblak Tasik, Korean Seblak, hingga Baso Aci dengan berbagai topping. Harga relatif terjangkau untuk pelajar dan mahasiswa, umumnya berada pada kisaran Rp15.000–Rp30.000 per porsi.",
+          "time": 1782212986,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SV2RUWkxTRTVGZW0xUVFVUXdNekZUT1VKV1JHYxAB",
+          "author": "awkawkgg",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "rekomend banget sihh, seblak terenak di jogja tempatnya juga aesthetic banget banyak spot foto, yang paling penting pedes seblaknya nampoll bgtt bikin nagihh,, mas mba waitress nya juga ramah bgt udah gitu cantiqqq🥰🫰🏻",
+          "time": 1784804986,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214TWNUWmFNMUY0YlRSb2QwNXlZVmx6WjA0NGFGRRAB",
+          "author": "alessandro jonathan",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Tempatnya nyaman, pelayanannya okeee, rekomen buat ajak temen temen kesini. Rasa seblaknya juga pas nampol. Bestttt",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KUVdUWkRha3h2T1VaRkxVWTRXRUpZVVdveE9XYxAB",
+          "author": "AYUNDHA NURHAYATI",
+          "rating": 5,
+          "time_label": "8 bulan lalu",
+          "text": "First time kesana, makanan yg paling rekomen baso acinya… tapi utk seblaknya juga enak. Kuah pedesnya nampolll.. aku pesen level 3. Terus banyak banget wehh dengan harga dibawah 20rb. Ppn juga cuma 5.800. Lokasi di deket lampu merah kiri jalan. Cobain deh… parkir gratis👍🏾👍🏾😁\nSaran bagi pelayan yg cewek kalau bisa bajunya yg agak rapi dikit.. biar enak aja diliatnya😁",
+          "time": 1769166586,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwelVEaHJZVnA2U1dwMVFYcFJVbTVTYUdoa2RtYxAB",
+          "author": "Anggitaaningtyas",
+          "rating": 4,
+          "time_label": "4 bulan lalu",
+          "text": "Gak heran ya banyak yang suka sama seblak, apalagi di makan pas lagi pilek wkwk...\n\nGuys ini aku lupa pesen seblak yang mana karna disini banyak bwet variannya yang tak inget aku pesen level 1 twapiii pedesnya buangetttttt, ampun dah 🫣🫣\n\nDan itu aku ga abis karna kepedesan, udah coba pesen lewat s***food dan level 1 tapi alhamdulillah engga yang pedes buanget kayak waktu makan dine in di restonya.\n\nSekarang kalo lagi pingin makan seblak selalu order seblak ini hehehe 😉😉",
+          "time": 1779534586,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xod2FHZEtiVmcyV1U1bVJHZFNUak5WY21oT1NIYxAB",
+          "author": "Afroh",
+          "rating": 5,
+          "time_label": "10 bulan lalu",
+          "text": "Tempatnya nyaman, banyak meja, buat nongkrong cocok. Seblaknya mantap, pedesnya beneran terasa. Pelayanannya cepat, nggak lama nunggu pesanannya.",
+          "time": 1763896186,
+          "source": "dom"
+        },
+        {
+          "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmOS1mYmF3EAE",
+          "author": "Andika Zulfa",
+          "rating": 5,
+          "time_label": "setahun lalu",
+          "text": "saya sebenarnya tidak terlalu suka dengan seblak dan juga bakso aci. kemarin menemani istri makan di sini yaitu bakso Aci dengan topping mozarella ternyata kuahnya cukup dapat diterima oleh lidah saya.\n\ntaman kembali lagi ke masalah selera tempat ini tidak akan pernah saya kunjungi seorang diri. Saya tidak cocok dengan atmosfer yang disajikan di tempat ini.\n\nketika makan di lokasi aroma dari bumbunya itu sangat amat menusuk di hidung. saya nggak tahu mungkin untuk beberapa orang ini merupakan aroma yang enak untuk dinikmati, tapi bagi saya ini adalah aroma yang sangat menusuk hidung dan cukup mengganggu dan tidak dapat membuat saya nyaman makan di tempat.\n\nSaya mungkin akan ke sini lagi apabila istri mengajak dan memaksanya untuk ke sini.",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVM1ZXaDRUa3RrYm1Wc2QzUmFUbmhhVjNoMFZHYxAB",
+          "author": "Kala",
+          "rating": 2,
+          "time_label": "2 bulan lalu",
+          "text": "langganan seblak di sini dr jaman kuliah sekitar 2019/2020 tp dlu yg dicabang satunya..\ncabang sini udh coba jg berkali kali, tp barusan kesini kok baso acinya berubah rasa, ga pedes kaya biasanya dan kurang bumbu cm kerasa minyak...\nbaso acinya jg berasa kek mentah..\ndan jeruk peresnya jg habis pdhl baso aci itu kuncinya jg di jeruk.. sedikit kecewa",
+          "time": 1784804986,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toclZEbE1SVkEzYkhVelZHVnhSR0pCYldoTlVtYxAB",
+          "author": "Marini Utami",
+          "rating": 5,
+          "time_label": "11 bulan lalu",
+          "text": "Seblaknya rasanya enak, rasanyasangat otentik sekali.\n\nToping kita bisa milih dan enak-enak.pelayanan nya sangat oke.\nCuma Ac kurang adem, kayanya sih garagara pintu selalu di buka ya, jadi gaberasa Ac nya.\n\nMin minta tolong, di rebrief lagi ya karyawannya untuk pintu ac better ditutup aja jadi kerasa adem.\nUntuk pelayaanya sangat ok pada cekatan cuma kaya kepekaan kalau ruangan ber Ac better ditutup aja, walaupun kadang masnya suka mondar-mandir anterin pesanan dan kalau di buka tutup kaya ngeganggu tp menurut saya itu lebih baik.",
+          "time": 1761217786,
+          "source": "dom"
+        }
+      ]
+    }
+  ]
+}

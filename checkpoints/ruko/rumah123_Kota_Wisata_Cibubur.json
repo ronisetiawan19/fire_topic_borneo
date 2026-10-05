@@ -1,0 +1,205 @@
+{
+  "titik": "Kota Wisata Cibubur",
+  "kota": "Kab. Bogor",
+  "sumber": "rumah123",
+  "blocked": null,
+  "ok": true,
+  "total_raw": 40,
+  "total_semua": 40,
+  "listings": [
+    {
+      "judul": "Di Sewakan Ruko Hook 3 Lantai Cluster Baru di Kota Wisata Cibubur",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 280 Juta",
+      "harga": 280000000,
+      "harga_satuan": "",
+      "luas_tanah": 78,
+      "luas_bangunan": 222,
+      "lantai": 3,
+      "alamat": "Kota Wisata, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "kota",
+        "wisata",
+        "cibubur"
+      ],
+      "radius_match": true,
+      "quality": 6,
+      "link": "https://www.rumah123.com/properti/bogor-kota-wisata/di-sewakan-ruko-hook-3-lantai-cluster-baru-di-kota-wisata-cibubur-shr10223162/"
+    },
+    {
+      "judul": "Ruko North Square District di Kota Wisata Per Tahun",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 100 Juta",
+      "harga": 100000000,
+      "harga_satuan": "per tahun",
+      "luas_tanah": 50,
+      "luas_bangunan": 107,
+      "lantai": null,
+      "alamat": "Kota Wisata, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "kota",
+        "wisata"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/bogor-kota-wisata/ruko-north-square-district-di-kota-wisata-per-tahun-shr10010841/"
+    },
+    {
+      "judul": "Ruko di Kota Wisata",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 110 Juta",
+      "harga": 110000000,
+      "harga_satuan": "",
+      "luas_tanah": 56,
+      "luas_bangunan": 135,
+      "lantai": null,
+      "alamat": "Kota Wisata, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "kota",
+        "wisata"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/bogor-kota-wisata/ruko-di-kota-wisata-shr10074367/"
+    },
+    {
+      "judul": "Disewa Rumah Bagus di Legenda Wisata Cibubur",
+      "tipe_properti": "rumah",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 85 Juta",
+      "harga": 85000000,
+      "harga_satuan": "",
+      "luas_tanah": 150,
+      "luas_bangunan": 180,
+      "lantai": null,
+      "alamat": "Legenda Wisata, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "wisata",
+        "cibubur"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/bogor-legenda-wisata/disewa-rumah-bagus-di-legenda-wisata-cibubur-hor42362500/"
+    },
+    {
+      "judul": "Rumah Siap Huni dengan Dsirkulasi Udara Bagus di Kotawisata",
+      "tipe_properti": "rumah",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 40 Juta",
+      "harga": 40000000,
+      "harga_satuan": "",
+      "luas_tanah": 90,
+      "luas_bangunan": 70,
+      "lantai": null,
+      "alamat": "Kota Wisata, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "kota",
+        "wisata"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/bogor-kota-wisata/1-lantai-hor41514914/"
+    },
+    {
+      "judul": "Rumah Bagus Siap Huni di Cluster Bellevue Komplek Perumahan Kota Wisata",
+      "tipe_properti": "rumah",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 60 Juta",
+      "harga": 60000000,
+      "harga_satuan": "",
+      "luas_tanah": 128,
+      "luas_bangunan": 150,
+      "lantai": null,
+      "alamat": "Kota Wisata, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "kota",
+        "wisata"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/bogor-kota-wisata/rumah-bagus-siap-huni-di-cluster-bellevue-komplek-perumahan-kota-wisata-hor42135866/"
+    },
+    {
+      "judul": "Comfortable Family Living In The Heart Of Cibubur!",
+      "tipe_properti": "rumah",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 75 Juta",
+      "harga": 75000000,
+      "harga_satuan": "",
+      "luas_tanah": 90,
+      "luas_bangunan": 90,
+      "lantai": null,
+      "alamat": "Cikeas, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "cibubur"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bogor-cikeas/comfortable-family-living-in-the-heart-of-cibubur-hor42241049/"
+    },
+    {
+      "judul": "Disewakan Rumah Siap Huni Lingkungan Nyaman",
+      "tipe_properti": "rumah",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 27 Juta",
+      "harga": 27000000,
+      "harga_satuan": "",
+      "luas_tanah": 90,
+      "luas_bangunan": 60,
+      "lantai": null,
+      "alamat": "Legenda Wisata, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "wisata"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bogor-legenda-wisata/disewakan-rumah-siap-huni-lingkungan-nyaman-hor42339195/"
+    },
+    {
+      "judul": "Disewakan pertahun rumah furnished dua lantai",
+      "tipe_properti": "rumah",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 100 Juta",
+      "harga": 100000000,
+      "harga_satuan": "per tahun",
+      "luas_tanah": 180,
+      "luas_bangunan": 125,
+      "lantai": null,
+      "alamat": "Sentul City, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [],
+      "radius_match": false,
+      "quality": 1,
+      "link": "https://www.rumah123.com/properti/bogor-sentul-city/disewakan-pertahun-rumah-furnished-dua-lantai-hor8892134/"
+    },
+    {
+      "judul": "Disewakan pertahun rumah di sentul city bogor",
+      "tipe_properti": "rumah",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 55 Juta",
+      "harga": 55000000,
+      "harga_satuan": "per tahun",
+      "luas_tanah": 136,
+      "luas_bangunan": 80,
+      "lantai": null,
+      "alamat": "Sentul City, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [],
+      "radius_match": false,
+      "quality": 1,
+      "link": "https://www.rumah123.com/properti/bogor-sentul-city/disewakan-pertahun-rumah-di-sentul-city-bogor-hor17065161/"
+    }
+  ],
+  "scraped_at": "2026-09-14T13:18:25.460Z"
+}

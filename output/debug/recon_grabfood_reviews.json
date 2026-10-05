@@ -1,0 +1,54 @@
+{
+  "merchantRequestHeaders": {
+    "sec-ch-ua-platform": "\"Windows\"",
+    "referer": "https://food.grab.com/",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+    "sec-ch-ua": "\"Chromium\";v=\"153\", \"Not_A Brand\";v=\"8\"",
+    "accept-language": "id-ID,id;q=0.9,en;q=0.8",
+    "sec-ch-ua-mobile": "?0"
+  },
+  "merchantResponseHeaders": {
+    "strict-transport-security": "max-age=31536000; includeSubDomains",
+    "content-security-policy": "default-src 'none'",
+    "content-encoding": "gzip",
+    "access-control-allow-credentials": "true",
+    "x-api-source": "food-web",
+    "x-content-type-options": "nosniff",
+    "access-control-allow-origin": "https://food.grab.com",
+    "content-length": "15279",
+    "x-grabkit-grab-requestid": "09da52c9-0103-498a-898c-74eda6a6f045",
+    "date": "Sat, 12 Sep 2026 13:57:05 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "vary": "Origin"
+  },
+  "results": [
+    {
+      "url": "https://portal.grab.com/foodweb/guest/v2/merchants/6-CZMBUFTATB5HNN/reviews?latlng=-6.1767352,106.826504",
+      "err": "TypeError: Failed to fetch"
+    },
+    {
+      "url": "https://portal.grab.com/foodweb/guest/v2/merchants/6-CZMBUFTATB5HNN/ratings?latlng=-6.1767352,106.826504",
+      "err": "TypeError: Failed to fetch"
+    },
+    {
+      "url": "https://portal.grab.com/foodweb/merchant/v2/reviews?latlng=-6.1767352,106.826504&merchantID=6-CZMBUFTATB5HNN",
+      "err": "TypeError: Failed to fetch"
+    },
+    {
+      "url": "https://portal.grab.com/foodweb/restaurant/v2/6-CZMBUFTATB5HNN/reviews?latlng=-6.1767352,106.826504",
+      "err": "TypeError: Failed to fetch"
+    },
+    {
+      "url": "https://p.grabtaxi.com/food/v1/merchants/6-CZMBUFTATB5HNN/reviews",
+      "err": "TypeError: Failed to fetch"
+    },
+    {
+      "url": "https://p.grabtaxi.com/api/passenger/v4/food/merchants/6-CZMBUFTATB5HNN/reviews",
+      "err": "TypeError: Failed to fetch"
+    },
+    {
+      "url": "https://dineout.grab.com/api/reviews?merchant_id=6-CZMBUFTATB5HNN",
+      "err": "TypeError: Failed to fetch"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "scraped_at": "2026-09-12T13:27:28.634Z",
+  "api_calls": [
+    {
+      "status": 200,
+      "url": "https://gofood.co.id/api/csrf",
+      "body": "{\"token\":\"6a4dcd137f691d96250a1d0a5515eed64d652625c2f5e4f27d572fe689dda2f9.e36f8206ba248ca33d164cabe80643eb0653ff14248b8fb6d4a1e0b1276c9369\"}"
+    },
+    {
+      "status": 200,
+      "url": "https://gofood.co.id/api/outlets",
+      "body": "{\"category\":{\"id\":\"81abe00c-5bda-49c7-b80c-d3150ec9f0f9\",\"code\":\"NEAR_ME\",\"banner_url\":\"https://i.gojekapi.com/darkroom/gofood-id/v2/images/uploads/5d194f5f-13e7-4112-8295-3828433f1c46_near-me.png\",\"banner_url_tablet\":\"https://i.gojekapi.com/darkroom/gofood-id/v2/images/uploads/050b7ef3-c51a-4847-b7bd-65da7128f3b0_near-me.png\",\"type\":\"COLLECTION\",\"logo_url\":\"https://i.gojekapi.com/darkroom/gofood-id/v2/images/uploads/03e6f8cf-25f2-46ed-ab93-d0d64a1ea188_gofood_categories_near_me.png\",\"copywriting\":{\"en\":\"Near me\",\"id\":\"Terdekat\"},\"name\":{\"en\":\"Near me\",\"id\":\"Terdekat\"}},\"outlets\":[{\"key\":\"tenants/gofood/outlets/6c28a20f-8d66-4610-85a4-7a34d8c857ec\",\"tenantUid\":\"gofood\",\"uid\":\"6c28a20f-8d66-4610-85a4-7a34d8c857ec\",\"core\":{\"key\":\"tenants/gofood/outlets/6c28a20f-8d66-4610-85a4-7a34d8c857ec\",\"tenantUid\":\"gofood\",\"uid\":\"6c28a20f-8d66-4610-85a4-7a34d8c857ec\",\"displayName\":\"KFC, Prapatan Tugu Tani\",\"description\":\"\",\"highlights\":[],\"location\":{\"latitude\":-6.18230735971522,\"longitude\":106.833675668607},\"countryCode\":\"ID\",\"timeZone\":\"Asia/Jakarta\",\"serviceArea\":{\"id\":1,\"name\":\"\",\"zoneId\":0,\"zoneName\":\"\"},\"status\":1,\"openPeriods\":[{\"day\":1,\"startTime\":{\"hours\":8,\"minutes\":0,\"seconds\":0,\"nanos\":0},\"endTime\":{\"hours\":22,\"minutes\":30,\"seconds\":0,\"nanos\":0}},{\"day\":2,\"startTime\":{\"hours\":8,\"minutes\":0,\"seconds\":0,\"nanos\":0},\"endTime\":{\"hours\":22,\"minutes\":30,\"seconds\":0,\"nanos\":0}},{\"day\":3,\"startTime\":{\"hours\":8,\"minutes\":0,\"seconds\":0,\"nanos\":0},\"endTime\":{\"hours\":22,\"minutes\":30,\"seconds"
+    },
+    {
+      "status": 200,
+      "url": "https://gofood-web-raccoon.gojekapi.com/api/v1/events",
+      "body": "\b\u0001\u0010\u0001\u0018����\u0006*0\n\breq_guid\u0012$4b4f2820-3d16-414f-ba22-b413316e2de4"
+    },
+    {
+      "status": 200,
+      "url": "https://gofood-web-raccoon.gojekapi.com/api/v1/events",
+      "body": "\b\u0001\u0010\u0001\u0018����\u0006*0\n\breq_guid\u0012$b5428f79-3e5b-4533-b291-699d338686f6"
+    },
+    {
+      "status": 200,
+      "url": "https://gofood-web-raccoon.gojekapi.com/api/v1/events",
+      "body": "\b\u0001\u0010\u0001\u0018����\u0006*0\n\breq_guid\u0012$ce9ff02c-b9c7-4af5-bc93-eb6ee586e6d0"
+    },
+    {
+      "status": 200,
+      "url": "https://gofood-web-raccoon.gojekapi.com/api/v1/events",
+      "body": "\b\u0001\u0010\u0001\u0018����\u0006*0\n\breq_guid\u0012$6ad6d6b2-64e6-44e0-99fa-787cceac9e18"
+    },
+    {
+      "status": 200,
+      "url": "https://gofood-web-raccoon.gojekapi.com/api/v1/events",
+      "body": "\b\u0001\u0010\u0001\u0018����\u0006*0\n\breq_guid\u0012$3a31fda3-5711-4e4d-b5f0-c37f2f5799ee"
+    },
+    {
+      "status": 200,
+      "url": "https://gofood-web-raccoon.gojekapi.com/api/v1/events",
+      "body": "\b\u0001\u0010\u0001\u0018����\u0006*0\n\breq_guid\u0012$4a5ac200-6032-4381-9f6a-74743f314477"
+    },
+    {
+      "status": 200,
+      "url": "https://gofood-web-raccoon.gojekapi.com/api/v1/events",
+      "body": "\b\u0001\u0010\u0001\u0018����\u0006*0\n\breq_guid\u0012$8bff7dfc-0ef7-46ce-8a8f-9ce7c4538ba6"
+    }
+  ],
+  "page_links": [],
+  "console": []
+}

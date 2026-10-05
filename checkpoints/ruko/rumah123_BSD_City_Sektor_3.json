@@ -1,0 +1,210 @@
+{
+  "titik": "BSD City Sektor 3",
+  "kota": "Tangerang Selatan",
+  "sumber": "rumah123",
+  "blocked": null,
+  "ok": true,
+  "total_raw": 40,
+  "total_semua": 40,
+  "listings": [
+    {
+      "judul": "Ruko X Lane BSD City 3 Lantai, Blok B, Siap Pakai",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 340 Juta",
+      "harga": 340000000,
+      "harga_satuan": "",
+      "luas_tanah": 54,
+      "luas_bangunan": 167,
+      "lantai": 3,
+      "alamat": "BSD, Tangerang Selatan",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang selatan",
+        "city"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/tangerang-selatan-bsd/ruko-x-lane-bsd-city-3-lantai-blok-b-siap-pakai-shr10252494/"
+    },
+    {
+      "judul": "Disewakan Ruko 2 Lantai Hoek Dipasar Modern Sektor 7 Bintaro Nv 19134",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 195 Juta",
+      "harga": 195000000,
+      "harga_satuan": "",
+      "luas_tanah": 60,
+      "luas_bangunan": null,
+      "lantai": 2,
+      "alamat": "Bintaro, Tangerang Selatan",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang selatan",
+        "sektor"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/tangerang-selatan-bintaro/disewakan-ruko-2-lantai-di-sektor-7-bintaro-nv-19134-shr10281735/"
+    },
+    {
+      "judul": "Disewakan Segera Ruko 2 Lantai di Kompleks Ruko Graha Marcella Bintaro Sektor 3",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 110 Juta",
+      "harga": 110000000,
+      "harga_satuan": "",
+      "luas_tanah": 70,
+      "luas_bangunan": 140,
+      "lantai": 2,
+      "alamat": "Bintaro, Tangerang Selatan",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang selatan",
+        "sektor"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/tangerang-selatan-bintaro/disewakan-segera-ruko-2-lantai-di-kompleks-ruko-graha-marcella-bintaro-sektor-3-shr9967083/"
+    },
+    {
+      "judul": "Ruko 2 Lantai di Bintaro Trade Center, Bintaro Sektor 9 | Lokasi Strategis Dekat Tol & Area Bisnis",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 40 Juta",
+      "harga": 40000000,
+      "harga_satuan": "",
+      "luas_tanah": 30,
+      "luas_bangunan": 54,
+      "lantai": 2,
+      "alamat": "Bintaro, Tangerang Selatan",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang selatan",
+        "sektor"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/tangerang-selatan-bintaro/ruko-2-lantai-di-bintaro-trade-center-lokasi-strategis-dekat-tol-area-bisnis-shr10227021/"
+    },
+    {
+      "judul": "Di Sewa Ruko Merchand J; Bulevard Emarald Bintaro Sektor 9 Tangerang Selatan",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 150 Juta",
+      "harga": 150000000,
+      "harga_satuan": "",
+      "luas_tanah": 40,
+      "luas_bangunan": 1,
+      "lantai": null,
+      "alamat": "Bintaro, Tangerang Selatan",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang selatan",
+        "sektor"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/tangerang-selatan-bintaro/di-sewa-ruko-merchand-j-bulevard-emarald-bintaro-sektor-9-tangerang-selatan-shr10282287/"
+    },
+    {
+      "judul": "Disewakan Rumah Rapi Siap Huni Tabebuya BSD City",
+      "tipe_properti": "rumah",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 48 Juta",
+      "harga": 48000000,
+      "harga_satuan": "",
+      "luas_tanah": 40,
+      "luas_bangunan": 48,
+      "lantai": null,
+      "alamat": "BSD, Tangerang Selatan",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang selatan",
+        "city"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/tangerang-selatan-bsd/disewakan-rumah-rapi-siap-huni-tabebuya-bsd-city-hor42291331/"
+    },
+    {
+      "judul": "Disewa Cepat Rumah BSD City Cluster Tabebuya Inspirahaus",
+      "tipe_properti": "rumah",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 55 Juta",
+      "harga": 55000000,
+      "harga_satuan": "",
+      "luas_tanah": 40,
+      "luas_bangunan": 48,
+      "lantai": 2,
+      "alamat": "BSD, Tangerang Selatan",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang selatan",
+        "city"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/tangerang-selatan-bsd/disewa-cepat-rumah-bsd-city-cluster-tabebuya-inspirahaus-hor42387362/"
+    },
+    {
+      "judul": "Rumah Disewakan Siap Huni di Bintaro Sektor 9",
+      "tipe_properti": "rumah",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 155 Juta",
+      "harga": 155000000,
+      "harga_satuan": "",
+      "luas_tanah": 190,
+      "luas_bangunan": 200,
+      "lantai": null,
+      "alamat": "Sektor 9-Bintaro, Tangerang Selatan",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang selatan",
+        "sektor"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/tangerang-selatan-sektor-9-bintaro/rumah-disewakan-siap-huni-di-bintaro-sektor-9-hor42186004/"
+    },
+    {
+      "judul": "Disewakan Ruko Full Renovasi Melati Mas Square Jalan Raya Siap Pakai",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 110 Juta",
+      "harga": 110000000,
+      "harga_satuan": "",
+      "luas_tanah": 75,
+      "luas_bangunan": 240,
+      "lantai": null,
+      "alamat": "Serpong Villa Melati Mas, Tangerang Selatan",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang selatan"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/tangerang-selatan-serpong-villa-melati-mas/disewakan-ruko-melati-mas-square-melati-mas-serpong-tangerang-shr10201167/"
+    },
+    {
+      "judul": "Disewakan Ruko Northridge Ultimate",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 150 Juta",
+      "harga": 150000000,
+      "harga_satuan": "",
+      "luas_tanah": 59,
+      "luas_bangunan": 158,
+      "lantai": null,
+      "alamat": "BSD, Tangerang Selatan",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang selatan"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/tangerang-selatan-bsd/disewakan-ruko-northridge-ultimate-shr10257717/"
+    }
+  ],
+  "scraped_at": "2026-09-14T12:56:11.790Z"
+}

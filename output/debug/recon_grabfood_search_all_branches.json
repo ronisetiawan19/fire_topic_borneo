@@ -1,0 +1,37 @@
+{
+  "pamulang": {
+    "latlng": "-6.3440737,106.7300880",
+    "status": 403,
+    "merchants": []
+  },
+  "cinere": {
+    "latlng": "-6.3197929,106.7861210",
+    "status": 403,
+    "merchants": []
+  },
+  "tebet": {
+    "latlng": "-6.2306458,106.8534749",
+    "status": 403,
+    "merchants": []
+  },
+  "petukangan": {
+    "latlng": "-6.2332002,106.7450603",
+    "status": 403,
+    "merchants": []
+  },
+  "ciledug": {
+    "latlng": "-6.2398489,106.7164343",
+    "status": 403,
+    "merchants": []
+  },
+  "bekasi": {
+    "latlng": "-6.2548368,106.9681690",
+    "status": 403,
+    "merchants": []
+  },
+  "binus": {
+    "latlng": "-6.2024725,106.7827245",
+    "status": 403,
+    "merchants": []
+  }
+}

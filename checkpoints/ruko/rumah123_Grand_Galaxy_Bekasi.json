@@ -1,0 +1,207 @@
+{
+  "titik": "Grand Galaxy Bekasi",
+  "kota": "Bekasi",
+  "sumber": "rumah123",
+  "blocked": null,
+  "ok": true,
+  "total_raw": 40,
+  "total_semua": 40,
+  "listings": [
+    {
+      "judul": "Disewakan Ruko Hook di Grand Galaxy Bekasi",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 60 Juta",
+      "harga": 60000000,
+      "harga_satuan": "",
+      "luas_tanah": 50,
+      "luas_bangunan": 115,
+      "lantai": 115,
+      "alamat": "Galaxy, Bekasi",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bekasi",
+        "grand",
+        "galaxy"
+      ],
+      "radius_match": true,
+      "quality": 6,
+      "link": "https://www.rumah123.com/properti/bekasi-galaxy/disewakan-ruko-hook-di-grand-galaxy-bekasi-shr10289375/"
+    },
+    {
+      "judul": "Disewakan Ruko Strategis Grand Galaxy City Dekat Jalan Utama - 2,5 Lantai Siap Usaha!",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 75 Juta",
+      "harga": 75000000,
+      "harga_satuan": "",
+      "luas_tanah": 54,
+      "luas_bangunan": 162,
+      "lantai": 5,
+      "alamat": "Galaxy, Bekasi",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bekasi",
+        "grand",
+        "galaxy"
+      ],
+      "radius_match": true,
+      "quality": 6,
+      "link": "https://www.rumah123.com/properti/bekasi-galaxy/disewakan-ruko-strategis-grand-galaxy-city-dekat-jalan-utama-25-lantai-siap-usaha-shr9949660/"
+    },
+    {
+      "judul": "Disewakan Klasika Vicente Grandwisata Rumah Baru Belum Perna Ditempati",
+      "tipe_properti": "rumah",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 75 Juta",
+      "harga": 75000000,
+      "harga_satuan": "",
+      "luas_tanah": 130,
+      "luas_bangunan": 148,
+      "lantai": null,
+      "alamat": "Grand Wisata, Bekasi",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bekasi",
+        "grand"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/bekasi-grand-wisata/disewakan-klasika-vicente-grandwisata-hor41766334/"
+    },
+    {
+      "judul": "Ruko 2 Lantai di Harapan Indah - Siap Pakai Cocok untuk Usaha",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 45 Juta",
+      "harga": 45000000,
+      "harga_satuan": "",
+      "luas_tanah": 111,
+      "luas_bangunan": 87,
+      "lantai": 2,
+      "alamat": "Harapan Indah, Bekasi",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bekasi"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bekasi-harapan-indah/ruko-2-lantai-di-harapan-indah-siap-pakai-cocok-untuk-usaha-shr10268684/"
+    },
+    {
+      "judul": "Disewakan Ruko 1 Lantai Cocok untuk Usahadi Jalan Assafiiah Jakasampurna Bekasi Barat Pembayaran Per 6 Bulan",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 26 Juta",
+      "harga": 26000000,
+      "harga_satuan": "",
+      "luas_tanah": 87,
+      "luas_bangunan": 44,
+      "lantai": 1,
+      "alamat": "Bekasi Barat, Bekasi",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bekasi"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bekasi-bekasi-barat/disewakan-ruko-1-lantai-di-jalan-assafiiah-jakasampurna-bekasi-barat-shr10281315/"
+    },
+    {
+      "judul": "Disewakan Ruko Sentra Niaga Harapan Indah Bekasi",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 95 Juta",
+      "harga": 95000000,
+      "harga_satuan": "",
+      "luas_tanah": 85,
+      "luas_bangunan": 200,
+      "lantai": 3,
+      "alamat": "Harapan Indah, Bekasi",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bekasi"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bekasi-harapan-indah/disewakan-ruko-sentra-niaga-harapan-indah-bekasi-shr10239808/"
+    },
+    {
+      "judul": "Disewakan / Dijual Ruko di Bekas Town Square",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 150 Juta",
+      "harga": 150000000,
+      "harga_satuan": "",
+      "luas_tanah": 68,
+      "luas_bangunan": 206,
+      "lantai": 3,
+      "alamat": "Bekasi Timur, Bekasi",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bekasi"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bekasi-bekasi-timur/disewakan-dijual-ruko-di-bekas-town-square-shr10267853/"
+    },
+    {
+      "judul": "Disewakan Ruko Pojok Depan Living Plaza Jababeka Cikarang",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 80 Juta",
+      "harga": 80000000,
+      "harga_satuan": "",
+      "luas_tanah": 67,
+      "luas_bangunan": 162,
+      "lantai": 3,
+      "alamat": "Jababeka, Bekasi",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bekasi"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bekasi-jababeka/disewakan-ruko-pojok-depan-living-plaza-jababeka-cikarang-shr9529690/"
+    },
+    {
+      "judul": "Disewakan Ruko 5 LT di Harapan Indah Bekasi",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 300 Juta",
+      "harga": 300000000,
+      "harga_satuan": "",
+      "luas_tanah": 220,
+      "luas_bangunan": 982,
+      "lantai": 5,
+      "alamat": "Harapan Indah, Bekasi",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bekasi"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bekasi-harapan-indah/disewakan-ruko-5-lt-di-harapan-indah-bekasi-shr10069170/"
+    },
+    {
+      "judul": "Disewa Ruko Sentra Niaga Harapan Indah Bekasi Jawa Barat",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 95 Juta",
+      "harga": 95000000,
+      "harga_satuan": "",
+      "luas_tanah": 88,
+      "luas_bangunan": 225,
+      "lantai": null,
+      "alamat": "Harapan Indah, Bekasi",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bekasi"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bekasi-harapan-indah/disewa-ruko-sentra-niaga-harapan-indah-bekasi-jawa-barat-shr10247248/"
+    }
+  ],
+  "scraped_at": "2026-09-14T13:02:01.614Z"
+}

@@ -1,0 +1,206 @@
+{
+  "titik": "Way Halim",
+  "kota": "Bandar Lampung",
+  "sumber": "rumah123",
+  "blocked": null,
+  "ok": true,
+  "total_raw": 40,
+  "total_semua": 40,
+  "listings": [
+    {
+      "judul": "Ruko Baru 1Lantai Siap Huni 40Jt di Wayhalim",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 40 Juta",
+      "harga": 40000000,
+      "harga_satuan": "",
+      "luas_tanah": 160,
+      "luas_bangunan": 60,
+      "lantai": 1,
+      "alamat": "Way Halim, Bandar Lampung",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bandar lampung",
+        "halim"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/bandar-lampung-way-halim/ruko-baru-1lantai-siap-huni-40jt-di-wayhalim-shr10257894/"
+    },
+    {
+      "judul": "Ruko Gandeng",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 85 Juta",
+      "harga": 85000000,
+      "harga_satuan": "",
+      "luas_tanah": 75,
+      "luas_bangunan": 180,
+      "lantai": null,
+      "alamat": "Way Halim, Bandar Lampung",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bandar lampung",
+        "halim"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/bandar-lampung-way-halim/ruko-gandeng-shr9760980/"
+    },
+    {
+      "judul": "Sewa Rumah 2 Lantai Lokasi Fila Citra 2",
+      "tipe_properti": "rumah",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 135 Juta",
+      "harga": 135000000,
+      "harga_satuan": "",
+      "luas_tanah": 350,
+      "luas_bangunan": 250,
+      "lantai": 2,
+      "alamat": "Way Halim, Bandar Lampung",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bandar lampung",
+        "halim"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/bandar-lampung-way-halim/sewa-rumah-2-lantai-lokasi-fila-citra-2-hor8834854/"
+    },
+    {
+      "judul": "Rumah Sewa Pinggir Jalan Sultan Agung, bisa Dijadikan Tempat Usaha Cafe",
+      "tipe_properti": "rumah",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 58 Juta",
+      "harga": 58000000,
+      "harga_satuan": "",
+      "luas_tanah": 422,
+      "luas_bangunan": 400,
+      "lantai": 2,
+      "alamat": "Way Halim, Bandar Lampung",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bandar lampung",
+        "halim"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/bandar-lampung-way-halim/rumah-sewa-pinggir-jalan-sultan-agung-bisa-dijadikan-tempat-usaha-cafe-hor40700727/"
+    },
+    {
+      "judul": "Ruko Jl. Antasari",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 50 Juta",
+      "harga": 50000000,
+      "harga_satuan": "",
+      "luas_tanah": 80,
+      "luas_bangunan": 140,
+      "lantai": null,
+      "alamat": "Tanjung Karang Timur, Bandar Lampung",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bandar lampung"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bandar-lampung-tanjung-karang-timur/ruko-jl-antasari-shr3328020/"
+    },
+    {
+      "judul": "Di Sewakan Bangunan Gedung 2 Lantai ,cocok Buat Cafee",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 260 Juta",
+      "harga": 260000000,
+      "harga_satuan": "",
+      "luas_tanah": 975,
+      "luas_bangunan": 400,
+      "lantai": 2,
+      "alamat": "Kedamaian, Bandar Lampung",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bandar lampung"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bandar-lampung-kedamaian/di-sewakan-bangunan-gedung-2-lantai-cocok-buat-cafee-shr9761693/"
+    },
+    {
+      "judul": "Ruko di Jl.pemuda No. 42, Tanjung Karang Pusat, Bandar Lampung",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 75 Juta",
+      "harga": 75000000,
+      "harga_satuan": "",
+      "luas_tanah": null,
+      "luas_bangunan": 200,
+      "lantai": null,
+      "alamat": "Tanjung Karang Pusat, Bandar Lampung",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bandar lampung"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bandar-lampung-tanjung-karang-pusat/ruko-di-jlpemuda-no-42-tanjung-karang-pusat-bandar-lampung-provinsi-lampung-shm-shr4238993/"
+    },
+    {
+      "judul": "Ruko 3 Lantai Luas Tanah 625M² di Kedaton",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 400 Juta",
+      "harga": 400000000,
+      "harga_satuan": "",
+      "luas_tanah": 625,
+      "luas_bangunan": 900,
+      "lantai": 3,
+      "alamat": "Kedaton, Bandar Lampung",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bandar lampung"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bandar-lampung-kedaton/ruko-3-lantai-luas-tanah-625m-di-kedaton-shr10137402/"
+    },
+    {
+      "judul": "Sewa Ruko Tanjung Karang Pusat, Dekat Central Plaza",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 110 Juta",
+      "harga": 110000000,
+      "harga_satuan": "",
+      "luas_tanah": 80,
+      "luas_bangunan": 192,
+      "lantai": 3,
+      "alamat": "Tanjung Karang Pusat, Bandar Lampung",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bandar lampung"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bandar-lampung-tanjung-karang-pusat/sewa-ruko-tanjung-karang-pusat-dekat-central-plaza-shr10214292/"
+    },
+    {
+      "judul": "Ruko, 3 Lantai, SHM, di Tanjung Karang Pusat,",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 85 Juta",
+      "harga": 85000000,
+      "harga_satuan": "",
+      "luas_tanah": 112,
+      "luas_bangunan": 64,
+      "lantai": 3,
+      "alamat": "Tanjung Karang Pusat, Bandar Lampung",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bandar lampung"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bandar-lampung-tanjung-karang-pusat/ruko-3-lantai-shm-di-tanjung-karang-pusat-shr10201754/"
+    }
+  ],
+  "scraped_at": "2026-09-14T13:34:01.639Z"
+}

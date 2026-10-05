@@ -1,0 +1,2130 @@
+{
+  "captHeaders": {
+    "sec-ch-ua-platform": "\"macOS\"",
+    "referer": "https://food.grab.com/",
+    "accept-language": "id-ID,id;q=0.9,en;q=0.8",
+    "x-grab-web-app-version": "r7QcvLgfvvXwls2thqHJt",
+    "sec-ch-ua": "\"Chromium\";v=\"153\", \"Not_A Brand\";v=\"8\"",
+    "x-hydra-jwt": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnYWEiLCJhdWQiOiJnZnciLCJuYW1lIjoiZ3JhYnRheGkiLCJpYXQiOjE3ODkyODY0NjAsImV4cCI6MTc4OTI4NzA2MCwibmJmIjoxNzg5Mjg2NDYwLCJ2ZXIiOiIxLjE5LjAuMjQiLCJicklEIjoiOGMwZWE1YTU1YzE2ZTQzOTVhODJmZGUyYzQ1ZTNiY2I0Zjh5NnIiLCJzdXMiOmZhbHNlLCJicklEdjIiOiJmOThkZThjNjA1YTgxNDRiYTYyNWNmOGM1NDQwNWVmMjY5Ynk2ciIsImJyVUlEIjoiMDllMWJhNjktMDgxNi00YjU2LWEyMjQtNmNiMzVmY2VjNjVjIn0.i--iWZHKVj0nRLY17smZoSr0H8cj3gTun5Kx-_tDGM2EQgVzC2lQjmFdSRh1dfUA5Q2C4ZT4wsNmvk_CS5lq3-PDN4BoTKL7t6J0FEHoffLSGsKsNM7WiS6PJNc1m7BVkgIAWKn6uzOtHrnU8IdGLyYULn61g_y53bvxmjeK56bCHmaBXMvnd481SJbD6jQMXPuLYEvwzbdaxjK_8Y5oQVB8NqGOf_G6DTna8eDRKpLI2A5O2pnm1wmw6dNdBWW8ajQZTYKXHv4qa1jmHurRkmTslMvJn_BJAKd7sb06RWV-pckJR2zxVMEvDcxEsUQnu9FahQrsAbzKNsHgp6HONQ",
+    "sec-ch-ua-mobile": "?0",
+    "x-gfc-country": "ID",
+    "x-country-code": "ID",
+    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36",
+    "accept": "application/json, text/plain, */*",
+    "content-type": "application/json;charset=UTF-8"
+  },
+  "replayResults": {
+    "pamulang": {
+      "latlng": "-6.3440737,106.7300880",
+      "status": 200,
+      "totalCount": 698,
+      "merchants": [
+        {
+          "id": "6-C6EUGAUUFF41RX",
+          "name": "Amar Dining - Kemang",
+          "rating": 4.7,
+          "vote_count": 91,
+          "distanceKm": 17.247
+        },
+        {
+          "id": "IDGFSTI00000w7t",
+          "name": "Sky Pasta Signature - Pamulang",
+          "rating": 4.7,
+          "vote_count": 3132,
+          "distanceKm": 2.731
+        },
+        {
+          "id": "6-C7BCUEDAE6UHEN",
+          "name": "Domino's Pizza - BSD Rawa Buntu",
+          "rating": 4.8,
+          "vote_count": 1621,
+          "distanceKm": 9.484
+        },
+        {
+          "id": "IDGFSTI00000004",
+          "name": "Bakerzin - Pondok Indah Mal",
+          "rating": 4.8,
+          "vote_count": 880,
+          "distanceKm": 13.282
+        },
+        {
+          "id": "6-C23FAY2JLX3ANJ",
+          "name": "Pizza Quattro - Duri Kepa",
+          "rating": 4.8,
+          "vote_count": 9251,
+          "distanceKm": 25.954
+        },
+        {
+          "id": "6-C74ZRBVZC4CBAJ",
+          "name": "PASTACULAR - Rawakalong",
+          "rating": 4.6,
+          "vote_count": 33,
+          "distanceKm": 4.759
+        },
+        {
+          "id": "6-C7M3GYAATXUGCA",
+          "name": "RAZZO Pizza - Pamulang",
+          "rating": 4.9,
+          "vote_count": 74,
+          "distanceKm": 1.661
+        },
+        {
+          "id": "IDGFSTI0000024w",
+          "name": "Steak Hotel By Holycow! - TKP BSD",
+          "rating": 4.1,
+          "vote_count": 1763,
+          "distanceKm": 12.01
+        },
+        {
+          "id": "6-C4EENXJTJBBWTA",
+          "name": "HOLYSTEAK by Holycow! Group - BSD",
+          "rating": 4.5,
+          "vote_count": 48,
+          "distanceKm": 12.01
+        },
+        {
+          "id": "6-C24DLN3XNEXVET",
+          "name": "Barraci Steak And Pasta - Pamulang",
+          "rating": 4.8,
+          "vote_count": 1008,
+          "distanceKm": 1.911
+        },
+        {
+          "id": "6-CZMGE7CBWFJ2V6",
+          "name": "Sliced Pizzeria - Bintaro",
+          "rating": 4.8,
+          "vote_count": 515,
+          "distanceKm": 9.005
+        },
+        {
+          "id": "6-C7UZE6CTT6DHME",
+          "name": "Smoking Barrels Atelier - Cipete",
+          "rating": 5,
+          "vote_count": 13,
+          "distanceKm": 14.061
+        },
+        {
+          "id": "6-C6UCKBMJVX2HGT",
+          "name": "Jus Ookii - Pamulang",
+          "rating": 4.9,
+          "vote_count": 450,
+          "distanceKm": 1.107
+        },
+        {
+          "id": "IDGFSTI00002ygy",
+          "name": "Pizza Hut Delivery 'PHD' - Pamulang Barat",
+          "rating": 4.8,
+          "vote_count": 5430,
+          "distanceKm": 0.376
+        },
+        {
+          "id": "6-C3DXAKDJVBV3J6",
+          "name": "Jif Pizza - Pamulang",
+          "rating": 4.9,
+          "vote_count": 526,
+          "distanceKm": 1.66
+        },
+        {
+          "id": "6-CZDHJ6MZLB4YHA",
+          "name": "Toodz House - Karang Tengah",
+          "rating": 4.8,
+          "vote_count": 3052,
+          "distanceKm": 11.195
+        },
+        {
+          "id": "6-C8DTDEJFE4LCTX",
+          "name": "Makaroni schotel Mac n Cheese pasta - Pengasinan",
+          "distanceKm": 6.298
+        },
+        {
+          "id": "6-C3CHHA4KAK2UAE",
+          "name": "Pizza Boxx - Pamulang Barat",
+          "rating": 4.9,
+          "vote_count": 1131,
+          "distanceKm": 2.098
+        },
+        {
+          "id": "6-C7UUETNENYNAEN",
+          "name": "RAZZO Pizza - Ciputat",
+          "rating": 4.9,
+          "vote_count": 54,
+          "distanceKm": 6.79
+        },
+        {
+          "id": "6-C8EJJGKCNT2CBA",
+          "name": "Toko Kopi Pak by Temen Minum - Serua",
+          "distanceKm": 4.088
+        },
+        {
+          "id": "6-CZABV3V3LYJAUA",
+          "name": "bunda JOELI Cakes & Bakery - Pondok Ranji",
+          "rating": 5,
+          "vote_count": 1409,
+          "distanceKm": 11.303
+        },
+        {
+          "id": "6-C4CYCNTCE7VVHE",
+          "name": "Spaghetti Gerobak - Serua",
+          "rating": 4.8,
+          "vote_count": 225,
+          "distanceKm": 6.883
+        },
+        {
+          "id": "6-C7DAAKJ1RJJ1TT",
+          "name": "Pizza & Pasta by Flavorverse - Jagakarsa",
+          "rating": 4.3,
+          "vote_count": 115,
+          "distanceKm": 15.995
+        },
+        {
+          "id": "6-C6NHAE4UECBGHE",
+          "name": "Smoking Barrels Atelier - Cilandak Barat",
+          "rating": 4.7,
+          "vote_count": 58,
+          "distanceKm": 13.619
+        },
+        {
+          "id": "IDGFSTI00000ffo",
+          "name": "KFC - Pamulang Square",
+          "rating": 4.8,
+          "vote_count": 21066,
+          "distanceKm": 1.705
+        },
+        {
+          "id": "6-C3NHKGKAA7TJCE",
+          "name": "Pizza Boxx - Kedaung",
+          "rating": 4.9,
+          "vote_count": 675,
+          "distanceKm": 4.613
+        },
+        {
+          "id": "6-C7M3GYAATXUGCA",
+          "name": "RAZZO Pizza - Pamulang",
+          "rating": 4.9,
+          "vote_count": 74,
+          "distanceKm": 1.661
+        },
+        {
+          "id": "6-C2MEVF2JNGK2PA",
+          "name": "JJ Cuisine Pasta - Pondok Petir",
+          "rating": 4.6,
+          "vote_count": 1009,
+          "distanceKm": 4.043
+        },
+        {
+          "id": "6-C25TMB5DCJWWME",
+          "name": "Panties Pizza - Pamulang Barat",
+          "rating": 4.9,
+          "vote_count": 964,
+          "distanceKm": 0.764
+        },
+        {
+          "id": "6-C3MAN2NGVREFTE",
+          "name": "Subway - Pamulang",
+          "rating": 4.8,
+          "vote_count": 1627,
+          "distanceKm": 0.434
+        },
+        {
+          "id": "6-C363VUTDHCJBRE",
+          "name": "Nonna Pasta by Arungi Group - Bintaro",
+          "rating": 4.8,
+          "vote_count": 593,
+          "distanceKm": 9.829
+        },
+        {
+          "id": "6-C8DTDEJFE4LCTX",
+          "name": "Makaroni schotel Mac n Cheese pasta - Pengasinan",
+          "distanceKm": 6.298
+        },
+        {
+          "id": "6-C6JFAF51BF23WA",
+          "name": "RADJA KATSU - Pamulang Barat",
+          "rating": 4.9,
+          "vote_count": 352,
+          "distanceKm": 0.541
+        },
+        {
+          "id": "6-C8CUKA6ECBTBGN",
+          "name": "OLA AMIGOS PIZZA & MEXICAN FUSION - Serua",
+          "rating": 5,
+          "vote_count": 6,
+          "distanceKm": 4.468
+        },
+        {
+          "id": "6-C24CAVC2EPLGHA",
+          "name": "Animo Bakery (roti, kopi, donut, sandwich, pizza, pastry) - Shell Pamulang",
+          "rating": 4.8,
+          "vote_count": 614,
+          "distanceKm": 1.347
+        },
+        {
+          "id": "6-C4MWNNEJLKXTAT",
+          "name": "Langit steak n smhooties jus - Bakti Jaya",
+          "rating": 4.7,
+          "vote_count": 80,
+          "distanceKm": 4.736
+        },
+        {
+          "id": "IDGFSTI00000w6f",
+          "name": "Solaria - Pamulang Square",
+          "rating": 4.8,
+          "vote_count": 7479,
+          "distanceKm": 1.658
+        },
+        {
+          "id": "6-C6UCKBMJVX2HGT",
+          "name": "Jus Ookii - Pamulang",
+          "rating": 4.9,
+          "vote_count": 450,
+          "distanceKm": 1.107
+        },
+        {
+          "id": "6-C3DXAKDJVBV3J6",
+          "name": "Jif Pizza - Pamulang",
+          "rating": 4.9,
+          "vote_count": 526,
+          "distanceKm": 1.66
+        },
+        {
+          "id": "6-CY3VVJKVETAUPA",
+          "name": "Lawson - Raya Pamulang 6A20",
+          "rating": 4.7,
+          "vote_count": 1090,
+          "distanceKm": 1.086
+        },
+        {
+          "id": "6-C3CKGP6CLBEGJE",
+          "name": "Dapoer Ummy - Benda Baru",
+          "rating": 5,
+          "vote_count": 13,
+          "distanceKm": 2.235
+        },
+        {
+          "id": "6-C4EBCUK1EZJCEN",
+          "name": "Pizza Hut - Symphony Pamulang Puspitek",
+          "rating": 4.9,
+          "vote_count": 791,
+          "distanceKm": 3.829
+        },
+        {
+          "id": "6-CZEWMBVDJLBDLE",
+          "name": "Chatime X Cupbop - LP PAMULANG",
+          "rating": 4.9,
+          "vote_count": 4057,
+          "distanceKm": 0.672
+        },
+        {
+          "id": "6-C3A2CEK2NKU1UE",
+          "name": "The Harvest - Pamulang",
+          "rating": 4.9,
+          "vote_count": 1200,
+          "distanceKm": 1.991
+        },
+        {
+          "id": "6-C3JUGGABJ32JHE",
+          "name": "Super Indo - Pamulang Barat",
+          "rating": 4.9,
+          "vote_count": 1571,
+          "distanceKm": 1.565
+        },
+        {
+          "id": "6-C4K3CYCXRA5HGA",
+          "name": "TOMORO COFFEE - Pamulang Padjajaran",
+          "rating": 4.8,
+          "vote_count": 407,
+          "distanceKm": 1.49
+        },
+        {
+          "id": "6-C4EBCY5AGYTACA",
+          "name": "TNB Bakeshop - Pamulang Barat",
+          "rating": 5,
+          "vote_count": 414,
+          "distanceKm": 0.934
+        },
+        {
+          "id": "6-C761RF62RJ4HG6",
+          "name": "ASTRO - Pamulang - PAM",
+          "rating": 4.9,
+          "vote_count": 154,
+          "distanceKm": 3.906
+        },
+        {
+          "id": "6-CY31E8KAVE3ZT6",
+          "name": "Starbucks - Pamulang",
+          "rating": 4.9,
+          "vote_count": 8183,
+          "distanceKm": 0.11591615178112774
+        }
+      ]
+    },
+    "cinere": {
+      "latlng": "-6.3197929,106.7861210",
+      "status": 200,
+      "totalCount": 688,
+      "merchants": [
+        {
+          "id": "6-CZDHJ6MZLB4YHA",
+          "name": "Toodz House - Karang Tengah",
+          "rating": 4.8,
+          "vote_count": 3052,
+          "distanceKm": 1.752
+        },
+        {
+          "id": "6-CYNYJ2JBE6CKGT",
+          "name": "Sky Pasta - Cinere",
+          "rating": 4.6,
+          "vote_count": 1602,
+          "distanceKm": 0.409
+        },
+        {
+          "id": "6-CZDHJ6MZLB4YHA",
+          "name": "Toodz House - Karang Tengah",
+          "rating": 4.8,
+          "vote_count": 3052,
+          "distanceKm": 1.752
+        },
+        {
+          "id": "6-C7EUACKYERD2R2",
+          "name": "Plus62 Coffee - Lebak Bulus",
+          "rating": 4.7,
+          "vote_count": 530,
+          "distanceKm": 3.848
+        },
+        {
+          "id": "6-C6EUGAUUFF41RX",
+          "name": "Amar Dining - Kemang",
+          "rating": 4.7,
+          "vote_count": 91,
+          "distanceKm": 10.092
+        },
+        {
+          "id": "6-C7JYJNN1RKC1E2",
+          "name": "Bruule - Cinere",
+          "rating": 5,
+          "vote_count": 20,
+          "distanceKm": 0.742
+        },
+        {
+          "id": "IDGFSTI00000004",
+          "name": "Bakerzin - Pondok Indah Mal",
+          "rating": 4.8,
+          "vote_count": 880,
+          "distanceKm": 8.792
+        },
+        {
+          "id": "6-C66WFFDKAJMDLJ",
+          "name": "Sliced Pizzeria - Cibis Park",
+          "rating": 4.8,
+          "vote_count": 158,
+          "distanceKm": 7.338
+        },
+        {
+          "id": "6-C23FAY2JLX3ANJ",
+          "name": "Pizza Quattro - Duri Kepa",
+          "rating": 4.8,
+          "vote_count": 9251,
+          "distanceKm": 21.465
+        },
+        {
+          "id": "6-C8BHCFETGJLFCA",
+          "name": "MAC N' CHIC - Gandul",
+          "rating": 4.8,
+          "vote_count": 70,
+          "distanceKm": 4.263
+        },
+        {
+          "id": "6-C4EGCP6HAVLGAN",
+          "name": "HOLYCOW! Express - TKP Pondok Indah Mall 3",
+          "rating": 4.5,
+          "vote_count": 93,
+          "distanceKm": 8.808
+        },
+        {
+          "id": "6-C7UZE6CTT6DHME",
+          "name": "Smoking Barrels Atelier - Cipete",
+          "rating": 5,
+          "vote_count": 13,
+          "distanceKm": 6.928
+        },
+        {
+          "id": "IDGFSTI000001h7",
+          "name": "Toodz House - Cipete",
+          "rating": 4.7,
+          "vote_count": 1587,
+          "distanceKm": 7.251
+        },
+        {
+          "id": "6-C6UGTFX3LZNZC2",
+          "name": "Pizza Boxx - Lebak Bulus",
+          "rating": 4.8,
+          "vote_count": 377,
+          "distanceKm": 3.452
+        },
+        {
+          "id": "6-C7UUETNENYNAEN",
+          "name": "RAZZO Pizza - Ciputat",
+          "rating": 4.9,
+          "vote_count": 54,
+          "distanceKm": 5.525
+        },
+        {
+          "id": "6-C2WWRXAWAFM1LE",
+          "name": "Pasta & Wraps by FLAVORVERSE - Jagakarsa",
+          "rating": 4.3,
+          "vote_count": 754,
+          "distanceKm": 9.225
+        },
+        {
+          "id": "6-C7NWTGNULYNTKE",
+          "name": "Pastaliano - Cipete Selatan",
+          "rating": 4.8,
+          "vote_count": 271,
+          "distanceKm": 8.764
+        },
+        {
+          "id": "6-C4CYCE43WFNJGX",
+          "name": "Nonna Pasta by Arungi Group - Terogong Cilandak",
+          "rating": 4.8,
+          "vote_count": 716,
+          "distanceKm": 7.722
+        },
+        {
+          "id": "6-C4BGLUX3ARJEC2",
+          "name": "Pastalogie - Cilandak Timur",
+          "rating": 4.6,
+          "vote_count": 73,
+          "distanceKm": 9.42
+        },
+        {
+          "id": "6-C7M3GYAATXUGCA",
+          "name": "RAZZO Pizza - Pamulang",
+          "rating": 4.9,
+          "vote_count": 74,
+          "distanceKm": 11.223
+        },
+        {
+          "id": "6-C6XKN6WCV243VX",
+          "name": "JIF PIZZA - Pisangan",
+          "rating": 4.9,
+          "vote_count": 139,
+          "distanceKm": 5.525
+        },
+        {
+          "id": "6-CZNDE74JLJC1PA",
+          "name": "Pasta Farel - Cilandak Barat",
+          "rating": 4.8,
+          "vote_count": 1406,
+          "distanceKm": 4.766
+        },
+        {
+          "id": "6-CZE1VLL3PEEEJN",
+          "name": "Paper Plates Pizza - Cilandak",
+          "rating": 4.7,
+          "vote_count": 396,
+          "distanceKm": 6.856
+        },
+        {
+          "id": "6-C3XZWBUFC8LWNA",
+          "name": "Millions Pizza - Kebayoran Baru",
+          "rating": 4.9,
+          "vote_count": 109,
+          "distanceKm": 11.428
+        },
+        {
+          "id": "6-C7DAAKJ1RJJ1TT",
+          "name": "Pizza & Pasta by Flavorverse - Jagakarsa",
+          "rating": 4.3,
+          "vote_count": 115,
+          "distanceKm": 9.228
+        },
+        {
+          "id": "IDGFSTI00002yf3",
+          "name": "Blenger Burger - Pondok Labu",
+          "rating": 4.9,
+          "vote_count": 6471,
+          "distanceKm": 1.931
+        },
+        {
+          "id": "6-C7C3CKMZKF5XCT",
+          "name": "Bagels & Bakes by FLAVORVERSE - Jagakarsa",
+          "rating": 4.2,
+          "vote_count": 129,
+          "distanceKm": 9.228
+        },
+        {
+          "id": "IDGFSTI00000aiy",
+          "name": "Domino's Pizza - Cinere Mall",
+          "rating": 4.7,
+          "vote_count": 16242,
+          "distanceKm": 0.819
+        },
+        {
+          "id": "6-C2J3CPKHTUC2LN",
+          "name": "Fat Tony Jakarta - Pondok Labu",
+          "rating": 4.8,
+          "vote_count": 904,
+          "distanceKm": 4.274
+        },
+        {
+          "id": "6-C4BGLUX3ARJEC2",
+          "name": "Pastalogie - Cilandak Timur",
+          "rating": 4.6,
+          "vote_count": 73,
+          "distanceKm": 9.42
+        },
+        {
+          "id": "6-C36AWFMTUFWBPA",
+          "name": "Subway - Cinere",
+          "rating": 4.8,
+          "vote_count": 1291,
+          "distanceKm": 1.978
+        },
+        {
+          "id": "6-C3CKVEL1E36DG6",
+          "name": "Pizza Hut Delivery 'PHD' - Pondok Labu",
+          "rating": 4.8,
+          "vote_count": 1279,
+          "distanceKm": 3.196
+        },
+        {
+          "id": "IDGFSTI00000aie",
+          "name": "KFC - Cinere Mall",
+          "rating": 4.8,
+          "vote_count": 18490,
+          "distanceKm": 0.866
+        },
+        {
+          "id": "6-C7AKABUKJVLJRJ",
+          "name": "MIE CHILI OIL GaFFF - PANGKALAN JATI",
+          "rating": 5,
+          "vote_count": 1,
+          "distanceKm": 3.06
+        },
+        {
+          "id": "6-C4BHLTUGBEJBNX",
+          "name": "Mac Macs - Cilandak Timur",
+          "rating": 4.8,
+          "vote_count": 78,
+          "distanceKm": 9.42
+        },
+        {
+          "id": "6-C6MBT63FA6NAAE",
+          "name": "Kopi Kenangan - Ruko Karang Tengah Lebak Bulus",
+          "rating": 4.9,
+          "vote_count": 217,
+          "distanceKm": 2.518
+        },
+        {
+          "id": "6-C66WFFDKAJMDLJ",
+          "name": "Sliced Pizzeria - Cibis Park",
+          "rating": 4.8,
+          "vote_count": 158,
+          "distanceKm": 7.338
+        },
+        {
+          "id": "6-C2WWRXAWAFM1LE",
+          "name": "Pasta & Wraps by FLAVORVERSE - Jagakarsa",
+          "rating": 4.3,
+          "vote_count": 754,
+          "distanceKm": 9.225
+        },
+        {
+          "id": "IDGFSTI00002b53",
+          "name": "Pizza Hut - Cinere Raya Dua",
+          "rating": 4.9,
+          "vote_count": 12139,
+          "distanceKm": 1.904
+        },
+        {
+          "id": "6-C7JBL62URBUJJJ",
+          "name": "Amo Pizzeria - Italian Sourdough Pizza",
+          "rating": 4.8,
+          "vote_count": 34,
+          "distanceKm": 3.968
+        },
+        {
+          "id": "6-C6EUCPVHCCEAKE",
+          "name": "Animo Bakery (roti, kopi, donut, sandwich, pizza, pastry) - Karang Tengah Lebak Bulus",
+          "rating": 4.7,
+          "vote_count": 408,
+          "distanceKm": 1.577
+        },
+        {
+          "id": "6-C62HV7VHATCZTX",
+          "name": "The Buffalo Express - Cinere",
+          "rating": 4.7,
+          "vote_count": 430,
+          "distanceKm": 0.834
+        },
+        {
+          "id": "6-C32FRNWVNKJAWA",
+          "name": "Bittersweet By Najla - Cinere Depok",
+          "rating": 4.8,
+          "vote_count": 1565,
+          "distanceKm": 1.334
+        },
+        {
+          "id": "6-C2DBAYK2RE2ET2",
+          "name": "Dinda Snack - Cinere",
+          "rating": 4.8,
+          "vote_count": 512,
+          "distanceKm": 1.685
+        },
+        {
+          "id": "6-C4NCGBTCJNEVNJ",
+          "name": "Lawson - Cinere 6A7W",
+          "rating": 4.7,
+          "vote_count": 139,
+          "distanceKm": 1.073
+        },
+        {
+          "id": "IDGFSTI00000sds",
+          "name": "Nanny's Pavillon By Altima Group - Town Square Cilandak",
+          "rating": 4.8,
+          "vote_count": 609,
+          "distanceKm": 6.624
+        },
+        {
+          "id": "6-C75TUEBBRAM1J2",
+          "name": "Ayam Penyet Juara Tiga - Cinere",
+          "rating": 5,
+          "vote_count": 1,
+          "distanceKm": 1.109
+        },
+        {
+          "id": "6-C3CHHA4KAK2UAE",
+          "name": "Pizza Boxx - Pamulang Barat",
+          "rating": 4.9,
+          "vote_count": 1131,
+          "distanceKm": 9.59
+        },
+        {
+          "id": "6-C8BCAVM1VCBFTE",
+          "name": "GrabMart Kilat - Cinere",
+          "rating": 4.9,
+          "vote_count": 242,
+          "distanceKm": 1.88
+        },
+        {
+          "id": "6-C34XUAKCHFBAG6",
+          "name": "ASTRO - Cinere - CNR",
+          "rating": 4.9,
+          "vote_count": 2195,
+          "distanceKm": 3.323
+        },
+        {
+          "id": "IDGFSTI00000aik",
+          "name": "Solaria - Cinere Bellevue",
+          "rating": 4.8,
+          "vote_count": 2704,
+          "distanceKm": 1.154
+        }
+      ]
+    },
+    "tebet": {
+      "latlng": "-6.2306458,106.8534749",
+      "status": 200,
+      "totalCount": 710,
+      "merchants": [
+        {
+          "id": "6-C4NTRCB1BB3FCX",
+          "name": "Pastalogie - Tebet",
+          "rating": 4.7,
+          "vote_count": 474,
+          "distanceKm": 2.012
+        },
+        {
+          "id": "6-C6ADTJNYJFTKWA",
+          "name": "Sky Pasta - Tebet",
+          "rating": 4.5,
+          "vote_count": 334,
+          "distanceKm": 0.965
+        },
+        {
+          "id": "6-C8CFVXBDLAJKME",
+          "name": "Papapasta by Nasta - Tebet",
+          "rating": 4.9,
+          "vote_count": 76,
+          "distanceKm": 1.401
+        },
+        {
+          "id": "6-C62CAJL1GNWUT2",
+          "name": "Roasted Bar - Tebet",
+          "rating": 4.9,
+          "vote_count": 1441,
+          "distanceKm": 2.085
+        },
+        {
+          "id": "6-C7BERZEGLTUVTJ",
+          "name": "Puffula - Tebet",
+          "rating": 4.6,
+          "vote_count": 125,
+          "distanceKm": 1.674
+        },
+        {
+          "id": "6-C7KJGYA2JK4FKA",
+          "name": "Il Forno Pizzeria Pizza - Tebet",
+          "rating": 4.7,
+          "vote_count": 584,
+          "distanceKm": 0.997
+        },
+        {
+          "id": "6-C4NTRCB1BB3FCX",
+          "name": "Pastalogie - Tebet",
+          "rating": 4.7,
+          "vote_count": 474,
+          "distanceKm": 2.012
+        },
+        {
+          "id": "6-C26DLGL2MAUFT6",
+          "name": "Holysteak By Holycow! Group - Setiabudi",
+          "rating": 4.1,
+          "vote_count": 620,
+          "distanceKm": 7.265
+        },
+        {
+          "id": "6-C7TVCVN2CTXDPA",
+          "name": "Sliced Pizzeria - Pasar Raya Blok M",
+          "rating": 5,
+          "vote_count": 18,
+          "distanceKm": 8.443
+        },
+        {
+          "id": "6-C7UZE6CTT6DHME",
+          "name": "Smoking Barrels Atelier - Cipete",
+          "rating": 5,
+          "vote_count": 13,
+          "distanceKm": 12.222
+        },
+        {
+          "id": "6-C362V6XWJXLYRE",
+          "name": "Nonna Pasta by Arungi Group - Tebet",
+          "rating": 4.7,
+          "vote_count": 620,
+          "distanceKm": 2.366
+        },
+        {
+          "id": "6-C7LVJBJ1N6AWNE",
+          "name": "Enjoy Steak & Pasta - Pengadegan",
+          "rating": 4.9,
+          "vote_count": 131,
+          "distanceKm": 3.729
+        },
+        {
+          "id": "6-C6MKRCDVVYJDJJ",
+          "name": "Hookah Habibi - Gran Rubina Business Park Generali Tower",
+          "rating": 4.1,
+          "vote_count": 159,
+          "distanceKm": 4.96
+        },
+        {
+          "id": "6-C7VHLKXGJTKKLA",
+          "name": "La Focaccia Pizza, Sandwich, and Salad - Tebet",
+          "rating": 4.7,
+          "vote_count": 54,
+          "distanceKm": 1.134
+        },
+        {
+          "id": "6-C4NTWAL2CLKWKA",
+          "name": "Mac Macs - Tebet Barat",
+          "rating": 4.5,
+          "vote_count": 409,
+          "distanceKm": 2.012
+        },
+        {
+          "id": "6-C4BGLUX3ARJEC2",
+          "name": "Pastalogie - Cilandak Timur",
+          "rating": 4.6,
+          "vote_count": 73,
+          "distanceKm": 9.885
+        },
+        {
+          "id": "6-C8CBRCAYHFBVTE",
+          "name": "Hearty Cravery - Kuningan",
+          "rating": 4.9,
+          "vote_count": 49,
+          "distanceKm": 4.782
+        },
+        {
+          "id": "6-C8EGNNTXRXV3DE",
+          "name": "Enjoy steak & pasta - Cipinang Cempedak",
+          "distanceKm": 4.018
+        },
+        {
+          "id": "6-C7BERZEGLTUVTJ",
+          "name": "Puffula - Tebet",
+          "rating": 4.6,
+          "vote_count": 125,
+          "distanceKm": 1.674
+        },
+        {
+          "id": "6-C7UTCE6GFECBCJ",
+          "name": "RAZZO Pizza -  Cipinang Muara",
+          "rating": 4.8,
+          "vote_count": 59,
+          "distanceKm": 6.697
+        },
+        {
+          "id": "6-C7NWTGNULYNTKE",
+          "name": "Pastaliano - Cipete Selatan",
+          "rating": 4.8,
+          "vote_count": 271,
+          "distanceKm": 10.718
+        },
+        {
+          "id": "6-C8CFNEEFJLLFLE",
+          "name": "Alamo Smokerings BBQ - Melawai",
+          "rating": 4.6,
+          "vote_count": 73,
+          "distanceKm": 9.063
+        },
+        {
+          "id": "6-C3BVRJ3FKCDVRJ",
+          "name": "Bruule - Kota Kasablanka",
+          "rating": 5,
+          "vote_count": 593,
+          "distanceKm": 3.984
+        },
+        {
+          "id": "6-CZLTHFXXCULWJA",
+          "name": "Naru Coffee And Roastery - Cipinang Besar Selatan",
+          "rating": 4.9,
+          "vote_count": 1891,
+          "distanceKm": 3.8
+        },
+        {
+          "id": "IDGFSTI000001h7",
+          "name": "Toodz House - Cipete",
+          "rating": 4.7,
+          "vote_count": 1587,
+          "distanceKm": 11.899
+        },
+        {
+          "id": "IDGFSTI00001wn3",
+          "name": "Domino's Pizza - Tebet Timur",
+          "rating": 4.8,
+          "vote_count": 21213,
+          "distanceKm": 1.201
+        },
+        {
+          "id": "6-C362C4ATKBVCWA",
+          "name": "Pastaccini - Menteng Dalam",
+          "rating": 4.7,
+          "vote_count": 81,
+          "distanceKm": 1.986
+        },
+        {
+          "id": "6-C3UEJ2MAV2VGGX",
+          "name": "Pizza Boxx - Ciplaz Jatinegara",
+          "rating": 4.8,
+          "vote_count": 1723,
+          "distanceKm": 5.274
+        },
+        {
+          "id": "6-C7KJGYA2JK4FKA",
+          "name": "Il Forno Pizzeria Pizza - Tebet",
+          "rating": 4.7,
+          "vote_count": 584,
+          "distanceKm": 0.997
+        },
+        {
+          "id": "IDGFSTI00000f99",
+          "name": "Fish Streat - Tebet",
+          "rating": 4.7,
+          "vote_count": 11154,
+          "distanceKm": 1.5
+        },
+        {
+          "id": "IDGFSTI00003evm",
+          "name": "Fat Bubble - Tebet",
+          "rating": 4.8,
+          "vote_count": 5405,
+          "distanceKm": 0.701
+        },
+        {
+          "id": "6-C7LVJBJ1N6AWNE",
+          "name": "Enjoy Steak & Pasta - Pengadegan",
+          "rating": 4.9,
+          "vote_count": 131,
+          "distanceKm": 3.729
+        },
+        {
+          "id": "6-C3VJRUBYEGKBHE",
+          "name": "Subway - Tebet Raya",
+          "rating": 4.9,
+          "vote_count": 1901,
+          "distanceKm": 0.482
+        },
+        {
+          "id": "IDGFSTI00000sdr",
+          "name": "Nanny's Pavillon By Altima Group - Kota Kasablanka",
+          "rating": 4.7,
+          "vote_count": 950,
+          "distanceKm": 4.078
+        },
+        {
+          "id": "IDGFSTI00000feu",
+          "name": "KFC - Tebet",
+          "rating": 4.8,
+          "vote_count": 29252,
+          "distanceKm": 0.969
+        },
+        {
+          "id": "IDGFSTI0000240n",
+          "name": "Pizza Hut - Lapangan Ross Tebet",
+          "rating": 4.9,
+          "vote_count": 11267,
+          "distanceKm": 1.482
+        },
+        {
+          "id": "IDGFSTI00002kgr",
+          "name": "Pizza Hut Delivery 'PHD' - Tebet",
+          "rating": 4.9,
+          "vote_count": 18359,
+          "distanceKm": 2.003
+        },
+        {
+          "id": "6-C62CAJL1GNWUT2",
+          "name": "Roasted Bar - Tebet",
+          "rating": 4.9,
+          "vote_count": 1441,
+          "distanceKm": 2.085
+        },
+        {
+          "id": "6-CZLVJKXBPBCWJE",
+          "name": "Kitchenette by ISMAYA - Kota Kasablanka",
+          "rating": 4.3,
+          "vote_count": 171,
+          "distanceKm": 2.85
+        },
+        {
+          "id": "6-C2BFBFD3HBLGR2",
+          "name": "Salad Point ID - Tebet",
+          "rating": 4.8,
+          "vote_count": 6488,
+          "distanceKm": 1.674
+        },
+        {
+          "id": "6-C3EWGNBVLU23GX",
+          "name": "Gamchi x Groove  - Tebet Timur",
+          "rating": 4.9,
+          "vote_count": 2663,
+          "distanceKm": 1.158
+        },
+        {
+          "id": "6-C7VHLKXGJTKKLA",
+          "name": "La Focaccia Pizza, Sandwich, and Salad - Tebet",
+          "rating": 4.7,
+          "vote_count": 54,
+          "distanceKm": 1.134
+        },
+        {
+          "id": "6-C4NZEKMKDCAZC6",
+          "name": "Wendy's - Shell Soepomo",
+          "rating": 4.7,
+          "vote_count": 466,
+          "distanceKm": 1.891
+        },
+        {
+          "id": "6-C7T3A73JCTBFFA",
+          "name": "Kopi Kenangan - Ruko Tebet Jakarta",
+          "rating": 4.8,
+          "vote_count": 167,
+          "distanceKm": 0.466
+        },
+        {
+          "id": "6-CY6XDADXATA1JX",
+          "name": "Pizza Jumbo - Tebet",
+          "rating": 4.7,
+          "vote_count": 2631,
+          "distanceKm": 1.342
+        },
+        {
+          "id": "6-CYLDTK6WGPKTWA",
+          "name": "Warung Haha - Kampung Melayu",
+          "rating": 4.9,
+          "vote_count": 629,
+          "distanceKm": 2.145
+        },
+        {
+          "id": "6-C7NHVBWFVALAG6",
+          "name": "Pepero Pizza - Tebet",
+          "rating": 4.7,
+          "vote_count": 95,
+          "distanceKm": 0.852
+        },
+        {
+          "id": "6-C32KVYC2T4BFE6",
+          "name": "Waroeng Steak And Shake - Bukit Duri",
+          "rating": 4.7,
+          "vote_count": 283,
+          "distanceKm": 1.281
+        },
+        {
+          "id": "6-C2THC4JHNJLGTJ",
+          "name": "Animo Bakery (roti, kopi, donut, sandwich, pizza, pastry) - Tebet",
+          "rating": 4.7,
+          "vote_count": 2050,
+          "distanceKm": 2.245
+        },
+        {
+          "id": "6-CZBVGVCCREVGEJ",
+          "name": "Kopi Janji Jiwa - Sarana Square",
+          "rating": 4.9,
+          "vote_count": 3006,
+          "distanceKm": 1.288
+        }
+      ]
+    },
+    "petukangan": {
+      "latlng": "-6.2332002,106.7450603",
+      "status": 200,
+      "totalCount": 613,
+      "merchants": [
+        {
+          "id": "6-C6T1GVEKJ4DTSA",
+          "name": "Plus62 Coffee - Tanjung Duren",
+          "rating": 4.9,
+          "vote_count": 962,
+          "distanceKm": 11.292
+        },
+        {
+          "id": "6-C2BDENKVLYN2A2",
+          "name": "Sky Pasta - Petukangan",
+          "rating": 4.9,
+          "vote_count": 1037,
+          "distanceKm": 0.12132995107108037
+        },
+        {
+          "id": "6-C3EJBEKZR3KYTN",
+          "name": "Almia Pasta - Petukangan Selatan",
+          "rating": 4.9,
+          "vote_count": 370,
+          "distanceKm": 1.866
+        },
+        {
+          "id": "6-C6EUGAUUFF41RX",
+          "name": "Amar Dining - Kemang",
+          "rating": 4.7,
+          "vote_count": 91,
+          "distanceKm": 13.214
+        },
+        {
+          "id": "6-C6XZBAJHAGCXNA",
+          "name": "Bakerzin - Puri Indah Mall",
+          "rating": 4.9,
+          "vote_count": 167,
+          "distanceKm": 9.287
+        },
+        {
+          "id": "6-C23FAY2JLX3ANJ",
+          "name": "Pizza Quattro - Duri Kepa",
+          "rating": 4.8,
+          "vote_count": 9251,
+          "distanceKm": 11.894
+        },
+        {
+          "id": "6-C76WGBUBAPAATX",
+          "name": "Potato Mac n Cheese Corner - Larangan Utara",
+          "rating": 5,
+          "vote_count": 2,
+          "distanceKm": 3.468
+        },
+        {
+          "id": "6-C2AYMB6ZV22UTJ",
+          "name": "Sliced Pizzeria - Pondok Indah",
+          "rating": 4.7,
+          "vote_count": 340,
+          "distanceKm": 8.877
+        },
+        {
+          "id": "6-C4EGCP6HAVLGAN",
+          "name": "HOLYCOW! Express - TKP Pondok Indah Mall 3",
+          "rating": 4.5,
+          "vote_count": 93,
+          "distanceKm": 10.194
+        },
+        {
+          "id": "6-C7UZE6CTT6DHME",
+          "name": "Smoking Barrels Atelier - Cipete",
+          "rating": 5,
+          "vote_count": 13,
+          "distanceKm": 13.242
+        },
+        {
+          "id": "6-C7MCBBX2VJDDAE",
+          "name": "Pizza Boxx - Pesanggrahan",
+          "rating": 4.8,
+          "vote_count": 139,
+          "distanceKm": 1.454
+        },
+        {
+          "id": "6-C6MCN2JDJYC1AT",
+          "name": "GO!STEAK - Joglo",
+          "rating": 4.7,
+          "vote_count": 617,
+          "distanceKm": 3.213
+        },
+        {
+          "id": "6-C7XFJ6EUHCDFCA",
+          "name": "Kopiday To Go - Joglo - Jl. Joglo Raya",
+          "rating": 4.9,
+          "vote_count": 11,
+          "distanceKm": 3.346
+        },
+        {
+          "id": "6-C7LXVRAZRBKHGE",
+          "name": "JIF Pizza - Sukabumi Utara",
+          "rating": 4.9,
+          "vote_count": 69,
+          "distanceKm": 7.921
+        },
+        {
+          "id": "IDGFSTI00003ke6",
+          "name": "Et Veteran Pizza Taman Asri - Cipadu Jaya",
+          "rating": 4.9,
+          "vote_count": 2771,
+          "distanceKm": 2.759
+        },
+        {
+          "id": "6-C2UWJAJKAB4TDA",
+          "name": "Jan Lekker - Pondok Karya",
+          "rating": 4.9,
+          "vote_count": 280,
+          "distanceKm": 4.982
+        },
+        {
+          "id": "6-C3XZWBUFC8LWNA",
+          "name": "Millions Pizza - Kebayoran Baru",
+          "rating": 4.9,
+          "vote_count": 109,
+          "distanceKm": 8.227
+        },
+        {
+          "id": "6-C24UNJ4HA2JJGX",
+          "name": "Paris Di Jakarta - Grogol Utara",
+          "rating": 4.8,
+          "vote_count": 290,
+          "distanceKm": 7.111
+        },
+        {
+          "id": "6-C2X1C2AFC73FLT",
+          "name": "Emilia Cucina Italiana - Kebayoran Lama",
+          "rating": 4.8,
+          "vote_count": 83,
+          "distanceKm": 8.005
+        },
+        {
+          "id": "IDGFSTI000001h7",
+          "name": "Toodz House - Cipete",
+          "rating": 4.7,
+          "vote_count": 1587,
+          "distanceKm": 13.171
+        },
+        {
+          "id": "6-CZABV3V3LYJAUA",
+          "name": "bunda JOELI Cakes & Bakery - Pondok Ranji",
+          "rating": 5,
+          "vote_count": 1409,
+          "distanceKm": 7.21
+        },
+        {
+          "id": "6-CZE1VLL3PEEEJN",
+          "name": "Paper Plates Pizza - Cilandak",
+          "rating": 4.7,
+          "vote_count": 396,
+          "distanceKm": 10.612
+        },
+        {
+          "id": "IDGFSTI00001r2b",
+          "name": "Domino's Pizza - Petukangan",
+          "rating": 4.5,
+          "vote_count": 14391,
+          "distanceKm": 1.166
+        },
+        {
+          "id": "6-C8CFNEEFJLLFLE",
+          "name": "Alamo Smokerings BBQ - Melawai",
+          "rating": 4.6,
+          "vote_count": 73,
+          "distanceKm": 9.859
+        },
+        {
+          "id": "6-C34ZUF5TEXCYAE",
+          "name": "Subway - Ciledug",
+          "rating": 4.8,
+          "vote_count": 1107,
+          "distanceKm": 0.434
+        },
+        {
+          "id": "IDGFSTI00000fg8",
+          "name": "KFC - Ciledug Petukangan",
+          "rating": 4.7,
+          "vote_count": 14119,
+          "distanceKm": 1.114
+        },
+        {
+          "id": "IDGFSTI00002ye8",
+          "name": "Pizza Hut Delivery 'PHD' - Puri Beta Ciledug",
+          "rating": 4.8,
+          "vote_count": 6276,
+          "distanceKm": 3.058
+        },
+        {
+          "id": "6-C8EFGFVTVJ4CTX",
+          "name": "Amerta Amour Coffee - Petukangan Utara",
+          "distanceKm": 1.689
+        },
+        {
+          "id": "IDGFSTI00002duj",
+          "name": "Pizza Hut - Giant Cileduk",
+          "rating": 4.8,
+          "vote_count": 11395,
+          "distanceKm": 0.91
+        },
+        {
+          "id": "6-C7NXVNDECX5WL6",
+          "name": "Spagetindo - Joglo Raya",
+          "rating": 4.8,
+          "vote_count": 17,
+          "distanceKm": 3.839
+        },
+        {
+          "id": "IDGFSTI000020qh",
+          "name": "Ciz n' Chic - Joglo",
+          "rating": 4.9,
+          "vote_count": 4788,
+          "distanceKm": 4.369
+        },
+        {
+          "id": "6-C2VZJT4DLBD1L6",
+          "name": "Bruule - Srengseng",
+          "rating": 4.6,
+          "vote_count": 351,
+          "distanceKm": 6.055
+        },
+        {
+          "id": "6-C3TJWGKZFEDBT2",
+          "name": "Pizza Milan Cafe - Larangan Indah",
+          "rating": 4.8,
+          "vote_count": 173,
+          "distanceKm": 2.261
+        },
+        {
+          "id": "6-C4DJCKMCC8B2AN",
+          "name": "PAPAPASTA by Nasta - Tanjung Duren Utara",
+          "rating": 4.8,
+          "vote_count": 2637,
+          "distanceKm": 11.067
+        },
+        {
+          "id": "IDGFSTI000022o5",
+          "name": "Blenger Burger - Bintaro",
+          "rating": 4.8,
+          "vote_count": 18585,
+          "distanceKm": 6.709
+        },
+        {
+          "id": "6-C3VXRP6ZV7BGGJ",
+          "name": "Waroeng Steak And Shake - Ciledug",
+          "rating": 4.7,
+          "vote_count": 466,
+          "distanceKm": 1.12
+        },
+        {
+          "id": "6-C7BKTN6WE36GRE",
+          "name": "Nonna Pasta by Arungi Group - Gunawarman",
+          "rating": 4.9,
+          "vote_count": 354,
+          "distanceKm": 10.059
+        },
+        {
+          "id": "6-CY2GWEN2TLJDAT",
+          "name": "Et Veteran Pizza SMA 90 - Petukangan Selatan",
+          "rating": 4.9,
+          "vote_count": 895,
+          "distanceKm": 1.999
+        },
+        {
+          "id": "IDGFSTI00001x20",
+          "name": "d'BestO - Muchtar",
+          "rating": 4.7,
+          "vote_count": 912,
+          "distanceKm": 0.669
+        },
+        {
+          "id": "6-C23FAY2JLX3ANJ",
+          "name": "Pizza Quattro - Duri Kepa",
+          "rating": 4.8,
+          "vote_count": 9251,
+          "distanceKm": 11.894
+        },
+        {
+          "id": "6-C64VRUE1RLJHRN",
+          "name": "Animo Bakery (roti, kopi, donut, sandwich, pizza, pastry) - M.Saidi Raya",
+          "rating": 4.8,
+          "vote_count": 78,
+          "distanceKm": 3.197
+        },
+        {
+          "id": "6-C6MCN2JDJYC1AT",
+          "name": "GO!STEAK - Joglo",
+          "rating": 4.7,
+          "vote_count": 617,
+          "distanceKm": 3.213
+        },
+        {
+          "id": "6-CZK3DATTJCL1L2",
+          "name": "Aikara Food - Petukangan Selatan",
+          "rating": 4.9,
+          "vote_count": 469,
+          "distanceKm": 1.866
+        },
+        {
+          "id": "6-C3ACJUEYCBUTCA",
+          "name": "Chigo X Flip Burger - Ruko Petukangan",
+          "rating": 4.9,
+          "vote_count": 658,
+          "distanceKm": 1.324
+        },
+        {
+          "id": "6-C3KXJYJDE3J2NX",
+          "name": "original pasta - Joglo",
+          "rating": 4.5,
+          "vote_count": 199,
+          "distanceKm": 6.894
+        },
+        {
+          "id": "6-C2ADEFAYSE4DLE",
+          "name": "Alisa Frozen Food - Petukangan Utara",
+          "rating": 4.3,
+          "vote_count": 402,
+          "distanceKm": 2.407
+        },
+        {
+          "id": "6-C24UNJ4HA2JJGX",
+          "name": "Paris Di Jakarta - Grogol Utara",
+          "rating": 4.8,
+          "vote_count": 290,
+          "distanceKm": 7.111
+        },
+        {
+          "id": "6-C8CFGBEAC7LHC2",
+          "name": "Sliced Pizzeria - Bintaro (Sektor 5)",
+          "rating": 5,
+          "vote_count": 47,
+          "distanceKm": 8.076
+        },
+        {
+          "id": "6-C34YAKL1TUW2VA",
+          "name": "ASTRO - Pos Pengumben - PPN",
+          "rating": 4.9,
+          "vote_count": 2430,
+          "distanceKm": 4.511
+        }
+      ]
+    },
+    "ciledug": {
+      "latlng": "-6.2398489,106.7164343",
+      "status": 200,
+      "totalCount": 623,
+      "merchants": [
+        {
+          "id": "6-C6T1GVEKJ4DTSA",
+          "name": "Plus62 Coffee - Tanjung Duren",
+          "rating": 4.9,
+          "vote_count": 962,
+          "distanceKm": 14.334
+        },
+        {
+          "id": "6-CZMBUFTATB5HNN",
+          "name": "Sky Pasta - Paninggilan Utara",
+          "rating": 4.7,
+          "vote_count": 2159,
+          "distanceKm": 0.11465340163361465
+        },
+        {
+          "id": "6-C76WGBUBAPAATX",
+          "name": "Potato Mac n Cheese Corner - Larangan Utara",
+          "rating": 5,
+          "vote_count": 2,
+          "distanceKm": 2.538
+        },
+        {
+          "id": "6-C6EUGAUUFF41RX",
+          "name": "Amar Dining - Kemang",
+          "rating": 4.7,
+          "vote_count": 91,
+          "distanceKm": 16.976
+        },
+        {
+          "id": "6-C6XZBAJHAGCXNA",
+          "name": "Bakerzin - Puri Indah Mall",
+          "rating": 4.9,
+          "vote_count": 167,
+          "distanceKm": 10.495
+        },
+        {
+          "id": "6-C23FAY2JLX3ANJ",
+          "name": "Pizza Quattro - Duri Kepa",
+          "rating": 4.8,
+          "vote_count": 9251,
+          "distanceKm": 14.936
+        },
+        {
+          "id": "6-C7LFNN6APBDXGA",
+          "name": "Domino's Pizza - Graha Raya Bintaro",
+          "rating": 4.9,
+          "vote_count": 635,
+          "distanceKm": 5.649
+        },
+        {
+          "id": "6-CZMGE7CBWFJ2V6",
+          "name": "Sliced Pizzeria - Bintaro",
+          "rating": 4.8,
+          "vote_count": 515,
+          "distanceKm": 7.543
+        },
+        {
+          "id": "6-C4EENXJTJBBWTA",
+          "name": "HOLYSTEAK by Holycow! Group - BSD",
+          "rating": 4.5,
+          "vote_count": 48,
+          "distanceKm": 13.448
+        },
+        {
+          "id": "6-C72HCZNDLKV2GN",
+          "name": "Washoku Sato - Eat & Go Indomaret Jalur Sutera",
+          "rating": 4.9,
+          "vote_count": 55,
+          "distanceKm": 11.362
+        },
+        {
+          "id": "6-C64DJZDCAU51SA",
+          "name": "Pizza Boxx - Parung Serab",
+          "rating": 4.8,
+          "vote_count": 169,
+          "distanceKm": 2.504
+        },
+        {
+          "id": "6-C7UZE6CTT6DHME",
+          "name": "Smoking Barrels Atelier - Cipete",
+          "rating": 5,
+          "vote_count": 13,
+          "distanceKm": 17.005
+        },
+        {
+          "id": "6-C6MHBEJ1UFAGDE",
+          "name": "Go Steak - Joglo",
+          "rating": 4.7,
+          "vote_count": 650,
+          "distanceKm": 4.922
+        },
+        {
+          "id": "6-C8AGSBJHC8BVHA",
+          "name": "Dapurnya Bunis - Ciledug",
+          "distanceKm": 0.479
+        },
+        {
+          "id": "IDGFSTI00003ke6",
+          "name": "Et Veteran Pizza Taman Asri - Cipadu Jaya",
+          "rating": 4.9,
+          "vote_count": 2771,
+          "distanceKm": 2.878
+        },
+        {
+          "id": "6-C6MCN2JDJYC1AT",
+          "name": "GO!STEAK - Joglo",
+          "rating": 4.7,
+          "vote_count": 617,
+          "distanceKm": 4.903
+        },
+        {
+          "id": "6-C643R3JTJJBXNX",
+          "name": "RAZZO Pizza - Pondok Aren",
+          "rating": 4.8,
+          "vote_count": 132,
+          "distanceKm": 3.539
+        },
+        {
+          "id": "6-C62JA2KBPGJ1L6",
+          "name": "Espresso Boy Coffee - Parung Serab",
+          "rating": 4.9,
+          "vote_count": 114,
+          "distanceKm": 2.437
+        },
+        {
+          "id": "IDGFSTI00002ye8",
+          "name": "Pizza Hut Delivery 'PHD' - Puri Beta Ciledug",
+          "rating": 4.8,
+          "vote_count": 6276,
+          "distanceKm": 1.765
+        },
+        {
+          "id": "6-C73FT66BN8BWVN",
+          "name": "Alamo Smokerings BBQ - Broadway",
+          "rating": 4.6,
+          "vote_count": 161,
+          "distanceKm": 12.059
+        },
+        {
+          "id": "6-CZDHJ6MZLB4YHA",
+          "name": "Toodz House - Karang Tengah",
+          "rating": 4.8,
+          "vote_count": 3052,
+          "distanceKm": 16.618
+        },
+        {
+          "id": "6-CZABV3V3LYJAUA",
+          "name": "bunda JOELI Cakes & Bakery - Pondok Ranji",
+          "rating": 5,
+          "vote_count": 1409,
+          "distanceKm": 7.507
+        },
+        {
+          "id": "6-C3KXJYJDE3J2NX",
+          "name": "original pasta - Joglo",
+          "rating": 4.5,
+          "vote_count": 199,
+          "distanceKm": 5.147
+        },
+        {
+          "id": "6-CZE1VLL3PEEEJN",
+          "name": "Paper Plates Pizza - Cilandak",
+          "rating": 4.7,
+          "vote_count": 396,
+          "distanceKm": 14.374
+        },
+        {
+          "id": "6-C6NHAE4UECBGHE",
+          "name": "Smoking Barrels Atelier - Cilandak Barat",
+          "rating": 4.7,
+          "vote_count": 58,
+          "distanceKm": 18.415
+        },
+        {
+          "id": "6-C7NXVNDECX5WL6",
+          "name": "Spagetindo - Joglo Raya",
+          "rating": 4.8,
+          "vote_count": 17,
+          "distanceKm": 3.742
+        },
+        {
+          "id": "6-C363VUTDHCJBRE",
+          "name": "Nonna Pasta by Arungi Group - Bintaro",
+          "rating": 4.8,
+          "vote_count": 593,
+          "distanceKm": 8.67
+        },
+        {
+          "id": "6-C3TJWGKZFEDBT2",
+          "name": "Pizza Milan Cafe - Larangan Indah",
+          "rating": 4.8,
+          "vote_count": 173,
+          "distanceKm": 2.345
+        },
+        {
+          "id": "IDGFSTI00002duj",
+          "name": "Pizza Hut - Giant Cileduk",
+          "rating": 4.8,
+          "vote_count": 11395,
+          "distanceKm": 3.637
+        },
+        {
+          "id": "6-C4NZGCEBJGJAGX",
+          "name": "Martabak Putra LBS - Jl. Tanah Seratus",
+          "rating": 4.8,
+          "vote_count": 15,
+          "distanceKm": 1.571
+        },
+        {
+          "id": "6-C2WGV3JJAAJZRT",
+          "name": "Seblak DSA Mencong - Sudimara Timur",
+          "rating": 4.5,
+          "vote_count": 481,
+          "distanceKm": 0.688
+        },
+        {
+          "id": "6-C65GSBKARRNTGA",
+          "name": "Blenger Burger - Graha Raya",
+          "rating": 4.9,
+          "vote_count": 1100,
+          "distanceKm": 6.168
+        },
+        {
+          "id": "6-C7CGA4KXUBTEJN",
+          "name": "DBesto Chicken Burger - Mencong",
+          "rating": 4.9,
+          "vote_count": 93,
+          "distanceKm": 0.612
+        },
+        {
+          "id": "IDGFSTI00000ffm",
+          "name": "KFC - CBD Ciledug",
+          "rating": 4.8,
+          "vote_count": 19774,
+          "distanceKm": 3.796
+        },
+        {
+          "id": "6-C34ZUF5TEXCYAE",
+          "name": "Subway - Ciledug",
+          "rating": 4.8,
+          "vote_count": 1107,
+          "distanceKm": 4.197
+        },
+        {
+          "id": "6-C7ETAVKKLYLZA6",
+          "name": "JIF Pizza - Pondok Aren",
+          "rating": 4.9,
+          "vote_count": 118,
+          "distanceKm": 3.516
+        },
+        {
+          "id": "6-C741AJ5HACA2LJ",
+          "name": "Mama Rina Kitchen - Pondok Kacang Timur",
+          "rating": 5,
+          "vote_count": 30,
+          "distanceKm": 3.252
+        },
+        {
+          "id": "6-C2VKJJNXELB2AT",
+          "name": "Tsaqib Pasta - Ciledug",
+          "rating": 4.9,
+          "vote_count": 19,
+          "distanceKm": 2.611
+        },
+        {
+          "id": "6-C4DJCKMCC8B2AN",
+          "name": "PAPAPASTA by Nasta - Tanjung Duren Utara",
+          "rating": 4.8,
+          "vote_count": 2637,
+          "distanceKm": 14.109
+        },
+        {
+          "id": "IDGFSTI00000w60",
+          "name": "Solaria - Ramayana Ciledug",
+          "rating": 4.8,
+          "vote_count": 8465,
+          "distanceKm": 1.805
+        },
+        {
+          "id": "6-C3EJBEKZR3KYTN",
+          "name": "Almia Pasta - Petukangan Selatan",
+          "rating": 4.9,
+          "vote_count": 370,
+          "distanceKm": 5.628
+        },
+        {
+          "id": "6-C6MHBEJ1UFAGDE",
+          "name": "Go Steak - Joglo",
+          "rating": 4.7,
+          "vote_count": 650,
+          "distanceKm": 4.922
+        },
+        {
+          "id": "6-CZDZGYB1A6C1EE",
+          "name": "Bowie Kitchen Pasta Ricebowl - Pondok Kacang Timur",
+          "rating": 5,
+          "vote_count": 439,
+          "distanceKm": 3.935
+        },
+        {
+          "id": "6-C643R3JTJJBXNX",
+          "name": "RAZZO Pizza - Pondok Aren",
+          "rating": 4.8,
+          "vote_count": 132,
+          "distanceKm": 3.539
+        },
+        {
+          "id": "6-C23FAY2JLX3ANJ",
+          "name": "Pizza Quattro - Duri Kepa",
+          "rating": 4.8,
+          "vote_count": 9251,
+          "distanceKm": 14.936
+        },
+        {
+          "id": "6-C2THVE6UKAKUJ2",
+          "name": "Warung Jajan Bunda Raihan - Larangan Selatan",
+          "rating": 4.6,
+          "vote_count": 230,
+          "distanceKm": 3.47
+        },
+        {
+          "id": "IDGFSTI000020qh",
+          "name": "Ciz n' Chic - Joglo",
+          "rating": 4.9,
+          "vote_count": 4788,
+          "distanceKm": 6.059
+        },
+        {
+          "id": "6-C73BTZJFWBEFR2",
+          "name": "Chilor Surya Mencong - Sudimara Timur",
+          "rating": 5,
+          "vote_count": 3,
+          "distanceKm": 0.805
+        },
+        {
+          "id": "6-C34EN6WTGK2GCE",
+          "name": "Kopi Beanspot Alfamart - Puri Beta (TG55)",
+          "rating": 4.7,
+          "vote_count": 5,
+          "distanceKm": 2.272
+        },
+        {
+          "id": "6-C7LEA3UXJEADTT",
+          "name": "Alamo Smokerings BBQ - Fresh Market Bintaro",
+          "rating": 4.8,
+          "vote_count": 851,
+          "distanceKm": 7.42
+        }
+      ]
+    },
+    "bekasi": {
+      "latlng": "-6.2548368,106.9681690",
+      "status": 429,
+      "merchants": []
+    },
+    "binus": {
+      "latlng": "-6.2024725,106.7827245",
+      "status": 200,
+      "totalCount": 671,
+      "merchants": [
+        {
+          "id": "6-C6T1GVEKJ4DTSA",
+          "name": "Plus62 Coffee - Tanjung Duren",
+          "rating": 4.9,
+          "vote_count": 962,
+          "distanceKm": 3.129
+        },
+        {
+          "id": "6-C3A3AFNUBBEDL6",
+          "name": "Sky Pasta - Palmerah",
+          "rating": 4.8,
+          "vote_count": 1806,
+          "distanceKm": 0.14664421734819233
+        },
+        {
+          "id": "6-C6TGRUEZDF5YE6",
+          "name": "PAPAPASTA by Nasta - Kebon Jeruk",
+          "rating": 4.9,
+          "vote_count": 1002,
+          "distanceKm": 0.833
+        },
+        {
+          "id": "6-C6XZRLJYTKVXRN",
+          "name": "Roasted Bar - Tanjung Duren",
+          "rating": 4.9,
+          "vote_count": 1030,
+          "distanceKm": 3.882
+        },
+        {
+          "id": "6-C3VWR7KBL7EXVE",
+          "name": "Bakerzin - Senayan Park",
+          "rating": 4.6,
+          "vote_count": 194,
+          "distanceKm": 4.421
+        },
+        {
+          "id": "6-C4EDR2TBC3CJGX",
+          "name": "Karnivor By Altima Group - Grand Indonesia",
+          "rating": 4.7,
+          "vote_count": 165,
+          "distanceKm": 6.917
+        },
+        {
+          "id": "6-C2X1C2AFC73FLT",
+          "name": "Emilia Cucina Italiana - Kebayoran Lama",
+          "rating": 4.8,
+          "vote_count": 83,
+          "distanceKm": 2.389
+        },
+        {
+          "id": "6-C23FAY2JLX3ANJ",
+          "name": "Pizza Quattro - Duri Kepa",
+          "rating": 4.8,
+          "vote_count": 9251,
+          "distanceKm": 5.188
+        },
+        {
+          "id": "6-C3KBMEJGVBADTE",
+          "name": "Holysteak By Holycow! Group - Bendungan Hilir",
+          "rating": 4.4,
+          "vote_count": 146,
+          "distanceKm": 5.454
+        },
+        {
+          "id": "6-C7MERFWHG8JBG2",
+          "name": "Chili'S - Central Park",
+          "rating": 4.8,
+          "vote_count": 170,
+          "distanceKm": 5.32
+        },
+        {
+          "id": "IDGFSTI00001ims",
+          "name": "Ciz n' Chic - Palmerah",
+          "rating": 4.9,
+          "vote_count": 7890,
+          "distanceKm": 0.05530742657439362
+        },
+        {
+          "id": "6-C7UZE6CTT6DHME",
+          "name": "Smoking Barrels Atelier - Cipete",
+          "rating": 5,
+          "vote_count": 13,
+          "distanceKm": 11.878
+        },
+        {
+          "id": "6-C7TVCVN2CTXDPA",
+          "name": "Sliced Pizzeria - Pasar Raya Blok M",
+          "rating": 5,
+          "vote_count": 18,
+          "distanceKm": 9.511
+        },
+        {
+          "id": "6-C7LXVRAZRBKHGE",
+          "name": "JIF Pizza - Sukabumi Utara",
+          "rating": 4.9,
+          "vote_count": 69,
+          "distanceKm": 0.877
+        },
+        {
+          "id": "6-C6NUJNDCEXVJLE",
+          "name": "Zuppa Soup & Pasta Panggang (Faza's Fav) - Jl. Gelora IX D",
+          "rating": 4.9,
+          "vote_count": 82,
+          "distanceKm": 2.075
+        },
+        {
+          "id": "6-C753JY21NLNKJX",
+          "name": "Ciao Gio Pizzeria - Central Park Mall 2",
+          "distanceKm": 4.883
+        },
+        {
+          "id": "6-C4AXJA2BGX3VME",
+          "name": "People Pasta - Duri Kepa",
+          "rating": 4.5,
+          "vote_count": 240,
+          "distanceKm": 4.231
+        },
+        {
+          "id": "6-C4AWTK42RELEKA",
+          "name": "Steaknya Juragan - Bendungan Hilir",
+          "rating": 4.5,
+          "vote_count": 523,
+          "distanceKm": 4.705
+        },
+        {
+          "id": "IDGFSTI00001xru",
+          "name": "Domino's Pizza - Kemanggisan Square",
+          "rating": 4.6,
+          "vote_count": 21323,
+          "distanceKm": 0.647
+        },
+        {
+          "id": "6-C2AATB53JY2JEJ",
+          "name": "Oatmeal Delights - Palmerah",
+          "rating": 4.8,
+          "vote_count": 1136,
+          "distanceKm": 0.369
+        },
+        {
+          "id": "6-C7KVMEDGCYKUGN",
+          "name": "SA PIZZA - Palmerah",
+          "rating": 4.8,
+          "vote_count": 242,
+          "distanceKm": 1.406
+        },
+        {
+          "id": "6-CZMUHFJULN2WUE",
+          "name": "Wirawiri - Kebon Jeruk",
+          "rating": 4.8,
+          "vote_count": 445,
+          "distanceKm": 4.449
+        },
+        {
+          "id": "6-C7JGR8AXV8CHVE",
+          "name": "Nonna Pasta by Arungi Group - Tanjung Duren",
+          "rating": 4.9,
+          "vote_count": 178,
+          "distanceKm": 4.405
+        },
+        {
+          "id": "IDGFSTI00001n3k",
+          "name": "Fish Bite! - Kebon Jeruk",
+          "rating": 4.8,
+          "vote_count": 3972,
+          "distanceKm": 0.2264472904252463
+        },
+        {
+          "id": "6-C7KVMEDGCYKUGN",
+          "name": "SA PIZZA - Palmerah",
+          "rating": 4.8,
+          "vote_count": 242,
+          "distanceKm": 1.406
+        },
+        {
+          "id": "6-C3UVGGC3JBJBAN",
+          "name": "Steak 68 - Kemanggisan",
+          "rating": 4.5,
+          "vote_count": 1408,
+          "distanceKm": 2.152
+        },
+        {
+          "id": "IDGFSTI00001n4i",
+          "name": "Pizza Hut Delivery 'PHD' - Kemanggisan Dua",
+          "rating": 4.8,
+          "vote_count": 6254,
+          "distanceKm": 0.3540492181648124
+        },
+        {
+          "id": "6-C2LTAP5ER4LATJ",
+          "name": "Chicken Katsu Pandemi - Palmerah",
+          "rating": 4.9,
+          "vote_count": 1005,
+          "distanceKm": 0.828
+        },
+        {
+          "id": "6-C2WAVJJVMEKAC6",
+          "name": "KFC - Jalan Panjang",
+          "rating": 4.7,
+          "vote_count": 9282,
+          "distanceKm": 1.658
+        },
+        {
+          "id": "IDGFSTI00001zmk",
+          "name": "Pizza Hut - Kemanggisan",
+          "rating": 4.8,
+          "vote_count": 11097,
+          "distanceKm": 0.92
+        },
+        {
+          "id": "6-C7MHEUXGPGLHDA",
+          "name": "Aldente - Kemanggisan",
+          "rating": 4.8,
+          "vote_count": 65,
+          "distanceKm": 1.53
+        },
+        {
+          "id": "6-CYK1JBJBGJDDAJ",
+          "name": "Ayam Katsuku - Palmerah",
+          "rating": 4.8,
+          "vote_count": 1179,
+          "distanceKm": 0.828
+        },
+        {
+          "id": "6-C23FAY2JLX3ANJ",
+          "name": "Pizza Quattro - Duri Kepa",
+          "rating": 4.8,
+          "vote_count": 9251,
+          "distanceKm": 5.188
+        },
+        {
+          "id": "6-C7LXVRAZRBKHGE",
+          "name": "JIF Pizza - Sukabumi Utara",
+          "rating": 4.9,
+          "vote_count": 69,
+          "distanceKm": 0.877
+        },
+        {
+          "id": "6-C643TTEJVU2HA2",
+          "name": "Jajanan Rumahanku, Kemanggisan -Palmerah",
+          "rating": 4.9,
+          "vote_count": 123,
+          "distanceKm": 0.828
+        },
+        {
+          "id": "6-C2AATB53JY2JEJ",
+          "name": "Oatmeal Delights - Palmerah",
+          "rating": 4.8,
+          "vote_count": 1136,
+          "distanceKm": 0.369
+        },
+        {
+          "id": "6-C2VZJT4DLBD1L6",
+          "name": "Bruule - Srengseng",
+          "rating": 4.6,
+          "vote_count": 351,
+          "distanceKm": 5.985
+        },
+        {
+          "id": "6-CYUBJ7JUWF5XRJ",
+          "name": "My Pizza - Kemanggisan",
+          "rating": 4.7,
+          "vote_count": 1412,
+          "distanceKm": 0.04811600188257183
+        },
+        {
+          "id": "6-C4AXJA2BGX3VME",
+          "name": "People Pasta - Duri Kepa",
+          "rating": 4.5,
+          "vote_count": 240,
+          "distanceKm": 4.231
+        },
+        {
+          "id": "6-C4KCRRBTBBW3RJ",
+          "name": "Rice Bowl Chic - Palmerah",
+          "rating": 4.9,
+          "vote_count": 517,
+          "distanceKm": 0.814
+        },
+        {
+          "id": "6-C6NAVVEEJYAXKA",
+          "name": "Jus Bleber - Palmerah",
+          "rating": 4.8,
+          "vote_count": 856,
+          "distanceKm": 0.647
+        },
+        {
+          "id": "6-CZN3C3VZJ2VJLE",
+          "name": "Nanny'S Pavillon By Altima Group - Central Park",
+          "rating": 4.7,
+          "vote_count": 1139,
+          "distanceKm": 5.32
+        },
+        {
+          "id": "IDGFSTI000033a2",
+          "name": "Warung AA Sahdan - Palmerah",
+          "rating": 4.8,
+          "vote_count": 1816,
+          "distanceKm": 0.675
+        },
+        {
+          "id": "6-C24UNJ4HA2JJGX",
+          "name": "Paris Di Jakarta - Grogol Utara",
+          "rating": 4.8,
+          "vote_count": 290,
+          "distanceKm": 3.479
+        },
+        {
+          "id": "IDGFSTI00000395",
+          "name": "Waroeng Steak and Shake - Palmerah",
+          "rating": 4.8,
+          "vote_count": 1834,
+          "distanceKm": 1.523
+        },
+        {
+          "id": "6-C3LVRNXVTUBVDE",
+          "name": "RAZZO PIZZA - Rawa Belong",
+          "rating": 4.8,
+          "vote_count": 556,
+          "distanceKm": 0.877
+        },
+        {
+          "id": "IDGFSTI00000f9a",
+          "name": "Fish Streat - Tanjung Duren",
+          "rating": 4.7,
+          "vote_count": 20018,
+          "distanceKm": 4.304
+        },
+        {
+          "id": "6-C33GL24BVTEVEA",
+          "name": "Lawson - Gili Sampeng 6A3A",
+          "rating": 4.5,
+          "vote_count": 54,
+          "distanceKm": 1.125
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "titik": "Seturan - Sleman",
+  "kota": "Kab. Sleman",
+  "sumber": "rumah123",
+  "blocked": null,
+  "ok": true,
+  "total_raw": 40,
+  "total_semua": 40,
+  "listings": [
+    {
+      "judul": "Ruko 2 Lantai Lokasi di Depok Sleman Strategis Dekat Kampus dan Sekolahan",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 425 Juta",
+      "harga": 425000000,
+      "harga_satuan": "",
+      "luas_tanah": 200,
+      "luas_bangunan": 405,
+      "lantai": 2,
+      "alamat": "Depok, Sleman",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "sleman"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/sleman-depok/ruko-2-lantai-lokasi-di-depok-sleman-strategis-dekat-kampus-dan-sekolahan-shr10217385/"
+    },
+    {
+      "judul": "Ruko Bagus 2 Lantai Siap Pakai Lokasi Strategis di Depok Sleman Dekat Kampus dan Sekolahan",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 125 Juta",
+      "harga": 125000000,
+      "harga_satuan": "",
+      "luas_tanah": 135,
+      "luas_bangunan": 170,
+      "lantai": 2,
+      "alamat": "Depok, Sleman",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "sleman"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/sleman-depok/ruko-bagus-2-lantai-siap-pakai-lokasi-strategis-di-depok-sleman-dekat-kampus-dan-sekolahan-shr9884050/"
+    },
+    {
+      "judul": "Ruko Besar 3 Lantai | Lokasi Strategis Dekat Kampus Dan Sekolahan | Parkir Luas | Di Depok Sleman",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 850 Juta",
+      "harga": 850000000,
+      "harga_satuan": "",
+      "luas_tanah": 540,
+      "luas_bangunan": 1500,
+      "lantai": 3,
+      "alamat": "Depok, Sleman",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "sleman"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/sleman-depok/ruko-besar-3-lantai-lokasi-strategis-dekat-kampus-dan-sekolahan-parkir-luas-di-depok-sleman-shr9533098/"
+    },
+    {
+      "judul": "Ruko Bagus 3,5 Lantai, Lokasi Strategis Tepi Jalan Utama Dekat Amplaz",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 160 Juta",
+      "harga": 160000000,
+      "harga_satuan": "",
+      "luas_tanah": 75,
+      "luas_bangunan": 225,
+      "lantai": 5,
+      "alamat": "Depok, Sleman",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "sleman"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/sleman-depok/ruko-bagus-35-lantai-lokasi-strategis-tepi-jalan-utama-dekat-amplaz-shr4252951/"
+    },
+    {
+      "judul": "Ruko Akses Jalan Sangat Lebar Parkir Luas Cocok untuk Usaha Dekat Pemda Sleman",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 45 Juta",
+      "harga": 45000000,
+      "harga_satuan": "",
+      "luas_tanah": 82,
+      "luas_bangunan": 38,
+      "lantai": null,
+      "alamat": "Ngaglik, Sleman",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "sleman"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/sleman-ngaglik/ruko-akses-jalan-sangat-lebar-parkir-luas-cocok-untuk-usaha-dekat-pemda-sleman-shr10275831/"
+    },
+    {
+      "judul": "Ruko 2 Lantai Strategis di Depok Sleman Yogyakarta Dekat Kampus",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 200 Juta",
+      "harga": 200000000,
+      "harga_satuan": "",
+      "luas_tanah": 136,
+      "luas_bangunan": 192,
+      "lantai": 2,
+      "alamat": "Depok, Sleman",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "sleman"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/sleman-depok/ruko-2-lantai-strategis-di-depok-sleman-yogyakarta-dekat-kampus-shr10253591/"
+    },
+    {
+      "judul": "Ruko 2 Lantai Strategis di Pinggir Jalan Utama di Depok Sleman Yogyakarta",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 45 Juta",
+      "harga": 45000000,
+      "harga_satuan": "",
+      "luas_tanah": 70,
+      "luas_bangunan": 88,
+      "lantai": 2,
+      "alamat": "Depok, Sleman",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "sleman"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/sleman-depok/ruko-2-lantai-strategis-di-pinggir-jalan-utama-di-depok-sleman-yogyakarta-shr9885942/"
+    },
+    {
+      "judul": "Ruko Strategis Luas 2 Lantai Di Depok Sleman Yogyakarta",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 375 Juta",
+      "harga": 375000000,
+      "harga_satuan": "",
+      "luas_tanah": 369,
+      "luas_bangunan": 490,
+      "lantai": 2,
+      "alamat": "Depok, Sleman",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "sleman"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/sleman-depok/ruko-strategis-luas-2-lantai-di-depok-sleman-yogyakarta-shr4281771/"
+    },
+    {
+      "judul": "Ruko 2 Lantai di Nologaten Dekat Ambarukmo Plaza, Lokasi Strategis Area Bisnis dan Kuliner",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 80 Juta",
+      "harga": 80000000,
+      "harga_satuan": "",
+      "luas_tanah": 90,
+      "luas_bangunan": 130,
+      "lantai": 2,
+      "alamat": "Depok, Sleman",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "sleman"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/sleman-depok/ruko-2-lantai-di-nologaten-dekat-ambarukmo-plaza-lokasi-strategis-area-bisnis-dan-kuliner-shr10015857/"
+    },
+    {
+      "judul": "Disewakan Ruko Strategis, Dekat Mirota Godean, Dalam Kota Jogja",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 95 Juta",
+      "harga": 95000000,
+      "harga_satuan": "",
+      "luas_tanah": 330,
+      "luas_bangunan": 112,
+      "lantai": null,
+      "alamat": "Gamping, Sleman",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "sleman"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/sleman-gamping/disewakan-ruko-strategis-dekat-mirota-godean-dalam-kota-jogja-shr10283277/"
+    }
+  ],
+  "scraped_at": "2026-09-14T13:26:13.822Z"
+}

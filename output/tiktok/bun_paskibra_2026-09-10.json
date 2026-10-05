@@ -1,0 +1,102 @@
+{
+  "query": [
+    "bun paskibra"
+  ],
+  "scraped_at": "2026-09-10T22:48:03.740Z",
+  "total_videos": 1,
+  "total_comments": 3,
+  "total_replies": 0,
+  "total_records": 3,
+  "comments": [
+    {
+      "comment_id": "7547148703335154439",
+      "author": "irfan_maaull",
+      "nickname": "IG : irfan_maaull",
+      "text": "Ada lomba lagi dimana?",
+      "likes": 1,
+      "replies": 0,
+      "time": 1757207509,
+      "video_id": "7546760897373539591",
+      "type": "comment",
+      "parent_comment_id": ""
+    },
+    {
+      "comment_id": "7546762432271352583",
+      "author": "mrizkyabdlah",
+      "nickname": "12",
+      "text": "kak , lucuuu",
+      "likes": 0,
+      "replies": 0,
+      "time": 1757117567,
+      "video_id": "7546760897373539591",
+      "type": "comment",
+      "parent_comment_id": ""
+    },
+    {
+      "comment_id": "7547226375992951572",
+      "author": "d1mm_7",
+      "nickname": "🦖",
+      "text": "semangat kangg",
+      "likes": 0,
+      "replies": 0,
+      "time": 1757225581,
+      "video_id": "7546760897373539591",
+      "type": "comment",
+      "parent_comment_id": ""
+    }
+  ],
+  "videos": [
+    {
+      "video_id": "7546760897373539591",
+      "author": "winnc._",
+      "nickname": "jarr.",
+      "description": "love u bun🫰🏻 #fyp #xybca #paskibra #mama #pembarisindonesia ",
+      "create_time": 1757117207,
+      "stats": {
+        "play": 9398,
+        "like": 883,
+        "comment": 5,
+        "share": 45
+      },
+      "url": "https://www.tiktok.com/@winnc._/video/7546760897373539591",
+      "comments": [
+        {
+          "comment_id": "7547148703335154439",
+          "author": "irfan_maaull",
+          "nickname": "IG : irfan_maaull",
+          "text": "Ada lomba lagi dimana?",
+          "likes": 1,
+          "replies": 0,
+          "time": 1757207509,
+          "video_id": "7546760897373539591",
+          "type": "comment",
+          "parent_comment_id": ""
+        },
+        {
+          "comment_id": "7546762432271352583",
+          "author": "mrizkyabdlah",
+          "nickname": "12",
+          "text": "kak , lucuuu",
+          "likes": 0,
+          "replies": 0,
+          "time": 1757117567,
+          "video_id": "7546760897373539591",
+          "type": "comment",
+          "parent_comment_id": ""
+        },
+        {
+          "comment_id": "7547226375992951572",
+          "author": "d1mm_7",
+          "nickname": "🦖",
+          "text": "semangat kangg",
+          "likes": 0,
+          "replies": 0,
+          "time": 1757225581,
+          "video_id": "7546760897373539591",
+          "type": "comment",
+          "parent_comment_id": ""
+        }
+      ]
+    }
+  ]
+}

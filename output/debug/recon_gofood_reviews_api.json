@@ -1,0 +1,2172 @@
+[
+  {
+    "url": "https://gofood.co.id/api/outlets/594d2e42-b1fd-44f2-83a9-da53b2210842/reviews?page=2&page_size=20",
+    "status": 200,
+    "body": {
+      "data": [
+        {
+          "id": "8706bca2-ff33-4236-8ab6-5ec3f59f4da2",
+          "text": "minyaknyaa emang banyak gitu gak yaa chef?",
+          "rating": 5,
+          "tags": [],
+          "createdAt": "2026-01-14T17:52:23.981161+07:00",
+          "order": {
+            "orderedAt": "2026-01-14T09:53:51.24906Z",
+            "items": [
+              {
+                "id": "82886cfb-a3e9-4a06-9073-8cbd5047efbd",
+                "name": "Spaghetti Bbq Bolognaise"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "Maulida Amalia",
+            "initialName": "MA",
+            "avatarUrl": null,
+            "userSince": "2015-08-05T19:14:04Z"
+          }
+        },
+        {
+          "id": "84fa232b-0ad9-403b-80c0-4959cf891a1b",
+          "text": "Kurang lama rebus pastanya, n creamnya kureng bnyk kuah",
+          "rating": 4,
+          "tags": [],
+          "createdAt": "2026-01-11T19:28:59.07325+07:00",
+          "order": {
+            "orderedAt": "2026-01-10T09:14:35.643495Z",
+            "items": [
+              {
+                "id": "dc72f289-bd23-4d35-8e7b-7599f047dc0e",
+                "name": "Fettuccine Carbonara"
+              },
+              {
+                "id": "1c1a5845-81e1-4168-9751-a6d172be5d6a",
+                "name": "Penne Creamy Mushroom"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "L****",
+            "initialName": "L",
+            "avatarUrl": null,
+            "userSince": "2022-11-18T11:25:49Z"
+          }
+        },
+        {
+          "id": "2e0f2ccc-b5eb-44f4-821d-9722fa99f63c",
+          "text": "kok smokebeefnya cuman dua keping",
+          "rating": 1,
+          "tags": [
+            "CANNED_RESPONSE_PORTION"
+          ],
+          "createdAt": "2026-01-07T20:03:17.724035+07:00",
+          "order": {
+            "orderedAt": "2026-01-07T12:45:00.832898Z",
+            "items": [
+              {
+                "id": "0fbd9202-eec0-4a8a-b95f-0c4bcd701c42",
+                "name": "Spaghetti Aglio Olio"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "R*****",
+            "initialName": "R",
+            "avatarUrl": null,
+            "userSince": "2016-06-04T06:33:07Z"
+          }
+        },
+        {
+          "id": "6f61603f-413e-42d8-800b-4f2af675b387",
+          "text": "worthed, not for lactose intolerant ",
+          "rating": 5,
+          "tags": [],
+          "createdAt": "2026-01-02T18:45:56.102442+07:00",
+          "order": {
+            "orderedAt": "2025-12-25T06:13:03.191669Z",
+            "items": [
+              {
+                "id": "46ef4303-2c1d-4f3c-96d8-e242f979f661",
+                "name": "Spaghetti Aglio Chili Oil"
+              },
+              {
+                "id": "82886cfb-a3e9-4a06-9073-8cbd5047efbd",
+                "name": "Spaghetti Bbq Bolognaise"
+              },
+              {
+                "id": "c16d73cb-f5a8-4be7-9ed6-d3b0275a4a3c",
+                "name": "Japanese Chicken Creamy Miso"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "gibson X",
+            "initialName": "GX",
+            "avatarUrl": null,
+            "userSince": "2025-11-14T14:35:05Z"
+          }
+        },
+        {
+          "id": "e3ebbdf0-2011-4044-8e6f-63d49864e18c",
+          "text": "Kentang gorengnya sekarang ga kaya dulu porsinya. Dulu banyak masa sekarang bisa di hitung jari porsinya !!!!",
+          "rating": 1,
+          "tags": [
+            "CANNED_RESPONSE_PORTION",
+            "CANNED_RESPONSE_VALUE"
+          ],
+          "createdAt": "2025-12-26T17:46:05.503247+07:00",
+          "order": {
+            "orderedAt": "2025-12-26T10:10:10.703323Z",
+            "items": [
+              {
+                "id": "71828a95-0a76-43d5-bf4d-eb75a32c559e",
+                "name": "Fettucini Premium Creamy Chicken Crispy"
+              },
+              {
+                "id": "d1282ad3-0a45-47f6-a860-d29714367b7e",
+                "name": "French Fries"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "G**** O***********",
+            "initialName": "GO",
+            "avatarUrl": null,
+            "userSince": "2017-07-08T01:32:40Z"
+          }
+        },
+        {
+          "id": "3beaca2d-9a23-41ab-a226-4e1348379b17",
+          "text": "aglio Olio smokeed beef juara bgt enak ka",
+          "rating": 5,
+          "tags": [],
+          "createdAt": "2025-12-23T17:28:17.600009+07:00",
+          "order": {
+            "orderedAt": "2025-12-23T09:28:23.860011Z",
+            "items": [
+              {
+                "id": "6c5b8b04-6c3e-4390-803c-57572eb5597c",
+                "name": "Mac N Cheese"
+              },
+              {
+                "id": "82886cfb-a3e9-4a06-9073-8cbd5047efbd",
+                "name": "Spaghetti Bbq Bolognaise"
+              },
+              {
+                "id": "0fbd9202-eec0-4a8a-b95f-0c4bcd701c42",
+                "name": "Spaghetti Aglio Olio"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "rena",
+            "initialName": "R",
+            "avatarUrl": null,
+            "userSince": "2020-01-04T13:43:45Z"
+          }
+        },
+        {
+          "id": "39353de4-517e-45f3-a523-ea767a2542ac",
+          "text": "pizza nya terlalu ober rasa saus tomatnya jd enek, untk hrga sgtu dgn sosis cm champ kemahala.",
+          "rating": 3,
+          "tags": [
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_VALUE"
+          ],
+          "createdAt": "2025-12-22T21:49:48.638583+07:00",
+          "order": {
+            "orderedAt": "2025-12-22T14:04:43.293517Z",
+            "items": [
+              {
+                "id": "dc72f289-bd23-4d35-8e7b-7599f047dc0e",
+                "name": "Fettuccine Carbonara"
+              },
+              {
+                "id": "17917aff-866e-4681-b3a7-6d54437debf2",
+                "name": "Pizza Chicken Lovers"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "anisa kuspandari",
+            "initialName": "AK",
+            "avatarUrl": null,
+            "userSince": "2015-10-04T16:51:02Z"
+          }
+        },
+        {
+          "id": "a8bdfc88-3a67-471c-96bd-808ff03fcaa2",
+          "text": "Packagingnya diupgrade/ diganti sebaiknya. Bocor soalnya minyaknya tembus tumpah2 kemana2. ",
+          "rating": 5,
+          "tags": [],
+          "createdAt": "2025-12-20T15:57:38.613902+07:00",
+          "order": {
+            "orderedAt": "2025-12-20T08:24:28.036691Z",
+            "items": [
+              {
+                "id": "0fbd9202-eec0-4a8a-b95f-0c4bcd701c42",
+                "name": "Spaghetti Aglio Olio"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "S*** F***** F*******",
+            "initialName": "SF",
+            "avatarUrl": null,
+            "userSince": "2015-11-18T17:33:41Z"
+          }
+        },
+        {
+          "id": "05deabf0-5d4b-48ad-8fa2-b0f6b28d0823",
+          "text": "porsi semakij dikit",
+          "rating": 5,
+          "tags": [
+            "CANNED_RESPONSE_PORTION"
+          ],
+          "createdAt": "2025-12-18T11:49:39.653025+07:00",
+          "order": {
+            "orderedAt": "2025-12-18T03:35:41.237797Z",
+            "items": [
+              {
+                "id": "0fbd9202-eec0-4a8a-b95f-0c4bcd701c42",
+                "name": "Spaghetti Aglio Olio"
+              },
+              {
+                "id": "dc72f289-bd23-4d35-8e7b-7599f047dc0e",
+                "name": "Fettuccine Carbonara"
+              },
+              {
+                "id": "20d27c5c-5572-47f0-a52e-356c46a28e7d",
+                "name": "Fettuccine Creamy Chicken"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "etna",
+            "initialName": "E",
+            "avatarUrl": null,
+            "userSince": "2024-09-01T09:30:39Z"
+          }
+        },
+        {
+          "id": "6bee6753-6718-4045-96cc-2f4942d60531",
+          "text": "Enak dan harga terjangkau. Porsi cukup, packaging juga aman 👍🏼",
+          "rating": 5,
+          "tags": [
+            "CANNED_RESPONSE_FRESHNESS",
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_PORTION",
+            "CANNED_RESPONSE_HYGIENE",
+            "CANNED_RESPONSE_PACKAGING",
+            "CANNED_RESPONSE_VALUE",
+            "CANNED_RESPONSE_CUTLERY"
+          ],
+          "createdAt": "2025-12-09T06:20:19.806644+07:00",
+          "order": {
+            "orderedAt": "2025-12-07T07:39:50.878455Z",
+            "items": [
+              {
+                "id": "1c1a5845-81e1-4168-9751-a6d172be5d6a",
+                "name": "Penne Creamy Mushroom"
+              },
+              {
+                "id": "20d27c5c-5572-47f0-a52e-356c46a28e7d",
+                "name": "Fettuccine Creamy Chicken"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "S***",
+            "initialName": "S",
+            "avatarUrl": null,
+            "userSince": "2016-03-06T11:40:08Z"
+          }
+        },
+        {
+          "id": "458a52a9-f3c1-4871-a180-48844288a2e3",
+          "text": "untung fetuchininya rasanya oke, tapi agak kering dan kurang asin. Untuk ayamnya enak banget, bumbunya berasa dan kentangnya gemuk2 renyah",
+          "rating": 4,
+          "tags": [
+            "CANNED_RESPONSE_PRICE",
+            "CANNED_RESPONSE_PORTION",
+            "CANNED_RESPONSE_PACKAGING"
+          ],
+          "createdAt": "2025-12-08T19:54:13.917275+07:00",
+          "order": {
+            "orderedAt": "2025-12-08T11:53:20.685612Z",
+            "items": [
+              {
+                "id": "dc72f289-bd23-4d35-8e7b-7599f047dc0e",
+                "name": "Fettuccine Carbonara"
+              },
+              {
+                "id": "d21f38b3-1ceb-447f-8d3b-51226517e5fd",
+                "name": "Tomato Grilled Chicken"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "R****",
+            "initialName": "R",
+            "avatarUrl": null,
+            "userSince": "2021-03-04T11:19:18Z"
+          }
+        },
+        {
+          "id": "f7aff15e-2399-4aee-b7a7-f8724a78d932",
+          "text": "pizza nya KERAAASSS KAYA BATU, KAYA MAKANAN YG UDH DIANGETIN BER HARI2, RASA PIZZA DAN SPAGHETTY NYA JUGA GA KARUAN! GA ENAK, ASIN! Ga ngerti bisa2 nya jualan makanan kaya begini? ih ga lagi2 deh beli disini, KAPOK! ",
+          "rating": 1,
+          "tags": [
+            "CANNED_RESPONSE_FRESHNESS",
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_PRICE",
+            "CANNED_RESPONSE_VALUE"
+          ],
+          "createdAt": "2025-12-06T21:12:38.501959+07:00",
+          "order": {
+            "orderedAt": "2025-12-06T11:32:21.243888Z",
+            "items": [
+              {
+                "id": "20d27c5c-5572-47f0-a52e-356c46a28e7d",
+                "name": "Fettuccine Creamy Chicken"
+              },
+              {
+                "id": "82886cfb-a3e9-4a06-9073-8cbd5047efbd",
+                "name": "Spaghetti Bbq Bolognaise"
+              },
+              {
+                "id": "60503392-2dca-4590-abb8-6d8d83cb11e3",
+                "name": "Pizza Pepperoni"
+              },
+              {
+                "id": "a47e934a-ae7d-4db5-a097-70cfacb5cc9a",
+                "name": "Pizza Full Lovers"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "ika",
+            "initialName": "I",
+            "avatarUrl": null,
+            "userSince": "2016-03-23T10:55:49Z"
+          },
+          "lastComment": {
+            "id": "80d2a5c9-1bbc-4f8d-9d79-933d906291cc",
+            "text": "Halo ka, sebelumnya kami ingin meminta maaf atas kejadian ini🙏🏻 untuk follow up lebih lanjut, mohon hubungi whatsapp admin kami di nomer 085922081818 ya. Boleh sertakan bukti pesanan dan bill nya ya ka agar kami bantu follow up ke outlet terkait. Terima kasih!",
+            "createdAt": "2025-12-08T00:45:55.712485064+07:00",
+            "author": {
+              "fullName": "ika",
+              "isMerchant": true
+            }
+          }
+        },
+        {
+          "id": "5f6beecf-7240-4b7c-91d6-6e462dc5402b",
+          "text": "mantepppp enakkkkkkkkk",
+          "rating": 5,
+          "tags": [
+            "CANNED_RESPONSE_FRESHNESS",
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_PORTION",
+            "CANNED_RESPONSE_HYGIENE",
+            "CANNED_RESPONSE_PACKAGING",
+            "CANNED_RESPONSE_CUTLERY",
+            "CANNED_RESPONSE_VALUE"
+          ],
+          "createdAt": "2025-11-27T09:50:09.959744+07:00",
+          "order": {
+            "orderedAt": "2025-11-23T07:21:53.756927Z",
+            "items": [
+              {
+                "id": "71828a95-0a76-43d5-bf4d-eb75a32c559e",
+                "name": "Fettucini Premium Creamy Chicken Crispy"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "R**** J******",
+            "initialName": "RJ",
+            "avatarUrl": null,
+            "userSince": "2018-05-07T11:46:38Z"
+          }
+        },
+        {
+          "id": "edb19131-72f9-4e4f-8d0d-ce1583a1045a",
+          "text": "asin banget, ga kemakan",
+          "rating": 2,
+          "tags": [],
+          "createdAt": "2025-11-22T21:16:15.725214+07:00",
+          "order": {
+            "orderedAt": "2025-11-22T13:40:00.962708Z",
+            "items": [
+              {
+                "id": "e120d1b5-db8d-488b-9286-4f12dfb2fa7d",
+                "name": "Fusilli Spicy Tuna"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "B******",
+            "initialName": "B",
+            "avatarUrl": null,
+            "userSince": "2020-12-04T09:34:01Z"
+          }
+        },
+        {
+          "id": "0ea89045-4b7c-436a-9ef0-d9b24f63812a",
+          "text": "ada serpihan sabuk baja di dalam mac and cheesenya, saya makan hampir ketelan",
+          "rating": 2,
+          "tags": [
+            "CANNED_RESPONSE_HYGIENE"
+          ],
+          "createdAt": "2025-11-17T18:27:35.480608+07:00",
+          "order": {
+            "orderedAt": "2025-11-17T06:57:01.932392Z",
+            "items": [
+              {
+                "id": "6c5b8b04-6c3e-4390-803c-57572eb5597c",
+                "name": "Mac N Cheese"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "G***** H*****",
+            "initialName": "GH",
+            "avatarUrl": null,
+            "userSince": "2020-11-17T13:31:38Z"
+          },
+          "lastComment": {
+            "id": "9288c243-d48d-438c-b52a-e0a296eb1f41",
+            "text": "Hallo ka, sebelumnya kami ingin meminta maaf atas kejadian ini🙏🏻 untuk follow up lebih lanjut apakah kaka bisa hubungi whatsapp admin kami di nomer 085922081818 . Jika boleh mohon sertakan bukti foto produknya ya ka. Terima kasih!😊",
+            "createdAt": "2025-11-18T21:44:50.940811132+07:00",
+            "author": {
+              "fullName": "George Hebert",
+              "isMerchant": true
+            }
+          }
+        },
+        {
+          "id": "8fb33938-6a0d-4ab5-97a0-fad3c57b0f9a",
+          "text": "Wajib cobain japanese miso creamy pasta nya!",
+          "rating": 5,
+          "tags": [],
+          "createdAt": "2025-11-12T12:28:52.172744+07:00",
+          "order": {
+            "orderedAt": "2025-11-12T04:44:32.415621Z",
+            "items": [
+              {
+                "id": "c16d73cb-f5a8-4be7-9ed6-d3b0275a4a3c",
+                "name": "Japanese Chicken Creamy Miso"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "A***** B****",
+            "initialName": "AB",
+            "avatarUrl": null,
+            "userSince": "2018-04-13T08:04:19Z"
+          }
+        },
+        {
+          "id": "2413482d-0bf1-45e6-9a0b-a5b7ea94e717",
+          "text": "Untuk kamu yang bisa masak pasta dengan baik dan benar, dan enak untuk kamu sendiri, lalu kamu lagi malas masak dan mau beli dari gofood aja, mendingan nambah 10k lg trus beli di tempat yang lebih baik. Baru kali ini saya beli masakan pasta trus dimasak ulang di rumah. Ini yang masak lagi dendam sama yang punya apa gimana biar saya ngasih bintang jelek?? Pasta jamur, jamur cuma ketemu 3 potong, overcook pula, jamur champignon kan tergolong murah, jadi tolonglah jangan menyedihkan begini ngasihnya. Pasta carbonara daging asap cuma 2 iris, mac n cheese kejunya kelewat artifisial. Tolong ini makanan mahasiswa lagi seret akhir bulan jangan kasih harga makanan restoran.",
+          "rating": 2,
+          "tags": [
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_PRICE",
+            "CANNED_RESPONSE_VALUE"
+          ],
+          "createdAt": "2025-10-29T21:06:02.636262+07:00",
+          "order": {
+            "orderedAt": "2025-10-29T12:40:29.740103Z",
+            "items": [
+              {
+                "id": "1c1a5845-81e1-4168-9751-a6d172be5d6a",
+                "name": "Penne Creamy Mushroom"
+              },
+              {
+                "id": "6c5b8b04-6c3e-4390-803c-57572eb5597c",
+                "name": "Mac N Cheese"
+              },
+              {
+                "id": "dc72f289-bd23-4d35-8e7b-7599f047dc0e",
+                "name": "Fettuccine Carbonara"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "C****",
+            "initialName": "C",
+            "avatarUrl": null,
+            "userSince": "2015-08-31T07:45:39Z"
+          }
+        },
+        {
+          "id": "b83365a4-e829-4b97-b371-5b31ce71a219",
+          "text": "Rasanya enakk gurih aglio olio nya, untuk mac n cheese dan creamy mushroomnya juga mantep ada manis dan susunya, porsinya juga ngenyangin. Mantap👌",
+          "rating": 5,
+          "tags": [
+            "CANNED_RESPONSE_FRESHNESS",
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_PORTION",
+            "CANNED_RESPONSE_HYGIENE",
+            "CANNED_RESPONSE_PACKAGING",
+            "CANNED_RESPONSE_VALUE"
+          ],
+          "createdAt": "2025-10-06T17:33:46.952401+07:00",
+          "order": {
+            "orderedAt": "2025-10-03T11:03:14.483544Z",
+            "items": [
+              {
+                "id": "1c1a5845-81e1-4168-9751-a6d172be5d6a",
+                "name": "Penne Creamy Mushroom"
+              },
+              {
+                "id": "0fbd9202-eec0-4a8a-b95f-0c4bcd701c42",
+                "name": "Spaghetti Aglio Olio"
+              },
+              {
+                "id": "6c5b8b04-6c3e-4390-803c-57572eb5597c",
+                "name": "Mac N Cheese"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "M******* H***** N*******",
+            "initialName": "MN",
+            "avatarUrl": null,
+            "userSince": "2015-11-01T15:00:09Z"
+          }
+        },
+        {
+          "id": "910f701a-1cd9-46f0-9ee6-c5d8921f6311",
+          "text": "enak, tp mushroomnya krng bnyk pdhl udh ext mushroom",
+          "rating": 4,
+          "tags": [],
+          "createdAt": "2025-10-03T18:23:55.811947+07:00",
+          "order": {
+            "orderedAt": "2025-09-30T09:04:35.259514Z",
+            "items": [
+              {
+                "id": "71828a95-0a76-43d5-bf4d-eb75a32c559e",
+                "name": "Fettucini Premium Creamy Chicken Crispy"
+              },
+              {
+                "id": "1c1a5845-81e1-4168-9751-a6d172be5d6a",
+                "name": "Penne Creamy Mushroom"
+              },
+              {
+                "id": "97ba5220-4469-45fb-b501-81b99539b0e1",
+                "name": "Virgin Mojito"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "sabrina salsabila riska maulani",
+            "initialName": "SM",
+            "avatarUrl": null,
+            "userSince": "2018-05-05T00:01:44Z"
+          }
+        },
+        {
+          "id": "81a09889-53f3-4314-9c33-8e4fed65c0ea",
+          "text": "ekstra smoke beef tp ga pakein ekstra nya😿😿😿",
+          "rating": 1,
+          "tags": [
+            "CANNED_RESPONSE_ORDER"
+          ],
+          "createdAt": "2025-09-29T13:39:32.041949+07:00",
+          "order": {
+            "orderedAt": "2025-09-29T06:13:57.620862Z",
+            "items": [
+              {
+                "id": "0fbd9202-eec0-4a8a-b95f-0c4bcd701c42",
+                "name": "Spaghetti Aglio Olio"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "M****",
+            "initialName": "M",
+            "avatarUrl": null,
+            "userSince": "2021-11-16T01:01:31Z"
+          }
+        }
+      ],
+      "next_page": "?page=3&page_size=20",
+      "prev_page": "?page=1&page_size=20"
+    }
+  },
+  {
+    "url": "https://gofood.co.id/api/outlets/594d2e42-b1fd-44f2-83a9-da53b2210842/reviews?page=3&page_size=20",
+    "status": 200,
+    "body": {
+      "data": [
+        {
+          "id": "7e10797a-135e-425f-8ac3-695befd7af64",
+          "text": "too salty, and toppingless",
+          "rating": 3,
+          "tags": [],
+          "createdAt": "2025-09-29T12:31:53.218675+07:00",
+          "order": {
+            "orderedAt": "2025-09-29T04:31:08.692632Z",
+            "items": [
+              {
+                "id": "46ef4303-2c1d-4f3c-96d8-e242f979f661",
+                "name": "Spaghetti Aglio Chili Oil"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "rena",
+            "initialName": "R",
+            "avatarUrl": null,
+            "userSince": "2023-03-18T12:21:45Z"
+          }
+        },
+        {
+          "id": "1e0daf32-3ee4-4254-a9bd-7944f6da2ccc",
+          "text": "rasa enak, porsi sesuai harga, tp masa alat makan nya kureng, sejak kapan makan spaghetti pake sendok? wkw",
+          "rating": 3,
+          "tags": [
+            "CANNED_RESPONSE_CUTLERY_UNWANTED"
+          ],
+          "createdAt": "2025-09-25T12:01:36.190341+07:00",
+          "order": {
+            "orderedAt": "2025-09-25T04:31:40.011718Z",
+            "items": [
+              {
+                "id": "0fbd9202-eec0-4a8a-b95f-0c4bcd701c42",
+                "name": "Spaghetti Aglio Olio"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "Manda",
+            "initialName": "M",
+            "avatarUrl": null,
+            "userSince": "2021-11-16T01:01:31Z"
+          }
+        },
+        {
+          "id": "0f0643fd-3983-4e4a-901b-ecaf24970509",
+          "text": "Repeat order terus",
+          "rating": 5,
+          "tags": [],
+          "createdAt": "2025-09-22T12:10:47.54159+07:00",
+          "order": {
+            "orderedAt": "2025-08-25T09:04:20.273525Z",
+            "items": [
+              {
+                "id": "46ef4303-2c1d-4f3c-96d8-e242f979f661",
+                "name": "Spaghetti Aglio Chili Oil"
+              },
+              {
+                "id": "e120d1b5-db8d-488b-9286-4f12dfb2fa7d",
+                "name": "Fusilli Spicy Tuna"
+              },
+              {
+                "id": "6c5b8b04-6c3e-4390-803c-57572eb5597c",
+                "name": "Mac N Cheese"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "elsa",
+            "initialName": "E",
+            "avatarUrl": null,
+            "userSince": "2017-04-04T13:24:22Z"
+          }
+        },
+        {
+          "id": "aabe52c8-39fd-4390-8778-b700291577ba",
+          "text": "Enak bgt dan udh pernah makan disana juga..",
+          "rating": 5,
+          "tags": [],
+          "createdAt": "2025-09-22T12:10:35.904626+07:00",
+          "order": {
+            "orderedAt": "2025-08-14T03:17:35.51346Z",
+            "items": [
+              {
+                "id": "46ef4303-2c1d-4f3c-96d8-e242f979f661",
+                "name": "Spaghetti Aglio Chili Oil"
+              },
+              {
+                "id": "4a28ff0f-89e2-465e-b6af-9c6f7f9c46b7",
+                "name": "Greentea Vanillatte"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "elsa",
+            "initialName": "E",
+            "avatarUrl": null,
+            "userSince": "2017-04-04T13:24:22Z"
+          }
+        },
+        {
+          "id": "f94244b5-1ff7-4520-9ef4-088b9d54d910",
+          "text": "Rasa bintang 5 harga kaki 5",
+          "rating": 5,
+          "tags": [],
+          "createdAt": "2025-09-22T12:09:45.988134+07:00",
+          "order": {
+            "orderedAt": "2025-07-30T04:32:10.997257Z",
+            "items": [
+              {
+                "id": "46ef4303-2c1d-4f3c-96d8-e242f979f661",
+                "name": "Spaghetti Aglio Chili Oil"
+              },
+              {
+                "id": "4a28ff0f-89e2-465e-b6af-9c6f7f9c46b7",
+                "name": "Greentea Vanillatte"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "elsa",
+            "initialName": "E",
+            "avatarUrl": null,
+            "userSince": "2017-04-04T13:24:22Z"
+          }
+        },
+        {
+          "id": "03946ce5-e989-489a-8fb7-bff971848935",
+          "text": "Enak bgt anak2 suka",
+          "rating": 5,
+          "tags": [],
+          "createdAt": "2025-09-22T12:06:26.922111+07:00",
+          "order": {
+            "orderedAt": "2025-09-15T09:06:26.073461Z",
+            "items": [
+              {
+                "id": "6c5b8b04-6c3e-4390-803c-57572eb5597c",
+                "name": "Mac N Cheese"
+              },
+              {
+                "id": "46ef4303-2c1d-4f3c-96d8-e242f979f661",
+                "name": "Spaghetti Aglio Chili Oil"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "elsa",
+            "initialName": "E",
+            "avatarUrl": null,
+            "userSince": "2017-04-04T13:24:22Z"
+          }
+        },
+        {
+          "id": "ed9c2939-76d6-4691-8603-337218f251ee",
+          "text": "Berminyak sekali dan asin saja rasanya, porsi daging dan keju sedikit tidak sesuai banyaknya pasta, tambahan daging asap hanya digoreng dan ditaruh diatasnya. mestinya dipotong kecil dicampur ke pastanya.",
+          "rating": 3,
+          "tags": [
+            "CANNED_RESPONSE_TASTE"
+          ],
+          "createdAt": "2025-08-17T15:08:59.373675+07:00",
+          "order": {
+            "orderedAt": "2025-08-17T06:05:33.514655Z",
+            "items": [
+              {
+                "id": "82886cfb-a3e9-4a06-9073-8cbd5047efbd",
+                "name": "Spaghetti Bbq Bolognaise"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "maria",
+            "initialName": "M",
+            "avatarUrl": null,
+            "userSince": "2015-11-22T12:22:53Z"
+          }
+        },
+        {
+          "id": "e020e29f-87f9-474d-a541-5947144b4010",
+          "text": "lama banget, nunggu pesenan sejam lebih😭\ncrispy chickennya agak hambar🙂",
+          "rating": 4,
+          "tags": [],
+          "createdAt": "2025-08-12T20:16:56.604344+07:00",
+          "order": {
+            "orderedAt": "2025-08-12T11:37:19.449721Z",
+            "items": [
+              {
+                "id": "0fbd9202-eec0-4a8a-b95f-0c4bcd701c42",
+                "name": "Spaghetti Aglio Chicken"
+              },
+              {
+                "id": "11d44ac3-6dd8-4ec8-bda3-bc7ffcf212c1",
+                "name": "Chicken Crispy With Fries"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "sofia",
+            "initialName": "S",
+            "avatarUrl": null,
+            "userSince": "2017-11-22T10:29:19Z"
+          }
+        },
+        {
+          "id": "eb515ce6-fe49-4dfb-92d9-3fc98512dc65",
+          "text": "jarang kasih review tp ini pgn kasih. mantep bgt sky pasta! pasta nya enak pas nyampe masih panas, req di notes jg bener bener dipenuhin semua🥹🫶🏻 thankss",
+          "rating": 5,
+          "tags": [
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_HYGIENE",
+            "CANNED_RESPONSE_PACKAGING",
+            "CANNED_RESPONSE_VALUE"
+          ],
+          "createdAt": "2025-07-24T12:10:00.553854+07:00",
+          "order": {
+            "orderedAt": "2025-07-23T11:31:13.334734Z",
+            "items": [
+              {
+                "id": "71828a95-0a76-43d5-bf4d-eb75a32c559e",
+                "name": "Fettucini Premium Creamy Chicken Crispy"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "R****",
+            "initialName": "R",
+            "avatarUrl": null,
+            "userSince": "2017-07-12T07:13:51Z"
+          }
+        },
+        {
+          "id": "39db5e41-0696-4c39-8e34-fb86aa43574e",
+          "text": "Ketemu favorit baru nih",
+          "rating": 5,
+          "tags": [
+            "CANNED_RESPONSE_FRESHNESS",
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_PORTION",
+            "CANNED_RESPONSE_HYGIENE",
+            "CANNED_RESPONSE_VALUE"
+          ],
+          "createdAt": "2025-06-20T08:13:48.415572+07:00",
+          "order": {
+            "orderedAt": "2025-06-19T03:39:46.806766Z",
+            "items": [
+              {
+                "id": "24ff021b-472d-4fc3-bf2e-475d12cc7133",
+                "name": "Spaghetti Premium BBQ Bolognaise"
+              },
+              {
+                "id": "cc3b609e-b707-463f-a13e-39948acb7528",
+                "name": "Fettucini Premium Creamy Smoked beef"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "Iris A",
+            "initialName": "IA",
+            "avatarUrl": null,
+            "userSince": "2021-10-21T08:33:53Z"
+          }
+        },
+        {
+          "id": "9e47d607-c7de-4175-a2fc-d221cc88c5b3",
+          "text": "Creamy Penne mushroom nya aneh rasanya. Gak enak. Dan Penne nya kaya ada rasa plastik. Kalo Fettuccine Alfredo nya lumayan tapi yg saya pesan ada rambut nya 🤮 Harap diperhatikan proses masak nya!",
+          "rating": 2,
+          "tags": [],
+          "createdAt": "2025-06-04T00:07:47.261261+07:00",
+          "order": {
+            "orderedAt": "2025-06-03T12:41:10.881894Z",
+            "items": [
+              {
+                "id": "71828a95-0a76-43d5-bf4d-eb75a32c559e",
+                "name": "Fettucini Premium Creamy Chicken Crispy"
+              },
+              {
+                "id": "1c1a5845-81e1-4168-9751-a6d172be5d6a",
+                "name": "Penne Creamy Mushroom"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "C****** M",
+            "initialName": "CM",
+            "avatarUrl": null,
+            "userSince": "2018-12-09T13:07:01Z"
+          }
+        },
+        {
+          "id": "9e78f7bf-e7fa-47b5-9780-157040e7db12",
+          "text": "pastanya kurang asin malah cenderung manis",
+          "rating": 3,
+          "tags": [],
+          "createdAt": "2025-06-01T11:42:34.829464+07:00",
+          "order": {
+            "orderedAt": "2025-05-30T06:02:58.049863Z",
+            "items": [
+              {
+                "id": "dc72f289-bd23-4d35-8e7b-7599f047dc0e",
+                "name": "Fettuccine Carbonara"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "Reyhand Aqiel",
+            "initialName": "RA",
+            "avatarUrl": null,
+            "userSince": "2018-02-09T07:15:08Z"
+          }
+        },
+        {
+          "id": "728b282e-325b-4b80-a98b-3e84092c17da",
+          "text": "rasanya sausnya lebih ke manis. Nambah smoke beef dengan harapan smoke beefnya diolah dulu (dipotong2 dan ditumis, layaknya topping pasta pada umumnya) bersama dengan pasta agar rasanya lebih bercampur. ini bentuk smoke beefnya masih bulat dan terlihat hanya ditaro di atas pasta yang telah dimasak.",
+          "rating": 3,
+          "tags": [],
+          "createdAt": "2025-05-27T14:26:49.03583+07:00",
+          "order": {
+            "orderedAt": "2025-05-27T05:08:46.854196Z",
+            "items": [
+              {
+                "id": "1c1a5845-81e1-4168-9751-a6d172be5d6a",
+                "name": "Penne Creamy Mushroom"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "Gia",
+            "initialName": "G",
+            "avatarUrl": null,
+            "userSince": "2015-06-07T13:26:50Z"
+          }
+        },
+        {
+          "id": "686002a4-574e-40a6-bd60-fa61d51ba5c0",
+          "text": "Carbonara terlalu kering tapi chilli oil nya masih tetep enak, pertahankan ya",
+          "rating": 5,
+          "tags": [],
+          "createdAt": "2025-05-01T19:25:06.038719+07:00",
+          "order": {
+            "orderedAt": "2025-04-28T10:59:46.728602Z",
+            "items": [
+              {
+                "id": "dc72f289-bd23-4d35-8e7b-7599f047dc0e",
+                "name": "Fettucini Carbonara"
+              },
+              {
+                "id": "46ef4303-2c1d-4f3c-96d8-e242f979f661",
+                "name": "Spaghetti Aglio Chili Oil"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "Almaas Rahmawati",
+            "initialName": "AR",
+            "avatarUrl": null,
+            "userSince": "2017-04-21T09:11:56Z"
+          }
+        },
+        {
+          "id": "7512bc9f-18b8-42f0-8a08-37b630286df6",
+          "text": "saya pesan crispy chicken yang datang smoked beef. ternyata di checker juga diinputnya smoked beef. first impression kecewa berat",
+          "rating": 2,
+          "tags": [],
+          "createdAt": "2025-04-23T22:34:27.207727+07:00",
+          "order": {
+            "orderedAt": "2025-04-23T14:46:53.130271Z",
+            "items": [
+              {
+                "id": "f3c7c511-6379-47a4-a30c-22c70a5a292e",
+                "name": "Fettuccine Premium Creamy Chicken Crispy"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "A*****",
+            "initialName": "A",
+            "avatarUrl": null,
+            "userSince": "2018-05-08T09:23:56Z"
+          }
+        },
+        {
+          "id": "0a0696a0-8083-4abf-9ad3-92af43aaabbe",
+          "text": "mac n cheese nya cenderung ke manis ,saya kurang suka.",
+          "rating": 4,
+          "tags": [
+            "CANNED_RESPONSE_TASTE"
+          ],
+          "createdAt": "2025-04-23T21:30:45.822906+07:00",
+          "order": {
+            "orderedAt": "2025-04-18T15:25:41.179746Z",
+            "items": [
+              {
+                "id": "6c5b8b04-6c3e-4390-803c-57572eb5597c",
+                "name": "Mac N Cheese"
+              },
+              {
+                "id": "82033106-42ad-49d8-ac8b-4e5cb1342cc7",
+                "name": "Fettuccine Carbonara"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "Alvin",
+            "initialName": "A",
+            "avatarUrl": null,
+            "userSince": "2018-10-02T06:12:07Z"
+          }
+        },
+        {
+          "id": "098a7484-ba3c-493c-b194-932cd43fa09f",
+          "text": "menurutku utk harga segitu kurang porsinya. \nsemoga next sepadan harga dan porsi isinya. \nutk pertama kali beli enak rasanya, next bakal beli lagi sih",
+          "rating": 4,
+          "tags": [
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_PORTION",
+            "CANNED_RESPONSE_PRICE",
+            "CANNED_RESPONSE_VALUE",
+            "CANNED_RESPONSE_HYGIENE"
+          ],
+          "createdAt": "2025-04-23T17:48:32.884716+07:00",
+          "order": {
+            "orderedAt": "2025-04-05T07:54:29.100803Z",
+            "items": [
+              {
+                "id": "e4d75ad9-45e5-418c-8837-e215cfe629ab",
+                "name": "Cireng Bumbu Rujak"
+              },
+              {
+                "id": "c9e8ba4e-2a28-4517-94fc-c3f38b34b56f",
+                "name": "Spaghetti Aglio Olio Smoked Beef"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "Merliana Susanti",
+            "initialName": "MS",
+            "avatarUrl": null,
+            "userSince": "2018-06-13T13:55:28Z"
+          }
+        },
+        {
+          "id": "5fe5f4da-6a6a-4680-a8c9-f8a97fd42991",
+          "text": "SUMPAH ENAK BANGET...",
+          "rating": 5,
+          "tags": [
+            "CANNED_RESPONSE_FRESHNESS",
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_PORTION",
+            "CANNED_RESPONSE_VALUE",
+            "CANNED_RESPONSE_PACKAGING",
+            "CANNED_RESPONSE_HYGIENE"
+          ],
+          "createdAt": "2025-04-22T09:40:19.832131+07:00",
+          "order": {
+            "orderedAt": "2025-04-17T03:58:28.012941Z",
+            "items": [
+              {
+                "id": "82033106-42ad-49d8-ac8b-4e5cb1342cc7",
+                "name": "Fettuccine Carbonara"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "T**** V****",
+            "initialName": "TV",
+            "avatarUrl": null,
+            "userSince": "2015-12-07T18:52:30Z"
+          }
+        },
+        {
+          "id": "2c1e5a40-6713-46fd-b551-ede8c5e76ab7",
+          "text": "Lama banget, sampai melebihi estimasi waktu & telat",
+          "rating": 4,
+          "tags": [],
+          "createdAt": "2025-04-11T11:35:47.798006+07:00",
+          "order": {
+            "orderedAt": "2025-04-10T11:52:20.466449Z",
+            "items": [
+              {
+                "id": "82033106-42ad-49d8-ac8b-4e5cb1342cc7",
+                "name": "Fettuccine Carbonara"
+              },
+              {
+                "id": "f3c7c511-6379-47a4-a30c-22c70a5a292e",
+                "name": "Fettuccine Premium Creamy Chicken Crispy"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "A**** S*******",
+            "initialName": "AS",
+            "avatarUrl": null,
+            "userSince": "2015-12-20T14:59:59Z"
+          }
+        },
+        {
+          "id": "3013c8d3-300c-4e07-931b-dc18325b539f",
+          "text": "enak bgtt!! apalagi bolognesenyaa!! pas sampe masih panas jugaa",
+          "rating": 5,
+          "tags": [
+            "CANNED_RESPONSE_FRESHNESS",
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_PORTION",
+            "CANNED_RESPONSE_HYGIENE",
+            "CANNED_RESPONSE_PACKAGING",
+            "CANNED_RESPONSE_VALUE",
+            "CANNED_RESPONSE_CUTLERY"
+          ],
+          "createdAt": "2025-03-30T13:17:33.278139+07:00",
+          "order": {
+            "orderedAt": "2025-03-25T06:38:01.812063Z",
+            "items": [
+              {
+                "id": "6c5b8b04-6c3e-4390-803c-57572eb5597c",
+                "name": "Mac N Cheese"
+              },
+              {
+                "id": "ee00443a-55b1-414d-8f87-072b49f7cb29",
+                "name": "Spaghetti  BBQ Bolognaise"
+              },
+              {
+                "id": "82033106-42ad-49d8-ac8b-4e5cb1342cc7",
+                "name": "Fettuccine Carbonara"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "E****",
+            "initialName": "E",
+            "avatarUrl": null,
+            "userSince": "2015-08-23T08:56:46Z"
+          }
+        }
+      ],
+      "next_page": "?page=4&page_size=20",
+      "prev_page": "?page=2&page_size=20"
+    }
+  },
+  {
+    "url": "https://gofood.co.id/api/outlets/594d2e42-b1fd-44f2-83a9-da53b2210842/reviews?page=4&page_size=20",
+    "status": 200,
+    "body": {
+      "data": [
+        {
+          "id": "02b3f4d6-835d-4b98-b4cf-c102026a868b",
+          "text": "ENAK BANGET GAA BOOONGGG!! ",
+          "rating": 5,
+          "tags": [],
+          "createdAt": "2025-03-02T20:17:06.191548+07:00",
+          "order": {
+            "orderedAt": "2025-02-25T04:51:37.584753Z",
+            "items": [
+              {
+                "id": "6c5b8b04-6c3e-4390-803c-57572eb5597c",
+                "name": "Mac N Cheese"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "benedictadeap",
+            "initialName": "B",
+            "avatarUrl": null,
+            "userSince": "2016-08-13T09:39:25Z"
+          }
+        },
+        {
+          "id": "403a2191-43ee-4d27-ac39-8db1fd145038",
+          "text": "enakk banget tapi menurut aku porsinya agak kedikitan 😭😭",
+          "rating": 5,
+          "tags": [
+            "CANNED_RESPONSE_TASTE"
+          ],
+          "createdAt": "2025-02-08T20:02:25.494598+07:00",
+          "order": {
+            "orderedAt": "2025-02-08T11:57:19.030153Z",
+            "items": [
+              {
+                "id": "c9e8ba4e-2a28-4517-94fc-c3f38b34b56f",
+                "name": "Spaghetti Aglio Olio Smoked Beef"
+              },
+              {
+                "id": "82033106-42ad-49d8-ac8b-4e5cb1342cc7",
+                "name": "Fettuccine Carbonara"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "S*****",
+            "initialName": "S",
+            "avatarUrl": null,
+            "userSince": "2022-02-17T11:22:36Z"
+          }
+        },
+        {
+          "id": "6dca10ab-f4f2-4105-8913-2e9591b4a453",
+          "text": "Enaaaakkkk bangeetttt",
+          "rating": 5,
+          "tags": [
+            "CANNED_RESPONSE_FRESHNESS",
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_PORTION",
+            "CANNED_RESPONSE_HYGIENE",
+            "CANNED_RESPONSE_PACKAGING",
+            "CANNED_RESPONSE_VALUE",
+            "CANNED_RESPONSE_CUTLERY"
+          ],
+          "createdAt": "2025-02-05T11:41:12.988818+07:00",
+          "order": {
+            "orderedAt": "2025-02-02T08:35:08.443326Z",
+            "items": [
+              {
+                "id": "13056da0-6f1e-4f38-aab1-af30a4ad51da",
+                "name": "Spaghetti Aglio Chili Oil"
+              },
+              {
+                "id": "f3c7c511-6379-47a4-a30c-22c70a5a292e",
+                "name": "Fettuccine Premium Creamy Chicken Crispy"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "S****",
+            "initialName": "S",
+            "avatarUrl": null,
+            "userSince": "2019-11-19T13:16:43Z"
+          }
+        },
+        {
+          "id": "dd53f851-bac3-4943-942e-beca2c0c3ca6",
+          "text": "Ketika lidahku menyentuh saos prego putih, aku bersumpah tidak akan pernah datang lagi di restoran ini seumur hidup. Ew #neverforget",
+          "rating": 1,
+          "tags": [
+            "CANNED_RESPONSE_TASTE"
+          ],
+          "createdAt": "2025-02-04T20:14:07.62185+07:00",
+          "order": {
+            "orderedAt": "2025-02-04T03:34:00.023941Z",
+            "items": [
+              {
+                "id": "51f6772b-27b4-449d-a059-425d0e8c68a1",
+                "name": "Fettuccine Premium Creamy Smoked Beef"
+              },
+              {
+                "id": "9554fff5-793a-4dda-a53a-e8198125827c",
+                "name": "Ice Cream Choco Oreo"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "Zhacky Samson",
+            "initialName": "ZS",
+            "avatarUrl": null,
+            "userSince": "2018-11-09T10:20:31Z"
+          }
+        },
+        {
+          "id": "4593be44-4c6a-4d12-b3a0-0d474478285a",
+          "text": "ueennaaakkkkkk tenaann n n n n n n. ",
+          "rating": 5,
+          "tags": [
+            "CANNED_RESPONSE_FRESHNESS",
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_PORTION",
+            "CANNED_RESPONSE_HYGIENE",
+            "CANNED_RESPONSE_PACKAGING",
+            "CANNED_RESPONSE_VALUE",
+            "CANNED_RESPONSE_CUTLERY"
+          ],
+          "createdAt": "2025-01-19T21:19:50.643326+07:00",
+          "order": {
+            "orderedAt": "2025-01-10T06:52:35.918453Z",
+            "items": [
+              {
+                "id": "3695d2c8-d734-4c7e-bba4-096ba846e3b7",
+                "name": "Pizza Tortilla Prime Cheese"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "benjamin saimima",
+            "initialName": "BS",
+            "avatarUrl": null,
+            "userSince": "2018-03-24T03:21:35Z"
+          }
+        },
+        {
+          "id": "4ab86d50-b51d-4d54-ad9e-36a692ba04ed",
+          "text": "Ga nyangka rasanya trnyta cocok di lidahkuu, enakk😍",
+          "rating": 5,
+          "tags": [
+            "CANNED_RESPONSE_FRESHNESS",
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_PORTION",
+            "CANNED_RESPONSE_HYGIENE",
+            "CANNED_RESPONSE_PACKAGING",
+            "CANNED_RESPONSE_VALUE",
+            "CANNED_RESPONSE_CUTLERY"
+          ],
+          "createdAt": "2025-01-18T14:27:53.510891+07:00",
+          "order": {
+            "orderedAt": "2025-01-15T11:41:04.750466Z",
+            "items": [
+              {
+                "id": "0b7a66ce-f7f6-4f55-ba5f-6950e736f41e",
+                "name": "Spaghetti Aglio Olio Tuna"
+              },
+              {
+                "id": "927da3e1-3e27-4a9c-be0b-826cf60b4303",
+                "name": "Authentic Beef Blackpepper Spicy"
+              },
+              {
+                "id": "4e92bbc2-eb53-438c-91dc-1b72293b6c2f",
+                "name": "Iced Peach Tea"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "K**** C*****",
+            "initialName": "KC",
+            "avatarUrl": null,
+            "userSince": "2018-07-13T05:31:49Z"
+          }
+        },
+        {
+          "id": "81365481-897b-4fe8-b419-0d4299d7157c",
+          "text": "Salah pesanan. Minta large dikasih reguler, minta mushroom tidak ada mushroom, minta chicken dikasih beef",
+          "rating": 1,
+          "tags": [
+            "CANNED_RESPONSE_PORTION",
+            "CANNED_RESPONSE_ORDER"
+          ],
+          "createdAt": "2025-01-17T14:35:44.257219+07:00",
+          "order": {
+            "orderedAt": "2025-01-17T06:37:32.578627Z",
+            "items": [
+              {
+                "id": "019c1996-79de-4cc2-968b-6963a6e39a4b",
+                "name": "Spaghetti Aglio Olio Chicken"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "Rayhan Wiradiharja",
+            "initialName": "RW",
+            "avatarUrl": null,
+            "userSince": "2019-12-17T03:31:28Z"
+          }
+        },
+        {
+          "id": "89cfba9e-5e6d-4742-8fe4-5be2cc0b0f82",
+          "text": "Mahal² ternyata rasanya B ajah",
+          "rating": 3,
+          "tags": [
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_PORTION",
+            "CANNED_RESPONSE_VALUE"
+          ],
+          "createdAt": "2025-01-16T01:56:02.187017+07:00",
+          "order": {
+            "orderedAt": "2024-12-06T15:22:36.3641Z",
+            "items": [
+              {
+                "id": "c9e8ba4e-2a28-4517-94fc-c3f38b34b56f",
+                "name": "Spaghetti Aglio Olio Smoked Beef"
+              },
+              {
+                "id": "82033106-42ad-49d8-ac8b-4e5cb1342cc7",
+                "name": "Fettuccine Carbonara"
+              },
+              {
+                "id": "7da48c36-384d-49f3-aadd-0183ae394825",
+                "name": "Classic Lasagna"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "Ibnu toyib benu",
+            "initialName": "IB",
+            "avatarUrl": null,
+            "userSince": "2021-03-11T14:27:13Z"
+          }
+        },
+        {
+          "id": "110b40fb-bcc7-477f-ae1e-f17309e8a69a",
+          "text": "Makaroninya masih mentah",
+          "rating": 2,
+          "tags": [],
+          "createdAt": "2025-01-01T18:19:07.738823+07:00",
+          "order": {
+            "orderedAt": "2025-01-01T09:47:19.609938Z",
+            "items": [
+              {
+                "id": "6c5b8b04-6c3e-4390-803c-57572eb5597c",
+                "name": "Mac N Cheese"
+              },
+              {
+                "id": "24ff021b-472d-4fc3-bf2e-475d12cc7133",
+                "name": "Spaghetti Premium BBQ Bolognaise"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "Rohma Fadilla",
+            "initialName": "RF",
+            "avatarUrl": null,
+            "userSince": "2016-04-06T11:11:29Z"
+          }
+        },
+        {
+          "id": "07534a37-22fc-4ddb-8df7-2aff6c72d952",
+          "text": "Pastanya nggak al dente (terutama penne), cream sauce nya dikit bgt ",
+          "rating": 3,
+          "tags": [],
+          "createdAt": "2024-12-31T19:44:03.369529+07:00",
+          "order": {
+            "orderedAt": "2024-12-31T11:53:09.658162Z",
+            "items": [
+              {
+                "id": "82033106-42ad-49d8-ac8b-4e5cb1342cc7",
+                "name": "Fettuccine Carbonara"
+              },
+              {
+                "id": "743ec0c0-1cd9-49cd-b60e-5d31aa2079b7",
+                "name": "Penne Creamy Mushrom"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "D****",
+            "initialName": "D",
+            "avatarUrl": null,
+            "userSince": "2016-10-26T22:26:14Z"
+          }
+        },
+        {
+          "id": "d1caeebe-4295-41d0-b984-688320263356",
+          "text": "hampir 2 jam nunggu, driver dateng belum disiapin makanannya akhirnya nunggu lagi ",
+          "rating": 1,
+          "tags": [],
+          "createdAt": "2024-11-27T22:10:33.257112+07:00",
+          "order": {
+            "orderedAt": "2024-11-27T12:21:39.882506Z",
+            "items": [
+              {
+                "id": "82033106-42ad-49d8-ac8b-4e5cb1342cc7",
+                "name": "Fettuccine Carbonara"
+              },
+              {
+                "id": "1c1a5845-81e1-4168-9751-a6d172be5d6a",
+                "name": "Penne Creamy Mushroom"
+              },
+              {
+                "id": "6c5b8b04-6c3e-4390-803c-57572eb5597c",
+                "name": "Mac N Cheese"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "Z******",
+            "initialName": "Z",
+            "avatarUrl": null,
+            "userSince": "2015-10-31T14:55:00Z"
+          }
+        },
+        {
+          "id": "33245fc7-ff16-419d-b351-96a26ded114d",
+          "text": "enak tp kemanisan huhu, aglio olionya jd manis juga😔",
+          "rating": 3,
+          "tags": [
+            "CANNED_RESPONSE_TASTE"
+          ],
+          "createdAt": "2024-11-23T22:14:20.889605+07:00",
+          "order": {
+            "orderedAt": "2024-11-23T14:11:16.682446Z",
+            "items": [
+              {
+                "id": "6c5b8b04-6c3e-4390-803c-57572eb5597c",
+                "name": "Mac N Cheese"
+              },
+              {
+                "id": "c9e8ba4e-2a28-4517-94fc-c3f38b34b56f",
+                "name": "Spaghetti Aglio Olio Smoked Beef"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "E****** C******",
+            "initialName": "EC",
+            "avatarUrl": null,
+            "userSince": "2015-09-06T02:24:28Z"
+          }
+        },
+        {
+          "id": "ecf1d815-e53a-43c5-bbb8-d14db932f6e0",
+          "text": "enak keren rasanya juga oke semoga berkah usahanya dan pertahankan kualitas rasanya ",
+          "rating": 5,
+          "tags": [
+            "CANNED_RESPONSE_FRESHNESS",
+            "CANNED_RESPONSE_PORTION",
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_HYGIENE",
+            "CANNED_RESPONSE_PACKAGING",
+            "CANNED_RESPONSE_CUTLERY",
+            "CANNED_RESPONSE_VALUE"
+          ],
+          "createdAt": "2024-11-09T19:57:00.439361+07:00",
+          "order": {
+            "orderedAt": "2024-11-09T09:56:20.535433Z",
+            "items": [
+              {
+                "id": "82033106-42ad-49d8-ac8b-4e5cb1342cc7",
+                "name": "Fettuccine Carbonara"
+              },
+              {
+                "id": "6c5b8b04-6c3e-4390-803c-57572eb5597c",
+                "name": "Mac N Cheese"
+              },
+              {
+                "id": "44636636-59e1-4818-bbda-5bb6431fd6d1",
+                "name": "Fettuccine Spicy Carbonara"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "T************* L******* C*********",
+            "initialName": "TC",
+            "avatarUrl": null,
+            "userSince": "2015-09-22T18:22:34Z"
+          }
+        },
+        {
+          "id": "54ade955-9be7-449e-b416-cf64acf0e3e7",
+          "text": "Thx ya makanannya ",
+          "rating": 5,
+          "tags": [
+            "CANNED_RESPONSE_FRESHNESS",
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_PORTION",
+            "CANNED_RESPONSE_HYGIENE",
+            "CANNED_RESPONSE_PACKAGING",
+            "CANNED_RESPONSE_VALUE",
+            "CANNED_RESPONSE_CUTLERY"
+          ],
+          "createdAt": "2024-11-09T11:07:39.659419+07:00",
+          "order": {
+            "orderedAt": "2024-11-09T03:24:28.896819Z",
+            "items": [
+              {
+                "id": "6c5b8b04-6c3e-4390-803c-57572eb5597c",
+                "name": "Mac N Cheese"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "S****",
+            "initialName": "S",
+            "avatarUrl": null,
+            "userSince": "2023-09-25T15:27:12Z"
+          }
+        },
+        {
+          "id": "7d3b6294-3504-4131-817a-2c4cd9bf5435",
+          "text": "kok fusili carbonaranyaa bau basi gt yaaa?? ",
+          "rating": 3,
+          "tags": [],
+          "createdAt": "2024-11-05T19:27:27.465997+07:00",
+          "order": {
+            "orderedAt": "2024-11-05T11:24:16.72025Z",
+            "items": [
+              {
+                "id": "1c1a5845-81e1-4168-9751-a6d172be5d6a",
+                "name": "Penne Creamy Mushroom"
+              },
+              {
+                "id": "1da03bcf-ba5d-4eee-8f72-5c943cff18d6",
+                "name": "Pizza Pepperoni"
+              },
+              {
+                "id": "82033106-42ad-49d8-ac8b-4e5cb1342cc7",
+                "name": "Fettuccine Carbonara"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "D***********",
+            "initialName": "D",
+            "avatarUrl": null,
+            "userSince": "2018-04-29T06:52:35Z"
+          }
+        },
+        {
+          "id": "ea80492f-01e6-4a65-b561-0327090b8fee",
+          "text": "Lama banget bikinnya hampir sejam lebih pas nyampe juga udh dingin jdi ga enak dimakan, pdhl nganter cuman 10 menit, hangat aja enggak, baru pertama beli udh kecewa ga sesuai ratingnya, rasanya lumayan sih tapi kurang aja servisnya, gak bakal order lagi maaf",
+          "rating": 3,
+          "tags": [
+            "CANNED_RESPONSE_FRESHNESS"
+          ],
+          "createdAt": "2024-11-01T22:02:04.101171+07:00",
+          "order": {
+            "orderedAt": "2024-11-01T13:33:54.438675Z",
+            "items": [
+              {
+                "id": "13056da0-6f1e-4f38-aab1-af30a4ad51da",
+                "name": "Spaghetti Aglio Chili Oil"
+              },
+              {
+                "id": "b500f5f9-eafd-4128-8aef-b2586a9a663c",
+                "name": "Guava Juice"
+              },
+              {
+                "id": "4e0e9a3f-dd62-4d49-b133-7a68e94c8e93",
+                "name": "Mineral Water"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "Wawan",
+            "initialName": "W",
+            "avatarUrl": null,
+            "userSince": "2015-07-11T18:18:43Z"
+          }
+        },
+        {
+          "id": "8eeb9f21-6c5d-46df-ab97-a50a56a2d3e9",
+          "text": "PORSI ES NYA TERLALU SEDIKIT, kyk minta bukan beli ini emg SOP nya gini ya kalo tanpa es?",
+          "rating": 3,
+          "tags": [
+            "CANNED_RESPONSE_PORTION"
+          ],
+          "createdAt": "2024-10-31T20:31:04.623682+07:00",
+          "order": {
+            "orderedAt": "2024-10-31T12:21:26.244111Z",
+            "items": [
+              {
+                "id": "0799f464-1add-4d23-b207-1a43d78cb982",
+                "name": "Chicken Crispy Sauce With French Fries"
+              },
+              {
+                "id": "0587d4b4-f9c0-4d14-a71e-a27b6426d1e7",
+                "name": "Greentea Vanilatte"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "dinda",
+            "initialName": "D",
+            "avatarUrl": null,
+            "userSince": "2020-01-07T03:34:37Z"
+          }
+        },
+        {
+          "id": "2255e654-378e-4d10-9486-31c5ba29c294",
+          "text": "rasanya agak manis ya...",
+          "rating": 4,
+          "tags": [],
+          "createdAt": "2024-10-27T16:13:42.153517+07:00",
+          "order": {
+            "orderedAt": "2024-10-26T09:38:32.388245Z",
+            "items": [
+              {
+                "id": "6c5b8b04-6c3e-4390-803c-57572eb5597c",
+                "name": "Mac N Cheese"
+              },
+              {
+                "id": "7da48c36-384d-49f3-aadd-0183ae394825",
+                "name": "Classic Lasagna"
+              },
+              {
+                "id": "f3c7c511-6379-47a4-a30c-22c70a5a292e",
+                "name": "Fettuccine Premium Creamy Chicken Crispy"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "A*****",
+            "initialName": "A",
+            "avatarUrl": null,
+            "userSince": "2017-05-05T11:32:47Z"
+          }
+        },
+        {
+          "id": "20f43393-2804-4d99-acb7-2972f0ddc661",
+          "text": "Saosnya terlalu berair dan sedikit, rasanya kurang.",
+          "rating": 3,
+          "tags": [
+            "CANNED_RESPONSE_TASTE"
+          ],
+          "createdAt": "2024-09-15T19:07:51.985064+07:00",
+          "order": {
+            "orderedAt": "2024-09-15T11:21:09.194277Z",
+            "items": [
+              {
+                "id": "1c1a5845-81e1-4168-9751-a6d172be5d6a",
+                "name": "Penne Creamy Mushroom"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "D***** S*",
+            "initialName": "DS",
+            "avatarUrl": null,
+            "userSince": "2016-07-01T23:21:47Z"
+          }
+        },
+        {
+          "id": "b9eacd43-2b7b-4ef3-a8d4-90621a2c6717",
+          "text": "Enak, porsinya banyakin lagi ayoo",
+          "rating": 5,
+          "tags": [
+            "CANNED_RESPONSE_TASTE"
+          ],
+          "createdAt": "2024-09-06T12:05:51.464645+07:00",
+          "order": {
+            "orderedAt": "2024-08-13T07:13:39.44108Z",
+            "items": [
+              {
+                "id": "c9e8ba4e-2a28-4517-94fc-c3f38b34b56f",
+                "name": "Spaghetti Aglio Olio Smoked Beef"
+              },
+              {
+                "id": "6c5b8b04-6c3e-4390-803c-57572eb5597c",
+                "name": "Mac N Cheese"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "Lavinda",
+            "initialName": "L",
+            "avatarUrl": null,
+            "userSince": "2017-07-05T13:07:01Z"
+          }
+        }
+      ],
+      "next_page": "?page=5&page_size=20",
+      "prev_page": "?page=3&page_size=20"
+    }
+  },
+  {
+    "url": "https://gofood.co.id/api/outlets/594d2e42-b1fd-44f2-83a9-da53b2210842/reviews?page=5&page_size=20",
+    "status": 200,
+    "body": {
+      "data": [
+        {
+          "id": "340dbd50-d0d5-4680-b0e2-c8a77703a11e",
+          "text": "enakk and best quality!",
+          "rating": 5,
+          "tags": [],
+          "createdAt": "2024-09-01T16:57:07.94578+07:00",
+          "order": {
+            "orderedAt": "2024-09-01T05:36:00.800748Z",
+            "items": [
+              {
+                "id": "6c5b8b04-6c3e-4390-803c-57572eb5597c",
+                "name": "Mac N Cheese"
+              },
+              {
+                "id": "f4593691-7f8c-4dc6-a499-bef67dbbad5e",
+                "name": "Chicken Wings Ori"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "A***",
+            "initialName": "A",
+            "avatarUrl": null,
+            "userSince": "2019-07-29T00:48:14Z"
+          }
+        },
+        {
+          "id": "cc2f9eb3-9cff-4a4a-a51e-0032bf664b73",
+          "text": "Pemesanan ketiga dalam 1 minggu. Enak, keju ga pelit, datang selalu masih hangat tapi tetep on time, porsi sangat cukup cenderung besar. Worth it!",
+          "rating": 5,
+          "tags": [],
+          "createdAt": "2024-08-08T21:19:29.440789+07:00",
+          "order": {
+            "orderedAt": "2024-08-05T06:26:40.021199Z",
+            "items": [
+              {
+                "id": "f3c7c511-6379-47a4-a30c-22c70a5a292e",
+                "name": "Fettuccine Premium Creamy Chicken Crispy"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "R**",
+            "initialName": "R",
+            "avatarUrl": null,
+            "userSince": "2016-01-23T08:09:30Z"
+          }
+        },
+        {
+          "id": "2adab872-6691-4ffa-8941-3133e289174a",
+          "text": "gapernah kecewaa super enakkk",
+          "rating": 5,
+          "tags": [
+            "CANNED_RESPONSE_FRESHNESS",
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_PORTION",
+            "CANNED_RESPONSE_HYGIENE",
+            "CANNED_RESPONSE_PACKAGING",
+            "CANNED_RESPONSE_VALUE",
+            "CANNED_RESPONSE_CUTLERY"
+          ],
+          "createdAt": "2024-07-28T21:56:53.222097+07:00",
+          "order": {
+            "orderedAt": "2024-07-28T13:08:39.104196Z",
+            "items": [
+              {
+                "id": "44636636-59e1-4818-bbda-5bb6431fd6d1",
+                "name": "Fettuccine Spicy Carbonara"
+              },
+              {
+                "id": "c9e8ba4e-2a28-4517-94fc-c3f38b34b56f",
+                "name": "Spaghetti Aglio Olio Smoked Beef"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "syafitri amalia",
+            "initialName": "SA",
+            "avatarUrl": null,
+            "userSince": "2015-06-10T06:04:40Z"
+          }
+        },
+        {
+          "id": "b64c28a1-bbc6-4675-b8f4-0953beff9610",
+          "text": "MANTAP BANGET, rasanya pas, kejunya juga banyak sesuai pesanan, creamynya berasa banget pedes dari chili oilnya bikin nagih. pokoknya mantap",
+          "rating": 5,
+          "tags": [
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_PORTION",
+            "CANNED_RESPONSE_HYGIENE",
+            "CANNED_RESPONSE_PACKAGING",
+            "CANNED_RESPONSE_CUTLERY",
+            "CANNED_RESPONSE_VALUE",
+            "CANNED_RESPONSE_FRESHNESS"
+          ],
+          "createdAt": "2024-07-23T20:16:27.300547+07:00",
+          "order": {
+            "orderedAt": "2024-07-23T11:46:16.28037Z",
+            "items": [
+              {
+                "id": "82033106-42ad-49d8-ac8b-4e5cb1342cc7",
+                "name": "Fettuccine Carbonara"
+              },
+              {
+                "id": "019c1996-79de-4cc2-968b-6963a6e39a4b",
+                "name": "Spaghetti Aglio Olio Chicken"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "Lia",
+            "initialName": "L",
+            "avatarUrl": null,
+            "userSince": "2021-04-02T09:44:41Z"
+          }
+        },
+        {
+          "id": "efe390b5-240e-4f25-a12c-4a6778ef6653",
+          "text": "enak bgttttttt!!!!",
+          "rating": 5,
+          "tags": [
+            "CANNED_RESPONSE_FRESHNESS",
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_PORTION",
+            "CANNED_RESPONSE_HYGIENE",
+            "CANNED_RESPONSE_PACKAGING",
+            "CANNED_RESPONSE_VALUE",
+            "CANNED_RESPONSE_CUTLERY"
+          ],
+          "createdAt": "2024-07-23T19:31:19.382433+07:00",
+          "order": {
+            "orderedAt": "2024-07-23T11:47:52.331085Z",
+            "items": [
+              {
+                "id": "82033106-42ad-49d8-ac8b-4e5cb1342cc7",
+                "name": "Fettuccine Carbonara"
+              },
+              {
+                "id": "c9e8ba4e-2a28-4517-94fc-c3f38b34b56f",
+                "name": "Spaghetti Aglio Olio Smoked Beef"
+              },
+              {
+                "id": "da258342-5601-4264-ab2b-ccf3008a4465",
+                "name": "Chicken Wing Spicy Bbq"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "syafitri amalia",
+            "initialName": "SA",
+            "avatarUrl": null,
+            "userSince": "2015-06-10T06:04:40Z"
+          }
+        },
+        {
+          "id": "10b381c0-15d7-4525-bc16-0699b1b15cf2",
+          "text": "rasa enak yg chicken wings ori + aglio olio. harga jg oke sudah pas",
+          "rating": 5,
+          "tags": [
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_PORTION",
+            "CANNED_RESPONSE_VALUE"
+          ],
+          "createdAt": "2024-07-06T16:56:49.190112+07:00",
+          "order": {
+            "orderedAt": "2024-07-05T15:29:13.527447Z",
+            "items": [
+              {
+                "id": "c9e8ba4e-2a28-4517-94fc-c3f38b34b56f",
+                "name": "Spaghetti Aglio Olio Smoked Beef"
+              },
+              {
+                "id": "f4593691-7f8c-4dc6-a499-bef67dbbad5e",
+                "name": "Chicken Wings Ori"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "Lisa",
+            "initialName": "L",
+            "avatarUrl": null,
+            "userSince": "2015-05-09T18:45:09Z"
+          }
+        },
+        {
+          "id": "c81cfecc-589c-4879-aad0-25a76ce34cbb",
+          "text": "Chicken Pasta Creamy Spicy enak, tapi pedes bangetttt. Lebih baik minta add on Chilli Powdernya aja daripada diracikin cabe rawit. Yang lain rasanya oke laaah.",
+          "rating": 4,
+          "tags": [
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_PACKAGING",
+            "CANNED_RESPONSE_HYGIENE"
+          ],
+          "createdAt": "2024-07-06T14:46:35.753322+07:00",
+          "order": {
+            "orderedAt": "2024-07-06T06:54:22.76747Z",
+            "items": [
+              {
+                "id": "aed7e79d-289d-4878-8672-79d861e9eaca",
+                "name": "Fettuccine Spicy Creamy Chicken"
+              },
+              {
+                "id": "9dd14257-f19d-432b-b1fc-a60aa4370018",
+                "name": "Penne Carbonara Sweet corn"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "Y*****",
+            "initialName": "Y",
+            "avatarUrl": null,
+            "userSince": "2015-06-26T12:17:10Z"
+          }
+        },
+        {
+          "id": "01648924-2d97-4db4-b59b-f25864f9e0cf",
+          "text": "never failed. parah. semua orang di rumah bilang enak banget enak banget ga kelar2.",
+          "rating": 5,
+          "tags": [],
+          "createdAt": "2024-07-01T13:38:22.609326+07:00",
+          "order": {
+            "orderedAt": "2024-06-29T03:58:52.98668Z",
+            "items": [
+              {
+                "id": "51dcaed5-3f26-4071-9534-efd8d52b58e0",
+                "name": "Fettuccine Alfredo"
+              },
+              {
+                "id": "13056da0-6f1e-4f38-aab1-af30a4ad51da",
+                "name": "Spaghetti Aglio Chili Oil"
+              },
+              {
+                "id": "13220001-5f4a-4773-badd-1956c3cd66c4",
+                "name": "Otak Otak"
+              },
+              {
+                "id": "1c1a5845-81e1-4168-9751-a6d172be5d6a",
+                "name": "Penne Creamy Mushroom"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "F****",
+            "initialName": "F",
+            "avatarUrl": null,
+            "userSince": "2018-08-20T09:20:20Z"
+          }
+        },
+        {
+          "id": "47b6b3cf-1ee1-432e-8d4a-077f79018473",
+          "text": "Pasta enak, aldente & lembut saat dikunyah. Mac&cheese, benar2 cheezy sekali & gurih, sedikit ada hint manis. Creamy pastanya : manis, creamy, gurih. Porsinya lumayan, 1 kurang 2 kebanyakan 😁",
+          "rating": 5,
+          "tags": [
+            "CANNED_RESPONSE_FRESHNESS",
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_PORTION",
+            "CANNED_RESPONSE_HYGIENE",
+            "CANNED_RESPONSE_PACKAGING",
+            "CANNED_RESPONSE_VALUE"
+          ],
+          "createdAt": "2024-06-08T12:34:49.531279+07:00",
+          "order": {
+            "orderedAt": "2024-05-30T08:33:05.887837Z",
+            "items": [
+              {
+                "id": "6c5b8b04-6c3e-4390-803c-57572eb5597c",
+                "name": "Mac N Cheese"
+              },
+              {
+                "id": "82033106-42ad-49d8-ac8b-4e5cb1342cc7",
+                "name": "Fettuccine Carbonara"
+              },
+              {
+                "id": "1c1a5845-81e1-4168-9751-a6d172be5d6a",
+                "name": "Penne Creamy Mushroom"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "Ayudya Vega",
+            "initialName": "AV",
+            "avatarUrl": null,
+            "userSince": "2021-08-17T13:36:28Z"
+          }
+        },
+        {
+          "id": "4533816d-76ac-406e-a547-f5d3d5e0d311",
+          "text": "Lumayan enak.....",
+          "rating": 5,
+          "tags": [],
+          "createdAt": "2024-06-08T12:16:11.835337+07:00",
+          "order": {
+            "orderedAt": "2024-06-08T04:24:57.275349Z",
+            "items": [
+              {
+                "id": "13056da0-6f1e-4f38-aab1-af30a4ad51da",
+                "name": "Spaghetti Aglio Chili Oil"
+              },
+              {
+                "id": "e4d75ad9-45e5-418c-8837-e215cfe629ab",
+                "name": "Cireng Bumbu Rujak"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "D******",
+            "initialName": "D",
+            "avatarUrl": null,
+            "userSince": "2015-09-05T14:36:55Z"
+          }
+        },
+        {
+          "id": "eff60e9b-3713-4dce-af62-0ddfa1c112b0",
+          "text": "presentation was good, too spicy for my liking, tastes alright, was expecting more from the extra portion option though..",
+          "rating": 4,
+          "tags": [],
+          "createdAt": "2024-04-17T11:39:05.339973+07:00",
+          "order": {
+            "orderedAt": "2024-04-17T04:05:48.615026Z",
+            "items": [
+              {
+                "id": "019c1996-79de-4cc2-968b-6963a6e39a4b",
+                "name": "Spaghetti Aglio Olio Chicken"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "A***",
+            "initialName": "A",
+            "avatarUrl": null,
+            "userSince": "2021-08-10T05:34:49Z"
+          }
+        },
+        {
+          "id": "59587625-8fd4-42a3-8293-c9a399d3abfb",
+          "text": "enak bangeett...",
+          "rating": 5,
+          "tags": [],
+          "createdAt": "2024-04-08T22:46:14.242412+07:00",
+          "order": {
+            "orderedAt": "2024-04-08T14:28:49.235921Z",
+            "items": [
+              {
+                "id": "82033106-42ad-49d8-ac8b-4e5cb1342cc7",
+                "name": "Fettuccine Carbonara"
+              },
+              {
+                "id": "94ffae22-6dcc-474b-8474-9016b2155f82",
+                "name": "Classic Lasagna"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "regina caturwati",
+            "initialName": "RC",
+            "avatarUrl": null,
+            "userSince": "2021-03-28T01:58:00Z"
+          }
+        },
+        {
+          "id": "8fe5c563-f5c2-47e6-a291-5823abc7232d",
+          "text": "not recommend fo chicken gordon blue",
+          "rating": 4,
+          "tags": [],
+          "createdAt": "2024-03-23T18:04:41.687802+07:00",
+          "order": {
+            "orderedAt": "2024-02-24T12:29:58.961591Z",
+            "items": [
+              {
+                "id": "126c7346-b80a-4d46-8c28-0e361ae53846",
+                "name": "Chicken Cordn Blue with Creamy mushroom"
+              },
+              {
+                "id": "c9e8ba4e-2a28-4517-94fc-c3f38b34b56f",
+                "name": "Spaghetti Aglio Olio Smoked Beef"
+              },
+              {
+                "id": "51f6772b-27b4-449d-a059-425d0e8c68a1",
+                "name": "Fettuccine Premium Creamy Smoked Beef"
+              },
+              {
+                "id": "aa799a4c-983d-4d1c-a350-4f84452efae8",
+                "name": "Chicken Wing Crispy"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "Ame",
+            "initialName": "A",
+            "avatarUrl": null,
+            "userSince": "2015-06-21T00:16:23Z"
+          }
+        },
+        {
+          "id": "8c4b34f4-8857-477b-9bbe-5c20db16eb8d",
+          "text": "Bisa bisa nya seenak ituu kan jd pengen makan langsung🔥🔥🔥",
+          "rating": 5,
+          "tags": [
+            "CANNED_RESPONSE_TASTE",
+            "CANNED_RESPONSE_VALUE",
+            "CANNED_RESPONSE_CUTLERY"
+          ],
+          "createdAt": "2024-02-26T12:45:30.079823+07:00",
+          "order": {
+            "orderedAt": "2024-02-25T15:35:07.551626Z",
+            "items": [
+              {
+                "id": "c9e8ba4e-2a28-4517-94fc-c3f38b34b56f",
+                "name": "Spaghetti Aglio Olio Smoked Beef"
+              }
+            ]
+          },
+          "author": {
+            "fullName": "Nadia",
+            "initialName": "N",
+            "avatarUrl": null,
+            "userSince": "2019-03-12T02:24:55Z"
+          }
+        }
+      ],
+      "next_page": null,
+      "prev_page": "?page=4&page_size=20"
+    }
+  }
+]

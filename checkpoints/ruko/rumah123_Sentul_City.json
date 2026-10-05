@@ -1,0 +1,212 @@
+{
+  "titik": "Sentul City",
+  "kota": "Kab. Bogor",
+  "sumber": "rumah123",
+  "blocked": null,
+  "ok": true,
+  "total_raw": 40,
+  "total_semua": 40,
+  "listings": [
+    {
+      "judul": "Disewakan Ruko Centeria Square Summarecon Bogor 3 Lantai Premium Hoek",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 298 Juta",
+      "harga": 298000000,
+      "harga_satuan": "",
+      "luas_tanah": 135,
+      "luas_bangunan": 269,
+      "lantai": 3,
+      "alamat": "Sentul City, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "sentul",
+        "city"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/bogor-sentul-city/disewakan-ruko-centeria-square-summarecon-bogor-3-lantai-premium-hoek-shr10183629/"
+    },
+    {
+      "judul": "Ruko 2 Lantai Bagus dan Terawat, Kamar Mandi 2,Lingkungan Sudah Ramai,Cocok untuk Usaha dan Kantor Dekat Jungled Sentul Nirwana.",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 65 Juta",
+      "harga": 65000000,
+      "harga_satuan": "per tahun",
+      "luas_tanah": 80,
+      "luas_bangunan": 80,
+      "lantai": 2,
+      "alamat": "Sentul City, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "sentul",
+        "city"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/bogor-sentul-city/ruko-2-lantai-bagus-dan-terawat-kamar-mandi-2lingkungan-sudah-ramaicocok-untuk-usaha-dan-kantor-dekat-jungled-sentul-shr10284485/"
+    },
+    {
+      "judul": "Disewakan Ruko di Plaza Niaga 1 Posisi Tengah",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 65 Juta",
+      "harga": 65000000,
+      "harga_satuan": "",
+      "luas_tanah": 88,
+      "luas_bangunan": 100,
+      "lantai": 2,
+      "alamat": "Sentul City, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "sentul",
+        "city"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/bogor-sentul-city/disewakan-ruko-di-plaza-niaga-1-posisi-tengah-shr9981017/"
+    },
+    {
+      "judul": "Disewa Ruko Tahunan Bagus Siaphuni di Bellanova Sentul City Ssc133",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 80 Juta",
+      "harga": 80000000,
+      "harga_satuan": "",
+      "luas_tanah": 75,
+      "luas_bangunan": 170,
+      "lantai": null,
+      "alamat": "Sentul City, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "sentul",
+        "city"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/bogor-sentul-city/disewa-ruko-tahunan-bagus-siaphuni-di-bellanova-sentul-city-ssc133-shr10275159/"
+    },
+    {
+      "judul": "Disewa Kios Tahunan Strategis di Sta Apartment Sentul City Ssc135",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 35 Juta",
+      "harga": 35000000,
+      "harga_satuan": "",
+      "luas_tanah": 23,
+      "luas_bangunan": 23,
+      "lantai": null,
+      "alamat": "Sentul City, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "sentul",
+        "city"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/bogor-sentul-city/disewa-kios-tahunan-strategis-di-sta-apartment-sentul-city-ssc135-shr10295475/"
+    },
+    {
+      "judul": "Di Sewakan Ruko Sentul Plaza ,2 Lantai Lokasi Strategis Mall Plaza Niaga 1, Sentul Sumur Batu,Babakan Madang,Bogor#Hamdan",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 55 Juta",
+      "harga": 55000000,
+      "harga_satuan": "",
+      "luas_tanah": 88,
+      "luas_bangunan": 150,
+      "lantai": 2,
+      "alamat": "Sentul City, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "sentul",
+        "city"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/bogor-sentul-city/di-sewakan-ruko-sentul-plaza-2-lantai-lokasi-strategis-mall-plaza-niaga-1-sentul-sumur-batubabakan-madangbogorhamdan-shr10144865/"
+    },
+    {
+      "judul": "Di Sewakan Rumah 2 Lantai View Pegunungan",
+      "tipe_properti": "rumah",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 120 Juta",
+      "harga": 120000000,
+      "harga_satuan": "",
+      "luas_tanah": 161,
+      "luas_bangunan": 109,
+      "lantai": 2,
+      "alamat": "Sentul City, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "sentul",
+        "city"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/bogor-sentul-city/di-sewakan-rumah-2-lantai-view-pegunungan-hor42395559/"
+    },
+    {
+      "judul": "Rumah Ala Jepang Furnish, Depan Taman, 2 Lantai View Gunung",
+      "tipe_properti": "rumah",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 75 Juta",
+      "harga": 75000000,
+      "harga_satuan": "",
+      "luas_tanah": 180,
+      "luas_bangunan": 200,
+      "lantai": 2,
+      "alamat": "Sentul City, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "sentul",
+        "city"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/bogor-sentul-city/rumah-ala-jepang-furnish-depan-taman-2-lantai-view-gunung-hor42119881/"
+    },
+    {
+      "judul": "Dikontrakan Rumah Dua Lantai Private Pool",
+      "tipe_properti": "rumah",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 195 Juta",
+      "harga": 195000000,
+      "harga_satuan": "per tahun",
+      "luas_tanah": 296,
+      "luas_bangunan": 320,
+      "lantai": null,
+      "alamat": "Sentul City, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "sentul",
+        "city"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/bogor-sentul-city/dikontrakan-rumah-dua-lantai-private-pool-hor41485763/"
+    },
+    {
+      "judul": "Dikontrakan Rumah Dua Lantai View Sangat Bagus",
+      "tipe_properti": "rumah",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 150 Juta",
+      "harga": 150000000,
+      "harga_satuan": "",
+      "luas_tanah": 378,
+      "luas_bangunan": 280,
+      "lantai": null,
+      "alamat": "Sentul City, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "sentul",
+        "city"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/bogor-sentul-city/dikontrakan-rumah-dua-lantai-view-sangat-bagus-hor41512175/"
+    }
+  ],
+  "scraped_at": "2026-09-14T13:16:29.924Z"
+}

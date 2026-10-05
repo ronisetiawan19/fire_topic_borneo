@@ -1,0 +1,343 @@
+{
+  "buttons": [
+    {
+      "tag": "A",
+      "text": "Masuk",
+      "href": "/login",
+      "cls": "inline-flex cursor-pointer appearance-none items-center justify-center space-x-2"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "href": null,
+      "cls": "inline-flex cursor-pointer appearance-none items-center justify-center space-x-2"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Muat lebih banyak",
+      "href": null,
+      "cls": "inline-flex cursor-pointer appearance-none items-center justify-center space-x-2"
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "https://play.google.com/store/apps/details?id=com.gojek.app",
+      "cls": "relative h-12 max-w-[165px] flex-1 cursor-pointer lg:mr-4 lg:h-16 lg:max-w-[220p"
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "https://apps.apple.com/id/app/go-jek/id944875099",
+      "cls": "relative h-12 max-w-[144px] flex-1 cursor-pointer lg:h-16 lg:max-w-[192px]"
+    }
+  ],
+  "clicked": "Next",
+  "calls": [
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/jakarta/restaurant/sky-pasta-tebet-594d2e42-b1fd-44f2-83a9-da53b2210842/reviews",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/3640.ea9b96595c1d9c52.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/webpack-6636387c74cba2d8.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/framework-28779d505afca027.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/main-78d66059a802d36b.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/pages/_app-4bc202afb5270a3d.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/36bbcd6f-6cd9e3a9dc478940.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/70-9fec6d68efec7bb5.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/7026-16fdfdf6d96d9ca8.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/6567-508fd4c86b7e3468.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/4113-08924bac0b964ad2.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/4529-f845cb025959c403.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/7447-825b5ec36932b329.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/4043-c138200d07231493.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/pages/%5Bservice_area%5D/restaurant/%5Bid%5D/reviews-d1e86f34fea81355.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/19.17.0/_buildManifest.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/19.17.0/_ssgManifest.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/7090.6f9b20a83b5d3473.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/2067bdd9.046b5e841e0f179e.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/310.187c3d55a17de6d7.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/7070.4f364c1e99954161.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/gofood/web/v2/deals/profile?cart_amount=0&cart_amount_excluding_discounted_skus=0&merchant_id=594d2e42-b1fd-44f2-83a9-da53b2210842&service_type=5&offeringToken=&distance=5210&gf_plus_two_exp_enabled=true&tenant=gofood&picked_loc=-6.2174945,106.8178377&fulfillment_modes=regular&funnel_uid=gofood&allowed_payment_types=",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/8e095c31-b4724a9ee198f8d5.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/762-9745807a0e93fad0.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/3087-96c1ae177b879d7f.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/7510-ae1c359dfb0dde19.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/365-1538604ea2bfe6cf.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/pages/index-e80e96b507958503.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/4021-468a59268afd0d08.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/118-04b1f36c0ea38186.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/pages/gofood-pas-cb1d924dd18978f4.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/9761-c0b9d6cd4dd8e571.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/pages/%5Bservice_area%5D/recommendations-b2dbf84885a3197b.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/pages/%5Bservice_area%5D/restaurants-3076949e540d32ba.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/pages/%5Bservice_area%5D/restaurant/%5Bid%5D-6d3662b81c03c916.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/9642-8471cb5662cc8c42.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/7499-732e275e7f1859be.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/3678-7b1f29908f919d40.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/pages/login-842970c30bdbecd2.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-PZW5X97",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/8e095c31-b4724a9ee198f8d5.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/762-9745807a0e93fad0.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/3087-96c1ae177b879d7f.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/7510-ae1c359dfb0dde19.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/365-1538604ea2bfe6cf.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/pages/index-e80e96b507958503.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/4021-468a59268afd0d08.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/118-04b1f36c0ea38186.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/pages/gofood-pas-cb1d924dd18978f4.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/9761-c0b9d6cd4dd8e571.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/pages/%5Bservice_area%5D/recommendations-b2dbf84885a3197b.js",
+      "post": null
+    },
+    {
+      "method": "POST",
+      "url": "https://lens-fc.golabs.io/collect/gofood_expansion",
+      "post": "{\"meta\":{\"sdk\":{\"version\":\"1.19.0\"},\"app\":{\"name\":\"gofood_web_service\",\"environment\":\"production\",\"version\":\"1.0.0\"},\"browser\":{\"name\":\"Chrome\",\"version\":\"153.0.0.0\",\"os\":\"Mac OS 10.15.7\",\"userAgent\":\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36\",\"language\":\"id-ID\",\"mobile\":false,\"brands\":[{\"brand\":\"Chromium\",\"version\":\"153\"},{\"brand\":\"Not_A Brand\",\"version\":\"8\"}],\"viewportWidth\":\"1280\",\"viewportHeight\":\"900\"},\"page\":{\"url\":\"https://gofood.co.id/jakarta/restaurant/sky-pasta-tebet-594d2e42-b1fd-44f2-83a9-da53b2210842/reviews\"},\"session\":{\"id\":\"oZaENYrCTS\"}},\"events\":[{\"name\":\"session_start\",\"domain\":\"browser\",\"timestamp\":\"2026-09-13T08:13:26.796Z\"},{\"name\":\"faro.performance.navigation\",\"domain\":\"browser\",\"attributes\":{\"name\":\"https://gofood.co.id/jakarta/restaurant/sky-pasta-tebet-594d2e42-b1fd-44f2-83a9-da53b2210842/reviews\",\"duration\":\"1150\",\"tcpHandshakeTime\":\"35\",\"dnsLookupTime\":\"338\",\"tlsNegotiationTime\":\"19\",\"responseStatus\":\"200\",\"redirectTime\":\"0\",\"requestTime\":\"340\",\"responseTime\":\"6\",\"fetchTime\":\"720\",\"serviceWorkerTime\":\"2\",\"decodedBodySize\":\"388528\",\"encodedBodySize\":\"37153\",\"cacheHitStatus\":\"fullLoad\",\"renderBlockingStatus\":\"non-blocking\",\"protocol\":\"h2\",\"initiatorType\":\"navigation\",\"visibilityState\":\"visible\",\"ttfb\":\"716\",\"transferSize\":\"37453\",\"pageLoadTime\":\"1147\",\"documentParsingTime\":\"35\",\"domProcessingTime\":\"389\",\"domContentLoadHandlerTime\":\"1\",\"onLoadTime\":\"0\",\"type\":\"navigate\",\"faroNavigationId\":\"r3aXqffqK0\",\"faroPreviousNavigationId\":\"unknown\"},\"timestamp\":\"2026-09-13T08:13:25.470Z\"},{\"name\":\"faro.performance.resource\",\"domain\":\"browser\",\"attributes\":{\"name\":\"https://gofood.co.id/gofood/web/v2/deals/profile?cart_amount=0&cart_amount_excluding_discounted_skus=0&merchant_id=594d2e42-b1fd-44f2-83a9-da53b2210842&service_type=5&offeringToken=&distance=5210&gf_plus_two_exp_enabled=true&tenant=gofood&picked_loc=-6.2174945,106.8178377&fulfillment_modes=regular&funnel_uid=gofood&allowed_payment_types=\",\"duration\":\"138\",\"tcpHandshakeTime\":\"0\",\"dnsLookupTime\":\"0\",\"tlsNegotiationTime\":\"0\",\"responseStatus\":\"200\",\"redirectTime\":\"0\",\"requestTime\":\"136\",\"responseTime\":\"1\",\"fetchTime\":\"138\",\"serviceWorkerTime\":\"1341\",\"decodedBodySize\":\"7845\",\"encodedBodySize\":\"2634\",\"cacheHitStatus\":\"fullLoad\",\"renderBlockingStatus\":\"non-blocking\",\"protocol\":\"h2\",\"initiatorType\":\"xmlhttprequest\",\"visibilityState\":\"visible\",\"ttfb\":\"136\",\"transferSize\":\"2934\",\"faroNavigationId\":\"r3aXqffqK0\",\"faroResourceId\":\"9NHKGUE7Bw\"},\"timestamp\":\"2026-09-13T08:13:26.811Z\"}],\"measurements\":[{\"type\":\"web-vitals\",\"values\":{\"fcp\":1052,\"delta\":1052,\"first_byte_to_fcp\":336.5,\"time_to_first_byte\":715.5},\"timestamp\":\"2026-09-13T08:13:26.823Z\",\"context\":{\"id\":\"v4-1789287206788-8674951580651\",\"rating\":\"good\",\"navigation_type\":\"navigate\",\"navigation_entry_id\":\"r3aXqffqK0\",\"load_state\":\"dom-interactive\"}},{\"type\":\"web-vitals\",\"values\":{\"ttfb\":715.5,\"delta\":715.5,\"dns_duration\":337.60000000009313,\"connection_duration\":34.5,\"request_duration\":340.19999999995343,\"waiting_duration\":1.5,\"cache_duration\":1.6999999999534339},\"timestamp\":\"2026-09-13T08:13:26.824Z\",\"context\":{\"id\":\"v4-1789287206790-5565179666037\",\"rating\":\"good\",\"navigation_type\":\"navigate\",\"navigation_entry_id\":\"r3aXqffqK0\"}}]}"
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/pages/%5Bservice_area%5D/restaurant/%5Bid%5D-6d3662b81c03c916.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/pages/%5Bservice_area%5D/restaurants-3076949e540d32ba.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/9642-8471cb5662cc8c42.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/7499-732e275e7f1859be.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/3678-7b1f29908f919d40.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/_next/static/chunks/pages/login-842970c30bdbecd2.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://cdn-apac.onetrust.com/scripttemplates/otSDKStub.js",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://cdn-apac.onetrust.com/consent/018fe20b-092f-7d2b-a454-207eed8b088d-test/018fe20b-092f-7d2b-a454-207eed8b088d-test.json",
+      "post": null
+    }
+  ],
+  "state": {
+    "url": "https://gofood.co.id/jakarta/restaurant/sky-pasta-tebet-594d2e42-b1fd-44f2-83a9-da53b2210842/reviews",
+    "reviewsCount": 20,
+    "next": "?page=2&page_size=20",
+    "firstCreated": "2026-09-01T13:09:44.4652+07:00"
+  }
+}

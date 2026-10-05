@@ -1,0 +1,109 @@
+{
+  "query": [
+    "starship launch"
+  ],
+  "mode": "browser",
+  "scraped_at": "2026-09-10T22:48:56.277Z",
+  "total_tweets": 2,
+  "total_replies": 0,
+  "total_records": 2,
+  "tweets": [
+    {
+      "tweet_id": "2092284173730144732",
+      "text": "Introducing Starbase, Louisiana – a high-cadence launch site that will enable Starship to open a pathway to the stars for humanity. Thank you to @LAGovJeffLandry and the great people of Louisiana for all of their support as we work together on this audacious project → https://t.co/hq308hvg2g",
+      "author": "SpaceX",
+      "nickname": "SpaceX",
+      "user_id": "34743251",
+      "created_at": "Tue Aug 25 16:13:14 +0000 2026",
+      "likes": 36165,
+      "retweets": 6036,
+      "replies": 2020,
+      "quotes": 1650,
+      "views": 44473002,
+      "is_retweet": false,
+      "retweeted": false,
+      "is_quote": false,
+      "quoted_text": "",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2092279198882914304/img/Y9gj3r0G1VkopWM9.jpg",
+          "expanded_url": "https://x.com/SpaceX/status/2092284173730144732/video/1",
+          "preview": "https://video.twimg.com/amplify_video/2092279198882914304/pl/W3aYptrw9VzAjLhM.m3u8?tag=29&v=79d",
+          "duration": 348056,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "url": "https://video.twimg.com/amplify_video/2092279198882914304/vid/avc1/480x270/-JsKmZ4O1r7cht4K.mp4?tag=29"
+            },
+            {
+              "bitrate": 832000,
+              "url": "https://video.twimg.com/amplify_video/2092279198882914304/vid/avc1/640x360/tJNOiSdFEyYsMwvI.mp4?tag=29"
+            },
+            {
+              "bitrate": 2176000,
+              "url": "https://video.twimg.com/amplify_video/2092279198882914304/vid/avc1/1280x720/mwm_si2oQev4Q7il.mp4?tag=29"
+            },
+            {
+              "bitrate": 10368000,
+              "url": "https://video.twimg.com/amplify_video/2092279198882914304/vid/avc1/1920x1080/tdQc7Qbce9-3cGcp.mp4?tag=29"
+            },
+            {
+              "bitrate": 25128000,
+              "url": "https://video.twimg.com/amplify_video/2092279198882914304/vid/avc1/3840x2160/Xtk6bX0h0vwGTnG0.mp4?tag=29"
+            }
+          ]
+        }
+      ],
+      "in_reply_to": "",
+      "url": "https://x.com/SpaceX/status/2092284173730144732",
+      "lang": "en",
+      "type": "tweet"
+    },
+    {
+      "tweet_id": "2098115224553538027",
+      "text": "Starship fires its engines before it lets the booster go. https://t.co/i17Dbnae5j",
+      "author": "RobLogic",
+      "nickname": "RobLogic",
+      "user_id": "1459694066271076352",
+      "created_at": "Thu Sep 10 18:23:45 +0000 2026",
+      "likes": 44,
+      "retweets": 41,
+      "replies": 2,
+      "quotes": 0,
+      "views": 1779,
+      "is_retweet": false,
+      "retweeted": false,
+      "is_quote": false,
+      "quoted_text": "",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2098115205431783424/img/z9U726Orxaqmsp9f.jpg",
+          "expanded_url": "https://x.com/RobLogic/status/2098115224553538027/video/1",
+          "preview": "https://video.twimg.com/amplify_video/2098115205431783424/pl/Rx-mjuFugOho2yHi.m3u8?tag=29&v=cfc",
+          "duration": 12285,
+          "variants": [
+            {
+              "bitrate": 632000,
+              "url": "https://video.twimg.com/amplify_video/2098115205431783424/vid/avc1/320x568/oE32VEbZV15RuuS8.mp4?tag=29"
+            },
+            {
+              "bitrate": 950000,
+              "url": "https://video.twimg.com/amplify_video/2098115205431783424/vid/avc1/480x852/1XlatlOnRMyag6XR.mp4?tag=29"
+            },
+            {
+              "bitrate": 2176000,
+              "url": "https://video.twimg.com/amplify_video/2098115205431783424/vid/avc1/720x1280/2aIm2XXhCXCvThY-.mp4?tag=29"
+            }
+          ]
+        }
+      ],
+      "in_reply_to": "",
+      "url": "https://x.com/RobLogic/status/2098115224553538027",
+      "lang": "en",
+      "type": "tweet"
+    }
+  ],
+  "replies": []
+}

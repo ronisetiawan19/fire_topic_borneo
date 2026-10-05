@@ -1,0 +1,25 @@
+{
+  "mode": "geocode",
+  "scraped_at": "2026-09-23T17:06:25.510Z",
+  "total_queries": 1,
+  "total_places": 1,
+  "results": [
+    {
+      "query": "Bogor Nirwana Residence",
+      "ok": true,
+      "places": [
+        {
+          "query": "Bogor Nirwana Residence",
+          "name": "Jl. Bogor Nirwana Residence",
+          "place_id": "",
+          "address": "",
+          "lat": -6.6322378,
+          "lon": 106.7936389,
+          "link": "https://www.google.com/maps/place/Jl.+Bogor+Nirwana+Residence,+Kec.+Bogor+Sel.,+Kota+Bogor,+Jawa+Barat/@-6.6322378,106.7936389,17z/data=!3m1!4b1!4m6!3m5!1s0x2e69cf5f86c4baad:0x55c1a147e4653f0e!8m2!3d-6.6322378!4d106.7936389!16s%2Fg%2F11b6ycrxyy?hl=id&entry=ttu&g_ep=EgoyMDI2MDkyMC4wIKXMDSoASAFQAw%3D%3D",
+          "rating": 0,
+          "reviews_count": 0
+        }
+      ]
+    }
+  ]
+}

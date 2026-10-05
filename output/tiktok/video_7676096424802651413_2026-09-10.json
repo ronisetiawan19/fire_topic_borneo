@@ -1,0 +1,142 @@
+{
+  "source": "urls",
+  "scraped_at": "2026-09-10T15:20:26.767Z",
+  "total_videos": 1,
+  "total_comments": 5,
+  "total_replies": 0,
+  "total_records": 5,
+  "comments": [
+    {
+      "comment_id": "7676255854081852178",
+      "author": "jordan_belf012t",
+      "nickname": "jordan_belf012t",
+      "text": "Cwek 18-25 itu masa primenya lagi direbutin banyak cwok mapan, sedangkan cwok 18-25 lgi grinding abis2an",
+      "likes": 2866,
+      "replies": 17,
+      "time": 1787267618,
+      "video_id": "7676096424802651413",
+      "type": "comment",
+      "parent_comment_id": ""
+    },
+    {
+      "comment_id": "7676280145091642133",
+      "author": "sipalingbola19",
+      "nickname": "Kurapika",
+      "text": "kakak gua umur 28 meninggal jir",
+      "likes": 879,
+      "replies": 72,
+      "time": 1787273588,
+      "video_id": "7676096424802651413",
+      "type": "comment",
+      "parent_comment_id": ""
+    },
+    {
+      "comment_id": "7676315768627266321",
+      "author": "kulipabrik_km10.2",
+      "nickname": "tm_smulders_km 10,2",
+      "text": "real bro . gwa umur dbwh 27 kerja gaji seadanya . jadi ob juga pernah . skrg gwa kerjanya sante. d umur 30 udah punya semua mobil, rumah, mtr,istri ,anak . alhamdulillah",
+      "likes": 429,
+      "replies": 16,
+      "time": 1787281548,
+      "video_id": "7676096424802651413",
+      "type": "comment",
+      "parent_comment_id": ""
+    },
+    {
+      "comment_id": "7676272727166829320",
+      "author": "ihh.ngintip",
+      "nickname": "video",
+      "text": "cowo umur 28 keatas yg mulai dari 0 lagi juga ada",
+      "likes": 137,
+      "replies": 16,
+      "time": 1787271542,
+      "video_id": "7676096424802651413",
+      "type": "comment",
+      "parent_comment_id": ""
+    },
+    {
+      "comment_id": "7676385613792510740",
+      "author": "jgptnwsn",
+      "nickname": "Sena-",
+      "text": "SAYA 28 baru mau berangkat kejepang , doakan ya teman2",
+      "likes": 42,
+      "replies": 21,
+      "time": 1787297814,
+      "video_id": "7676096424802651413",
+      "type": "comment",
+      "parent_comment_id": ""
+    }
+  ],
+  "videos": [
+    {
+      "video_id": "7676096424802651413",
+      "author": "",
+      "nickname": "",
+      "description": "",
+      "stats": {},
+      "url": "https://www.tiktok.com/@jordan_belf012t/video/7676096424802651413",
+      "comments": [
+        {
+          "comment_id": "7676255854081852178",
+          "author": "jordan_belf012t",
+          "nickname": "jordan_belf012t",
+          "text": "Cwek 18-25 itu masa primenya lagi direbutin banyak cwok mapan, sedangkan cwok 18-25 lgi grinding abis2an",
+          "likes": 2866,
+          "replies": 17,
+          "time": 1787267618,
+          "video_id": "7676096424802651413",
+          "type": "comment",
+          "parent_comment_id": ""
+        },
+        {
+          "comment_id": "7676280145091642133",
+          "author": "sipalingbola19",
+          "nickname": "Kurapika",
+          "text": "kakak gua umur 28 meninggal jir",
+          "likes": 879,
+          "replies": 72,
+          "time": 1787273588,
+          "video_id": "7676096424802651413",
+          "type": "comment",
+          "parent_comment_id": ""
+        },
+        {
+          "comment_id": "7676315768627266321",
+          "author": "kulipabrik_km10.2",
+          "nickname": "tm_smulders_km 10,2",
+          "text": "real bro . gwa umur dbwh 27 kerja gaji seadanya . jadi ob juga pernah . skrg gwa kerjanya sante. d umur 30 udah punya semua mobil, rumah, mtr,istri ,anak . alhamdulillah",
+          "likes": 429,
+          "replies": 16,
+          "time": 1787281548,
+          "video_id": "7676096424802651413",
+          "type": "comment",
+          "parent_comment_id": ""
+        },
+        {
+          "comment_id": "7676272727166829320",
+          "author": "ihh.ngintip",
+          "nickname": "video",
+          "text": "cowo umur 28 keatas yg mulai dari 0 lagi juga ada",
+          "likes": 137,
+          "replies": 16,
+          "time": 1787271542,
+          "video_id": "7676096424802651413",
+          "type": "comment",
+          "parent_comment_id": ""
+        },
+        {
+          "comment_id": "7676385613792510740",
+          "author": "jgptnwsn",
+          "nickname": "Sena-",
+          "text": "SAYA 28 baru mau berangkat kejepang , doakan ya teman2",
+          "likes": 42,
+          "replies": 21,
+          "time": 1787297814,
+          "video_id": "7676096424802651413",
+          "type": "comment",
+          "parent_comment_id": ""
+        }
+      ]
+    }
+  ]
+}

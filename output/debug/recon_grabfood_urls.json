@@ -1,0 +1,41 @@
+{
+  "apiUrls": [],
+  "links": [
+    {
+      "href": "/id/en/restaurants?category=chinese-45",
+      "text": "Chinese Food"
+    },
+    {
+      "href": "/id/en/restaurants?category=fast-food-62",
+      "text": "Fast Food"
+    },
+    {
+      "href": "/id/en/restaurants?category=indian-86",
+      "text": "Indian Food"
+    },
+    {
+      "href": "/id/en/restaurants?category=indonesian-87",
+      "text": "Indonesian Food"
+    },
+    {
+      "href": "/id/en/restaurants?category=italian-88",
+      "text": "Italian Food"
+    },
+    {
+      "href": "/id/en/restaurants?category=japanese-89",
+      "text": "Japanese Food"
+    },
+    {
+      "href": "/id/en/restaurants?category=korean-96",
+      "text": "Korean Food"
+    },
+    {
+      "href": "/id/en/restaurants?category=thai-178",
+      "text": "Thai Food"
+    },
+    {
+      "href": "/id/en/restaurants?category=vietnamese-188",
+      "text": "Vietnamese Food"
+    }
+  ]
+}

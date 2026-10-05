@@ -1,0 +1,14 @@
+{
+  "searchCalls": [
+    {
+      "method": "POST",
+      "url": "https://portal.grab.com/foodweb/guest/v2/search",
+      "postData": "{\"latlng\":\"-6.1767352,106.826504\",\"keyword\":\"sky pasta\",\"offset\":0,\"pageSize\":32,\"countryCode\":\"ID\"}"
+    },
+    {
+      "method": "POST",
+      "url": "https://portal.grab.com/foodweb/guest/v2/search",
+      "postData": "{\"latlng\":\"-6.1767352,106.826504\",\"keyword\":\"sky pasta\",\"offset\":0,\"pageSize\":32,\"countryCode\":\"ID\"}"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "https://gofood.co.id/jakarta/depok-restaurants?search=sky%20pasta": [
+    "/jakarta/restaurant/mcdonald-s-depok-town-center-2848e8f8-c5ce-4c97-ad9d-c93c1e237dbf",
+    "/jakarta/restaurant/ayam-gepuk-pak-gembus-jembatan-serong-new-f4e81123-74f8-456e-8dbc-423c35e67d3d",
+    "/jakarta/restaurant/cfc-sawangan-fad5a931-16a8-4105-929f-6861cf9c97e7",
+    "/jakarta/restaurant/bakmi-seafood-99-pancoran-mas-61575ca4-5898-46ba-a613-f77c2d798c62",
+    "/jakarta/restaurant/pizza-hut-depok-town-centre-9f789e52-62b3-41d1-8145-d5b66eb66cb0",
+    "/jakarta/restaurant/pizza-boxx-mampang-650a23f9-ec6f-4c91-9641-783d492a1b45",
+    "/jakarta/restaurant/kopi-janji-jiwa-graha-isco-sawangan-56481dd2-bda2-4aa3-bab3-a66205a9d79d"
+  ],
+  "https://gofood.co.id/jakarta/jakarta-selatan-restaurants?search=sky%20pasta": [
+    "/jakarta/restaurant/kfc-kemang-49b6ad5e-5fa3-4394-a4fc-44eb2e47afb8",
+    "/jakarta/restaurant/ayam-penyet-cabe-ijo-iya-ini-lesehan-damai-raya-893c1e63-cadd-46ca-9742-b4f68b3574d7",
+    "/jakarta/restaurant/solaria-kemang-village-4de32690-214c-4f4a-bd3d-53c5d1df3125",
+    "/jakarta/restaurant/mcdonald-s-kemang-b7bc28fc-3a60-4e6f-87bf-9e7b4444ce82",
+    "/jakarta/restaurant/burger-king-burger-dan-ayam-kemang-village-af68b732-56e7-4e69-8262-ddf703ea6ef8",
+    "/jakarta/restaurant/nasi-padang-payakumbuah-kemang-f3868165-8065-48bb-b1d3-87530465e7de",
+    "/jakarta/restaurant/bebek-carok-kemang-raya-3e8d9a69-f6e0-4bf9-aa38-3fd1549fd66f"
+  ],
+  "https://gofood.co.id/jakarta/kodya-tangerang-restaurants?search=sky%20pasta": [
+    "/jakarta/restaurant/solaria-mall-balekota-tangerang-lt-gb-45-4cb41b55-80a6-4c95-a5e9-15fc22cb6b86",
+    "/jakarta/restaurant/hokben-tangerang-32696ea8-5bbb-4556-83ad-33db9bf4b228",
+    "/jakarta/restaurant/kfc-kisamaun-77529a0e-6f41-465c-a0ce-77c8710de817",
+    "/jakarta/restaurant/hokben-tangerang-city-mall-1af960b2-5d02-4223-afc7-3ceaa21211c3",
+    "/jakarta/restaurant/mcdonald-s-strada-tangerang-81ea54b4-153b-4867-8ef0-e29ac4ca7a28",
+    "/jakarta/restaurant/richeese-factory-kisamaun-41281532-e410-4081-9139-fba2f14d50b7"
+  ],
+  "https://gofood.co.id/jakarta/kodya-bekasi-restaurants?search=sky%20pasta": [
+    "/jakarta/restaurant/hokben-ruko-galaxy-a8a6c609-92c3-41f9-8149-4d1cf4b73771",
+    "/jakarta/restaurant/solaria-lagoon-avenue-bekasi-05c235bf-47c7-48de-86d7-945417ff47b5",
+    "/jakarta/restaurant/pecel-lele-dua-saudara-satria-8f2f8354-8db8-458a-85f3-d66b92331013",
+    "/jakarta/restaurant/mcdonald-s-bintara-bekasi-e42d7091-5205-440f-ad36-e832fc8c9805",
+    "/jakarta/restaurant/nasi-goreng-gila-dua-saudara-jl-cendana-19-no-48-654aaedf-1b1e-419b-a9f3-6756d4ae1a91",
+    "/jakarta/restaurant/mixue-patriot-77148a8d-99c6-4de3-a582-86d82d429ce1",
+    "/jakarta/restaurant/republic-kebab-premium-kayuringin-jaya-1a41d3ad-d1e4-4de6-bfad-4afcb0a2ac1f",
+    "/jakarta/restaurant/hokben-kitchen-bintara-1f46e9d7-7e92-4ee0-8817-c8bd9865f017"
+  ],
+  "https://gofood.co.id/jakarta/jakarta-barat-restaurants?search=sky%20pasta": [
+    "/jakarta/restaurant/kfc-daan-mogot-5d838a48-f4a9-4baf-8e2e-9e0e356c32d7",
+    "/jakarta/restaurant/mcdonald-s-green-garden-32fe6ada-86c5-43bc-a36b-6d45b7852365",
+    "/jakarta/restaurant/hokben-tanjung-duren-4ad85d57-fd62-4056-ab06-ae4a9638101e",
+    "/jakarta/restaurant/kfc-tanjung-duren-18f9b859-7d33-4287-9fca-d87ce1c491cf",
+    "/jakarta/restaurant/hokben-kitchen-green-garden-kedoya-0e642c7b-8c61-47f0-bad3-1694741a96b3",
+    "/jakarta/restaurant/domino-s-pizza-green-garden-ebb8c772-22b6-4fa4-83fe-5dc3cbe870ed",
+    "/jakarta/restaurant/nasi-padang-rm-sederhana-bundo-green-ville-164fec5a-3f6d-40e5-bd7b-b7542fb57258"
+  ],
+  "https://gofood.co.id/jakarta/restaurants?search=sky": [
+    "/jakarta/restaurant/mcdonald-s-plaza-sentral-63f31567-d517-4803-9901-faf1b8f31c7c",
+    "/jakarta/restaurant/solaria-mall-lippo-nusantara-01083ae7-93da-4fd8-afa3-ae25089eb69c",
+    "/jakarta/restaurant/hokben-delivery-bendungan-hilir-7f3c6edd-8d2d-4224-b662-f7376e177d9f",
+    "/jakarta/restaurant/hokben-plaza-festival-059ae7a5-5fa2-480f-8a15-11b761b30e1f",
+    "/jakarta/restaurant/ayam-geprek-keprabon-express-ambassador-0ca2fb1a-8407-4375-b4a6-6b770300d48a",
+    "/jakarta/restaurant/burger-bangor-burger-ayam-benhil-51b3a078-1c94-46b4-a651-c0872438fccf",
+    "/jakarta/restaurant/nunwayo-bendungan-hilir-raya-072c55d1-d18f-4bd1-8753-70e59c64a6e8"
+  ]
+}

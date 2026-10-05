@@ -1,0 +1,22 @@
+{
+  "domInfo": {
+    "hasRating": false,
+    "ulasan": false,
+    "reviewNodeCount": 0,
+    "reviewNodes": [],
+    "starCounts": []
+  },
+  "clicked": null,
+  "events": [
+    {
+      "status": 200,
+      "url": "https://portal.grab.com/foodweb/guest/v2/merchants/6-CZMBUFTATB5HNN?latlng=-6.1767352,106.826504",
+      "ct": "application/json; charset=utf-8"
+    },
+    {
+      "status": 200,
+      "url": "https://mcd-gateway.grabtaxi.com/v2/web/track",
+      "ct": ""
+    }
+  ]
+}

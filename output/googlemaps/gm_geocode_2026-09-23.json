@@ -1,0 +1,81 @@
+{
+  "mode": "geocode",
+  "scraped_at": "2026-09-23T17:53:46.982Z",
+  "total_queries": 3,
+  "total_places": 5,
+  "results": [
+    {
+      "query": "-5.3834784,105.3036449",
+      "ok": true,
+      "places": [
+        {
+          "query": "-5.3834784,105.3036449",
+          "name": "5°23'00.5\"S 105°18'13.1\"E",
+          "place_id": "",
+          "address": "",
+          "lat": -5.3834784,
+          "lon": 105.3036449,
+          "link": "https://www.google.com/maps/place/5%C2%B023'00.5%22S+105%C2%B018'13.1%22E/@-5.3834784,105.3036449,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-5.3834784!4d105.3036449?hl=id&entry=ttu&g_ep=EgoyMDI2MDkyMC4wIKXMDSoASAFQAw%3D%3D",
+          "rating": 0,
+          "reviews_count": 0
+        }
+      ]
+    },
+    {
+      "query": "-f",
+      "ok": true,
+      "places": [
+        {
+          "query": "-f",
+          "name": "?",
+          "place_id": "",
+          "address": "",
+          "lat": -6.2521344,
+          "lon": 106.725376,
+          "link": "https://www.google.com/maps/search/-f/@-6.2521344,106.725376,9z?hl=id&entry=ttu&g_ep=EgoyMDI2MDkyMC4wIKXMDSoASAFQAw%3D%3D",
+          "rating": 0,
+          "reviews_count": 0
+        }
+      ]
+    },
+    {
+      "query": "json",
+      "ok": true,
+      "places": [
+        {
+          "query": "json",
+          "name": "PT. Json Optima Meditech",
+          "place_id": "0x2e69e52592ce8c3b:0x21496f12606bfa47",
+          "address": "Tidak ada ulasan",
+          "lat": -6.2520872,
+          "lon": 106.6253196,
+          "link": "https://www.google.com/maps/place/PT.+Json+Optima+Meditech/data=!4m7!3m6!1s0x2e69e52592ce8c3b:0x21496f12606bfa47!8m2!3d-6.2520872!4d106.6253196!16s%2Fg%2F11v60rhcch!19sChIJO4zOkiXlaS4RR_prYBJvSSE?authuser=0&hl=id&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+          "rating": 0,
+          "reviews_count": 0
+        },
+        {
+          "query": "json",
+          "name": "J-SON AUTO DETAILING n YOONG MOTOR SUBANG",
+          "place_id": "0x2e693b7d131e79fb:0xa21001d8933f026b",
+          "address": "4,3(372)",
+          "lat": -6.5611412,
+          "lon": 107.7653843,
+          "link": "https://www.google.com/maps/place/J-SON+AUTO+DETAILING+n+YOONG+MOTOR+SUBANG/data=!4m7!3m6!1s0x2e693b7d131e79fb:0xa21001d8933f026b!8m2!3d-6.5611412!4d107.7653843!16s%2Fg%2F11c0rmw0zq!19sChIJ-3keE307aS4RawI_k9gBEKI?authuser=0&hl=id&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+          "rating": 4.3,
+          "reviews_count": 0
+        },
+        {
+          "query": "json",
+          "name": "Jsn",
+          "place_id": "0x2e69ffd837da2759:0x65291410e4e5311a",
+          "address": "Tidak ada ulasan",
+          "lat": -6.1997358,
+          "lon": 106.6177924,
+          "link": "https://www.google.com/maps/place/Jsn/data=!4m7!3m6!1s0x2e69ffd837da2759:0x65291410e4e5311a!8m2!3d-6.1997358!4d106.6177924!16s%2Fg%2F11vlvz4fvl!19sChIJWSfaN9j_aS4RGjHl5BAUKWU?authuser=0&hl=id&g_ep=EgoyMDI2MDkyMC4wIJJjKgBIAVAD&rclk=1",
+          "rating": 0,
+          "reviews_count": 0
+        }
+      ]
+    }
+  ]
+}

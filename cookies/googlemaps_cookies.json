@@ -1,0 +1,11 @@
+[
+  {
+    "name": "NID",
+    "value": "534=MEMpHsnocR9lfMwb2SEYQd65VzlJSjCEXwILFHiOeKipBmZts_0SwSRKDwFYQm6AQg_KwGTnDBDXqV-X7feZd744YjpPxpsMeF7m0z0q9SW4qJeByh9xGSiFd_G6qo_4As_9M1OvqcLDBbnRYE9kxQ6ouA60wpI_d1ETMGaWOvbwOnSj0JnXn9dlS5fGNDGnZ1xyph0T0TAtNCiML_6eulXm99bVFJ6hHytfjnmJPUFs5s9YzyG4ZK35fTrroOteCK5ysdDYkIi46Ev2ZPpUfLF6Cctmdkt5sTFaXcJVTP8-UVLLLYn6g4RSo7Kxcv-yL4-QqFAThbbSYmtbo7QpDwNElt8IpShGRhRWFBTrQ3PWq_OUgFbaLc0Dwg2ZNeCoNBL4tzu_zX0gc_wXtE9Mm0tW2YUJLhJ9mnXS7Unie8FG1ah15Onu2Y3nAeruBpRlQTKWWBJrP5JNoo6bN0wGvtFvVLsGnhqlzQMA3vWEn_Ya082yApK9bN8p2b0UyKKWVUhfo0QorN1KwEDr9LzGMwQyyGIF-ge7IJCEIpxPSyGsxUsDXpDlPzDdzZaKeTEhct_pEUIQTZAyU8psH2uI08fMFUVrnKqoRmipRpTLZrVL28dpmxg1z8YJ_ujXHliae3ac-N0GCjUt572EeOy4N7v7bjnKkDKZXYaZ2dBbex14r_wwOjBY",
+    "domain": ".google.com",
+    "path": "/",
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  }
+]

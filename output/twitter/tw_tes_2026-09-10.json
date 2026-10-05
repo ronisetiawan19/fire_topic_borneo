@@ -1,0 +1,169 @@
+{
+  "query": [
+    "tes"
+  ],
+  "mode": "browser",
+  "scraped_at": "2026-09-10T12:13:57.138Z",
+  "total_tweets": 5,
+  "total_replies": 0,
+  "total_records": 5,
+  "tweets": [
+    {
+      "tweet_id": "1838094750345269381",
+      "text": "work! TO di alfaiz worth gak ya? Emang model skd yg asli model bgni kah? Maaf krn baru pertama kali mau tes. Ada saran TO lain gak? Terimakasih https://t.co/neKT3TMS3m",
+      "author": "worksfess",
+      "nickname": "WORK",
+      "user_id": "1244597361826885636",
+      "created_at": "Mon Sep 23 05:55:13 +0000 2024",
+      "likes": 5184,
+      "retweets": 400,
+      "replies": 166,
+      "quotes": 59,
+      "views": 583915,
+      "is_retweet": false,
+      "retweeted": false,
+      "is_quote": false,
+      "quoted_text": "",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/GYI5bzSWIAAsIuO.jpg",
+          "expanded_url": "https://x.com/worksfess/status/1838094750345269381/photo/1",
+          "preview": "",
+          "duration": 0
+        }
+      ],
+      "in_reply_to": "",
+      "url": "https://x.com//status/1838094750345269381",
+      "lang": "in",
+      "type": "tweet"
+    },
+    {
+      "tweet_id": "2096075733299044633",
+      "text": "TES is a workbench for machine tool develop by gpui-kit, for thermal error experiments, combining data acquisition, analysis, and modeling. GPUI Kit is going to professional apps and reaching new domains. https://t.co/udRzJaEwom https://t.co/XnltO2FBKw",
+      "author": "huacnlee",
+      "nickname": "Jason Lee",
+      "user_id": "14347537",
+      "created_at": "Sat Sep 05 03:19:32 +0000 2026",
+      "likes": 117,
+      "retweets": 11,
+      "replies": 1,
+      "quotes": 2,
+      "views": 9444,
+      "is_retweet": false,
+      "retweeted": false,
+      "is_quote": false,
+      "quoted_text": "",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096075646753763328/img/TW7wry6KBHUwIZuD.jpg",
+          "expanded_url": "https://x.com/huacnlee/status/2096075733299044633/video/1",
+          "preview": "https://video.twimg.com/amplify_video/2096075646753763328/pl/ildOkDOioGnB-x40.m3u8?tag=29",
+          "duration": 16233,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "url": "https://video.twimg.com/amplify_video/2096075646753763328/vid/avc1/432x270/j8IIFIYJBj1IU10n.mp4?tag=29"
+            },
+            {
+              "bitrate": 832000,
+              "url": "https://video.twimg.com/amplify_video/2096075646753763328/vid/avc1/576x360/DJg-oiobti9Pzc5w.mp4?tag=29"
+            },
+            {
+              "bitrate": 2176000,
+              "url": "https://video.twimg.com/amplify_video/2096075646753763328/vid/avc1/1152x720/9Sfjd0eVYiACFUSy.mp4?tag=29"
+            },
+            {
+              "bitrate": 10368000,
+              "url": "https://video.twimg.com/amplify_video/2096075646753763328/vid/avc1/1728x1080/9110VMyIwvAw13BX.mp4?tag=29"
+            },
+            {
+              "bitrate": 25128000,
+              "url": "https://video.twimg.com/amplify_video/2096075646753763328/vid/avc1/2560x1600/H1j9ferlCwJYHu9k.mp4?tag=29"
+            }
+          ]
+        }
+      ],
+      "in_reply_to": "",
+      "url": "https://x.com//status/2096075733299044633",
+      "lang": "en",
+      "type": "tweet"
+    },
+    {
+      "tweet_id": "2096962633153056900",
+      "text": "Pengguggat UU Polri: Polisi Aktif Jabat Sipil Tanpa Tes, Warga Biasa Jadi ASN Harus Tes Baca di https://t.co/r6aM8JKDtl https://t.co/qcVokHk8jI",
+      "author": "kompascom",
+      "nickname": "Kompas.com",
+      "user_id": "23343960",
+      "created_at": "Mon Sep 07 14:03:46 +0000 2026",
+      "likes": 1354,
+      "retweets": 545,
+      "replies": 26,
+      "quotes": 10,
+      "views": 28709,
+      "is_retweet": false,
+      "retweeted": false,
+      "is_quote": false,
+      "quoted_text": "",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRnoP1vbUAE0hHu.jpg",
+          "expanded_url": "https://x.com/kompascom/status/2096962633153056900/photo/1",
+          "preview": "",
+          "duration": 0
+        }
+      ],
+      "in_reply_to": "",
+      "url": "https://x.com//status/2096962633153056900",
+      "lang": "in",
+      "type": "tweet"
+    },
+    {
+      "tweet_id": "1979870223458054613",
+      "text": "Work! Gais besok pagi sender ada tes excel buat kerja di posisi admin, itu kira2 yg di tes apa aja ya? Sender masih awam sama excel jd mau belajar 😭😭",
+      "author": "worksfess",
+      "nickname": "WORK",
+      "user_id": "1244597361826885636",
+      "created_at": "Sun Oct 19 11:20:20 +0000 2025",
+      "likes": 504,
+      "retweets": 42,
+      "replies": 7,
+      "quotes": 0,
+      "views": 25446,
+      "is_retweet": false,
+      "retweeted": false,
+      "is_quote": false,
+      "quoted_text": "",
+      "media": [],
+      "in_reply_to": "",
+      "url": "https://x.com//status/1979870223458054613",
+      "lang": "in",
+      "type": "tweet"
+    },
+    {
+      "tweet_id": "2096103750213464210",
+      "text": "Apakah ada rekomendasi lembaga untuk melakukan tes toefl? wrk!",
+      "author": "worksfess",
+      "nickname": "WORK",
+      "user_id": "1244597361826885636",
+      "created_at": "Sat Sep 05 05:10:52 +0000 2026",
+      "likes": 95,
+      "retweets": 6,
+      "replies": 13,
+      "quotes": 0,
+      "views": 28489,
+      "is_retweet": false,
+      "retweeted": false,
+      "is_quote": false,
+      "quoted_text": "",
+      "media": [],
+      "in_reply_to": "",
+      "url": "https://x.com//status/2096103750213464210",
+      "lang": "in",
+      "type": "tweet"
+    }
+  ],
+  "replies": []
+}

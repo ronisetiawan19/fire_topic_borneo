@@ -1,0 +1,32 @@
+[
+  {
+    "url": "https://portal.grab.com/foodweb/guest/v2/merchants?latlng=-6.2394301,106.725286&keyword=sky%20pasta",
+    "status": 502,
+    "ct": "",
+    "bodyLength": 0
+  },
+  {
+    "url": "https://portal.grab.com/foodweb/guest/v2/merchants?latlng=-6.2394301,106.725286&q=sky%20pasta",
+    "status": 502,
+    "ct": "",
+    "bodyLength": 0
+  },
+  {
+    "url": "https://portal.grab.com/foodweb/guest/v2/search?latlng=-6.2394301,106.725286&keyword=sky%20pasta",
+    "status": 502,
+    "ct": "",
+    "bodyLength": 0
+  },
+  {
+    "url": "https://portal.grab.com/foodweb/guest/v2/dishes?latlng=-6.2394301,106.725286&keyword=sky%20pasta",
+    "status": 502,
+    "ct": "",
+    "bodyLength": 0
+  },
+  {
+    "url": "https://portal.grab.com/foodweb/v1/merchants/search?latlng=-6.2394301,106.725286&q=sky%20pasta",
+    "status": 502,
+    "ct": "",
+    "bodyLength": 0
+  }
+]

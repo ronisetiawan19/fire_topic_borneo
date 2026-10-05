@@ -1,0 +1,179 @@
+{
+  "source": "urls",
+  "mode": "api",
+  "scraped_at": "2026-09-10T22:50:49.931Z",
+  "total_tweets": 1,
+  "total_replies": 5,
+  "total_records": 6,
+  "tweets": [
+    {
+      "tweet_id": "2092284173730144732",
+      "text": "Introducing Starbase, Louisiana – a high-cadence launch site that will enable Starship to open a pathway to the stars for humanity. Thank you to @LAGovJeffLandry and the great people of Louisiana for all of their support as we work together on this audacious project → https://t.co/hq308hvg2g",
+      "author": "SpaceX",
+      "nickname": "SpaceX",
+      "user_id": "34743251",
+      "created_at": "Tue Aug 25 16:13:14 +0000 2026",
+      "likes": 36166,
+      "retweets": 6036,
+      "replies": 2020,
+      "quotes": 1650,
+      "views": 44473055,
+      "is_retweet": false,
+      "retweeted": false,
+      "is_quote": false,
+      "quoted_text": "",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2092279198882914304/img/Y9gj3r0G1VkopWM9.jpg",
+          "expanded_url": "https://x.com/SpaceX/status/2092284173730144732/video/1",
+          "preview": "https://video.twimg.com/amplify_video/2092279198882914304/pl/W3aYptrw9VzAjLhM.m3u8?tag=29&v=79d",
+          "duration": 348056,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "url": "https://video.twimg.com/amplify_video/2092279198882914304/vid/avc1/480x270/-JsKmZ4O1r7cht4K.mp4?tag=29"
+            },
+            {
+              "bitrate": 832000,
+              "url": "https://video.twimg.com/amplify_video/2092279198882914304/vid/avc1/640x360/tJNOiSdFEyYsMwvI.mp4?tag=29"
+            },
+            {
+              "bitrate": 2176000,
+              "url": "https://video.twimg.com/amplify_video/2092279198882914304/vid/avc1/1280x720/mwm_si2oQev4Q7il.mp4?tag=29"
+            },
+            {
+              "bitrate": 10368000,
+              "url": "https://video.twimg.com/amplify_video/2092279198882914304/vid/avc1/1920x1080/tdQc7Qbce9-3cGcp.mp4?tag=29"
+            },
+            {
+              "bitrate": 25128000,
+              "url": "https://video.twimg.com/amplify_video/2092279198882914304/vid/avc1/3840x2160/Xtk6bX0h0vwGTnG0.mp4?tag=29"
+            }
+          ]
+        }
+      ],
+      "in_reply_to": "",
+      "url": "https://x.com/SpaceX/status/2092284173730144732",
+      "lang": "en",
+      "type": "tweet"
+    }
+  ],
+  "replies": [
+    {
+      "tweet_id": "2093351320736715030",
+      "text": "@SpaceX @LAGovJeffLandry A launch site with its own power, propellant, port, processing and airport is not merely infrastructure. It’s vertical integration at civilization scale.",
+      "author": "amccobin",
+      "nickname": "Alexander McCobin",
+      "user_id": "21238631",
+      "created_at": "Fri Aug 28 14:53:42 +0000 2026",
+      "likes": 8,
+      "retweets": 4,
+      "replies": 3,
+      "quotes": 0,
+      "views": 1117,
+      "is_retweet": false,
+      "retweeted": false,
+      "is_quote": false,
+      "quoted_text": "",
+      "media": [],
+      "in_reply_to": "2092284173730144732",
+      "url": "https://x.com/amccobin/status/2093351320736715030",
+      "lang": "en",
+      "type": "tweet",
+      "parent_tweet_id": "2092284173730144732"
+    },
+    {
+      "tweet_id": "2092634641794568316",
+      "text": "@SpaceX @LAGovJeffLandry SpaceX is great - and I know Louisiana needs the revenue. However, if Elon is launching rockets during duck season near Pecan Island, that’s going to ruin the duck hunting down there for everyone who owns property or holds duck leases down there. Pecan Island is one of the",
+      "author": "slocumfortexas",
+      "nickname": "Tom Slocum for Texas 🇺🇸",
+      "user_id": "1461752034131013632",
+      "created_at": "Wed Aug 26 15:25:52 +0000 2026",
+      "likes": 17,
+      "retweets": 2,
+      "replies": 5,
+      "quotes": 0,
+      "views": 945,
+      "is_retweet": false,
+      "retweeted": false,
+      "is_quote": false,
+      "quoted_text": "",
+      "media": [],
+      "in_reply_to": "2092284173730144732",
+      "url": "https://x.com/slocumfortexas/status/2092634641794568316",
+      "lang": "en",
+      "type": "tweet",
+      "parent_tweet_id": "2092284173730144732"
+    },
+    {
+      "tweet_id": "2093039754065658144",
+      "text": "@SpaceX @LAGovJeffLandry The future should look like the future!",
+      "author": "BearBullTraders",
+      "nickname": "Andrew Aziz",
+      "user_id": "900886328274898944",
+      "created_at": "Thu Aug 27 18:15:38 +0000 2026",
+      "likes": 6,
+      "retweets": 3,
+      "replies": 0,
+      "quotes": 0,
+      "views": 703,
+      "is_retweet": false,
+      "retweeted": false,
+      "is_quote": false,
+      "quoted_text": "",
+      "media": [],
+      "in_reply_to": "2092284173730144732",
+      "url": "https://x.com/BearBullTraders/status/2093039754065658144",
+      "lang": "en",
+      "type": "tweet",
+      "parent_tweet_id": "2092284173730144732"
+    },
+    {
+      "tweet_id": "2095540850134749242",
+      "text": "Skor IQ bisa berbeda jauh antar individu — bahkan di antara orang-orang pintar sekalipun. WW IQ Test mengukur tingkat kecerdasan IQ-mu menggunakan metode yang telah terbukti secara ilmiah. Ikuti tesnya sekarang dan lihat di mana posisimu yang sebenarnya.",
+      "author": "wwiqtest",
+      "nickname": "WW IQ Test",
+      "user_id": "1681673386471174148",
+      "created_at": "Thu Sep 03 15:54:06 +0000 2026",
+      "likes": 845,
+      "retweets": 129,
+      "replies": 53,
+      "quotes": 2,
+      "views": 3646745,
+      "is_retweet": false,
+      "retweeted": false,
+      "is_quote": false,
+      "quoted_text": "",
+      "media": [],
+      "in_reply_to": "",
+      "url": "https://x.com/wwiqtest/status/2095540850134749242",
+      "lang": "in",
+      "type": "tweet",
+      "parent_tweet_id": "2092284173730144732"
+    },
+    {
+      "tweet_id": "2092599109475819524",
+      "text": "@SpaceX @LAGovJeffLandry I’ll tell my kids that this was the Louisiana Purchase",
+      "author": "ImJasonDunn",
+      "nickname": "Jason Dunn",
+      "user_id": "15809824",
+      "created_at": "Wed Aug 26 13:04:40 +0000 2026",
+      "likes": 10,
+      "retweets": 3,
+      "replies": 1,
+      "quotes": 0,
+      "views": 592,
+      "is_retweet": false,
+      "retweeted": false,
+      "is_quote": false,
+      "quoted_text": "",
+      "media": [],
+      "in_reply_to": "2092284173730144732",
+      "url": "https://x.com/ImJasonDunn/status/2092599109475819524",
+      "lang": "en",
+      "type": "tweet",
+      "parent_tweet_id": "2092284173730144732"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "my-scraping-tools-js",
+  "module": "src/tiktok.js",
+  "bin": {
+    "tiktok-scraper": "src/tiktok.js",
+    "youtube-scraper": "src/youtube.js",
+    "twitter-scraper": "src/twitter.js",
+    "googlemaps-scraper": "src/googlemaps.js",
+    "gofood-scraper": "src/gofood.js",
+    "ruko-scraper": "src/ruko.js"
+  },
+  "scripts": {
+    "start": "bun src/tiktok.js",
+    "yt": "bun src/youtube.js",
+    "tw": "bun src/twitter.js",
+    "gm": "bun src/googlemaps.js",
+    "gf": "bun src/gofood.js",
+    "ru": "bun src/ruko.js"
+  },
+  "dependencies": {
+    "commander": "^15.0.0",
+    "playwright": "^1.63.0",
+    "youtubei.js": "^18.0.0"
+  },
+  "private": true,
+  "type": "module"
+}

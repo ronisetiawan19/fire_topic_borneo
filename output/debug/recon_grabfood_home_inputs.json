@@ -1,0 +1,42 @@
+{
+  "inputs": [
+    {
+      "tag": "DIV",
+      "type": null,
+      "role": "combobox",
+      "placeholder": null,
+      "aria": null,
+      "id": "",
+      "cls": "ant-select-selection\n            ant-select-selection--single"
+    },
+    {
+      "tag": "INPUT",
+      "type": "text",
+      "role": null,
+      "placeholder": "Login to search location",
+      "aria": null,
+      "id": "location-input",
+      "name": "",
+      "cls": "ant-input ant-input-disabled"
+    }
+  ],
+  "requests": [
+    {
+      "method": "GET",
+      "url": "https://portal.grab.com/foodweb/guest/v2/category?latlng=-6.1767352,106.826504&categoryShortcutID=11512&offset=0&pageSize=8",
+      "hasGid": false
+    },
+    {
+      "method": "POST",
+      "url": "https://mcd-gateway.grabtaxi.com/v2/web/track",
+      "hasGid": false
+    }
+  ],
+  "events": [
+    {
+      "status": 200,
+      "ct": "application/json",
+      "url": "https://portal.grab.com/foodweb/guest/v2/category?latlng=-6.1767352,106.826504&categoryShortcutID=11512&offset=0&pageSize=8"
+    }
+  ]
+}

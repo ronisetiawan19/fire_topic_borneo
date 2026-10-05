@@ -1,0 +1,95 @@
+{
+  "query": [
+    "Sky Pasta Pamulang",
+    "Sky Pasta",
+    "SKY PASTA"
+  ],
+  "resolvedAt": "2026-09-14T15:38:39.185Z",
+  "results": [
+    {
+      "place_id": "0x2e69fbdbe8a5b805:0xbd185a49c676df34",
+      "name": "SKY PASTA CILEDUG",
+      "link": "https://www.google.com/maps/place/SKY+PASTA+CILEDUG/data=!4m7!3m6!1s0x2e69fbdbe8a5b805:0xbd185a49c676df34!8m2!3d-6.2408779!4d106.7163536!16s%2Fg%2F11jb1y2bw5!19sChIJBbil6Nv7aS4RNN92xklaGL0?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.8,
+      "reviews_count": 0,
+      "detail": "4,8(928) · Rp 25–50 rb",
+      "coords": {
+        "lat": -6.2408779,
+        "lon": 106.7163536
+      }
+    },
+    {
+      "place_id": "0x2e69f3b095fd3225:0x3f1efac6abd6d30f",
+      "name": "Sky Pasta",
+      "link": "https://www.google.com/maps/place/Sky+Pasta/data=!4m7!3m6!1s0x2e69f3b095fd3225:0x3f1efac6abd6d30f!8m2!3d-6.2317719!4d106.8535777!16s%2Fg%2F11vk_qhpgn!19sChIJJTL9lbDzaS4RD9PWq8b6Hj8?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.8,
+      "reviews_count": 0,
+      "detail": "4,8(3.324) · Rp 25–50 rb",
+      "coords": {
+        "lat": -6.2317719,
+        "lon": 106.8535777
+      }
+    },
+    {
+      "place_id": "0x2e69ef7eb4b388db:0x3a61b4c0aee9b7a",
+      "name": "Sky Pasta Pamulang",
+      "link": "https://www.google.com/maps/place/Sky+Pasta+Pamulang/data=!4m7!3m6!1s0x2e69ef7eb4b388db:0x3a61b4c0aee9b7a!8m2!3d-6.336231!4d106.7178875!16s%2Fg%2F11bzt1jtkz!19sChIJ24iztH7vaS4RepvuCkwbpgM?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.8,
+      "reviews_count": 0,
+      "detail": "4,8(4.603) · Rp 25–50 rb",
+      "coords": {
+        "lat": -6.336231,
+        "lon": 106.7178875
+      }
+    },
+    {
+      "place_id": "0x2e69f1d0e9f3df55:0x3695c0adc6c9e56f",
+      "name": "Sky Pasta Petukangan",
+      "link": "https://www.google.com/maps/place/Sky+Pasta+Petukangan/data=!4m7!3m6!1s0x2e69f1d0e9f3df55:0x3695c0adc6c9e56f!8m2!3d-6.2342241!4d106.7448028!16s%2Fg%2F11hq8twsfh!19sChIJVd_z6dDxaS4Rb-XJxq3AlTY?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.5,
+      "reviews_count": 0,
+      "detail": "4,5(242) · Rp 25–50 rb",
+      "coords": {
+        "lat": -6.2342241,
+        "lon": 106.7448028
+      }
+    },
+    {
+      "place_id": "0x2e69f7df3d774cdb:0x693739725d68490e",
+      "name": "Sky Pasta Binus Jakbar",
+      "link": "https://www.google.com/maps/place/Sky+Pasta+Binus+Jakbar/data=!4m7!3m6!1s0x2e69f7df3d774cdb:0x693739725d68490e!8m2!3d-6.2038491!4d106.7826622!16s%2Fg%2F11sm8p_x90!19sChIJ20x3Pd_3aS4RDkloXXI5N2k?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.9,
+      "reviews_count": 0,
+      "detail": "4,9(2.344) · Rp 25–50 rb",
+      "coords": {
+        "lat": -6.2038491,
+        "lon": 106.7826622
+      }
+    },
+    {
+      "place_id": "0x2e698d26dbd45897:0xfab452aa89bfaf4e",
+      "name": "Sky Pasta - Taman Galaxy Bekasi",
+      "link": "https://www.google.com/maps/place/Sky+Pasta+-+Taman+Galaxy+Bekasi/data=!4m7!3m6!1s0x2e698d26dbd45897:0xfab452aa89bfaf4e!8m2!3d-6.2556473!4d106.968169!16s%2Fg%2F11yb7jmx97!19sChIJl1jU2yaNaS4RTq-_iapStPo?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.9,
+      "reviews_count": 0,
+      "detail": "4,9(1.702) · Rp 25–50 rb",
+      "coords": {
+        "lat": -6.2556473,
+        "lon": 106.968169
+      }
+    },
+    {
+      "place_id": "0x2e69efe6e25beb15:0x52f4d0a318949e34",
+      "name": "Sky Pasta Cinere",
+      "link": "https://www.google.com/maps/place/Sky+Pasta+Cinere/data=!4m7!3m6!1s0x2e69efe6e25beb15:0x52f4d0a318949e34!8m2!3d-6.3207347!4d106.786239!16s%2Fg%2F11s8_fgsh6!19sChIJFetb4ubvaS4RNJ6UGKPQ9FI?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "rating": 4.7,
+      "reviews_count": 0,
+      "detail": "4,7(941)",
+      "coords": {
+        "lat": -6.3207347,
+        "lon": 106.786239
+      }
+    }
+  ],
+  "dump": "\n\n\nRestoran terdekat\n\nHotel\n\nRekomendasi aktivitas\n\nBar\n\nKopi\n\nBawa pulang\n\nMinimarket\n\n\n\nDisimpan\n\nTerbaru\nSky Pasta Pamulang\n\nDapatkan aplikasi\n\nLihat foto\nSky Pasta Pamulang\n4,8\nRestoran\nRingkasan\nTentang\n\nRute\n\nSimpan\n\nDi Sekitar\n\nKirim ke ponsel\n\nBagikan\n\nPesan online\n \nRestoran Italia sejuk yang menyajikan pasta dan pizza khas di ruang modern yang luas dengan teras teduh.\n\n \n\nJl. Vila Dago Raya, Benda Baru, Kec. Pamulang, Kota Tangerang Selatan, Banten 15415\n\n\nSege"
+}

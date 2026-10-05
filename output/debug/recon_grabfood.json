@@ -1,0 +1,1345 @@
+{
+  "scraped_at": "2026-09-12T13:43:11.357Z",
+  "captcha_seen": false,
+  "console_messages": [
+    {
+      "type": "log",
+      "text": "Datadog RUM is ready"
+    },
+    {
+      "type": "warning",
+      "text": "The resource https://food.grab.com/static/page-landing/hero-1.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+    },
+    {
+      "type": "warning",
+      "text": "Send an event first before flushing the data."
+    },
+    {
+      "type": "warning",
+      "text": "Send an event first before flushing the data."
+    },
+    {
+      "type": "warning",
+      "text": "Send an event first before flushing the data."
+    },
+    {
+      "type": "warning",
+      "text": "Send an event first before flushing the data."
+    },
+    {
+      "type": "error",
+      "text": "Failed to load resource: the server responded with a status of 404 ()"
+    },
+    {
+      "type": "warning",
+      "text": "When you see this message, you should check why this module is imported in client bundle. This module should be used/imported on server only."
+    },
+    {
+      "type": "warning",
+      "text": "When you see this message, you should check why this module is imported in client bundle. This module should be used/imported on server only."
+    },
+    {
+      "type": "log",
+      "text": "Datadog RUM is ready"
+    },
+    {
+      "type": "warning",
+      "text": "The resource https://food.grab.com/static/page-landing/hero-1.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+    },
+    {
+      "type": "warning",
+      "text": "Send an event first before flushing the data."
+    },
+    {
+      "type": "warning",
+      "text": "Send an event first before flushing the data."
+    },
+    {
+      "type": "warning",
+      "text": "Send an event first before flushing the data."
+    },
+    {
+      "type": "warning",
+      "text": "Send an event first before flushing the data."
+    },
+    {
+      "type": "error",
+      "text": "Failed to load resource: the server responded with a status of 404 ()"
+    },
+    {
+      "type": "warning",
+      "text": "When you see this message, you should check why this module is imported in client bundle. This module should be used/imported on server only."
+    },
+    {
+      "type": "warning",
+      "text": "When you see this message, you should check why this module is imported in client bundle. This module should be used/imported on server only."
+    },
+    {
+      "type": "log",
+      "text": "Datadog RUM is ready"
+    },
+    {
+      "type": "warning",
+      "text": "The resource https://food.grab.com/static/page-landing/hero-1.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+    },
+    {
+      "type": "warning",
+      "text": "The resource https://food.grab.com/static/page-landing/hero-1.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+    },
+    {
+      "type": "warning",
+      "text": "Send an event first before flushing the data."
+    },
+    {
+      "type": "warning",
+      "text": "Send an event first before flushing the data."
+    },
+    {
+      "type": "warning",
+      "text": "Send an event first before flushing the data."
+    },
+    {
+      "type": "warning",
+      "text": "Send an event first before flushing the data."
+    },
+    {
+      "type": "warning",
+      "text": "When you see this message, you should check why this module is imported in client bundle. This module should be used/imported on server only."
+    },
+    {
+      "type": "warning",
+      "text": "When you see this message, you should check why this module is imported in client bundle. This module should be used/imported on server only."
+    },
+    {
+      "type": "log",
+      "text": "Datadog RUM is ready"
+    },
+    {
+      "type": "warning",
+      "text": "[Meta Pixel] - Invalid parameter format for currency. Please refer https://developers.facebook.com/docs/meta-pixel/reference/ for valid parameter specifications."
+    },
+    {
+      "type": "warning",
+      "text": "The resource https://food.grab.com/static/page-landing/hero-1.webp was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally."
+    }
+  ],
+  "network_page_events": [
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/food-web.c1ec241f6347c30fb688.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/sentry.ef6e8e164008d5074e31.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/antd.6fb9ff4af976414902fe.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/animations.fa95197891aa3b2ee792.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/moment.85e826cabac9e5f23c3a.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/rxjs.1edc65595247436bef16.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/utils.deb8156d07a95c764609.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/redux.beaa430cecd2ad1cd875.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/shared.59030ad69214d0b6ef4e.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/react.ed0378abd3c25c4cd2b6.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/styles.5ab8ec4feef01e1499ff.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/runtime/main-b93071c3987e36bd0ffb.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/css/styles.a2b474c9.chunk.css",
+      "type": "stylesheet",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/page-landing/hero-1.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/images/chicken-bowl.svg",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/images/logo-grabfood-mono.svg",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/images/icons/icon-cart-default-black.svg",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/images/logo-grabfood2.svg",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/images/logo-grabfood-white2.svg",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/r7QcvLgfvvXwls2thqHJt/pages/_error.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/rc-select.fd1c0d00fe0af7080668.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/locales/en/common.json",
+      "type": "xhr",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/337.8e9afc0b8140f5775054.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/images/logo-appstore.svg",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/images/logo-playstore.svg",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/images/logo-grabfood2.svg",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/images/logo-grabfood-white2.svg",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://www.google.com/ccm/collect?rcb=12&frm=0&apvc=1&ae=g&auid=990946440.1789220528&dt=404%20Not%20Found&en=page_view&dl=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fsearch%3Fq%3Dsky%2520pasta%2520galaxy%2520bekasi&scrsrc=www.googletagmanager.com&rnd=1802319179.1789220570&navt=n&npa=0&ep.ads_data_redaction=0&gtm=45He6992v811309865za200zd811309865xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776795~118897920~118897930~120385422~120469145~120469153&tft=1789220570502&tfd=495&fmt=8",
+      "type": "fetch",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&a=197574783&t=pageview&_s=1&dl=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fsearch%3Fq%3Dsky%2520pasta%2520galaxy%2520bekasi&ul=id-id&dt=404%20Not%20Found&sr=1280x900&vp=1265x900&_u=QACAAEABAAAAACAAI~&jid=&gjid=&cid=530074496.1789220529&uid=&tid=UA-73060858-24&_gid=968227584.1789220532&_slc=1&gtm=45He6992n81KMVG85Xv811309865za200zd811309865&cd1=&cd2=Jakarta&cd4=false&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938469~117776795~118897920~118897930~120385422~120469145~120469153&z=82242910",
+      "type": "xhr",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://www.google.com/measurement/conversion?random=1789220570558&cv=11&tid=G-RPEHNJMMEM&fst=1789220570558&fmt=8&en=view_search_results&gtm=45je6992v882544010za20gzb811309865zd811309865xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776795~118869188~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1280&u_h=900&url=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fsearch%3Fq%3Dsky%2520pasta%2520galaxy%2520bekasi&gacid=530074496.1789220529&ae=a&frm=0&tiba=404%20Not%20Found&npa=0&pscdl=noapi&auid=990946440.1789220528&uaa=x86&uab=64&uafvl=Chromium%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&rcb=8",
+      "type": "fetch",
+      "headers": {}
+    },
+    {
+      "status": 204,
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-RPEHNJMMEM&gtm=45je6992v882544010za20gzb811309865zd811309865&_p=1789220570134&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=293716558&_eu=AEAEAGQC&_platinum_request_status=ok&ae=a&cid=530074496.1789220529&ec_mode=a&frm=0&pscdl=noapi&rcb=8&sr=1280x900&uaa=x86&uab=64&uafvl=Chromium%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0&uam=&uamb=0&uap=macOS&uapv=10_15_7&uaw=0&ul=id-id&gaf=2&_s=1&tag_exp=115938465~115938468~117776795~118869188~118897920~118897930~120213116~120385423~120469145~120469153&uid=&sid=1789220529&sct=1&seg=1&dl=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fsearch%3Fq%3Dsky%2520pasta%2520galaxy%2520bekasi&dt=404%20Not%20Found&en=view_search_results&_c=1&ep.search_term=sky%20pasta%20galaxy%20bekasi&tfd=588",
+      "type": "fetch",
+      "headers": {}
+    },
+    {
+      "status": 204,
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-RPEHNJMMEM&gtm=45je6992v882544010z8811309865za20gzb811309865zd811309865&_p=1789220570134&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=293716558&_eu=AAAAAGQC&_platinum_request_status=ok&cid=530074496.1789220529&ec_mode=a&frm=0&pscdl=noapi&rcb=8&sr=1280x900&uaa=x86&uab=64&uafvl=Chromium%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0&uam=&uamb=0&uap=macOS&uapv=10_15_7&uaw=0&ul=id-id&gaf=2&_s=2&tag_exp=115938465~115938468~117776795~118869188~118897920~118897930~120213116~120385423~120469145~120469153&uid=&sid=1789220529&sct=1&seg=1&dl=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fsearch%3Fq%3Dsky%2520pasta%2520galaxy%2520bekasi&dt=404%20Not%20Found&en=page_view&_c=1&ep.location=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fsearch%3Fq%3Dsky%2520pasta%2520galaxy%2520bekasi&ep.food_visitorId=&ep.addressInput=Jakarta&ep.newUser=false&ep.siteSpeedSampleRate=100&ep.address=Jakarta&_et=13&tfd=621",
+      "type": "fetch",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://connect.facebook.net/signals/config/517824045640036?v=2.9.398&r=stable&domain=food.grab.com&hme=457e068698591ac437afb4b2e5fbe0266b08712615b8792436a91385ebda0da3&ex_m=115%2C227%2C166%2C26%2C80%2C81%2C158%2C76%2C75%2C11%2C176%2C100%2C20%2C150%2C138%2C45%2C83%2C88%2C146%2C171%2C178%2C31%2C17%2C30%2C18%2C32%2C33%2C34%2C36%2C54%2C159%2C85%2C123%2C22%2C24%2C50%2C46%2C48%2C47%2C93%2C102%2C106%2C121%2C157%2C160%2C52%2C122%2C28%2C25%2C130%2C77%2C42%2C162%2C161%2C163%2C154%2C152%2C29%2C41%2C65%2C120%2C173%2C78%2C21%2C125%2C91%2C74%2C23%2C95%2C96%2C127%2C94%2C148%2C147%2C151%2C107%2C172%2C175%2C40%2C55%2C124%2C53%2C8%2C4%2C5%2C7%2C6%2C3%2C101%2C112%2C180%2C179%2C194%2C241%2C82%2C255%2C254%2C253%2C14%2C27%2C39%2C61%2C114%2C67%2C10%2C71%2C108%2C109%2C110%2C116%2C141%2C37%2C35%2C143%2C144%2C145%2C140%2C139%2C167%2C84%2C170%2C168%2C169%2C56%2C66%2C134%2C19%2C174%2C51%2C305%2C306%2C307%2C304%2C320%2C344%2C234%2C223%2C68%2C224%2C222%2C347%2C338%2C58%2C235%2C118%2C142%2C90%2C132%2C60%2C131%2C137%2C136%2C64%2C72%2C70%2C164%2C86%2C87%2C126%2C43%2C38%2C59%2C62%2C111%2C177%2C1%2C135%2C16%2C133%2C12%2C2%2C63%2C103%2C15%2C73%2C69%2C129%2C99%2C98%2C182%2C183%2C104%2C105%2C9%2C113%2C181%2C57%2C155%2C97%2C89%2C79%2C128%2C117%2C49%2C156%2C0%2C92%2C149%2C153%2C165%2C44%2C119%2C13%2C184",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 302,
+      "url": "https://www.google.com/measurement/conversion?random=1789220570607&cv=11&tid=G-RPEHNJMMEM&fst=1789220570607&fmt=8&en=page_view&gtm=45je6992v882544010z8811309865za20gzb811309865zd811309865xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776795~118869188~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1280&u_h=900&url=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fsearch%3Fq%3Dsky%2520pasta%2520galaxy%2520bekasi&gacid=530074496.1789220529&frm=0&tiba=404%20Not%20Found&npa=0&pscdl=noapi&auid=990946440.1789220528&uaa=x86&uab=64&uafvl=Chromium%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&rcb=8",
+      "type": "fetch",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://www.google.com/measurement/1p-conversion/?random=582742333&cv=11&tid=G-RPEHNJMMEM&fst=1789220570607&fmt=8&en=page_view&gtm=45je6992v882544010z8811309865za20gzb811309865zd811309865xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938465~115938468~117776795~118869188~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1280&u_h=900&url=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fsearch%3Fq%3Dsky%2520pasta%2520galaxy%2520bekasi&gacid=530074496.1789220529&frm=0&tiba=404%20Not%20Found&npa=0&pscdl=noapi&auid=990946440.1789220528&uaa=x86&uab=64&uafvl=Chromium%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&rcb=8&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgji6rECCOjusQIIkuuxAgjJ47ECCJfUsQIIyduxAgjN5rECCLHhsQIIs-GxAgim3bECCLDesQIIgNuxAgjN4bECCMvhsQI&cerd=CgiDsL4tyOy-LQ&fsk=ChAI8PCT1QYQoPz-tt-KlKonEiwAN2jFb1gGkQPcXEu0mJuoNY6Ci1erojpdt58T_x8s6aBbXj68-GdfFMEc7BoCcFA&pscrd=IhMIjuKMhJbplgMVAzyDAx1HUhmcOhZodHRwczovL2Zvb2QuZ3JhYi5jb20vQldDaEFJOFBDVDFRWVEtdi01eXZ6NDN1Ti1FaTBBWkVzTjBaOFlmaF9jRDMwQlhHbmpCNy1YMlR0MEZ5WDZ2MFNHVXRNRC1uaU0wbnlFSkdzUjhJSkxMNDR6DAgJYggIABAAGAAgAA",
+      "type": "fetch",
+      "headers": {}
+    },
+    {
+      "status": 204,
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-RPEHNJMMEM&gtm=45je6992v882544010z8811309865za20gzb811309865zd811309865&_p=1789220570134&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=293716558&_eu=AAAAAGQC&cid=530074496.1789220529&frm=0&pscdl=noapi&rcb=8&sr=1280x900&uaa=x86&uab=64&uafvl=Chromium%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0&uam=&uamb=0&uap=macOS&uapv=10_15_7&uaw=0&ul=id-id&gaf=2&tag_exp=115938465~115938468~117776795~118869188~118897920~118897930~120213116~120385423~120469145~120469153&sid=1789220529&sct=1&seg=1&dl=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fsearch%3Fq%3Dsky%2520pasta%2520galaxy%2520bekasi&dt=404%20Not%20Found&_s=3&tfd=5651",
+      "type": "fetch",
+      "headers": {}
+    },
+    {
+      "status": 301,
+      "url": "https://food.grab.com/id/en/restaurants?category=chinese-45",
+      "type": "document",
+      "headers": {}
+    },
+    {
+      "status": 301,
+      "url": "https://food.grab.com/cuisines/chinese-delivery/45",
+      "type": "document",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/id/en/cuisines/chinese-delivery/45",
+      "type": "document",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://scribe-web-sdk.grab.com/scribe_bundle.min.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/fonts/inter_grab_web/Inter-Bold.woff2",
+      "type": "font",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/fonts/inter_grab_web/Inter-Regular.woff2",
+      "type": "font",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/fonts/inter_grab_web/InterTHLooped-Medium.woff2",
+      "type": "font",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/icomoon/fonts/icomoon.woff?gkvj8l",
+      "type": "font",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/r7QcvLgfvvXwls2thqHJt/pages/_app.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/334.28709820adcb18423461.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/333.9193feb18ac2eda6bb68.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/common-utils.13c5bf4024a08ee849ea.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/332.74a51de66899c07139e2.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/273.6358b53a4c131cd686bb.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/299.67fc16db8312e2f9ded5.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/298.48128b7a800c9d9d0512.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/269.0c966669c29d6506176a.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/335.b3b5f9c113e08b5a9afd.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/276.55e5486fc50941ca2d9c.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/321.87d682bd9dd338c5d23b.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/runtime/webpack-cee9dcbfa0da1c071bc4.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/next-i18next.531ce852f03376168c92.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/rc-menu.6c70b100446dfff698c6.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/lodash.adf164632f64b1c67c8e.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/food-web.c1ec241f6347c30fb688.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/sentry.ef6e8e164008d5074e31.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/antd.6fb9ff4af976414902fe.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/animations.fa95197891aa3b2ee792.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/moment.85e826cabac9e5f23c3a.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/rxjs.1edc65595247436bef16.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/utils.deb8156d07a95c764609.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/redux.beaa430cecd2ad1cd875.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/shared.59030ad69214d0b6ef4e.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/react.ed0378abd3c25c4cd2b6.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/styles.5ab8ec4feef01e1499ff.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/runtime/main-b93071c3987e36bd0ffb.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/css/styles.a2b474c9.chunk.css",
+      "type": "stylesheet",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/page-landing/hero-1.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/images/logo-grabfood-mono.svg",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/images/icons/icon-cart-default-black.svg",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/27.d5d207264182d15b9da6.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/30.3a47c13f5f9eb10fbfa6.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/280.8b2a8664b1fd9e7b3090.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/images/logo-grabfood2.svg",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/images/logo-grabfood-white2.svg",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/289.d7d3dd006c65c5369c3c.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/290.c17ebdbdecddb7b8b0fb.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/316.e11a92b872c78e8505bb.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/317.91a53ed289dbad6cb665.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/263.36622760361c88486bf5.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/29.fd51ab378b986cbac46a.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/45.1fd6f869c0d5979d191f.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/265.b44abefb07c5bd8fce1b.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/262.bc6175ef5da302bb6979.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/266.cac05afc3f3d43e6a676.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/261.028c8d21de1614d6d97b.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/260.d7ccceef0ac04d94e669.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/259.ca6908f61a4b482bf527.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/r7QcvLgfvvXwls2thqHJt/pages/restaurants.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/268.6107164439fbcdad5690.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/rc-select.fd1c0d00fe0af7080668.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/locales/en/common.json",
+      "type": "xhr",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/337.8e9afc0b8140f5775054.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/images/logo-appstore.svg",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/images/logo-playstore.svg",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/images/logo-grabfood2.svg",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/images/logo-grabfood-white2.svg",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/23.41ec08d0a7d4a8569f0b.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/images/icons/icon-next.svg",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://portal.grab.com/foodweb/guest/v2/category/shortcuts?latlng=-6.1767352,106.826504&countryCode=ID&cityID=0",
+      "type": "xhr",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/41.4b9c21a84423dab0bdb6.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food-cms.grab.com/compressed_webp/collections/25162/icons/21d3ff26c2f24c96b921207868c92df9_1788973211751664255.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food-cms.grab.com/compressed_webp/collections/28864/icons/5780bd49f38c4242b66d2a85b45f23d8_1787814691166301718.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food-cms.grab.com/compressed_webp/collections/30195/icons/1c211ffb659f46d88bf9152e53290761_1785910658877124701.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food-cms.grab.com/compressed_webp/collections/19237/icons/632d254be91d4533bc3beef3c3724898_1788218811465523548.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food-cms.grab.com/compressed_webp/collections/17975/icons/82dbad3d900a42d09fd80596cbd691b0_1788233053305726017.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food-cms.grab.com/compressed_webp/collections/24829/icons/5347a44a01d944abb9edb290b7955ade_1788233202460605865.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food-cms.grab.com/compressed_webp/collections/15771/icons/7e35d4dea4ee4d069448039fde486399_1760970722643020754.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food-cms.grab.com/compressed_webp/collections/26115/icons/6f7fa56e6dfb46b7bfad2271f0ec43b0_1760960891942346282.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food-cms.grab.com/compressed_webp/collections/24834/icons/58e7fb88d53f49ad9f41cbf40476b871_1760970940882150241.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://www.google.com/ccm/collect?rcb=16&frm=0&apvc=1&ae=g&auid=990946440.1789220528&dt=Food%20Promos%20in%20Jakarta%20%7C%20GrabFood%20ID&en=page_view&dl=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45&scrsrc=www.googletagmanager.com&rnd=204624360.1789220582&navt=n&npa=0&ep.ads_data_redaction=0&gtm=45He6992v811309865za200zd811309865xea&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938469~117776795~118897920~118897930~120385423~120469145~120469153&tft=1789220582103&tfd=1378&fmt=8",
+      "type": "fetch",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://portal.grab.com/foodweb/guest/v2/category?latlng=-6.1767352,106.826504&categoryShortcutID=45&offset=0&pageSize=32",
+      "type": "xhr",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&a=1385362801&t=pageview&_s=1&dl=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45&ul=id-id&dt=Food%20Promos%20in%20Jakarta%20%7C%20GrabFood%20ID&sr=1280x900&vp=1265x885&_u=QACAAEABAAAAACAAI~&jid=&gjid=&cid=530074496.1789220529&uid=&tid=UA-73060858-24&_gid=968227584.1789220532&_slc=1&gtm=45He6992n81KMVG85Xv811309865za200zd811309865&cd1=&cd2=Jakarta&cd4=false&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938469~117776795~118897920~118897930~120385423~120469145~120469153&z=951550840",
+      "type": "xhr",
+      "headers": {}
+    },
+    {
+      "status": 204,
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-RPEHNJMMEM&gtm=45je6992v882544010z8811309865za20gzb811309865zd811309865&_p=1789220580966&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=293716558&_eu=AAAAAGQC&_platinum_request_status=ok&cid=530074496.1789220529&ec_mode=a&frm=0&pscdl=noapi&rcb=3&sr=1280x900&uaa=x86&uab=64&uafvl=Chromium%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0&uam=&uamb=0&uap=macOS&uapv=10_15_7&uaw=0&ul=id-id&gaf=2&_s=1&tag_exp=115616986~115938466~115938469~117776795~118869188~118897920~118897930~120213116~120385422~120469145~120469153~120912438&uid=&sid=1789220529&sct=1&seg=1&dl=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45&dt=Food%20Promos%20in%20Jakarta%20%7C%20GrabFood%20ID&en=page_view&_c=1&ep.location=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45&ep.food_visitorId=&ep.addressInput=Jakarta&ep.newUser=false&ep.siteSpeedSampleRate=100&ep.address=Jakarta&_et=11&tfd=1532",
+      "type": "fetch",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/_next/static/chunks/44.f769910c9007efc20215.js",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 204,
+      "url": "https://www.googletagmanager.com/td?id=G-RPEHNJMMEM&mde=DC-6254042;0_1&v=3&t=t&pid=1477359396&gtm=45je6992v882544010za20gzb811309865zd811309865&seq=1&exp=115616986~115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~120912438&dl=food.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45&tdp=G-RPEHNJMMEM;82544010;1;6;0&frm=0&rtg=11309865&slo=0&hlo=2&lst=1&pcid=11309865&bt=0&ct=3&jsp=1&z=0",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/images/icons/icon-preferred-merchant.svg",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/images/icons/icon-star.svg",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://food.grab.com/static/images/icons/icon-clock.svg",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 302,
+      "url": "https://www.google.com/measurement/conversion?random=1789220582224&cv=11&tid=G-RPEHNJMMEM&fst=1789220582224&fmt=8&en=page_view&gtm=45je6992v882544010z8811309865za20gzb811309865zd811309865xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938469~117776795~118869188~118897920~118897930~120213116~120385422~120469145~120469153~120912438&u_w=1280&u_h=900&url=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45&gacid=530074496.1789220529&frm=0&tiba=Food%20Promos%20in%20Jakarta%20%7C%20GrabFood%20ID&npa=0&pscdl=noapi&auid=990946440.1789220528&uaa=x86&uab=64&uafvl=Chromium%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&rcb=3",
+      "type": "fetch",
+      "headers": {}
+    },
+    {
+      "status": 204,
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-RPEHNJMMEM&cx=c&gtm=4e6992&is_td=1&mde=DC-6254042;0_1&v=3&t=t&pid=1477359396&gtm=45je6992v882544010za20gzb811309865zd811309865&seq=1&exp=115616986~115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~120912438&dl=food.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45&tdp=G-RPEHNJMMEM;82544010;1;6;0&frm=0&rtg=11309865&slo=0&hlo=2&lst=1&pcid=11309865&bt=0&ct=3&jsp=1&z=0",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://www.google.com/measurement/1p-conversion/?random=1957455616&cv=11&tid=G-RPEHNJMMEM&fst=1789220582224&fmt=8&en=page_view&gtm=45je6992v882544010z8811309865za20gzb811309865zd811309865xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616986~115938466~115938469~117776795~118869188~118897920~118897930~120213116~120385422~120469145~120469153~120912438&u_w=1280&u_h=900&url=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45&gacid=530074496.1789220529&frm=0&tiba=Food%20Promos%20in%20Jakarta%20%7C%20GrabFood%20ID&npa=0&pscdl=noapi&auid=990946440.1789220528&uaa=x86&uab=64&uafvl=Chromium%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0&uamb=0&uam=&uap=macOS&uapv=10_15_7&uaw=0&rcb=3&ct_cookie_present=false&crd=CLTesQII8t-xAgit4bECCK_hsQIIobixAgixwbECCLDBsQIIscOxAgiKxbECCMLJsQII1-ixAgi0xrECCJPasQII29yxAgiH27ECCNPFsQII68yxAgjtzrECCNXPsQII9NqxAgji6rECCOjusQIIkuuxAgjJ47ECCJfUsQIIyduxAgjN5rECCLHhsQIIs-GxAgim3bECCLDesQIIgNuxAgjN4bEC&cerd=CgS5674t&fsk=ChAI8PCT1QYQoPz-tt-KlKonEiwAN2jFb2lm3itjIoQWAjqay0j4YaBrJiqhcnaeJVri6HD-oQ7_0Oqzy1oHPRoC9EM&pscrd=IhMI77rSiZbplgMVVK5mAh32cgCFOhZodHRwczovL2Zvb2QuZ3JhYi5jb20vQldDaEFJOFBDVDFRWVEtdi01eXZ6NDN1Ti1FaTBBWkVzTjBaUGFfeEJKVWp1MnFQcWc4aTdVcWhiamRROS1rOXFOeG5NUWU4dFE1Q29qMFMxUXZkRVUzMGN6DAgJYggIABAAGAAgAA",
+      "type": "fetch",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://connect.facebook.net/signals/config/517824045640036?v=2.9.398&r=stable&domain=food.grab.com&hme=457e068698591ac437afb4b2e5fbe0266b08712615b8792436a91385ebda0da3&ex_m=115%2C227%2C166%2C26%2C80%2C81%2C158%2C76%2C75%2C11%2C176%2C100%2C20%2C150%2C138%2C45%2C83%2C88%2C146%2C171%2C178%2C31%2C17%2C30%2C18%2C32%2C33%2C34%2C36%2C54%2C159%2C85%2C123%2C22%2C24%2C50%2C46%2C48%2C47%2C93%2C102%2C106%2C121%2C157%2C160%2C52%2C122%2C28%2C25%2C130%2C77%2C42%2C162%2C161%2C163%2C154%2C152%2C29%2C41%2C65%2C120%2C173%2C78%2C21%2C125%2C91%2C74%2C23%2C95%2C96%2C127%2C94%2C148%2C147%2C151%2C107%2C172%2C175%2C40%2C55%2C124%2C53%2C8%2C4%2C5%2C7%2C6%2C3%2C101%2C112%2C180%2C179%2C194%2C241%2C82%2C255%2C254%2C253%2C14%2C27%2C39%2C61%2C114%2C67%2C10%2C71%2C108%2C109%2C110%2C116%2C141%2C37%2C35%2C143%2C144%2C145%2C140%2C139%2C167%2C84%2C170%2C168%2C169%2C56%2C66%2C134%2C19%2C174%2C51%2C305%2C306%2C307%2C304%2C320%2C344%2C234%2C223%2C68%2C224%2C222%2C347%2C338%2C58%2C235%2C118%2C142%2C90%2C132%2C60%2C131%2C137%2C136%2C64%2C72%2C70%2C164%2C86%2C87%2C126%2C43%2C38%2C59%2C62%2C111%2C177%2C1%2C135%2C16%2C133%2C12%2C2%2C63%2C103%2C15%2C73%2C69%2C129%2C99%2C98%2C182%2C183%2C104%2C105%2C9%2C113%2C181%2C57%2C155%2C97%2C89%2C79%2C128%2C117%2C49%2C156%2C0%2C92%2C149%2C153%2C165%2C44%2C119%2C13%2C184",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_avif/merchants/6-C6TACF5BA7XDEJ/hero/6b2fbe6bb2ec43d9bb7c5a7fb5e99125_1720012181026911562.avif",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_avif/merchants/6-C7D2C6KXR35TJA/hero/8a908164-f2d2-4c31-9f74-0a9478de7991__store_cover__2026__09__08__10__57__53.avif",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C7EEE8BTNFCTME/hero/61840e93-9295-4348-aed5-ecd6c1d5c597__store_cover__2025__06__01__07__59__34.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C36YG2BFRVC3BA/hero/b31d77e0925840d8a4b34304f1e91a80_1679562109379503130.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C63DLPUGA2WASE/hero/a44e0782f3c14e4d9314a0c34a52e39a_1732364905421265338.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C2AAVEVXATTXGE/hero/17ca544f315f4a77a80368763bc6739f_1600091254063946883.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/IDGFSTI00002o6t/hero/ce0f2dad98514241964440ee157fe89d_1647227899014937515.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C2KFFBWWVEWJKA/hero/86d7ea0411cd43178c58d400b48a6b1f_1612581509238817925.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 302,
+      "url": "https://6254042.fls.doubleclick.net/activityi;src=6254042;type=gfwoid;cat=gfwoid;rcb=1;ord=9617566937750;npa=0;auiddc=990946440.1789220528;uaa=x86;uab=64;uafvl=Chromium%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6992v9190986293z8811309865za20gzb811309865zd811309865xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938466~115938468~117776795~118897920~118897930~120213116~120385422~120420415~120469145~120469153;epver=2;dc_random=1789220582_4onvf0GDwqV6EKg0M0JTI3-_AkniPeqc8A;_dc_test=1;~oref=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45?",
+      "type": "document",
+      "headers": {}
+    },
+    {
+      "status": 302,
+      "url": "https://6254042.fls.doubleclick.net/activityi;src=6254042;type=gfwoid;cat=gfwoidrh;rcb=1;ord=3618986065636;npa=0;auiddc=990946440.1789220528;uaa=x86;uab=64;uafvl=Chromium%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6992v9190986293z8811309865za20gzb811309865zd811309865xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938466~115938468~117776795~118897920~118897930~120213116~120385422~120420415~120469145~120469153;epver=2;dc_random=1789220582_GobE4glfTWYCe2h-p-K92t4687-BYRIvhg;_dc_test=1;~oref=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45?",
+      "type": "document",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://6254042.fls.doubleclick.net/activityi;dc_pre=CKzU8YmW6ZYDFeSBrAIdCEkBOA;src=6254042;type=gfwoid;cat=gfwoid;rcb=1;ord=9617566937750;npa=0;auiddc=990946440.1789220528;uaa=x86;uab=64;uafvl=Chromium%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6992v9190986293z8811309865za20gzb811309865zd811309865xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938466~115938468~117776795~118897920~118897930~120213116~120385422~120420415~120469145~120469153;epver=2;dc_random=1789220582_4onvf0GDwqV6EKg0M0JTI3-_AkniPeqc8A;_dc_test=1;~oref=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45?",
+      "type": "document",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://6254042.fls.doubleclick.net/activityi;dc_pre=CJyF8omW6ZYDFXe3rAIdiaQ10g;src=6254042;type=gfwoid;cat=gfwoidrh;rcb=1;ord=3618986065636;npa=0;auiddc=990946440.1789220528;uaa=x86;uab=64;uafvl=Chromium%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6992v9190986293z8811309865za20gzb811309865zd811309865xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938466~115938468~117776795~118897920~118897930~120213116~120385422~120420415~120469145~120469153;epver=2;dc_random=1789220582_GobE4glfTWYCe2h-p-K92t4687-BYRIvhg;_dc_test=1;~oref=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45?",
+      "type": "document",
+      "headers": {}
+    },
+    {
+      "status": 204,
+      "url": "https://www.googletagmanager.com/td?id=G-RPEHNJMMEM&mde=G-RPEHNJMMEM;17_1;54_1;61_1&v=3&t=t&pid=1477359396&gtm=45je6992v882544010za20gzb811309865zd811309865&seq=2&exp=115616986~115938466~115938469~117776795~118897920~118897930~120213116~120385422~120469145~120469153~120912438&dl=food.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45&tdp=G-RPEHNJMMEM;82544010;1;6;0&tdc=G-RPEHNJMMEM*G-RPEHNJMMEM&z=0",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 204,
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-RPEHNJMMEM&cx=c&gtm=4e6992&is_td=1&mde=G-RPEHNJMMEM;17_1;54_1;61_1&v=3&t=t&pid=1477359396&gtm=45je6992v882544010za20gzb811309865zd811309865&seq=2&exp=115616986~115938466~115938469~117776795~118897920~118897930~120213116~120385422~120469145~120469153~120912438&dl=food.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45&tdp=G-RPEHNJMMEM;82544010;1;6;0&tdc=G-RPEHNJMMEM*G-RPEHNJMMEM&z=0",
+      "type": "script",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CKzU8YmW6ZYDFeSBrAIdCEkBOA;src=6254042;type=gfwoid;cat=gfwoid;rcb=1;ord=9617566937750;npa=0;auiddc=*;uaa=x86;uab=64;uafvl=Chromium%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6992v9190986293z8811309865za20gzb811309865zd811309865xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938466~115938468~117776795~118897920~118897930~120213116~120385422~120420415~120469145~120469153;epver=2;dc_random=1789220582_4onvf0GDwqV6EKg0M0JTI3-_AkniPeqc8A;_dc_test=1;~oref=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://adservice.google.com/ddm/fls/z/dc_pre=CJyF8omW6ZYDFXe3rAIdiaQ10g;src=6254042;type=gfwoid;cat=gfwoidrh;rcb=1;ord=3618986065636;npa=0;auiddc=*;uaa=x86;uab=64;uafvl=Chromium%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6992v9190986293z8811309865za20gzb811309865zd811309865xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938466~115938468~117776795~118897920~118897930~120213116~120385422~120420415~120469145~120469153;epver=2;dc_random=1789220582_GobE4glfTWYCe2h-p-K92t4687-BYRIvhg;_dc_test=1;~oref=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 204,
+      "url": "https://www.googletagmanager.com/td?id=DC-6254042&v=3&t=t&pid=1477359396&gtm=45fe6992v9190986293za20gzb811309865zd811309865&seq=1&exp=115938466~115938468~118897920~118897930~120213116~120385422~120420415~120469145~120469153&dl=food.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45&tdp=DC-6254042;190986293;1;7;1&frm=0&rtg=11309865&slo=0&hlo=2&lst=1&pcid=11309865&bt=0&ct=3&jsp=1&z=0",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 302,
+      "url": "https://ad.doubleclick.net/activity;src=6254042;type=gfwoid;cat=gfwoidrh;rcb=1;ord=3618986065636;npa=0;auiddc=990946440.1789220528;uaa=x86;uab=64;uafvl=Chromium%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6992v9190986293z8811309865za20gzb811309865zd811309865xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938468~117776795~118897920~118897930~120213116~120385422~120420415~120469145~120469153;epver=2;dc_random=1789220582_GobE4glfTWYCe2h-p-K92t4687-BYRIvhg;~oref=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45?",
+      "type": "fetch",
+      "headers": {}
+    },
+    {
+      "status": 302,
+      "url": "https://ad.doubleclick.net/activity;dc_pre=CPqs84mW6ZYDFdy8ZgIddc01Ig;src=6254042;type=gfwoid;cat=gfwoidrh;rcb=1;ord=3618986065636;npa=0;auiddc=990946440.1789220528;uaa=x86;uab=64;uafvl=Chromium%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6992v9190986293z8811309865za20gzb811309865zd811309865xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938468~117776795~118897920~118897930~120213116~120385422~120420415~120469145~120469153;epver=2;dc_random=1789220582_GobE4glfTWYCe2h-p-K92t4687-BYRIvhg;~oref=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45?",
+      "type": "fetch",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://www.google.com/gmp/conversion/_dc_unique_id=14744355987066737991;_dc_ptd=ChEI8PCT1QYQx7vWi8i15oqMARIfAOIOVAStpfLTD1Pb4GhddnpXT5UnuSyqwlCsU-517A;_dc_time=1789220582;cid=CAQS4gEAQM4h3F8D0qVtH8z2u4JQx4-hNQCEaGdQsDVDaRGRQNz8j91VW-qSsUIGDINx9ajaYN1rdVwNZqXzuHNJpxZJnZFjNUNcpja1mKKQV1d1WiIyp1bCurxQd8vLu6qVOssGFT8_Q-FYp75V8oLT1HFB1D9T7qmqhsjP6Km25D7lDSXUBKyMammsTeJVp-MEmg_KDhbrmybKx3CuuIviDiL6CwRNA-YixLIH__h_nTRqHSHrB07HlSRNZ4epncC8YroYZnhUQbQyth1qobBFmnUUysvJh0YMVQadtZm9a68UcbjZ;eps=AHas8cDPG8IQpOFetiVtl3-2Lw_atKA90g3xirDRffNq6Shv3CkGMTeHR0jXkOA2wM0dmgxQkPv691TvsSm9jUZnhsRCI_5z24ugnGR9rAIrUOyEdA;dc_pre=CPqs84mW6ZYDFdy8ZgIddc01Ig;src=6254042;type=gfwoid;cat=gfwoidrh;rcb=1;ord=3618986065636;npa=0;auiddc=990946440.1789220528;uaa=x86;uab=64;uafvl=Chromium%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6992v9190986293z8811309865za20gzb811309865zd811309865xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938468~117776795~118897920~118897930~120213116~120385422~120420415~120469145~120469153;epver=2;dc_random=1789220582_GobE4glfTWYCe2h-p-K92t4687-BYRIvhg;~oref=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45?",
+      "type": "fetch",
+      "headers": {}
+    },
+    {
+      "status": 302,
+      "url": "https://ad.doubleclick.net/activity;src=6254042;type=gfwoid;cat=gfwoid;rcb=1;ord=9617566937750;npa=0;auiddc=990946440.1789220528;uaa=x86;uab=64;uafvl=Chromium%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6992v9190986293z8811309865za20gzb811309865zd811309865xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938468~117776795~118897920~118897930~120213116~120385422~120420415~120469145~120469153;epver=2;dc_random=1789220582_4onvf0GDwqV6EKg0M0JTI3-_AkniPeqc8A;~oref=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45?",
+      "type": "fetch",
+      "headers": {}
+    },
+    {
+      "status": 302,
+      "url": "https://ad.doubleclick.net/activity;dc_pre=CP2R84mW6ZYDFfmgZgIdPpMVhg;src=6254042;type=gfwoid;cat=gfwoid;rcb=1;ord=9617566937750;npa=0;auiddc=990946440.1789220528;uaa=x86;uab=64;uafvl=Chromium%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6992v9190986293z8811309865za20gzb811309865zd811309865xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938468~117776795~118897920~118897930~120213116~120385422~120420415~120469145~120469153;epver=2;dc_random=1789220582_4onvf0GDwqV6EKg0M0JTI3-_AkniPeqc8A;~oref=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45?",
+      "type": "fetch",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://www.google.com/gmp/conversion/_dc_unique_id=5370710894762175310;_dc_ptd=ChEI8PCT1QYQx7vWi8i15oqMARIfAOIOVAQp-j_rEHipQBy-613R1tnouOsAfikERClQ8g;_dc_time=1789220582;cid=CAQS4gEAQM4h3H8bG3sndtOG2k-yUvVL7JTO87bDC3coG_STGASYEnSG6X_Dpdnr6Jv68mlFpAehIFq6FepVOMPgfXGBAseFVvBW3G4hMrULwsEs1PScG-9D-30TeEoxuU5fGKlA5DG3y-nQYrXbfdlRPVJtbVPMoib2j65gSHKn9vYFbBsEaywQgY0morA9OGAbF3iaQftgAllG2etpH0BzYH5TtCFPKBu8q4MQwRkfxh34gnVG7HL66kMTijmd7yMyCLnjcWyxCu6Ad-ww2v7bbqQCOtNVKWz-OBxRkKHyWlVfNiC1;eps=AHas8cBW4AfnTVmjkyepLxmTiPrHzg5chTyZ_Ke9erYaAYOAH2WlGR1p3c24CwcZ6xZOMYK-OyFsP1EoDUI3TdD7LMOoAVnOQmXQEEdetMU2-PH5QQ;dc_pre=CP2R84mW6ZYDFfmgZgIdPpMVhg;src=6254042;type=gfwoid;cat=gfwoid;rcb=1;ord=9617566937750;npa=0;auiddc=990946440.1789220528;uaa=x86;uab=64;uafvl=Chromium%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0;uamb=0;uam=;uap=macOS;uapv=10_15_7;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6992v9190986293z8811309865za20gzb811309865zd811309865xea;gcd=13l3l3l3l1l1;dma=0;dc_fmt=3;tag_exp=115938466~115938468~117776795~118897920~118897930~120213116~120385422~120420415~120469145~120469153;epver=2;dc_random=1789220582_4onvf0GDwqV6EKg0M0JTI3-_AkniPeqc8A;~oref=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45?",
+      "type": "fetch",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C7EVN3EWNN6ZL6/hero/e042c1bffaa6435d9229761272447907_1749440684276851590.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_avif/merchants/6-C2AAUEVGTU6EJ2/hero/e3f6ba6b2e1e4169bc6e555300a3d43b_1660615873779512099.avif",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C2EHVTXXARNKNJ/hero/ced9ff0d01f64e0482969e8036dc4142_1753376460215442289.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-CZLJDCNXJTVFAX/hero/1be61277bbf84ebeaf0cd5d19d0a970a_1612511273148792918.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-CZM3E7AUEEJDE6/hero/de917357893f492981123fc6c0be933a_1624652075032666580.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/IDGFSTI00002yko/hero/IDGFSTI00002yko_e08d10628f1d47a195f3cc7656dbede0.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C2LDKBMFMBM3EJ/hero/ca710032-d04e-4102-bbf8-736564a0903d__store_cover__2023__07__17__08__34__37.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C2JFWAEYJ8BYCN/hero/1cb727826c1d46c09f9436920b7e8448_1680939524958016252.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://mcd-gateway.grabtaxi.com/v2/web/track",
+      "type": "fetch",
+      "headers": {}
+    },
+    {
+      "status": 204,
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-RPEHNJMMEM&gtm=45je6992v882544010z8811309865za20gzb811309865zd811309865&_p=1789220580966&gcd=13l3l3l3l1l1&npa=0&dma=0&ecid=293716558&_eu=AAAAAGQC&cid=530074496.1789220529&frm=0&pscdl=noapi&rcb=3&sr=1280x900&uaa=x86&uab=64&uafvl=Chromium%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0&uam=&uamb=0&uap=macOS&uapv=10_15_7&uaw=0&ul=id-id&gaf=2&tag_exp=115616986~115938466~115938469~117776795~118869188~118897920~118897930~120213116~120385422~120469145~120469153~120912438&sid=1789220529&sct=1&seg=1&dl=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2Fcuisines%2Fchinese-delivery%2F45&dt=Food%20Promos%20in%20Jakarta%20%7C%20GrabFood%20ID&_s=2&tfd=6559",
+      "type": "fetch",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C3K2VYACC3BAWE/hero/9970ce8dadbb4202abacfce55292c716_1655366133087353350.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C2UUHBNTLB33RA/hero/542399e5c60e40698e91a923ff772822_1627096741839432015.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C6VYG3WANTVTRE/hero/51c4f5736acd4d5f929288d02ba626f5_1725596439518393644.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-CYV2L2TYNP3BBA/hero/de108fb3e5c44fe3ae388c8ca9f26281_1592470486800277013.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C8BXEVLCJ4LGVJ/hero/fc0aab31-e626-4661-9c93-163d17448fd2__store_cover__2026__08__27__12__34__48.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C8DDLY3WLX21EJ/hero/df441fb3773c46d6ac92540a31fbdda8_1786359174083450492.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://portal.grab.com/foodweb/guest/v2/category?latlng=-6.1767352,106.826504&categoryShortcutID=45&offset=22&pageSize=32",
+      "type": "xhr",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C8A1LY4FN2AHT6/hero/c14e97a2da534c7f90f99588db0e5aa0_1781755756576116178.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/IDGFSTI000004t1/hero/d7e92ef6c695445db88f1e5485ccc371_1755142270384716588.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-CZBJRE51UGCEBA/hero/0d328b1ba037411fb3366d2c86889d95_1775634779056431153.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C3XZT23AVXDUNJ/hero/064e91fd-d0de-4da2-a2d8-c0681bb27c1a__store_cover__2026__09__04__04__57__58.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C6WECT4WRYNHJX/hero/e274089285e742b3869bfa80a3a15c94_1775807371875011798.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_avif/merchants/IDGFSTI00000wdm/hero/ef07620d75de429188bcb966fd654830_1603273647350138517.avif",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C74VUBUUTPCDVX/hero/0d9cac74e571404eb7bdd49b3006c49d_1775558312217695964.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/Merchants/6-C2DDAU23AYAYTX/photos_optimized/c6f57f7cc9a240d6a242be68e98bf978_1606304763398409370.jpeg",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-CYXGGNDBAFKZC2/hero/4085c94610eb4661b2b12836f8d83810_1589959425341842872.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C6VJCLJXA7UHE6/hero/9aab444680d64523b61f14ce4ec1f154_1763398980904716486.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/IDGFSTI00000d5e/hero/a215de774e71406fa9cc1d0aa5173fb1_1788248793536338993.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C64WT4KZVE6FUE/hero/49b4dfac3a7a491a8fb363aa33b25d10_1735624648366106301.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C4MWJ2MZL2MFLX/hero/c889d3db67f342fb8656718a8be88519_1697349111768084250.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_avif/merchants/6-C2DWLKLTPCABVE/hero/4a35994c62c3495382ad182e9846ed0d_1766380183844598546.avif",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-CZDDJYNYNAJKEA/hero/32d378a841ac44b7ab1a850f3675fbc4_1681694764334471504.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/IDGFSTI000022aw/hero/e1dc3f322a2540cc96e27a647de13bf1_1787850359844947008.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C6X1CA2EVRBTA6/hero/055e5c072a9b47678fe834d620672081_1729768820730602451.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-CZMAVAMDR26DDA/hero/9f074557045242eeba6f07da5e88ecff_1596090555206967431.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C2V1EAWKGGD3WE/hero/459fb6c3ef08437db8a700f97bb8647a_1672846685513769735.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C3T2L7C2SFXHWA/hero/a2af1d49444d42f4ab4979c007bc9655_1705257247585110614.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/IDGFSTI000021ka/hero/1_be6133e7e48f43d8ad4c3a0ecf9021ba_1550558651967965890.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C622CVL1JKJ1VE/hero/d4e4fe56b0284c94b37ccc460bcc6426_1731911312485274790.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C3WBSEVXBAKYVJ/hero/333eaba1103c424ab41bd4cd74c68265_1723193575526097167.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C7KXDBKDKCBZNX/hero/e4143fe9e6f443058ef50017a2f75a61_1757333743376624804.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-CZKVFA4UUFBTRE/hero/caa949ff10c1467987a714d3f8a9d28c_1595652647778757893.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C73HA33DCJWURE/hero/29947b3801b44bb6ad58cb79321c0213_1772766027263628249.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C6JXJ2LUUETZRE/hero/dc9c9daff116412fa7a098e724347c01_1754721159510369423.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C72BVUKCEY4HWE/hero/6dc3bf70b19f4083bc5701fd7f99e678_1775451598526413109.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C7XKCBNYE6DVNE/hero/7b7c3873e43940799f7d9c3ba9758c51_1775807371938997364.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://huawei-food-cms.grab.com/compressed_webp/merchants/6-C2LHNVJHTGDACT/hero/058da9210ee94e5fa2ffb9cacb28ec8f_1685350786774845502.webp",
+      "type": "image",
+      "headers": {}
+    },
+    {
+      "status": 200,
+      "url": "https://portal.grab.com/foodweb/guest/v2/category?latlng=-6.1767352,106.826504&categoryShortcutID=45&offset=54&pageSize=32",
+      "type": "xhr",
+      "headers": {}
+    }
+  ],
+  "initial_endpoint_counts": {},
+  "final_endpoint_counts": {},
+  "token_entries": [
+    {
+      "url": "https://www.google-analytics.com/j/collect?v=1&_v=j102&a=837169016&t=pageview&_s=1&dl=https%3A%2F%2Ffood.grab.com%2Fid%2Fen%2F&ul=id-id&dt=Food%20Delivery%20Service%3A%20Promos%20%26%20Menu%20%7C%20Gr",
+      "body": "undefined"
+    },
+    {
+      "url": "https://portal.grab.com/foodweb/guest/v2/category?latlng=-6.1767352,106.826504&categoryShortcutID=11512&offset=0&pageSize=8",
+      "body": "undefined"
+    }
+  ],
+  "search_entries": [],
+  "review_entries": [],
+  "merchant_entries": [],
+  "sample_review": null,
+  "sample_token": null
+}

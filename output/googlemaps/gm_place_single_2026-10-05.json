@@ -1,0 +1,25 @@
+{
+  "query": [
+    "https://maps.app.goo.gl/yq5fjVyiPPFaVNKK7"
+  ],
+  "mode": "browser",
+  "date_range": {
+    "since": "2015-08-31",
+    "until": null
+  },
+  "sort": "relevant",
+  "scraped_at": "2026-10-05T07:12:23.768Z",
+  "total_places": 1,
+  "total_reviews": 0,
+  "places": [
+    {
+      "place_id": "0x2e69fbc19c88060b:0xde679c9e5fe2a1a4",
+      "name": "0x2e69fbc19c88060b:0xde679c9e5fe2a1a4",
+      "address": "",
+      "rating": 0,
+      "reviews_count": 0,
+      "link": "https://www.google.com/maps/place/Pasta+Lab/@-6.2752077,106.6999889,1067m/data=!3m2!1e3!4b1!4m6!3m5!1s0x2e69fbc19c88060b:0xde679c9e5fe2a1a4!8m2!3d-6.2752077!4d106.6999889!16s%2Fg%2F11h001gkq2?authuser=0&entry=ttu&g_ep=EgoyMDI2MDkzMC4wIKXMDSoASAFQAw%3D%3D",
+      "reviews": []
+    }
+  ]
+}

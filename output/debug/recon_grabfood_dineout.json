@@ -1,0 +1,540 @@
+{
+  "events": [
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/id/id/restaurants/sky-pasta-paninggilan-utara--6-CZMBUFTATB5HNN",
+      "ct": "text/html; charset=utf-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/28x-izro8ce08.css",
+      "ct": "text/css; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/3u_4uvgmdaofj.css",
+      "ct": "text/css; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/3-x1x4xe4i44c.css",
+      "ct": "text/css; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/045vib_tbrxuk.css",
+      "ct": "text/css; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/3llg1iazzj6q7.css",
+      "ct": "text/css; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/2arlc98fod3xa.css",
+      "ct": "text/css; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/3gz3a63106pcz.css",
+      "ct": "text/css; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/1vipbzkg4io_c.css",
+      "ct": "text/css; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/2ye-s6gryqvgv.css",
+      "ct": "text/css; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/02wk7qlq1ek_9.css",
+      "ct": "text/css; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/292dgak5-8mpy.css",
+      "ct": "text/css; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/19d-yb15z_n4y.css",
+      "ct": "text/css; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/0y_9b3obe29fa.css",
+      "ct": "text/css; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/1ngdzdmoc8_2b.css",
+      "ct": "text/css; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/1no_lq5hdgfw9.css",
+      "ct": "text/css; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/40ik8hmfxn8te.css",
+      "ct": "text/css; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/39od63sbv-yho.css",
+      "ct": "text/css; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/152kww9rz3eg2.css",
+      "ct": "text/css; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/3p5f441jyribe.css",
+      "ct": "text/css; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/40-81k238ph4c.css",
+      "ct": "text/css; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/0echwd56zvvgf.css",
+      "ct": "text/css; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/1rm737diirj6u.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/0bwzfi134f-fl.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/257jse6wqz_lg.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/1xyeebhobpx1t.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/15cplg28cf7-8.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/turbopack-1tmyfpjf8ds7s.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/19p3x916084ac.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/1pc38gok67knh.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/1b7am3ehsed7e.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/1i8b_1g6jj9e0.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/1gr_hl-vx1k6m.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/1n5l20-z4qayh.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/2-u8a896t_v6z.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/043tn_n7scfyx.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/1062fbitq1ypw.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/16tkqe1_osag0.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/3mr4ir0-tqxnm.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/0gshd-7kheygo.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/3hc6xgrcywal6.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/133ponknbxyyf.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/0vm8609lxxfwv.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/0zb_hoj75n18g.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/1a9udale-0wnc.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/3-krscyift_7h.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/02at_gxmb-sa4.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/2yzobx4ommlp3.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/2ne_5kefn61v5.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/36daa4a38g46q.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/14p3x8qum9fm-.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/1erz2w5ir3i3f.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/10ty0p0s61b27.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/3spftyode4x62.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/174je7k_mhwkd.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/12e1ec5emjxs-.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/0hj32z3qoc7qf.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/3-rnc8j7np-c1.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/0w2kn5h83rr0h.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/0-4sikqyj8691.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/15sm7a-4royde.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/35-2l1xxb8rmy.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/29n90bsnyy-8z.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/2wcwhjwb9cs_a.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/api/image-proxy?url=https%3A%2F%2Fhuawei-food-cms.grab.com%2Fcompressed_webp%2Fmerchants%2F6-CZMBUFTATB5HNN%2Fphotoexhibitiondetail%2F9e9dd5697d7a437a993c6254c1fb0d2d_1684831787589374171.webp",
+      "ct": "image/webp"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/api/image-proxy?url=https%3A%2F%2Fhuawei-food-cms.grab.com%2Fcompressed_webp%2Fmerchants%2F6-CZMBUFTATB5HNN%2Fdineinhero%2Fef72956bd4994c6895ce363d1486f7a6_1756641238986165907.webp",
+      "ct": "image/webp"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/api/image-proxy?url=https%3A%2F%2Fhuawei-food-cms.grab.com%2Fcompressed_webp%2Fmerchants%2F6-CZMBUFTATB5HNN%2Fphotoexhibitiondetail%2F96b509a7197543139a339e1e7267798f_1756641263668765139.webp",
+      "ct": "image/webp"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/media/logo-appstore.2t9jjgqyffra9.svg",
+      "ct": "image/svg+xml"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/media/logo-playstore.0-8214oew1rm1.svg",
+      "ct": "image/svg+xml"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/api/image-proxy?url=https%3A%2F%2Fassets-mobile.grab.com%2Fdeliveries%2FdineIn%2Fdine_in_deals_demand_shaping_ntb%402x.png",
+      "ct": "image/png"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/api/image-proxy?url=https%3A%2F%2Fhuawei-food-cms.grab.com%2Fcompressed_webp%2Fmerchants%2F6-CZMBUFTATB5HNN%2Fphotoexhibitiondetail%2Fdee2da3e502f44acb7f94718a77d18b2_1684831787533339183.webp",
+      "ct": "image/webp"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/api/image-proxy?url=https%3A%2F%2Fhuawei-food-cms.grab.com%2Fcompressed_webp%2Fmerchants%2F6-CZMBUFTATB5HNN%2Fphotoexhibitiondetail%2F6b6077c460c14805b50dbb8c9aea681a_1684831787388232496.webp",
+      "ct": "image/webp"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/api/image-proxy?url=https%3A%2F%2Fhuawei-food-cms.grab.com%2Fcompressed_webp%2Fmerchants%2F6-CZMBUFTATB5HNN%2Fphotoexhibitiondetail%2F467276d0f767437785769488a9adf997_1756641278031842311.webp",
+      "ct": "image/webp"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/api/image-proxy?url=https%3A%2F%2Fhuawei-food-cms.grab.com%2Fcompressed_webp%2Fmerchants%2F6-CZMBUFTATB5HNN%2Fphotoexhibitiondetail%2F609b0cd8f38b45ffae4aec472f9e88b4_1756641270537023507.webp",
+      "ct": "image/webp"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/api/image-proxy?url=https%3A%2F%2Fhuawei-food-cms.grab.com%2Fcompressed_webp%2Fmerchants%2F6-CZMBUFTATB5HNN%2Fphotoexhibitiondetail%2Fb4fc69bbccfa4a029b2676919e75c6c9_1756641295740257846.webp",
+      "ct": "image/webp"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/api/image-proxy?url=https%3A%2F%2Fhuawei-food-cms.grab.com%2Fcompressed_webp%2Fmerchants%2F6-CZMBUFTATB5HNN%2Fphotoexhibitiondetail%2F76f18789cc00419eb032a87be789058d_1756641250148558712.webp",
+      "ct": "image/webp"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/1_a83esky5kez.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/0brqemtgfg2m6.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/3pj9tnkind_2w.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/2_jxrax8bbthr.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/1h5ay5ngibc6r.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/23kto6m2-7yv5.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/api/image-proxy?url=https%3A%2F%2Fhuawei-food-cms.grab.com%2Fcompressed_webp%2Fmerchants%2F6-CZMBUFTATB5HNN%2Fphotoexhibitiondetail%2F283b53c75e2a4120aefb528df5ac6c91_1756641302732254538.webp",
+      "ct": "image/webp"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/api/image-proxy?url=https%3A%2F%2Fhuawei-food-cms.grab.com%2Fcompressed_webp%2Fmerchants%2F6-CZMBUFTATB5HNN%2Fphotoexhibitiondetail%2F5abcefb7a79b4036866fac6f4fbc5530_1684831787480079340.webp",
+      "ct": "image/webp"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/api/image-proxy?url=https%3A%2F%2Fhuawei-food-cms.grab.com%2Fcompressed_webp%2Fmerchants%2F6-CZMBUFTATB5HNN%2Fphotoexhibitiondetail%2F463d3c9ff0e343929313d07f7eaacb24_1756641284319376457.webp",
+      "ct": "image/webp"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/api/image-proxy?url=https%3A%2F%2Fhuawei-food-cms.grab.com%2Fcompressed_webp%2Fmerchants%2F6-CZMBUFTATB5HNN%2Fphotoexhibitiondetail%2F976b4a882d794f28ab14cb3a87eec9f2_1756641315787782624.webp",
+      "ct": "image/webp"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/api/image-proxy?url=https%3A%2F%2Fhuawei-food-cms.grab.com%2Fcompressed_webp%2Fmerchants%2F6-CZMBUFTATB5HNN%2Fphotoexhibitiondetail%2Fd328de66e2f64ddbabc2cfe2b5503c92_1756641257970225343.webp",
+      "ct": "image/webp"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/api/image-proxy?url=https%3A%2F%2Fhuawei-food-cms.grab.com%2Fcompressed_webp%2Fmerchants%2F6-CZMBUFTATB5HNN%2Fphotoexhibitiondetail%2F8c077a889698400fa4a832f34cd4e705_1756641289923813512.webp",
+      "ct": "image/webp"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/api/image-proxy?url=https%3A%2F%2Fhuawei-food-cms.grab.com%2Fcompressed_webp%2Fmerchants%2F6-CZMBUFTATB5HNN%2Fphotoexhibitiondetail%2F41a8ba72b7e6450882bdc7d3891b8e0e_1756641322851011697.webp",
+      "ct": "image/webp"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/media/vietnamese-700-normal.0tgm1ix6xu83_.woff2",
+      "ct": "font/woff2"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/media/vietnamese-500-normal.2vmtf8i-0kxez.woff2",
+      "ct": "font/woff2"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/2vg_ky2n1w8-s.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/api/image-proxy?url=https%3A%2F%2Fhuawei-food-cms.grab.com%2FMerchants%2F6-CZMBUFTATB5HNN%2Fmerchantfiles%2F2590784d3c11428e94479cd0084d1796_1756641339766663022.pdf",
+      "ct": "application/pdf"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/media/inter-latin-wght-normal.2ultq8fvy68fn.woff2",
+      "ct": "font/woff2"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/api/image-proxy?url=https%3A%2F%2Ffood-cms.grab.com%2Fcompressed_webp%2Fitems%2FIDITE2022012304430876581%2Fphoto%2Fmenueditor_item_f80bd3b42439441ebe2bc1526424097d_1748171185348848229.webp",
+      "ct": "image/webp"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/api/image-proxy?url=https%3A%2F%2Ffood-cms.grab.com%2Fcompressed_webp%2Fitems%2FIDITE2025081418101310584%2Fphoto%2Fmenueditor_item_9186ec9eeb334ce28250d57c345d41fb_1755194954770714986.webp",
+      "ct": "image/webp"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/media/vietnamese-700-normal.08ovqvdjz6aq_.woff2",
+      "ct": "font/woff2"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/api/image-proxy?url=https%3A%2F%2Ffood-cms.grab.com%2Fcompressed_webp%2Fitems%2FIDITE2025091711421951517%2Fphoto%2Fmenueditor_item_36ce536cae5c4152a59384d1795cbc56_1758109316630063426.webp",
+      "ct": "image/webp"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/api/image-proxy?url=https%3A%2F%2Ffood-cms.grab.com%2Fcompressed_webp%2Fitems%2FIDITE2022012304262752690%2Fphoto%2Fmenueditor_item_e2b9e7e4afe5419098e2a5db8faa2500_1748170925963924661.webp",
+      "ct": "image/webp"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/2sxum1-a-rz83.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/_next/static/chunks/0igme7j7yz_h9.js",
+      "ct": "application/javascript; charset=UTF-8"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/id/id?_rsc=UUFQBunfA6nyjsfd",
+      "ct": "text/x-component"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/favicon.ico?favicon.02rr635cvco37.ico",
+      "ct": "image/x-icon"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/id/id?_rsc=MUW9BevPEF3SY_Vd",
+      "ct": "text/x-component"
+    },
+    {
+      "status": 204,
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-XJQFVVER1T&gtm=45je69a0h2v9249314909za200zd9249314909&_p=1789221365013&gcd=13l3l3l3l1l1&npa=0&dma=0&cid=1212806864.1789221365&frm=0&ngs=1&pscdl=noapi&rcb=15&sr=1280x900&uaa=x86&uab=64&uafvl=Chromium%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=id-id&_s=1&tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153&sid=1789221365&sct=1&seg=0&dl=https%3A%2F%2Fdineout.grab.com%2Fid%2Fid%2Frestaurants%2Fsky-pasta-paninggilan-utara--6-CZMBUFTATB5HNN&dt=Sky%20Pasta%20-%20Paninggilan%20Utara%20-%20Deals%20%7C%20Grab%20Dine%20Out&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=1813",
+      "ct": "text/plain"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/id/id/restaurants/sky-pasta-paninggilan-utara--6-CZMBUFTATB5HNN",
+      "ct": "text/x-component"
+    },
+    {
+      "status": 200,
+      "url": "https://dineout.grab.com/api/image-proxy?url=https%3A%2F%2Fhuawei-food-cms.grab.com%2FMerchants%2F6-CZMBUFTATB5HNN%2Fmerchantfiles%2F2590784d3c11428e94479cd0084d1796_1756641339766663022.pdf",
+      "ct": ""
+    }
+  ],
+  "bodies": {}
+}

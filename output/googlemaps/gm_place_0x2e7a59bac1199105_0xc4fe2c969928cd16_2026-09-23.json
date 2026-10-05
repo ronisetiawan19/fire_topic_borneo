@@ -1,0 +1,108 @@
+{
+  "query": [
+    "https://www.google.com/maps/place/Seblak+Pasta+Bandung/data=!4m7!3m6!1s0x2e7a59bac1199105:0xc4fe2c969928cd16!8m2!3d-6.9139464!4d107.6406704!16s%2Fg%2F11pd94thpy!19sChIJBZGpnLl5eS4RFs2JlgosxMc?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1"
+  ],
+  "mode": "browser",
+  "date_range": {
+    "since": "2025-09-23",
+    "until": null
+  },
+  "sort": "relevant",
+  "scraped_at": "2026-09-23T11:47:17.105Z",
+  "total_places": 1,
+  "total_reviews": 9,
+  "places": [
+    {
+      "place_id": "0x2e7a59bac1199105:0xc4fe2c969928cd16",
+      "name": "0x2e7a59bac1199105:0xc4fe2c969928cd16",
+      "address": "",
+      "rating": 0,
+      "reviews_count": 3930,
+      "link": "https://www.google.com/maps/place/Seblak+Pasta+Bandung/data=!4m7!3m6!1s0x2e7a59bac1199105:0xc4fe2c969928cd16!8m2!3d-6.9139464!4d107.6406704!16s%2Fg%2F11pd94thpy!19sChIJBZGpnLl5eS4RFs2JlgosxMc?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "reviews": [
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KTFRuWnhiUzA1WkZoVlVWaEhXRGxuYVdwR2EzYxAB",
+          "author": "Bela Marissakh",
+          "rating": 1,
+          "time_label": "4 bulan lalu",
+          "text": "Mon maap tpi pengalaman sangat tdk menyenangkan. Nunggu seblaknya sejam setengah pdhal sdh konfirmasi kalau seblak kita belum dtng, rasanya kesel liat orng2 yg dtng setelah kita dpt dluan bahkan ad yg sdh selesai. Pelayanan tdk oke. di tengah makan mati lampu hadehhh. Untuk rasanya okelah",
+          "time": 1779536790,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aNmFrbEZlWEpDTjI1WVdHbHpkSFZ3ZW14allsRRAB",
+          "author": "Eko Nurtanto",
+          "rating": 5,
+          "time_label": "5 bulan lalu",
+          "text": "Seblak dgn aneka varian dan pilihan topping. Rasa enak, tempat jg nyaman, ada ruang ber AC. Pelayanan ramah dan responsif",
+          "time": 1776944790,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1bmFUZEJTbkZtUW00MFZFTllNemMxU2tJMlZYYxAB",
+          "author": "maimun",
+          "rating": 5,
+          "time_label": "4 bulan lalu",
+          "text": "ini aku pesen seblak garut spesial+toping sayur sawi. Enak bangett, seblak favorit akuu. kencurnya berasa, kuahnya jadi enak, full toping bakso&sosis. letaknya jg strategis jadi sering kesini. Pelayanan ok masnya ramah ramah.",
+          "time": 1779536790,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sa01FRmZWekJHT0d4V1ozVm5OVE5HWDBWcWFFRRAB",
+          "author": "Pradila",
+          "rating": 4,
+          "time_label": "2 bulan lalu",
+          "text": "Tipe seblak yg pedes gurih asin, kencur berasa. Porsi nya cukup banyak, tingkat kepedesan bisa direquest. Tempat duduk banyak dan pelayanan cukup cepat.",
+          "time": 1784807190,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214VFREazRlVFJMZFVKb2JXOUVaVFpHVWtFNFdVRRAB",
+          "author": "Tika Alfani Kusuma",
+          "rating": 4,
+          "time_label": "9 bulan lalu",
+          "text": "Enak dan sudah sering beli di sini karena rasanya konsisten. Pilihan varian rasanya banyak, seblak sunda, korea ada odeng dsb, bisa disesuaikan sama selera, mau pedas ringan sampai pedas nampol juga ada. Isian cukup beragam dan porsinya pas, bikin kenyang.\nTipe seblaknya kuah nyemek, jadi kuahnya gak banyak. Cocok buat yang suka seblak gurih kental, tapi kalau lebih suka seblak berkuah banyak sebaiknya minta ekstra kuah atau cari tipe seblak lain.\nSecara rasa dan pilihan menu sudah oke dan recommended buat yang suka seblak. Minusnya ada kang parkir, jadi perlu siapin uang parkir. 😒",
+          "time": 1766490390,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsR2F6TlNPWEpEYUVJeU9VVkVkVnBhV0hWaE5XYxAB",
+          "author": "Truly Nugraheni",
+          "rating": 4,
+          "time_label": "setahun lalu",
+          "text": "tersedia berbagai varian menu seblak dan bakso aci , cilok, cireng dan berbagai topping.\nbisa pilih level dari 0-5 . Harga mulai dari 12.000 .\ntempatnya ada yang indoor, outdoor.",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WaGVIbzNiazlVVW1Wbk5HOVVhV1UzWVVGZk9GRRAB",
+          "author": "Alfa Rozan Syarafi",
+          "rating": 5,
+          "time_label": "3 bulan lalu",
+          "text": "kali ke 2 beli seblak di sini,pelayanan nya oke banget terhitung cepat, tempatnya juga nyaman, kasirnya ramah, sukses selalu untuk seblak pasta.",
+          "time": 1782215190,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwbFlreEpNVFUyYXpGR1ZWUkdaRlprTkY5aVdtYxAB",
+          "author": "Tema Chonania",
+          "rating": 5,
+          "time_label": "3 bulan lalu",
+          "text": "pilihan menu banyak mulai dr seblak sampe baso acinya, harganya juga masih affordable in this economy. udh langganan dr jaman kuliah di sini. must try sih buat pecinta seblak✨",
+          "time": 1782215190,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWcFltUnlXWGRDUkhNdGFITXpUMFZ4U1ZKVWFHYxAB",
+          "author": "ndikaa",
+          "rating": 1,
+          "time_label": "3 bulan lalu",
+          "text": "jujur pesen di sini tu lamaaaa banget, ya kali karyawan banyak tapi masak seblak nyampe 1 jam, tolong dong di evaluasi lagi",
+          "time": 1782215190,
+          "source": "dom"
+        }
+      ]
+    }
+  ]
+}

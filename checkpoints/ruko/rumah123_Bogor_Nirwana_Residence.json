@@ -1,0 +1,203 @@
+{
+  "titik": "Bogor Nirwana Residence",
+  "kota": "Kota Bogor",
+  "sumber": "rumah123",
+  "blocked": null,
+  "ok": true,
+  "total_raw": 40,
+  "total_semua": 40,
+  "listings": [
+    {
+      "judul": "Ruko 2 Lantai Bagus dan Terawat, Kamar Mandi 2,Lingkungan Sudah Ramai,Cocok untuk Usaha dan Kantor Dekat Jungled Sentul Nirwana.",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 65 Juta",
+      "harga": 65000000,
+      "harga_satuan": "per tahun",
+      "luas_tanah": 80,
+      "luas_bangunan": 80,
+      "lantai": 2,
+      "alamat": "Sentul City, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bogor",
+        "nirwana"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/bogor-sentul-city/ruko-2-lantai-bagus-dan-terawat-kamar-mandi-2lingkungan-sudah-ramaicocok-untuk-usaha-dan-kantor-dekat-jungled-sentul-shr10284485/"
+    },
+    {
+      "judul": "Sewa Ruko Strategis Summarecon Bogor",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 85 Juta",
+      "harga": 85000000,
+      "harga_satuan": "",
+      "luas_tanah": 75,
+      "luas_bangunan": 122,
+      "lantai": null,
+      "alamat": "Summarecon Bogor, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bogor"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bogor-summarecon-bogor/sewa-ruko-strategis-summarecon-bogor-shr10293668/"
+    },
+    {
+      "judul": "Di Sewakan Ruko Hook 3 Lantai Cluster Baru di Kota Wisata Cibubur",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 280 Juta",
+      "harga": 280000000,
+      "harga_satuan": "",
+      "luas_tanah": 78,
+      "luas_bangunan": 222,
+      "lantai": 3,
+      "alamat": "Kota Wisata, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bogor"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bogor-kota-wisata/di-sewakan-ruko-hook-3-lantai-cluster-baru-di-kota-wisata-cibubur-shr10223162/"
+    },
+    {
+      "judul": "Disewakan Ruko Centeria Square Summarecon Bogor 3 Lantai Premium Hoek",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 298 Juta",
+      "harga": 298000000,
+      "harga_satuan": "",
+      "luas_tanah": 135,
+      "luas_bangunan": 269,
+      "lantai": 3,
+      "alamat": "Sentul City, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bogor"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bogor-sentul-city/disewakan-ruko-centeria-square-summarecon-bogor-3-lantai-premium-hoek-shr10183629/"
+    },
+    {
+      "judul": "Cc2 - Disewa Ruko Centeria Square di Summarecon Bogor",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 165 Juta",
+      "harga": 165000000,
+      "harga_satuan": "",
+      "luas_tanah": 135,
+      "luas_bangunan": 269,
+      "lantai": null,
+      "alamat": "Summarecon Bogor, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bogor"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bogor-summarecon-bogor/cc2-disewa-ruko-centeria-square-di-summarecon-bogor-shr10228711/"
+    },
+    {
+      "judul": "Cd4 - Disewa Ruko Centeria Cquare di Summarecon Bogor",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 135 Juta",
+      "harga": 135000000,
+      "harga_satuan": "",
+      "luas_tanah": 75,
+      "luas_bangunan": 180,
+      "lantai": null,
+      "alamat": "Summarecon Bogor, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bogor"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bogor-summarecon-bogor/cd4-disewa-ruko-centeria-cquare-di-summarecon-bogor-shr10228714/"
+    },
+    {
+      "judul": "Cd4 - Disewakan Ruko Centeria Square di Summarecon Bogor",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 80 Juta",
+      "harga": 80000000,
+      "harga_satuan": "",
+      "luas_tanah": 75,
+      "luas_bangunan": 122,
+      "lantai": null,
+      "alamat": "Summarecon Bogor, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bogor"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bogor-summarecon-bogor/cd4-di-sewakan-ruko-baru-di-summarecon-bogor-cocok-untuk-buka-usaha-shr10144410/"
+    },
+    {
+      "judul": "Cd2 - Disewa Ruko Gandeng 3 Centeria Square di Summarecon Bogor",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 260 Juta",
+      "harga": 260000000,
+      "harga_satuan": "",
+      "luas_tanah": 225,
+      "luas_bangunan": 366,
+      "lantai": null,
+      "alamat": "Summarecon Bogor, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bogor"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bogor-summarecon-bogor/cd2-disewa-ruko-gandeng-3-centeria-square-di-summarecon-bogor-shr10258804/"
+    },
+    {
+      "judul": "Disewakan Ruko, (Hanya di Sewa Lt.2 dan Lt.3). Pinggir Jalan Raya, Cocok untuk Buka Bimbel atau Tempat Gym. Siap Huni, Dekat dengan Lingkungan Pemda dan Pusat Perbelanjaan",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 25 Juta",
+      "harga": 25000000,
+      "harga_satuan": "",
+      "luas_tanah": 2,
+      "luas_bangunan": 730,
+      "lantai": null,
+      "alamat": "Cibinong, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bogor"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bogor-cibinong/disewakan-ruko-hanya-di-sewa-lt2-dan-lt3-pinggir-jalan-raya-cocok-untuk-buka-bimbel-atau-tempat-gym-siap-huni-dekat-shr10260554/"
+    },
+    {
+      "judul": "Ruko 2 Lantai Siap untuk Usaha di Jalan Alternatif Transyogi, Cileungsi",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 5 Juta",
+      "harga": 5000000,
+      "harga_satuan": "",
+      "luas_tanah": 80,
+      "luas_bangunan": 80,
+      "lantai": 2,
+      "alamat": "Cileungsi, Bogor",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "bogor"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/bogor-cileungsi/ruko-2-lantai-siap-untuk-usaha-di-jalan-alternatif-transyogi-cileungsi-shr9855116/"
+    }
+  ],
+  "scraped_at": "2026-09-14T13:12:39.286Z"
+}

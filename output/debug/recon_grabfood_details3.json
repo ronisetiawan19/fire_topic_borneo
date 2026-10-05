@@ -1,0 +1,64 @@
+{
+  "results": {
+    "pamulang": {
+      "status": 401,
+      "merchants": []
+    },
+    "cinere": {
+      "status": 401,
+      "merchants": []
+    },
+    "tebet": {
+      "status": 401,
+      "merchants": []
+    },
+    "petukangan": {
+      "status": 401,
+      "merchants": []
+    },
+    "ciledug": {
+      "status": 401,
+      "merchants": []
+    },
+    "bekasi": {
+      "status": 401,
+      "merchants": []
+    },
+    "binus": {
+      "status": 401,
+      "merchants": []
+    }
+  },
+  "details": {
+    "pamulang": {
+      "id": "IDGFSTI00000w7t",
+      "keys": [],
+      "urlSegments": null
+    },
+    "cinere": {
+      "id": "6-CYNYJ2JBE6CKGT",
+      "keys": [],
+      "urlSegments": null
+    },
+    "tebet": {
+      "id": "6-C6ADTJNYJFTKWA",
+      "keys": [],
+      "urlSegments": null
+    },
+    "petukangan": {
+      "id": "6-C2BDENKVLYN2A2",
+      "keys": [],
+      "urlSegments": null
+    },
+    "ciledug": {
+      "id": "6-CZMBUFTATB5HNN",
+      "keys": [],
+      "urlSegments": null
+    },
+    "binus_palmerah": {
+      "id": "6-C3A3AFNUBBEDL6",
+      "keys": [],
+      "urlSegments": null
+    }
+  }
+}

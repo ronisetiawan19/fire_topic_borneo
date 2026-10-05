@@ -1,0 +1,19 @@
+### https://www.google.com/maps/_/MapsWizUi/data/batchexecute?rpcids=T4jwAf&source-path=%2Fmaps%2Fplace%2FSeblak%2BPasta%2BTaman%2BSiswa%2Fdata%3D!4m7!3m6!1s0x2e7a57e4ce21cead%3A0xf510a3841fdfed51!8m2!3d-7.8155168!4d110.375934!16s%252Fg%252F11l3bn5h11!19sChIJrc4hzuRXei4RUe3fH4SjEPU&hl=id&authuser=0&_reqid=46501&rt=c
+T4jwAf
+)]}'
+
+128
+[["wrb.fr","T4jwAf","[[[3],[5],[6],[9],[10]]]",null,null,null,"generic"],["di",40],["af.httprm",39,"-7753778377118405984",34]]
+25
+[["e",4,null,null,164]]
+
+
+### https://www.google.com/maps/_/MapsWizUi/data/batchexecute?rpcids=r4skrb&source-path=%2Fmaps%2Fplace%2FSeblak%2BPasta%2BTaman%2BSiswa%2Fdata%3D!4m7!3m6!1s0x2e7a57e4ce21cead%3A0xf510a3841fdfed51!8m2!3d-7.8155168!4d110.375934!16s%252Fg%252F11l3bn5h11!19sChIJrc4hzuRXei4RUe3fH4SjEPU&hl=id&authuser=0&_reqid=146501&rt=c
+r4skrb
+)]}'
+
+128
+[["wrb.fr","r4skrb","[null,null,[false,false]]",null,null,null,"generic"],["di",38],["af.httprm",38,"1585622627301052878",29]]
+25
+[["e",4,null,null,164]]
+

@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "user_id": "",
+      "username": "SpaceX",
+      "nickname": "",
+      "bio": "",
+      "followers": 0,
+      "following": 0,
+      "tweets_count": 0,
+      "verified": false,
+      "blue_verified": false,
+      "location": "",
+      "joined": "",
+      "profile_image": "",
+      "url": "https://x.com/SpaceX"
+    }
+  ],
+  "mode": "browser",
+  "scraped_at": "2026-09-10T22:49:55.902Z",
+  "total_tweets": 1,
+  "total_replies": 0,
+  "total_records": 1,
+  "tweets": [
+    {
+      "tweet_id": "2092284173730144732",
+      "text": "Introducing Starbase, Louisiana – a high-cadence launch site that will enable Starship to open a pathway to the stars for humanity.\n \nThank you to \n@LAGovJeffLandry\n and the great people of Louisiana for all of their support as we work together on this audacious project →",
+      "author": "SpaceX",
+      "nickname": "SpaceX",
+      "user_id": "",
+      "created_at": "2026-08-25T16:13:14.000Z",
+      "likes": 36000,
+      "retweets": 7600,
+      "replies": 2000,
+      "quotes": 0,
+      "views": 0,
+      "is_retweet": false,
+      "retweeted": false,
+      "is_quote": false,
+      "quoted_text": "",
+      "media": [],
+      "in_reply_to": "",
+      "url": "https://x.com/SpaceX/status/2092284173730144732",
+      "lang": "",
+      "type": "tweet",
+      "source": "dom"
+    }
+  ],
+  "replies": []
+}

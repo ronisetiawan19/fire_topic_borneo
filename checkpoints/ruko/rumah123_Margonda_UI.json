@@ -1,0 +1,208 @@
+{
+  "titik": "Margonda UI",
+  "kota": "Depok",
+  "sumber": "rumah123",
+  "blocked": null,
+  "ok": true,
+  "total_raw": 40,
+  "total_semua": 40,
+  "listings": [
+    {
+      "judul": "Disewakan Ruko Bagus Murah 3.5 Lantai Dekat Jl Margonda Depok (Dumet School)",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 92 Juta",
+      "harga": 92000000,
+      "harga_satuan": "",
+      "luas_tanah": 80,
+      "luas_bangunan": 220,
+      "lantai": 5,
+      "alamat": "Depok I, Depok",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "depok",
+        "margonda"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/depok-depok-i/disewakan-ruko-bagus-murah-35-lantai-dekat-jl-margonda-depok-dumet-school-shr10250707/"
+    },
+    {
+      "judul": "Disewakan Ruko Bagus Murah 3.5 Lantai Dekat Jl Margonda Depok (Dumet School)",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 92 Juta",
+      "harga": 92000000,
+      "harga_satuan": "",
+      "luas_tanah": 80,
+      "luas_bangunan": 220,
+      "lantai": 5,
+      "alamat": "Depok I, Depok",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "depok",
+        "margonda"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/depok-depok-i/disewakan-ruko-bagus-murah-35-lantai-dekat-jl-margonda-depok-dumet-school-shr10250715/"
+    },
+    {
+      "judul": "Disewakan Ruko Bagus Murah 3.5 Lantai Dekat Jl Margonda Depok (Dumet School)",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 92 Juta",
+      "harga": 92000000,
+      "harga_satuan": "",
+      "luas_tanah": 80,
+      "luas_bangunan": 220,
+      "lantai": 5,
+      "alamat": "Depok I, Depok",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "depok",
+        "margonda"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/depok-depok-i/disewakan-ruko-bagus-murah-35-lantai-dekat-jl-margonda-depok-dumet-school-shr10250680/"
+    },
+    {
+      "judul": "Disewakan Ruko Bagus Murah 3.5 Lantai Dekat Jl Margonda Depok (Dumet School)",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 92 Juta",
+      "harga": 92000000,
+      "harga_satuan": "",
+      "luas_tanah": 80,
+      "luas_bangunan": 220,
+      "lantai": 5,
+      "alamat": "Depok I, Depok",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "depok",
+        "margonda"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/depok-depok-i/disewakan-ruko-bagus-murah-35-lantai-dekat-jl-margonda-depok-dumet-school-shr10250659/"
+    },
+    {
+      "judul": "Disewakan Ruko Bagus Murah 3.5 Lantai Dekat Jl Margonda Depok (Dumet School)",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 92 Juta",
+      "harga": 92000000,
+      "harga_satuan": "",
+      "luas_tanah": 80,
+      "luas_bangunan": 250,
+      "lantai": 5,
+      "alamat": "Depok I, Depok",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "depok",
+        "margonda"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/depok-depok-i/disewakan-ruko-bagus-murah-35-lantai-dekat-jl-margonda-depok-dumet-school-shr10275612/"
+    },
+    {
+      "judul": "Budget 55 Juta bisa Tinggal di Pesona Khayangan Depok?",
+      "tipe_properti": "rumah",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 55 Juta",
+      "harga": 55000000,
+      "harga_satuan": "",
+      "luas_tanah": 120,
+      "luas_bangunan": 100,
+      "lantai": null,
+      "alamat": "Margonda, Depok",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "depok",
+        "margonda"
+      ],
+      "radius_match": true,
+      "quality": 5,
+      "link": "https://www.rumah123.com/properti/depok-margonda/budget-55-juta-bisa-tinggal-di-pesona-khayangan-depok-hor42386497/"
+    },
+    {
+      "judul": "Disewakan Ruko",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 125 Juta",
+      "harga": 125000000,
+      "harga_satuan": "",
+      "luas_tanah": 66,
+      "luas_bangunan": 164.62,
+      "lantai": 2,
+      "alamat": "Depok I, Depok",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "depok"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/depok-depok-i/disewakan-ruko-shr10210758/"
+    },
+    {
+      "judul": "Ruko Strategis",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 85 Juta",
+      "harga": 85000000,
+      "harga_satuan": "",
+      "luas_tanah": 70,
+      "luas_bangunan": 210,
+      "lantai": null,
+      "alamat": "Sawangan, Depok",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "depok"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/depok-sawangan/ruko-strategis-shr10284572/"
+    },
+    {
+      "judul": "Disewakan Ruko (Hanya di Sewa Lt.2 dan Lt.3) Cocok untuk Kantor Pinggir Jalan Raya Nusantaraya",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 5,5",
+      "harga": 6,
+      "harga_satuan": "",
+      "luas_tanah": 2,
+      "luas_bangunan": 80,
+      "lantai": null,
+      "alamat": "Depok I, Depok",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "depok"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/depok-depok-i/disewakan-ruko-di-lt2-dan-lt3-cocok-untuk-kantor-pinggir-jalan-raya-nusantara-shr10081783/"
+    },
+    {
+      "judul": "Ruko 2 Lantai di Sawangan Area Strategis",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 45 Juta",
+      "harga": 45000000,
+      "harga_satuan": "",
+      "luas_tanah": 52,
+      "luas_bangunan": 86,
+      "lantai": 2,
+      "alamat": "Sawangan, Depok",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "depok"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/depok-sawangan/ruko-2-lantai-di-sawangan-area-strategis-shr4692059/"
+    }
+  ],
+  "scraped_at": "2026-09-14T13:03:56.219Z"
+}

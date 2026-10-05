@@ -1,0 +1,314 @@
+{
+  "query": [
+    "https://www.google.com/maps/place/Pasta+x+Laksa+Singapore/data=!4m7!3m6!1s0x2e69fb0006cca99b:0x89198eee7bf93769!8m2!3d-6.2395442!4d106.6367045!16s%2Fg%2F11nhdn3mv5!19sChIJm6nMBgD7aS4RaTf5e-6OGYk?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1"
+  ],
+  "mode": "browser",
+  "date_range": {
+    "since": "2025-09-23",
+    "until": null
+  },
+  "sort": "relevant",
+  "scraped_at": "2026-09-23T11:14:18.641Z",
+  "total_places": 1,
+  "total_reviews": 31,
+  "places": [
+    {
+      "place_id": "0x2e69fb0006cca99b:0x89198eee7bf93769",
+      "name": "0x2e69fb0006cca99b:0x89198eee7bf93769",
+      "address": "",
+      "rating": 0,
+      "reviews_count": 31,
+      "link": "https://www.google.com/maps/place/Pasta+x+Laksa+Singapore/data=!4m7!3m6!1s0x2e69fb0006cca99b:0x89198eee7bf93769!8m2!3d-6.2395442!4d106.6367045!16s%2Fg%2F11nhdn3mv5!19sChIJm6nMBgD7aS4RaTf5e-6OGYk?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOS4wIJJjKgBIAVAD&rclk=1",
+      "reviews": [
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0dVN6aDBZbVV0VDJ4bGFtOHRiM2RhUlVGSE1rRRAB",
+          "author": "Inna Thio7",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Makanannya Ok\nHarga nya bersahabat 👍\nCocok buat anak2 sebelum les",
+          "time": 1784805249,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGWGMyNXlTMHRQTm1VM01rcElSSE00YjNGSUxWRRAB",
+          "author": "Yoshua orion Immanuel",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Tempatnya dekat sekolah pahoa, di ruko golden 8, cocok buat mama2 makan sambil nunggu anak sekolah",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGTFJWaGpVVWhmVlZBeE1qUTBYMU52YkZoa1NrRRAB",
+          "author": "Newbee Newbee",
+          "rating": 5,
+          "time_label": "4 bulan lalu",
+          "text": "Enak kopinya suasana jg enak bersih tempatnya harga aman dikantong hehehe",
+          "time": 1779534849,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GVmREUkxPVzlrYlVWU1FtVlBjSFpvTUhGV2NHYxAB",
+          "author": "Erna indra",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Makanan n minuman oke bgt",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaS2VURjRNbXRDYkRkMlYxTkhTRXB1WVhSVE1IYxAB",
+          "author": "bagus",
+          "rating": 5,
+          "time_label": "4 bulan lalu",
+          "text": "pesen fish ball noodle chili oil disini rasanya enakk. tekstur mie nya pas dicampur sama bumbu chili oil combo maut banget. kalo kepedesan bisa minum kuah kaldunya yang bold dan fish ball. suasana kafenya juga tenang dan dingin karena ada dua ac",
+          "time": 1779534849,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WdmJTMHllRXBIVTFWMFJ5MXdXRXAxUjB4RmNYYxAB",
+          "author": "Cathalia Sanaca",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Makanan mantappp rekomen",
+          "time": 1784805249,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KcVFtNHljRXhyYVVkMmRIcDJOVzV4V1hSNGFGRRAB",
+          "author": "Chesa Cecaa",
+          "rating": 5,
+          "time_label": "4 bulan lalu",
+          "text": "enduuulll sekaliiii makanan nya apalagi pasta nya waahh mantepp siii bumbunya berasaa bgtt,dengan harga yg ramah di kantongg wajibb cobain siiii",
+          "time": 1779534849,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGbFgySkdORjlJYzNKRWMzQXhZbHB2VG5CUldXYxAB",
+          "author": "Suryasari Suryasari",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "pasta carbonaranya enak",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KNWJrMXdUblpEWWpNM05UUlZVMUJVVGxkYVZFRRAB",
+          "author": "Herman Andryanto",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "enak nih first trial",
+          "time": 1784805249,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xodVIxUjJlVUZZZVVNMmJqaEVlWGQxWVRGS1VWRRAB",
+          "author": "pet style grooming stlye grooming",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Kopi gula arennya enak pesan langsung hbs sampai lupa foto😋 …",
+          "time": 1784805249,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sSVJrNXZhM2xHY21sYWFHeHNNbU5vYVdwSE5VRRAB",
+          "author": "Anugerah",
+          "rating": 5,
+          "time_label": "4 bulan lalu",
+          "text": "kesini niatnya pengen beli Chicken Katsu Saus Singapore karena keliatan enak, tapi ternyata Saus Singaporenya udah abis. wah berarti best seller nih Saus Singaporenya. akhirnya aku pesen Nasi Goreng Bistik, udah dapet ayam fillet tepung sama kerupuk dan rasa nasi gorengnya balance sedikit pedess. surprsingly wangi smokynya dapet. besttt",
+          "time": 1779534849,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kNWVuVlpWMUpOVjJ4dFdrSkRRVnB0VjJZd2IwRRAB",
+          "author": "Kelvin SH",
+          "rating": 5,
+          "time_label": "4 bulan lalu",
+          "text": "Laksa singapore dan matchanya recommended",
+          "time": 1779534849,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xeE1XcHRSVUl6YTNkRU1FZHhhRlpXZDA1aFQzYxAB",
+          "author": "Robin Tannn",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "enak\" makanannya",
+          "time": 1784805249,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOdmFXaHlSMmhsTmxreGFVODBlV2R0UzFCdFdWRRAB",
+          "author": "Megan Tanarise",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Enak",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxWlNsTjJUMEZQTFUxaFRFSmFSMEl3TW14cU1YYxAB",
+          "author": "Dewi Susanti",
+          "rating": 5,
+          "time_label": "3 minggu lalu",
+          "text": "Ok buat nongkrong tungguin anak les n sekolah, tempat bersih, ber ac. Harga juga terjangkau",
+          "time": 1788347649,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSUFVYSnRWVE5pT0U5NVFsOXBOa2czZWxONVUzYxAB",
+          "author": "Laurence Olina chen",
+          "rating": 5,
+          "time_label": "4 minggu lalu",
+          "text": "tempatmya cozy nyaman",
+          "time": 1787742849,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkbmVrSXhibkpPV2s1Q1V6VkZiV3RYTUVKRGFFRRAB",
+          "author": "tadzkirah kia",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Aku tertarik untuk mencobanya, kelihatannya menarik. Kupikir lokasinya di sudut blok, tapi ternyata harus jalan sedikit ke kanan. Lokasinya cukup nyaman dengan pesan inspiratif di dinding. Dan mereka memberikan barang gratis dengan syarat yang sederhana^^",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWaE5sZGhRbFpmYjJKcWQyUlZkVFJZUW5oWVVXYxAB",
+          "author": "Theresia Siek",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Tempat yang bagus, makanan yang enak.",
+          "time": 1784805249,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wa2RXVktkR0Y0V1ZNM1MzbHBhM0V5UTNsMGFFRRAB",
+          "author": "Alexandra Jesica",
+          "rating": 5,
+          "time_label": "4 minggu lalu",
+          "text": "Permata tersembunyi yang sesungguhnya! Kemarin saya mencoba laksa dan nasi goreng mereka, sangat enak!! Saya akan kembali lagi ke sini untuk mencoba laksa mereka 🥰",
+          "time": 1787742849,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25waVNtZEliVTVmYWxORVVFNXVjMkY1ZDFOa1FrRRAB",
+          "author": "Tunder BG",
+          "rating": 5,
+          "time_label": "2 minggu lalu",
+          "text": "Saya pesan spageti Aglio Olio. Enak!",
+          "time": 1788952449,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSUFUwMDFSVVJOUkZoVlFsOU1abDk1VW1kb1owRRAB",
+          "author": "Some Guy",
+          "rating": 5,
+          "time_label": "4 bulan lalu",
+          "text": "Laksa yang enak, akan beli lagi.",
+          "time": 1779534849,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wbWRtWm5SaTF6TUhaQlRqbG1NblJKZVRBMVlsRRAB",
+          "author": "eveline_huang",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "",
+          "time": 1784805249,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCTFpHd3pTSEo0TlVVNWNVZHZabkI2ZEhaNFZXYxAB",
+          "author": "Alvina Monica",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Terimakasih Kak Alvinaa ulasan untuk toko kamii!selamat datang kembali🫰 …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1WFN6ZDBVMDE2VmpsSVQydFhNM0pRVmtkSlNVRRAB",
+          "author": "Laksa singapore",
+          "rating": 5,
+          "time_label": "5 bulan lalu",
+          "text": "",
+          "time": 1776942849,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWT04zUnFRemMyWkZaSmVXNVpYMnQxVGxGWVdVRRAB",
+          "author": "Kent Renjiro",
+          "rating": 5,
+          "time_label": "4 bulan lalu",
+          "text": "Halo Kent Renjiro! makasih banyak buat rating sempurnanya ✨",
+          "time": 1779534849,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4d1JGVXlablpRYVZoeVlUVlNOMDFrUWpSemIxRRAB",
+          "author": "Hariyawaty Tan",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Terimakasih kak Hariyawaty atas ulasan terbaiknya Selamat datang kembalii🙏😊 …",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kbE16UnZSa2ROZVhVNFpsUXpZME00U2pKcFUwRRAB",
+          "author": "Hendri Wijaya",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "Terimakasih untuk ulasan terbaik nya kak!!",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxS1UxcDROREE1Tkc4eGMwUk1NblpqT1hKaVlVRRAB",
+          "author": "Windy Vanlou",
+          "rating": 5,
+          "time_label": "sebulan lalu",
+          "text": "makanan enak",
+          "time": null,
+          "source": "dom",
+          "date_flag": "unknown"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZdFJWQm5PV3MxZWtKWGJqZFJNMDlOYzJaTGNIYxAB",
+          "author": "Atomy Citra Raya",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "Laksanya enak banget, saya akan kembali lagi untuk mencoba hidangan pastanya. Dekat dengan sekolah dan banyak pilihan tempat makan, jadi orang tua bisa menunggu anak mereka di sini dengan nyaman sambil menikmati hidangan mereka.",
+          "time": 1784805249,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGUFVIbDBVRUpGUzNwNlNuQk9ZMXBpYjJKWE4zYxAB",
+          "author": "Quentin",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "",
+          "time": 1784805249,
+          "source": "dom"
+        },
+        {
+          "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxVlExSkdSbHBHVVVadE1FOXlkRVUxVUZSRE5XYxAB",
+          "author": "Eline Queeny",
+          "rating": 5,
+          "time_label": "2 bulan lalu",
+          "text": "terima kasih untuk bintang 5 nya kak. 🫶🏻 …",
+          "time": 1784805249,
+          "source": "dom"
+        }
+      ]
+    }
+  ]
+}

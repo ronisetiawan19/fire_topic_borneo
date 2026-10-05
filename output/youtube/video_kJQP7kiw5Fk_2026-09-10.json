@@ -1,0 +1,149 @@
+{
+  "source": "urls",
+  "scraped_at": "2026-09-10T22:47:32.548Z",
+  "total_videos": 1,
+  "total_comments": 1,
+  "total_replies": 4,
+  "total_records": 5,
+  "comments": [
+    {
+      "comment_id": "UgypwIgSTKSOWcpMjCx4AaABAg",
+      "author": "UCMCpgMiy7STGKD3nlI1z3GQ",
+      "nickname": "seifkhaled2050",
+      "text": "Teacher: how many people are in the world?\nMe: about a despacito",
+      "likes": 43000,
+      "replies": 362,
+      "time": 1631295688,
+      "video_id": "kJQP7kiw5Fk",
+      "type": "comment",
+      "parent_comment_id": ""
+    },
+    {
+      "comment_id": "UgypwIgSTKSOWcpMjCx4AaABAg.9L7sayI-5v79LA3NdY-963",
+      "author": "UCFIOS6SBbZxdUqs6mg2AATA",
+      "nickname": "moongamingbruh8843",
+      "text": "This is one of the safest vids ever",
+      "likes": 440,
+      "replies": 0,
+      "time": 1631295688,
+      "video_id": "kJQP7kiw5Fk",
+      "type": "reply",
+      "parent_comment_id": "UgypwIgSTKSOWcpMjCx4AaABAg"
+    },
+    {
+      "comment_id": "UgypwIgSTKSOWcpMjCx4AaABAg.9L7sayI-5v79L99IEWSRtV",
+      "author": "UCEYixCTBZ2K1JJAdzXykFBQ",
+      "nickname": "Kpoping727official",
+      "text": "Baby shark : allow me to introduce myself",
+      "likes": 874,
+      "replies": 0,
+      "time": 1631295688,
+      "video_id": "kJQP7kiw5Fk",
+      "type": "reply",
+      "parent_comment_id": "UgypwIgSTKSOWcpMjCx4AaABAg"
+    },
+    {
+      "comment_id": "UgypwIgSTKSOWcpMjCx4AaABAg.9L7sayI-5v79LAJ7bMf7kv",
+      "author": "UCSyePYmpTgc0SBuLS0Q6fHw",
+      "nickname": "zeroruyi",
+      "text": "@ZeichenIDK There are 7.2 billion views on this video and there are 7.6 billion people in the world.",
+      "likes": 214,
+      "replies": 0,
+      "time": 1631295688,
+      "video_id": "kJQP7kiw5Fk",
+      "type": "reply",
+      "parent_comment_id": "UgypwIgSTKSOWcpMjCx4AaABAg"
+    },
+    {
+      "comment_id": "UgypwIgSTKSOWcpMjCx4AaABAg.9L7sayI-5v79LAxXRg92LR",
+      "author": "UCs-b9Z3W8WpZTV5cYHtx8Rw",
+      "nickname": "fea_ther3826",
+      "text": "No, A baby shark",
+      "likes": 10,
+      "replies": 0,
+      "time": 1631295689,
+      "video_id": "kJQP7kiw5Fk",
+      "type": "reply",
+      "parent_comment_id": "UgypwIgSTKSOWcpMjCx4AaABAg"
+    }
+  ],
+  "videos": [
+    {
+      "video_id": "kJQP7kiw5Fk",
+      "title": "Luis Fonsi - Despacito ft. Daddy Yankee",
+      "author": "",
+      "nickname": "LuisFonsiVEVO",
+      "channel_id": "",
+      "url": "https://www.youtube.com/watch?v=kJQP7kiw5Fk",
+      "views": 9119011908,
+      "stats": {
+        "play": 9119011908,
+        "like": 0,
+        "share": 0,
+        "comment": null
+      },
+      "comments": [
+        {
+          "comment_id": "UgypwIgSTKSOWcpMjCx4AaABAg",
+          "author": "UCMCpgMiy7STGKD3nlI1z3GQ",
+          "nickname": "seifkhaled2050",
+          "text": "Teacher: how many people are in the world?\nMe: about a despacito",
+          "likes": 43000,
+          "replies": 362,
+          "time": 1631295688,
+          "video_id": "kJQP7kiw5Fk",
+          "type": "comment",
+          "parent_comment_id": ""
+        },
+        {
+          "comment_id": "UgypwIgSTKSOWcpMjCx4AaABAg.9L7sayI-5v79LA3NdY-963",
+          "author": "UCFIOS6SBbZxdUqs6mg2AATA",
+          "nickname": "moongamingbruh8843",
+          "text": "This is one of the safest vids ever",
+          "likes": 440,
+          "replies": 0,
+          "time": 1631295688,
+          "video_id": "kJQP7kiw5Fk",
+          "type": "reply",
+          "parent_comment_id": "UgypwIgSTKSOWcpMjCx4AaABAg"
+        },
+        {
+          "comment_id": "UgypwIgSTKSOWcpMjCx4AaABAg.9L7sayI-5v79L99IEWSRtV",
+          "author": "UCEYixCTBZ2K1JJAdzXykFBQ",
+          "nickname": "Kpoping727official",
+          "text": "Baby shark : allow me to introduce myself",
+          "likes": 874,
+          "replies": 0,
+          "time": 1631295688,
+          "video_id": "kJQP7kiw5Fk",
+          "type": "reply",
+          "parent_comment_id": "UgypwIgSTKSOWcpMjCx4AaABAg"
+        },
+        {
+          "comment_id": "UgypwIgSTKSOWcpMjCx4AaABAg.9L7sayI-5v79LAJ7bMf7kv",
+          "author": "UCSyePYmpTgc0SBuLS0Q6fHw",
+          "nickname": "zeroruyi",
+          "text": "@ZeichenIDK There are 7.2 billion views on this video and there are 7.6 billion people in the world.",
+          "likes": 214,
+          "replies": 0,
+          "time": 1631295688,
+          "video_id": "kJQP7kiw5Fk",
+          "type": "reply",
+          "parent_comment_id": "UgypwIgSTKSOWcpMjCx4AaABAg"
+        },
+        {
+          "comment_id": "UgypwIgSTKSOWcpMjCx4AaABAg.9L7sayI-5v79LAxXRg92LR",
+          "author": "UCs-b9Z3W8WpZTV5cYHtx8Rw",
+          "nickname": "fea_ther3826",
+          "text": "No, A baby shark",
+          "likes": 10,
+          "replies": 0,
+          "time": 1631295689,
+          "video_id": "kJQP7kiw5Fk",
+          "type": "reply",
+          "parent_comment_id": "UgypwIgSTKSOWcpMjCx4AaABAg"
+        }
+      ]
+    }
+  ]
+}

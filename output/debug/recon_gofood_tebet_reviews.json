@@ -1,0 +1,76 @@
+{
+  "dom": {
+    "title": "Sky Pasta,Tebet - GoFood",
+    "url": "https://gofood.co.id/jakarta/restaurant/sky-pasta-tebet-594d2e42-b1fd-44f2-83a9-da53b2210842/reviews",
+    "buildId": "19.17.0",
+    "reviewNodes": 0,
+    "reviewHeaderText": [
+      "Sky Pasta,Tebet",
+      "Apa kata pelanggan",
+      "L*** P******",
+      "R*******",
+      "R*******",
+      "Semua ulasan",
+      "L*** P******",
+      "R*******",
+      "R*******",
+      "Iris A",
+      "Nia Syalendra",
+      "E******",
+      "Fredy_tegal",
+      "R***",
+      "A*****",
+      "F*****",
+      "F***",
+      "nungky",
+      "E****",
+      "kartikasari s"
+    ],
+    "pagePropsKeys": [
+      "tenant",
+      "activitySource",
+      "auth",
+      "userAgent",
+      "userLocation",
+      "rateLimit",
+      "pathLocation",
+      "outlet",
+      "breadcrumbs",
+      "reviewsData",
+      "cannedOutlet",
+      "isReviewsPage",
+      "outletUrl",
+      "fallbackOpenAppURL",
+      "isExperimentEnabled",
+      "__lang",
+      "__namespaces"
+    ]
+  },
+  "calls": [
+    {
+      "method": "GET",
+      "url": "https://i.gojekapi.com/darkroom/gofood-id/v2/images/uploads/f9546f29-23c3-4384-adf9-03bb59a89136_gofood-logo.png?auto=format",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://i.gojekapi.com/darkroom/gofood-id/v2/images/uploads/758637e4-3cd9-489d-ba4f-c60daaaf9ac6_badge-google-play.png?auto=format",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://i.gojekapi.com/darkroom/gofood-id/v2/images/uploads/127bbab8-0377-4b5f-8aee-209fbf266c54_badge-apple-store.png?auto=format",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://gofood.co.id/gofood/web/v2/deals/profile?cart_amount=0&cart_amount_excluding_discounted_skus=0&merchant_id=594d2e42-b1fd-44f2-83a9-da53b2210842&service_type=5&offeringToken=&distance=5210&gf_plus_two_exp_enabled=true&tenant=gofood&picked_loc=-6.2174945,106.8178377&fulfillment_modes=regular&funnel_uid=gofood&allowed_payment_types=",
+      "post": null
+    },
+    {
+      "method": "GET",
+      "url": "https://i.gojekapi.com/darkroom/gofood-id/v2/images/uploads/df67106a-26d4-4849-8226-669d97a9e447_download-app-screen-back.png?auto=format&w=202&h=437",
+      "post": null
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "source": "urls",
+  "mode": "browser",
+  "scraped_at": "2026-09-10T15:21:09.740Z",
+  "total_tweets": 1,
+  "total_replies": 5,
+  "total_records": 6,
+  "tweets": [
+    {
+      "tweet_id": "2096075733299044633",
+      "text": "TES is a workbench for machine tool develop by gpui-kit, for thermal error experiments, combining data acquisition, analysis, and modeling. GPUI Kit is going to professional apps and reaching new domains. https://t.co/udRzJaEwom https://t.co/XnltO2FBKw",
+      "author": "huacnlee",
+      "nickname": "Jason Lee",
+      "user_id": "14347537",
+      "created_at": "Sat Sep 05 03:19:32 +0000 2026",
+      "likes": 117,
+      "retweets": 11,
+      "replies": 1,
+      "quotes": 2,
+      "views": 9453,
+      "is_retweet": false,
+      "retweeted": false,
+      "is_quote": false,
+      "quoted_text": "",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2096075646753763328/img/TW7wry6KBHUwIZuD.jpg",
+          "expanded_url": "https://x.com/huacnlee/status/2096075733299044633/video/1",
+          "preview": "https://video.twimg.com/amplify_video/2096075646753763328/pl/ildOkDOioGnB-x40.m3u8?tag=29",
+          "duration": 16233,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "url": "https://video.twimg.com/amplify_video/2096075646753763328/vid/avc1/432x270/j8IIFIYJBj1IU10n.mp4?tag=29"
+            },
+            {
+              "bitrate": 832000,
+              "url": "https://video.twimg.com/amplify_video/2096075646753763328/vid/avc1/576x360/DJg-oiobti9Pzc5w.mp4?tag=29"
+            },
+            {
+              "bitrate": 2176000,
+              "url": "https://video.twimg.com/amplify_video/2096075646753763328/vid/avc1/1152x720/9Sfjd0eVYiACFUSy.mp4?tag=29"
+            },
+            {
+              "bitrate": 10368000,
+              "url": "https://video.twimg.com/amplify_video/2096075646753763328/vid/avc1/1728x1080/9110VMyIwvAw13BX.mp4?tag=29"
+            },
+            {
+              "bitrate": 25128000,
+              "url": "https://video.twimg.com/amplify_video/2096075646753763328/vid/avc1/2560x1600/H1j9ferlCwJYHu9k.mp4?tag=29"
+            }
+          ]
+        }
+      ],
+      "in_reply_to": "",
+      "url": "https://x.com/huacnlee/status/2096075733299044633",
+      "lang": "en",
+      "type": "tweet"
+    }
+  ],
+  "replies": [
+    {
+      "tweet_id": "2096107914927001725",
+      "text": "@VoidsWork No, I want keep focus, so I don't like join live chats. Please submit an issue, PR, or discussion on GitHub. Or mention me on X.",
+      "author": "huacnlee",
+      "nickname": "Jason Lee",
+      "user_id": "14347537",
+      "created_at": "Sat Sep 05 05:27:25 +0000 2026",
+      "likes": 3,
+      "retweets": 1,
+      "replies": 1,
+      "quotes": 0,
+      "views": 217,
+      "is_retweet": false,
+      "retweeted": false,
+      "is_quote": false,
+      "quoted_text": "",
+      "media": [],
+      "in_reply_to": "2096100527721353346",
+      "url": "https://x.com/huacnlee/status/2096107914927001725",
+      "lang": "en",
+      "type": "tweet",
+      "parent_tweet_id": "2096075733299044633"
+    },
+    {
+      "tweet_id": "2097809239150313835",
+      "text": "🚀 Zed v1.19 is out! You can now explore a function’s callers and the functions it calls via `call hierarchy: show incoming calls` and `call hierarchy: show outgoing calls`. Thanks swiftcoder! https://t.co/39PhKzyDfN",
+      "author": "zeddotdev",
+      "nickname": "Zed",
+      "user_id": "1471128655699062784",
+      "created_at": "Wed Sep 09 22:07:52 +0000 2026",
+      "likes": 1049,
+      "retweets": 42,
+      "replies": 36,
+      "quotes": 11,
+      "views": 37796,
+      "is_retweet": false,
+      "retweeted": false,
+      "is_quote": false,
+      "quoted_text": "",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/ext_tw_video_thumb/2097809216090038273/pu/img/HtPKhSq3G6fLrgyi.jpg",
+          "expanded_url": "https://x.com/zeddotdev/status/2097809239150313835/video/1",
+          "preview": "https://video.twimg.com/ext_tw_video/2097809216090038273/pu/pl/6RLrUt5k8GEh4q3C.m3u8?tag=12&v=cfc",
+          "duration": 14700,
+          "variants": [
+            {
+              "bitrate": 256000,
+              "url": "https://video.twimg.com/ext_tw_video/2097809216090038273/pu/vid/avc1/422x270/o8YtxIdwd27uS8Ck.mp4?tag=12"
+            },
+            {
+              "bitrate": 832000,
+              "url": "https://video.twimg.com/ext_tw_video/2097809216090038273/pu/vid/avc1/562x360/UiHUQpiVBpPZlSt7.mp4?tag=12"
+            },
+            {
+              "bitrate": 2176000,
+              "url": "https://video.twimg.com/ext_tw_video/2097809216090038273/pu/vid/avc1/1124x720/PvO_IhMYKTnZqlnB.mp4?tag=12"
+            }
+          ]
+        }
+      ],
+      "in_reply_to": "",
+      "url": "https://x.com/zeddotdev/status/2097809239150313835",
+      "lang": "en",
+      "type": "tweet",
+      "parent_tweet_id": "2096075733299044633"
+    },
+    {
+      "tweet_id": "2097683633645482130",
+      "text": "Big one today — Tailwind is joining Shopify 🛍️ https://t.co/YxnYEOsXKc",
+      "author": "adamwathan",
+      "nickname": "Adam Wathan",
+      "user_id": "716933677",
+      "created_at": "Wed Sep 09 13:48:45 +0000 2026",
+      "likes": 15102,
+      "retweets": 1069,
+      "replies": 1227,
+      "quotes": 506,
+      "views": 1034463,
+      "is_retweet": false,
+      "retweeted": false,
+      "is_quote": false,
+      "quoted_text": "",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRx2QG7aoAEAhna.jpg",
+          "expanded_url": "https://x.com/adamwathan/status/2097683633645482130/photo/1",
+          "preview": "",
+          "duration": 0
+        }
+      ],
+      "in_reply_to": "",
+      "url": "https://x.com/adamwathan/status/2097683633645482130",
+      "lang": "en",
+      "type": "tweet",
+      "parent_tweet_id": "2096075733299044633"
+    },
+    {
+      "tweet_id": "2097780352085303356",
+      "text": "it's ok, css is already one step ahead @​media (device-posture: folded) { h1 span { opacity: 0.25; } } https://t.co/SMhwj8AQEA",
+      "author": "jh3yy",
+      "nickname": "jhey ʕ•ᴥ•ʔ",
+      "user_id": "2396811776",
+      "created_at": "Wed Sep 09 20:13:05 +0000 2026",
+      "likes": 3475,
+      "retweets": 186,
+      "replies": 42,
+      "quotes": 28,
+      "views": 265560,
+      "is_retweet": false,
+      "retweeted": false,
+      "is_quote": false,
+      "quoted_text": "",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2097779153605152768/img/zFOe_bMBOKHwGhy8.jpg",
+          "expanded_url": "https://x.com/jh3yy/status/2097780352085303356/video/1",
+          "preview": "https://video.twimg.com/amplify_video/2097779153605152768/pl/MInsXh8hT8wiXtXt.m3u8?tag=29",
+          "duration": 8986,
+          "variants": [
+            {
+              "bitrate": 432000,
+              "url": "https://video.twimg.com/amplify_video/2097779153605152768/vid/avc1/320x320/ybiDTAwSlmq0J_d0.mp4?tag=29"
+            },
+            {
+              "bitrate": 832000,
+              "url": "https://video.twimg.com/amplify_video/2097779153605152768/vid/avc1/540x540/RHzpJg72Kr4BRxRh.mp4?tag=29"
+            },
+            {
+              "bitrate": 1280000,
+              "url": "https://video.twimg.com/amplify_video/2097779153605152768/vid/avc1/720x720/_pBBvXeV6IMbpbYS.mp4?tag=29"
+            },
+            {
+              "bitrate": 8768000,
+              "url": "https://video.twimg.com/amplify_video/2097779153605152768/vid/avc1/1080x1080/0pR0ow8gipmal1zp.mp4?tag=29"
+            }
+          ]
+        }
+      ],
+      "in_reply_to": "",
+      "url": "https://x.com/jh3yy/status/2097780352085303356",
+      "lang": "en",
+      "type": "tweet",
+      "parent_tweet_id": "2096075733299044633"
+    },
+    {
+      "tweet_id": "2097751246316634464",
+      "text": "iPhone Duo will have CI/CD integration https://t.co/Sa2v7JTuVS",
+      "author": "o_kwasniewski",
+      "nickname": "Oskar",
+      "user_id": "748792879552704513",
+      "created_at": "Wed Sep 09 18:17:26 +0000 2026",
+      "likes": 8201,
+      "retweets": 307,
+      "replies": 38,
+      "quotes": 40,
+      "views": 198534,
+      "is_retweet": false,
+      "retweeted": false,
+      "is_quote": false,
+      "quoted_text": "",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HRy1apcbMAA7uhg.jpg",
+          "expanded_url": "https://x.com/o_kwasniewski/status/2097751246316634464/photo/1",
+          "preview": "",
+          "duration": 0
+        }
+      ],
+      "in_reply_to": "",
+      "url": "https://x.com/o_kwasniewski/status/2097751246316634464",
+      "lang": "en",
+      "type": "tweet",
+      "parent_tweet_id": "2096075733299044633"
+    }
+  ]
+}

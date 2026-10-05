@@ -1,0 +1,222 @@
+{
+  "titik": "Gading Serpong",
+  "kota": "Tangerang",
+  "sumber": "rumah123",
+  "blocked": null,
+  "ok": true,
+  "total_raw": 40,
+  "total_semua": 40,
+  "listings": [
+    {
+      "judul": "Disewakan Ruko Sorrento Grande East Gading Serpong Tangerang",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 85 Juta",
+      "harga": 85000000,
+      "harga_satuan": "",
+      "luas_tanah": 45,
+      "luas_bangunan": 90,
+      "lantai": 2,
+      "alamat": "Gading Serpong, Tangerang",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang",
+        "gading",
+        "serpong"
+      ],
+      "radius_match": true,
+      "quality": 6,
+      "link": "https://www.rumah123.com/properti/tangerang-gading-serpong/disewakan-ruko-sorrento-grande-east-gading-serpong-tangerang-shr9853651/"
+    },
+    {
+      "judul": "Disewakan Ruko Boulevard Gading Serpong Pinggir Jalan Murah",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 175 Juta",
+      "harga": 175000000,
+      "harga_satuan": "",
+      "luas_tanah": 100,
+      "luas_bangunan": 300,
+      "lantai": 3,
+      "alamat": "Gading Serpong, Tangerang",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang",
+        "gading",
+        "serpong"
+      ],
+      "radius_match": true,
+      "quality": 6,
+      "link": "https://www.rumah123.com/properti/tangerang-gading-serpong/disewakan-ruko-boulevard-gading-serpong-pinggir-jalan-murah-shr10216928/"
+    },
+    {
+      "judul": "Disewakan Ruko Goldfinch North Gading Serpong Tangerang",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 130 Juta",
+      "harga": 130000000,
+      "harga_satuan": "",
+      "luas_tanah": 82,
+      "luas_bangunan": 162,
+      "lantai": 3,
+      "alamat": "Gading Serpong, Tangerang",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang",
+        "gading",
+        "serpong"
+      ],
+      "radius_match": true,
+      "quality": 6,
+      "link": "https://www.rumah123.com/properti/tangerang-gading-serpong/disewakan-ruko-goldfinch-north-gading-serpong-tangerang-shr10133608/"
+    },
+    {
+      "judul": "Sewa Ruko Il Lago Grande Illago Paramount Gading Serpong",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 85 Juta",
+      "harga": 85000000,
+      "harga_satuan": "",
+      "luas_tanah": 45,
+      "luas_bangunan": 90,
+      "lantai": null,
+      "alamat": "Gading Serpong, Tangerang",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang",
+        "gading",
+        "serpong"
+      ],
+      "radius_match": true,
+      "quality": 6,
+      "link": "https://www.rumah123.com/properti/tangerang-gading-serpong/sewa-ruko-il-lago-grande-illago-paramount-gading-serpong-shr9815751/"
+    },
+    {
+      "judul": "Disewakan Ruko Baru Area Sorento Grande Lokasi Strategis Cocok untuk Salon atau Kantor",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 85 Juta",
+      "harga": 85000000,
+      "harga_satuan": "",
+      "luas_tanah": 45,
+      "luas_bangunan": 100,
+      "lantai": null,
+      "alamat": "Gading Serpong, Tangerang",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang",
+        "gading",
+        "serpong"
+      ],
+      "radius_match": true,
+      "quality": 6,
+      "link": "https://www.rumah123.com/properti/tangerang-gading-serpong/disewakan-ruko-baru-area-sorento-grande-lokasi-strategis-cocok-untuk-salon-atau-kantor-shr10172654/"
+    },
+    {
+      "judul": "Disewakan Ruko Baru di Sorrnto. West",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 300 Juta",
+      "harga": 300000000,
+      "harga_satuan": "",
+      "luas_tanah": 90,
+      "luas_bangunan": 201,
+      "lantai": null,
+      "alamat": "Gading Serpong, Tangerang",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang",
+        "gading",
+        "serpong"
+      ],
+      "radius_match": true,
+      "quality": 6,
+      "link": "https://www.rumah123.com/properti/tangerang-gading-serpong/disewakan-ruko-baru-di-sorrnto-west-shr9922586/"
+    },
+    {
+      "judul": "Murah Hadap Jalan Raya Ramai Ruko Sorrento Grande East Gading Serpong",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 135 Juta",
+      "harga": 135000000,
+      "harga_satuan": "",
+      "luas_tanah": 63,
+      "luas_bangunan": 120,
+      "lantai": null,
+      "alamat": "Gading Serpong, Tangerang",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang",
+        "gading",
+        "serpong"
+      ],
+      "radius_match": true,
+      "quality": 6,
+      "link": "https://www.rumah123.com/properti/tangerang-gading-serpong/baru-hadap-jalan-raya-ramai-ruko-sorrento-grande-east-gading-serpong-shr9807300/"
+    },
+    {
+      "judul": "Ruko 3 Lantai Siap Pakai Harga bisa Nego di Gading Serpong",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 430 Juta",
+      "harga": 430000000,
+      "harga_satuan": "",
+      "luas_tanah": 1,
+      "luas_bangunan": 135,
+      "lantai": 3,
+      "alamat": "Gading Serpong, Tangerang",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang",
+        "gading",
+        "serpong"
+      ],
+      "radius_match": true,
+      "quality": 6,
+      "link": "https://www.rumah123.com/properti/tangerang-gading-serpong/ruko-3-lantai-siap-pakai-harga-bisa-nego-di-gading-serpong-shr9978081/"
+    },
+    {
+      "judul": "Disewakan dan Dijual Ruko Medrisio 2 Gading Serpong",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 110 Juta",
+      "harga": 110000000,
+      "harga_satuan": "",
+      "luas_tanah": 85.5,
+      "luas_bangunan": 202,
+      "lantai": 3,
+      "alamat": "Gading Serpong, Tangerang",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang",
+        "gading",
+        "serpong"
+      ],
+      "radius_match": true,
+      "quality": 6,
+      "link": "https://www.rumah123.com/properti/tangerang-gading-serpong/disewakan-dan-dijual-ruko-medrisio-2-gading-serpong-shr10265416/"
+    },
+    {
+      "judul": "Disewakan dan Dijual Ruko Medrisio 2 Gading Serpong",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 110 Juta",
+      "harga": 110000000,
+      "harga_satuan": "",
+      "luas_tanah": 85.5,
+      "luas_bangunan": 202,
+      "lantai": 3,
+      "alamat": "Gading Serpong, Tangerang",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang",
+        "gading",
+        "serpong"
+      ],
+      "radius_match": true,
+      "quality": 6,
+      "link": "https://www.rumah123.com/properti/tangerang-gading-serpong/disewakan-dan-dijual-ruko-medrisio-2-gading-serpong-shr10265430/"
+    }
+  ],
+  "scraped_at": "2026-09-14T12:58:07.544Z"
+}

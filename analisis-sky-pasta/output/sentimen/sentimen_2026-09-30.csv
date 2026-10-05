@@ -1,0 +1,16 @@
+﻿titik,kompetitor,n_total,n_sampled,n_skipped_batustanggal,n_tanpa_tanggal,label_sentimen,score,pct_positif,pct_negatif,pct_netral,place_id
+Bogor Nirwana Residence,PASTA 9.0,10,5,5,0,POSITIF,1.8,80,0,20,0x2e69c500500daeef:0xac5aa7d66f53d32d
+Bogor Nirwana Residence,Macaroni Panggang,9813,193,885,0,POSITIF,1.658,71,5,24,0x2e69c5cce4b0d74d:0x57a7475005c8be6c
+Bogor Nirwana Residence,Meat & Pasta,555,480,114,0,CAMPURAN,1.14,59,1,39,0x2e69c5cc39a82213:0x636885952d235de0
+Bogor Nirwana Residence,LaQuisha PastaNda - oleh oleh Bogor,89,1,88,0,POSITIF,1,100,0,0,0x2e69c6643d27fdb7:0x15a151c24cdd8d3a
+Bogor Nirwana Residence,MP Lasagna Gulung,1710,67,971,0,CAMPURAN,0.866,46,3,51,0x2e69c5cc383e225d:0xc2f3af8179baf358
+Bogor Nirwana Residence,Pasta Kangen Ungu,26,0,26,0,TIDAK ADA DATA,0,0,0,0,0x2e69c587debf7945:0xfa1e53529db0d7d6
+Bogor Nirwana Residence,VIP Canteen Pasta,1,0,1,0,TIDAK ADA DATA,0,0,0,0,0x2e69c5f3d5cf7245:0xe0dbee5963e6d2b1
+BSD City Sektor 3,Balboni Ristorante,2901,179,979,0,POSITIF,2.128,85,3,11,0x2e69fb0e56c81073:0xc4e598c194a61a20
+BSD City Sektor 3,Trattoria di Sorrento | Halal Italian-Mediterranean Cuisine,465,516,0,0,POSITIF,1.364,60,5,34,0x2e69fb473290e121:0x1bae59348d15cc55
+BSD City Sektor 3,Pasta & Ice Cream,0,0,0,0,TIDAK ADA DATA,0,0,0,0,0x2e69f07595b8265d:0x718c5bb44ae059c8
+BSD City Sektor 3,Lasagna Kitchen,0,0,0,0,TIDAK ADA DATA,0,0,0,0,0x2e69e52b4b4fdd0d:0xb630b0fbabff2dff
+BSD City Sektor 3,Pasta Yori Resto,0,0,0,0,TIDAK ADA DATA,0,0,0,0,0x2e69fb4e68e7e05b:0x74c5338b0fdbedb2
+BSD City Sektor 3,EAT & JOY The Pasta and Topokki Market - BSD,0,0,0,0,TIDAK ADA DATA,0,0,0,0,0x2e69fb2b8583562b:0xe64a51ec0c8ddc60
+BSD City Sektor 3,Pasta Lab,0,0,0,0,TIDAK ADA DATA,0,0,0,0,0x2e69fbc19c88060b:0xde679c9e5fe2a1a4
+BSD City Sektor 3,HOZ Pasta Pamulang,0,0,0,0,TIDAK ADA DATA,0,0,0,0,0x2e69e535ac68fcaf:0x519bcaec305783c3

@@ -1,0 +1,549 @@
+{
+  "securityConfig": {
+    "frameAncestors": [
+      "https://lkpp-portal.festiware.com",
+      "https://bela-portal.festiware.com",
+      "https://belapengadaan.lkpp.go.id"
+    ],
+    "trustedDomains": [
+      "www.googletagmanager.com",
+      "www.google.com",
+      "scribe-web-sdk.grab.com",
+      "static.hotjar.com",
+      "www.google-analytics.com",
+      "connect.facebook.net",
+      "www.gstatic.com",
+      "script.hotjar.com",
+      "*.sentry.io",
+      "cdn.ravenjs.com",
+      "food.grab.com",
+      "paysdk-web.grab.com",
+      "www.googleadservices.com",
+      "googleads.g.doubleclick.net",
+      "cdn-apac.onetrust.com",
+      "blob:",
+      "data:",
+      "*.awswaf.com"
+    ],
+    "workerSrc": [
+      "https://food.grab.com",
+      "blob:",
+      "data:"
+    ]
+  },
+  "subpathLanguage": "en",
+  "subpathCountry": "ID",
+  "countryConfig": {
+    "appid": {
+      "apple": "647268330",
+      "google": "com.grabtaxi.passenger"
+    },
+    "appstore": {
+      "apple": "https://itunes.apple.com/app/id647268330?mt=8",
+      "google": "https://play.google.com/store/apps/details?id=com.grabtaxi.passenger"
+    },
+    "banner": {
+      "images": []
+    },
+    "footer_links": {
+      "categories": [
+        {
+          "key": "id-burger-king",
+          "path": "chain/burger-king-delivery"
+        },
+        {
+          "key": "id-chatime",
+          "path": "chain/chatime-delivery"
+        },
+        {
+          "key": "id-domino-pizza",
+          "path": "chain/dominos-delivery"
+        },
+        {
+          "key": "id-hokben",
+          "path": "chain/hokben-delivery"
+        },
+        {
+          "key": "id-jco-delivery",
+          "path": "chain/jco-donuts-coffee-delivery"
+        },
+        {
+          "key": "id-kfc",
+          "path": "chain/kfc-delivery"
+        },
+        {
+          "key": "id-mcDonalds",
+          "path": "chain/mcdonalds-delivery"
+        },
+        {
+          "key": "id-pizza-hut",
+          "path": "chain/pizza-hut-delivery"
+        },
+        {
+          "key": "id-richeese",
+          "path": "chain/richeese-factory-delivery"
+        },
+        {
+          "key": "id-solaria",
+          "path": "chain/solaria-delivery"
+        },
+        {
+          "key": "id-starbucks",
+          "path": "chain/starbucks-delivery"
+        },
+        {
+          "key": "id-yoshinoya",
+          "path": "chain/yoshinoya-delivery"
+        }
+      ],
+      "favorites": [
+        {
+          "key": "chinese",
+          "path": "restaurants?category=chinese-45"
+        },
+        {
+          "key": "fast-food",
+          "path": "restaurants?category=fast-food-62"
+        },
+        {
+          "key": "indian",
+          "path": "restaurants?category=indian-86"
+        },
+        {
+          "key": "indonesian",
+          "path": "restaurants?category=indonesian-87"
+        },
+        {
+          "key": "italian",
+          "path": "restaurants?category=italian-88"
+        },
+        {
+          "key": "japanese",
+          "path": "restaurants?category=japanese-89"
+        },
+        {
+          "key": "korean",
+          "path": "restaurants?category=korean-96"
+        },
+        {
+          "key": "thai",
+          "path": "restaurants?category=thai-178"
+        },
+        {
+          "key": "vietnamese",
+          "path": "restaurants?category=vietnamese-188"
+        }
+      ]
+    },
+    "supported_languages": [
+      "id",
+      "en"
+    ],
+    "default_language": "id",
+    "footer_path": "/id/",
+    "footer_new_enabled": false,
+    "is_ready": true,
+    "only_grab": false,
+    "currency_symbol": "Rp",
+    "currency_code": "IDR",
+    "homepage": {
+      "images": [
+        "/static/page-home/ID-new-1.jpg",
+        "/static/page-home/ID-new-2.jpg",
+        "/static/page-home/ID-new-3.jpg",
+        "/static/page-home/ID-new-4.jpg"
+      ]
+    },
+    "links": {
+      "about_grab": "https://www.grab.com/id/about/",
+      "about_grabfood": "https://www.grab.com/id/food/",
+      "be_a_grabfood_merchant": "https://www.grab.com/id/grabfood/",
+      "dine_out": "https://dineout.grab.com/?utm_source=grab_food&utm_medium=footer",
+      "drive_with_grabfood": "https://www.grab.com/id/driver/food/",
+      "faq": "https://help.grab.com/passenger/en-id/115002258448-GrabFood",
+      "food_blog": "https://www.grab.com/id/food-blog/",
+      "help": "https://help.grab.com/passenger/en-id/115002258448-GrabFood",
+      "privacy": "https://www.grab.com/id/privacy/",
+      "report_wrong_resto_info": "https://help.grab.com/hc/en-id/360000180447-Report-incorrect-restaurant-information",
+      "terms": "https://www.grab.com/id/terms/"
+    },
+    "locations": [
+      {
+        "key": "bali",
+        "lat": -8.3405,
+        "lng": 115.092
+      },
+      {
+        "key": "bandung",
+        "lat": -6.9175,
+        "lng": 107.6191
+      },
+      {
+        "key": "jakarta",
+        "lat": -6.2088,
+        "lng": 106.8456
+      },
+      {
+        "key": "malang",
+        "lat": -7.9666,
+        "lng": 112.6326
+      },
+      {
+        "key": "medan",
+        "lat": 3.5952,
+        "lng": 98.6722
+      },
+      {
+        "key": "semarang",
+        "lat": -7.0051,
+        "lng": 110.4381
+      },
+      {
+        "key": "solo",
+        "lat": -7.5755,
+        "lng": 110.8243
+      },
+      {
+        "key": "surabaya",
+        "lat": -7.2575,
+        "lng": 112.7521
+      },
+      {
+        "key": "yogyakarta",
+        "lat": -7.7956,
+        "lng": 110.3695
+      }
+    ],
+    "restaurants": {
+      "download_img": "/static/page-restaurants/ID-food.jpg"
+    },
+    "seo": {
+      "image_height": "630",
+      "image_url": "https://food.grab.com/static/images/social-hero-ID.jpg",
+      "image_width": "1200",
+      "site_name": "Grabfood ID",
+      "twitter_card": "summary_large_image",
+      "twitter_site": "@GrabID",
+      "type": "website"
+    },
+    "socialmedia": [
+      {
+        "href": "https://www.facebook.com/grabid",
+        "icon": "facebook",
+        "name": "Facebook"
+      },
+      {
+        "href": "https://www.instagram.com/grabfoodid",
+        "icon": "instagram",
+        "name": "Instagram"
+      },
+      {
+        "href": "https://twitter.com/grabid",
+        "icon": "twitter",
+        "name": "Twitter"
+      }
+    ],
+    "enableGGBGLFFU": true,
+    "footer_order": 1,
+    "ggbBuyerSupportLink": "https://help.grab.com/passenger/en-id/4407745201689",
+    "ggbGLSupportLink": "https://help.grab.com/passenger/en-id/4405162259225",
+    "ggbMaxItemQty": 5,
+    "ggbSupportLink": "https://help.grab.com/passenger/en-id/4404019943449",
+    "grabliteSunsetRedirectLinkID": "https://www.grab.com/id/en/grab-lite-important-update/",
+    "grabliteSupportLink": "https://www.grab.com/id/grab-lite-important-update/",
+    "orderingCities": "<no value>",
+    "promoCategory": 11512,
+    "sunsetGGB": true,
+    "sunsetGGBLink": "https://www.grab.com/id/groupbuyinfo/"
+  },
+  "commonConfig": {
+    "footer": {
+      "company": [
+        {
+          "link": "https://www.grab.com/food",
+          "text": "About GrabFood"
+        },
+        {
+          "link": "https://www.grab.com/about",
+          "text": "About Grab"
+        },
+        {
+          "link": "https://www.grab.com/food-blog",
+          "text": "Blog"
+        }
+      ],
+      "partner": [
+        {
+          "link": "https://www.grab.com/merchant/food",
+          "text": "Be a Merchant"
+        },
+        {
+          "link": "https://www.grab.com/driver/food",
+          "text": "Drive with GrabFood"
+        }
+      ],
+      "support": [
+        {
+          "link": "https://help.grab.com/115002258448-GrabFood",
+          "text": "Help"
+        },
+        {
+          "link": "https://help.grab.com/115002258448-GrabFood",
+          "text": "FAQs"
+        }
+      ],
+      "privacy": {
+        "link": "https://www.grab.com/privacy",
+        "text": "Privacy Policy"
+      },
+      "terms": {
+        "link": "https://www.grab.com/terms",
+        "text": "Terms of Service"
+      }
+    },
+    "landingPage": {
+      "heroImage": "/static/page-landing/hero-1.webp",
+      "countries": {
+        "available": [
+          "id",
+          "sg",
+          "ph",
+          "my",
+          "vn",
+          "th",
+          "mm",
+          "kh"
+        ],
+        "unavailable": []
+      }
+    },
+    "seo": {
+      "title": "Food Delivery Menu",
+      "title_suffix": "GrabFood",
+      "description": "Fast and easy food delivery service to spoil the foodie within you. Find international cuisines and top restaurant promos.",
+      "max_seo_title_length": 60
+    },
+    "sto": {
+      "orderRadius": 150,
+      "maxSessionTimeoutInHours": 3
+    },
+    "recaptcha": {
+      "optOut": []
+    },
+    "optimizedPageWithoutGTM": [
+      "/coolerwebview"
+    ],
+    "input": {
+      "location": {
+        "maxLength": 512
+      },
+      "merchantOrDish": {
+        "maxLength": 256
+      }
+    },
+    "combinedFeeKeys": [],
+    "optimizedPageWithoutHydra": [
+      "/coolerwebview"
+    ],
+    "paysdkWebSdkUrl": "https://paysdk-web.grab.com/scripts/v1.0.0/paysdk.min.js",
+    "AWSBotControlSDKEnabledRoutes": [
+      "/restaurant-detail",
+      "/restaurants"
+    ],
+    "AWSBotControlSDKSource": "https://7c10b355cbe1.edge.sdk.awswaf.com/7c10b355cbe1/eafe110adad4/challenge.js",
+    "enableBackButtonControl": false,
+    "promos": {
+      "categoryID": 305,
+      "categoryName": "promos"
+    },
+    "socialMedia": [
+      {
+        "href": "https://www.facebook.com/grab",
+        "icon": "facebook"
+      },
+      {
+        "href": "https://www.instagram.com/grabfoodid",
+        "icon": "instagram"
+      },
+      {
+        "href": "https://twitter.com/grabid",
+        "icon": "twitter"
+      }
+    ]
+  },
+  "features": {
+    "webOrdering": true,
+    "showPreferredMexLabel": true,
+    "cancelReason": true,
+    "cashless": true,
+    "hydraScan": true,
+    "hydraSentry": false,
+    "orderTag": true,
+    "scheduledOrder": true,
+    "enableLocalProxy": true,
+    "enableDevProxy": false,
+    "removeCredentialProps": true,
+    "serviceBasedMenu": false,
+    "webPImages": false,
+    "foodInstrumentation": true,
+    "preLoginCart": false,
+    "cfErrorPages": false,
+    "ISSDeprecateSectionOpenHours": false,
+    "CSPScript": false,
+    "showPromoList": false,
+    "universalDeeplink": false,
+    "sessionCookieConfig": false,
+    "splitDisplayAddress": false,
+    "enableChat": false,
+    "httpOnlySessionCookies": false,
+    "httpOnlyCountryCookies": false,
+    "httpOnlyLocationCookies": false,
+    "movedLanguageSwitch": false,
+    "semanticHeadingRevamp": false,
+    "infiniteScrollRestaurants": false,
+    "newNotFoundIllustration": false,
+    "scanToOrder": false,
+    "groupOrdering": false,
+    "datadogTrackingNonFoodwebServices": false,
+    "googleCrawlerDatadogTracking": false,
+    "showPromoListV2": false,
+    "cookieConsent": false,
+    "disableCookieConsentInIFrame": false,
+    "scanToOrderMerchantCheck": false,
+    "stampcardRedirect": false,
+    "quickAddButton": false,
+    "dineInOrderReady": false,
+    "enableAddCreditCard": false,
+    "groupOrderBill": false,
+    "groupOrderBillV2": false,
+    "useV2LocationSearch": false,
+    "enableinTransitQRCode": false,
+    "enableCheckUA": false,
+    "enableDiffCommissionSTOPayments": false,
+    "ratingPreview": false,
+    "dineInDealsEducation": false,
+    "hideAlcoholMerchant": false,
+    "hideTobaccoMerchant": false,
+    "coolerWebview": false,
+    "savedAddresses": false,
+    "groupOrderShareLink": false,
+    "disableLocationForGuest": false,
+    "partnerWebview": false,
+    "popupFeeBreakdownEnabled": false,
+    "laasPrivacyNotice": false,
+    "stampCardHome": false,
+    "foodieWrapped": false,
+    "enableGuestToken": false,
+    "enableGuestEndpoints": false,
+    "enableGuestRestaurantDetailsV2Endpoint": false,
+    "enableBreakdownIcon": false,
+    "enableHybridSSRFetch": false,
+    "enableHybridSSRFetchAll": false,
+    "enableCityCuisineList": false,
+    "enableBusinessAttributeContent": false,
+    "enableRestaurantDetails": false,
+    "cfGeoLocationFallback": false,
+    "enableHermesDaxChat": false,
+    "altchaEnable": false,
+    "getMerchantIDV2AltchaEnable": false,
+    "getCategoryShortcutsV2AltchaEnable": false,
+    "getCategoryV2AltchaEnable": false,
+    "getRecommendedMerchantsV2AltchaEnable": false,
+    "searchV2AltchaEnable": false,
+    "enablePaySdkScope": false,
+    "enableTyphoonAlert": false,
+    "pastOrderHistory": false,
+    "grabfoodV2Switch": false,
+    "grabfoodV2Rollout": false,
+    "martFoodAppSwitcher": false,
+    "footerAppDownloadBanner": false,
+    "welcomeModal": false
+  },
+  "featuresV2": [
+    "CSPScript",
+    "ISSDeprecateSectionOpenHours",
+    "cancelReason",
+    "cashless",
+    "coolerWebview",
+    "datadogTrackingNonFoodwebServices",
+    "dineInOrderReady",
+    "disableCookieConsentInIFrame",
+    "disableLocationForGuest",
+    "disableRecaptcha",
+    "enableAddCreditCard",
+    "enableBusinessAttributeContent",
+    "enableCheckUA",
+    "enableCityCuisineList",
+    "enableDiffCommissionSTOPayments",
+    "enableGuestEndpoints",
+    "enableGuestRestaurantDetailsV2Endpoint",
+    "enableGuestToken",
+    "enableHermesDaxChat",
+    "enableHybridSSRFetch",
+    "enableLocalProxy",
+    "enablePaySdkScope",
+    "foodInstrumentation",
+    "foodieWrapped",
+    "groupOrderBill",
+    "groupOrderBillV2",
+    "groupOrderShareLink",
+    "hideAlcoholMerchant",
+    "hideTobaccoMerchant",
+    "httpOnlyCountryCookies",
+    "httpOnlyLocationCookies",
+    "httpOnlySessionCookies",
+    "hydraScan",
+    "infiniteScrollRestaurants",
+    "laasPrivacyNotice",
+    "movedLanguageSwitch",
+    "newNotFoundIllustration",
+    "orderTag",
+    "quickAddButton",
+    "ratingPreview",
+    "removeCredentialProps",
+    "scanToOrder",
+    "scheduledOrder",
+    "semanticHeadingRevamp",
+    "sessionCookieConfig",
+    "showPreferredMexLabel",
+    "showPromoList",
+    "showPromoListV2",
+    "splitDisplayAddress",
+    "stampCardHome",
+    "stampcardRedirect",
+    "universalDeeplink",
+    "unsupportedDineIn",
+    "useV2LocationSearch",
+    "webOrdering",
+    "webPImages"
+  ],
+  "clientIP": "82.158.131.79",
+  "geolocation": {
+    "latitude": -6.1767352,
+    "longitude": 106.826504,
+    "address": "Jakarta",
+    "countryCode": "ID",
+    "isAccurate": false,
+    "addressDetail": "",
+    "noteToDriver": "",
+    "city": "",
+    "cityID": 0,
+    "displayAddress": ""
+  },
+  "isWebAccess": true,
+  "session": null,
+  "buildID": "r7QcvLgfvvXwls2thqHJt",
+  "apiKeyBrowser": "41c907e6294e44e1ac566fc57b177d05",
+  "isVerifiedGoogleCrawler": false,
+  "cfCountry": "ID",
+  "datadogConfig": {
+    "applicationId": "aee07f66-530b-4d99-8c70-e6446d47995c",
+    "clientToken": "pub7eefca9007c0dc3d034f89423a4abba5",
+    "RUMSamplingRate": 0.00625
+  },
+  "webViewSession": {},
+  "onelink": {
+    "pid": "other_websites",
+    "c": "direct"
+  }
+}

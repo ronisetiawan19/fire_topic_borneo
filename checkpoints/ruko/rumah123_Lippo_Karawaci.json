@@ -1,0 +1,204 @@
+{
+  "titik": "Lippo Karawaci",
+  "kota": "Tangerang",
+  "sumber": "rumah123",
+  "blocked": null,
+  "ok": true,
+  "total_raw": 40,
+  "total_semua": 40,
+  "listings": [
+    {
+      "judul": "Rumah Bagus Disewa, Funish, Pool",
+      "tipe_properti": "rumah",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 500 Juta",
+      "harga": 500000000,
+      "harga_satuan": "",
+      "luas_tanah": 950,
+      "luas_bangunan": 500,
+      "lantai": null,
+      "alamat": "Lippo Karawaci, Tangerang",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang",
+        "lippo",
+        "karawaci"
+      ],
+      "radius_match": true,
+      "quality": 6,
+      "link": "https://www.rumah123.com/properti/tangerang-lippo-karawaci/rumah-bagus-disewa-funish-pool-hor42289177/"
+    },
+    {
+      "judul": "Kantor + Gudang di Sewakan",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 445 Juta",
+      "harga": 445000000,
+      "harga_satuan": "",
+      "luas_tanah": 155,
+      "luas_bangunan": 411,
+      "lantai": null,
+      "alamat": "Alam Sutera, Tangerang",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/tangerang-alam-sutera/kantor-gudang-di-sewakan-shr10282975/"
+    },
+    {
+      "judul": "Disewakan Ruko 3 Lantai di Suvarna Sutera Tarrace 8 Seberang Pasar 8",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 60 Juta",
+      "harga": 60000000,
+      "harga_satuan": "per tahun",
+      "luas_tanah": 85,
+      "luas_bangunan": 85,
+      "lantai": 3,
+      "alamat": "Suvarna Sutera, Tangerang",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/tangerang-suvarna-sutera/disewakan-ruko-3-lantai-di-suvarna-sutera-tarrace-8-seberang-pasar-8-shr10259100/"
+    },
+    {
+      "judul": "Disewakan Ruko Sorrento Grande East Gading Serpong Tangerang",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 85 Juta",
+      "harga": 85000000,
+      "harga_satuan": "",
+      "luas_tanah": 45,
+      "luas_bangunan": 90,
+      "lantai": 2,
+      "alamat": "Gading Serpong, Tangerang",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/tangerang-gading-serpong/disewakan-ruko-sorrento-grande-east-gading-serpong-tangerang-shr9853651/"
+    },
+    {
+      "judul": "Disewakan Ruko Boulevard Gading Serpong Pinggir Jalan Murah",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 175 Juta",
+      "harga": 175000000,
+      "harga_satuan": "",
+      "luas_tanah": 100,
+      "luas_bangunan": 300,
+      "lantai": 3,
+      "alamat": "Gading Serpong, Tangerang",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/tangerang-gading-serpong/disewakan-ruko-boulevard-gading-serpong-pinggir-jalan-murah-shr10216928/"
+    },
+    {
+      "judul": "Disewakan Ruko Goldfinch North Gading Serpong Tangerang",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 130 Juta",
+      "harga": 130000000,
+      "harga_satuan": "",
+      "luas_tanah": 82,
+      "luas_bangunan": 162,
+      "lantai": 3,
+      "alamat": "Gading Serpong, Tangerang",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/tangerang-gading-serpong/disewakan-ruko-goldfinch-north-gading-serpong-tangerang-shr10133608/"
+    },
+    {
+      "judul": "Sewa Ruko Il Lago Grande Illago Paramount Gading Serpong",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 85 Juta",
+      "harga": 85000000,
+      "harga_satuan": "",
+      "luas_tanah": 45,
+      "luas_bangunan": 90,
+      "lantai": null,
+      "alamat": "Gading Serpong, Tangerang",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/tangerang-gading-serpong/sewa-ruko-il-lago-grande-illago-paramount-gading-serpong-shr9815751/"
+    },
+    {
+      "judul": "Disewakan Ruko Baru Area Sorento Grande Lokasi Strategis Cocok untuk Salon atau Kantor",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 85 Juta",
+      "harga": 85000000,
+      "harga_satuan": "",
+      "luas_tanah": 45,
+      "luas_bangunan": 100,
+      "lantai": null,
+      "alamat": "Gading Serpong, Tangerang",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/tangerang-gading-serpong/disewakan-ruko-baru-area-sorento-grande-lokasi-strategis-cocok-untuk-salon-atau-kantor-shr10172654/"
+    },
+    {
+      "judul": "Disewakan Ruko Baru di Sorrnto. West",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 300 Juta",
+      "harga": 300000000,
+      "harga_satuan": "",
+      "luas_tanah": 90,
+      "luas_bangunan": 201,
+      "lantai": null,
+      "alamat": "Gading Serpong, Tangerang",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/tangerang-gading-serpong/disewakan-ruko-baru-di-sorrnto-west-shr9922586/"
+    },
+    {
+      "judul": "Satu Satunya Business Loft Ready Stock! Weston Lane Alam Sutera! Kawasan Terbaik untuk Bisnis",
+      "tipe_properti": "ruko",
+      "sumber": "rumah123",
+      "harga_raw": "Rp 495 Juta",
+      "harga": 495000000,
+      "harga_satuan": "",
+      "luas_tanah": 144,
+      "luas_bangunan": 485,
+      "lantai": null,
+      "alamat": "Alam Sutera, Tangerang",
+      "tanggal_listing": "",
+      "radius_keywords": [
+        "tangerang"
+      ],
+      "radius_match": true,
+      "quality": 4,
+      "link": "https://www.rumah123.com/properti/tangerang-alam-sutera/satu-satunya-business-loft-ready-stock-weston-lane-alam-sutera-kawasan-terbaik-untuk-bisnis-shr9958128/"
+    }
+  ],
+  "scraped_at": "2026-09-14T13:00:07.056Z"
+}
