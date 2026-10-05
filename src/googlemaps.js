@@ -1,4 +1,4 @@
-
+#!/usr/bin/env bun
 program
   .name("gm")
   .description("Google Maps scraper")
@@ -10,7 +10,6 @@ program
   .option("--sort <newest|oldest|relevance>", "review sort order", "newest")
   .option("--since <YYYY-MM-DD>", "only reviews after this date")
   .option("--until <YYYY-MM-DD>", "only reviews before this date");
-
 program
   .command("search")
   .description("Search Google Maps for places and scrape reviews")
@@ -31,7 +30,6 @@ program
       sort: options.sort || "newest",
     });
   });
-
 program
   .command("url")
   .description("Collect reviews from one or more Google Maps URLs/places/search links")
@@ -58,5 +56,4 @@ program
       sort: options.sort || "newest",
     });
   });
-
 program.parse();
