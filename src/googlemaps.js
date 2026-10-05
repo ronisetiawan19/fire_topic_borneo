@@ -4,7 +4,7 @@ program
   .name("gm")
   .description("Google Maps scraper")
   .version("1.0.0")
-  .option("-o, --output <path>", "output directory", PLATFORM_OUTPUT)
+  .option("-o, --output <path>", "output directory", "output/googlemaps")
   .option("--format <csv|json>", "output format", "json")
   .option("--headless <true|false>", "run headless", "true")
   .option("--max-reviews <n>", "max reviews per place (0 = all)", String(DEFAULT_MAX_REVIEWS))
@@ -19,7 +19,7 @@ program
     const options = program.opts();
     const maxReviews = Number(options.maxReviews ?? DEFAULT_MAX_REVIEWS);
     const outputFormat = options.format || "json";
-    const output = options.output || PLATFORM_OUTPUT;
+    const output = options.output || "output/googlemaps";
     return searchFlow({
       queries,
       output,
@@ -41,7 +41,7 @@ program
     const options = program.opts();
     const maxReviews = Number(options.maxReviews ?? DEFAULT_MAX_REVIEWS);
     const outputFormat = options.format || "json";
-    const output = options.output || PLATFORM_OUTPUT;
+    const output = options.output || "output/googlemaps";
     const { allUrls } = await collectUrlInputs({
       positional: urlsArg || [],
       file: opts.file,
